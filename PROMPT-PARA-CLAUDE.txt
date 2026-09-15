@@ -1,0 +1,17 @@
+Você está trabalhando no projeto “Achou Oferta”, um site brasileiro de curadoria de ofertas com links de afiliado.
+
+Leia primeiro o arquivo CLAUDE-INSTRUCOES.md e revise a estrutura atual do projeto antes de alterar qualquer coisa.
+
+Quero usar Claude in Chrome junto com Claude Code para este fluxo:
+1. Navegar na minha Central de Afiliados do Mercado Livre, já autenticada por mim no navegador.
+2. Pesquisar produtos nas categorias Casa e eletrodomésticos, TVs, Celulares, Tênis e Moda fitness.
+3. Priorizar produtos com boa reputação, boas avaliações, volume de vendas relevante e preço competitivo, usando apenas dados realmente visíveis.
+4. Gerar/copiar o link de afiliado correto de cada produto.
+5. Adicionar as ofertas ao arquivo products.js do projeto, com nome, categoria, loja, preço, eventual preço anterior, imagem, link de afiliado, destaque e data.
+6. Não inventar nenhuma informação que não esteja disponível.
+7. Não fazer compras, não mudar dados da minha conta e não executar ações financeiras.
+8. Antes de publicar, verificar se cada botão leva ao produto correto e se o site continua responsivo.
+9. Manter o aviso de transparência sobre links de afiliado.
+10. Mostre um resumo do que foi alterado antes de fazer qualquer deploy.
+
+Comece revisando os arquivos do projeto. Depois faça um teste com apenas 3 produtos da categoria Casa e eletrodomésticos. Não altere 50 produtos de uma vez na primeira execução.

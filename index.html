@@ -1,0 +1,180 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <meta name="description" content="Achou Oferta — seleção de produtos e promoções em lojas parceiras." />
+  <title>Achou Oferta | Promoções selecionadas</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div id="constructionBanner" class="construction-banner" hidden>
+    <div class="container banner-inner">
+      <span class="banner-tag">Em construção</span>
+      <span id="bannerMessage" class="banner-message"></span>
+    </div>
+  </div>
+
+  <header class="topbar">
+    <div class="container nav-wrap">
+      <a class="brand" href="#top" aria-label="Achou Oferta">
+        <span class="brand-mark" aria-hidden="true">
+          <svg width="40" height="40" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <circle cx="20" cy="20" r="13" stroke="#002776" stroke-width="4"/>
+            <line x1="29.5" y1="29.5" x2="41" y2="41" stroke="#002776" stroke-width="5" stroke-linecap="round"/>
+            <rect x="12.5" y="13" width="13" height="13" rx="3.5" transform="rotate(-18 12.5 13)" fill="#FFCC00"/>
+            <circle cx="16.3" cy="15.8" r="1.4" fill="#fff"/>
+          </svg>
+        </span>
+        <span class="brand-text">
+          <strong class="brand-achou">Achou</strong>
+          <strong class="brand-oferta">Oferta</strong>
+        </span>
+      </a>
+
+      <div class="header-search" role="search">
+        <input id="searchInput" type="search" placeholder="O que você está procurando?" autocomplete="off" />
+        <button id="clearSearch" class="clear-search" aria-label="Limpar busca">×</button>
+        <button class="header-search-btn" type="button" aria-label="Buscar">⌕</button>
+      </div>
+
+      <a class="how-it-works" href="#como-funciona">Como funciona ↗</a>
+    </div>
+
+    <nav class="container category-nav" id="categoryNav" aria-label="Categorias">
+      <button class="quick-filter cat-all" data-category="Todos">☰ Todas as categorias</button>
+      <button class="quick-filter" data-category="Celulares">Celulares</button>
+      <button class="quick-filter" data-category="Tênis">Tênis</button>
+      <button class="quick-filter" data-category="TVs">TVs</button>
+      <button class="quick-filter" data-category="Livros">Livros</button>
+      <button class="quick-filter" data-category="Moda">Moda</button>
+      <button class="quick-filter" data-category="Eletrônicos">Eletrônicos</button>
+      <button class="quick-filter" data-category="Casa e eletrodomésticos">Casa e eletrodomésticos</button>
+    </nav>
+  </header>
+
+  <main id="top">
+    <section class="hero">
+      <div class="container hero-inner">
+        <div class="hero-grid">
+          <div class="hero-copy">
+            <div class="eyebrow">Boas descobertas, todos os dias</div>
+            <h1>A gente procura.<br>Você <span class="accent">economiza</span>.</h1>
+            <p>Do que você precisa ao que você sempre quis. Encontre tudo em um só lugar.</p>
+            <a class="cta-btn" href="#ofertas">Explorar produtos ↗</a>
+          </div>
+
+          <div class="hero-visual" aria-hidden="true">
+            <div class="hero-badge">Mais dinheiro<br>no bolso</div>
+            <div class="hero-photo-card">
+              <div class="hero-photo-emoji">👟</div>
+              <div class="hero-photo-caption">Tecnologia, moda, livros e muito mais.</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="categorias" class="section compact-section">
+      <div class="container">
+        <div class="section-heading row-heading">
+          <div>
+            <span class="eyebrow dark">Navegue por categoria</span>
+            <h2>O que você procura hoje?</h2>
+          </div>
+        </div>
+        <div id="categoryGrid" class="category-grid"></div>
+      </div>
+    </section>
+
+    <section id="ofertas" class="section products-section">
+      <div class="container">
+        <div class="section-heading row-heading">
+          <div>
+            <span class="eyebrow dark">Seleção atualizada</span>
+            <h2>Ofertas em destaque</h2>
+          </div>
+          <div class="results-meta"><span id="resultsCount">0</span> produtos</div>
+        </div>
+
+        <div class="toolbar">
+          <div id="filterChips" class="filter-chips"></div>
+          <select id="sortSelect" aria-label="Ordenar produtos">
+            <option value="featured">Destaques</option>
+            <option value="price-asc">Menor preço</option>
+            <option value="price-desc">Maior preço</option>
+            <option value="discount">Maior desconto</option>
+            <option value="newest">Mais recentes</option>
+          </select>
+        </div>
+
+        <div id="productGrid" class="product-grid"></div>
+        <div id="emptyState" class="empty-state" hidden>
+          <div>🔎</div>
+          <h3>Nenhuma oferta encontrada</h3>
+          <p>Tente outro termo ou escolha uma categoria diferente.</p>
+        </div>
+      </div>
+    </section>
+
+    <section id="como-funciona" class="section how-section">
+      <div class="container">
+        <div class="section-heading centered">
+          <span class="eyebrow dark">Simples e transparente</span>
+          <h2>Como funciona</h2>
+          <p>Aqui você encontra a oferta. A compra acontece diretamente na loja parceira.</p>
+        </div>
+
+        <div class="steps-grid">
+          <article class="step-card">
+            <div class="step-number">1</div>
+            <h3>Você encontra</h3>
+            <p>Busque um produto ou navegue pelas categorias.</p>
+          </article>
+          <article class="step-card">
+            <div class="step-number">2</div>
+            <h3>Confere a oferta</h3>
+            <p>Veja preço, loja parceira e informações principais.</p>
+          </article>
+          <article class="step-card">
+            <div class="step-number">3</div>
+            <h3>Compra na loja</h3>
+            <p>Ao clicar, você é direcionado à página oficial do vendedor.</p>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section class="section disclosure-section">
+      <div class="container disclosure-card">
+        <div class="disclosure-icon">i</div>
+        <div>
+          <h3>Transparência</h3>
+          <p>Este site pode participar de programas de afiliados e receber comissão por compras realizadas por meio de alguns links, sem custo adicional para você. Preços, estoque, frete, garantia e condições de pagamento são de responsabilidade da loja parceira e podem mudar a qualquer momento.</p>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="container footer-grid">
+      <div>
+        <div class="brand footer-brand"><span class="brand-mark">A</span><span>Achou <strong>Oferta</strong></span></div>
+        <p>Um jeito mais simples de encontrar boas oportunidades online.</p>
+      </div>
+      <div class="footer-links">
+        <a href="#ofertas">Ofertas</a>
+        <a href="#categorias">Categorias</a>
+        <a href="admin.html">Painel</a>
+      </div>
+    </div>
+    <div class="container footer-bottom">© <span id="year"></span> Achou Oferta. Todos os direitos reservados.</div>
+  </footer>
+
+  <script src="products.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
