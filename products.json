@@ -278,5 +278,455 @@
     "oldPrice": 149.90,
     "image": "https://http2.mlstatic.com/D_Q_NP_2X_953460-MLB108170752070_032026-AB.webp",
     "link": "https://meli.la/2eds7wB"
+  },
+  {
+    "id": "shopee-livro-100-primeiras-palavras",
+    "name": "Minhas 100 primeiras palavras | Aprendizado com muita diversão",
+    "category": "Livros",
+    "store": "Shopee",
+    "price": 14.99,
+    "image": "https://down-bs-br.img.susercontent.com/sg-11134201-7rdw9-m160v7qrh41081.webp",
+    "link": "https://s.shopee.com.br/4LJQ3a8QfH"
+  },
+  {
+    "id": "shopee-livro-infantil-falante-bilingue",
+    "name": "Livro Infantil Falante Bilíngue Português/Inglês Educativo Interativo com Som",
+    "category": "Livros",
+    "store": "Shopee",
+    "price": 38.21,
+    "image": "https://down-bs-br.img.susercontent.com/br-11134207-820lc-mscge5xo2rk7e9.webp",
+    "link": "https://s.shopee.com.br/3VkJ43BbM8"
+  },
+  {
+    "id": "shopee-livro-365-habitos-poderosos",
+    "name": "365 Hábitos Simples e Poderosos",
+    "category": "Livros",
+    "store": "Shopee",
+    "price": 21.57,
+    "image": "https://down-bs-br.img.susercontent.com/sg-11134201-7rdw1-m16074d6ryce26.webp",
+    "link": "https://s.shopee.com.br/3LQsrkCEh7"
+  },
+  {
+    "id": "shopee-livro-interativo-som-bilingue",
+    "name": "Livro Interativo com Som Bilíngue Português-Inglês Educacional",
+    "category": "Livros",
+    "store": "Shopee",
+    "price": 38.90,
+    "image": "https://down-bs-br.img.susercontent.com/br-11134207-820lg-msns4d9vp6h15b.webp",
+    "link": "https://s.shopee.com.br/3qN9SfAKgE"
+  },
+  {
+    "id": "shopee-livro-pequeno-principe-luxo",
+    "name": "O Pequeno Príncipe - Edição de Luxo Almofadada",
+    "category": "Livros",
+    "store": "Shopee",
+    "price": 14.90,
+    "image": "https://down-bs-br.img.susercontent.com/br-11134207-81z1k-mhm2ue90yxvm96.webp",
+    "link": "https://s.shopee.com.br/3g3jGMAy1D"
+  },
+  {
+    "id": "shopee-livro-mulheres-com-deus-devocional",
+    "name": "Mulheres com Deus - 365 Dias de Fé - Devocional",
+    "category": "Livros",
+    "store": "Shopee",
+    "price": 17.94,
+    "image": "https://down-bs-br.img.susercontent.com/sg-11134201-7rdxz-mc9mb2wz7xjld0.webp",
+    "link": "https://s.shopee.com.br/2qUcGpE8i4"
+  },
+  {
+    "id": "shopee-livro-colorir-cozy-time",
+    "name": "Livro de Colorir Cozy Time Ilustrações Exclusivas 48 Páginas",
+    "category": "Livros",
+    "store": "Shopee",
+    "price": 24.90,
+    "image": "https://down-bs-br.img.susercontent.com/br-11134207-820mf-mr0jkpdouxae52.webp",
+    "link": "https://s.shopee.com.br/2gBC4WEm33"
+  },
+  {
+    "id": "shopee-livro-poder-do-autocontrole",
+    "name": "O Poder do Autocontrole: A Chave para a Grandeza Pessoal",
+    "category": "Livros",
+    "store": "Shopee",
+    "price": 12.16,
+    "image": "https://down-bs-br.img.susercontent.com/sg-11134201-8224t-mhjcw6845n284a.webp",
+    "link": "https://s.shopee.com.br/3B7SfRCs2A"
+  },
+  {
+    "id": "shopee-livro-primeira-biblioteca-box10",
+    "name": "Coleção Primeira Biblioteca Volume 01 - Box com 10 Livrinhos",
+    "category": "Livros",
+    "store": "Shopee",
+    "price": 40.74,
+    "image": "https://down-bs-br.img.susercontent.com/sg-11134201-7rccq-m68eag264wcg7a.webp",
+    "link": "https://s.shopee.com.br/30o2T8DVN9"
+  },
+  {
+    "id": "shopee-livro-365-dias-amor-com-deus",
+    "name": "365 Dias Amor com Deus - Devocional",
+    "category": "Livros",
+    "store": "Shopee",
+    "price": 17.78,
+    "image": "https://down-bs-br.img.susercontent.com/br-11134207-7r98o-m1ztnbj51scxa7.webp",
+    "link": "https://s.shopee.com.br/2BEvTbGg40"
+  },
+  {
+    "id": "shopee-celular-moto-g06-128gb",
+    "name": "Smartphone Motorola Moto g06 - 128GB 12GB (4GB RAM + 8GB Ram Boost) e Camera 50MP Bateria de 5200mAh",
+    "category": "Celulares",
+    "store": "Shopee",
+    "price": 786.76,
+    "image": "https://down-bs-br.img.susercontent.com/sg-11134201-821g3-mgzq4fbjcs20e1.webp",
+    "link": "https://s.shopee.com.br/50Z6r7TDk4"
+  },
+  {
+    "id": "shopee-celular-moto-g17-4g-128gb",
+    "name": "Smartphone Motorola Moto G17 4G - 128GB 12GB (4GB RAM + 8GB RAM Boost) camera 50MP Sony Lytia 600",
+    "category": "Celulares",
+    "store": "Shopee",
+    "price": 894.78,
+    "image": "https://down-bs-br.img.susercontent.com/sg-11134201-8262x-mkws1i0b9f5v03.webp",
+    "link": "https://s.shopee.com.br/5AsX3QSaP7"
+  },
+  {
+    "id": "shopee-celular-realme-note-50-60-60x",
+    "name": "Smartphone Realme Note 50 60 60X 256/4GB 128GB/4GB 64/3GB - 1 Ano de Garantia Original Lacrado",
+    "category": "Celulares",
+    "store": "Shopee",
+    "price": 789.00,
+    "image": "https://down-bs-br.img.susercontent.com/br-11134207-820mg-mna33a49zpc083.webp",
+    "link": "https://s.shopee.com.br/4fwGSVUUQ2"
+  },
+  {
+    "id": "shopee-celular-galaxy-a17-128gb-cinza",
+    "name": "Smartphone Samsung Galaxy A17, 4G, 128GB, 4GB RAM Cinza SM-A175F/DS",
+    "category": "Celulares",
+    "store": "Shopee",
+    "price": 929.00,
+    "image": "https://down-bs-br.img.susercontent.com/br-11134207-820m5-msbmb9offax37f.webp",
+    "link": "https://s.shopee.com.br/4qFgeoTr55"
+  },
+  {
+    "id": "shopee-celular-moto-g86-5g-256gb",
+    "name": "Smartphone Motorola Moto g86 5G - 256GB, 8GB RAM+16GB Ram Boost 50MP Sony camera OIS Moto AI",
+    "category": "Celulares",
+    "store": "Shopee",
+    "price": 1776.67,
+    "image": "https://down-bs-br.img.susercontent.com/sg-11134201-821gc-mgp752kbcjdad3.webp",
+    "link": "https://s.shopee.com.br/6Al4FGOmNC"
+  },
+  {
+    "id": "shopee-celular-galaxy-a17-256gb-tripla",
+    "name": "Smartphone A17 256GB 8GB RAM 4G Câmera Tripla Traseira 50 MP Samsung",
+    "category": "Celulares",
+    "store": "Shopee",
+    "price": 1299.90,
+    "image": "https://down-bs-br.img.susercontent.com/sg-11134201-82274-mhkhgrof6brabd.webp",
+    "link": "https://s.shopee.com.br/60Re2xPPiB"
+  },
+  {
+    "id": "shopee-celular-xiaomi-poco-c85-256gb",
+    "name": "Smartphone Xiaomi POCO C85 256GB 8GB Global Version Original Sealed, 6.9\" LCD Screen",
+    "category": "Celulares",
+    "store": "Shopee",
+    "price": 1045.00,
+    "image": "https://down-bs-br.img.susercontent.com/br-11134207-820ld-moppofluqcjp03.webp",
+    "link": "https://s.shopee.com.br/4LJQ3tVl5s"
+  },
+  {
+    "id": "shopee-celular-moto-g06-4g-256gb-bege",
+    "name": "Smartphone Motorola Moto G06 4G 256GB 4GB RAM Câmera Traseira 50MP + Câmera Frontal 8MP Tela de 6,9\" 5200 mAh - Bege",
+    "category": "Celulares",
+    "store": "Shopee",
+    "price": 869.00,
+    "image": "https://down-bs-br.img.susercontent.com/sg-11134201-8260n-mkjj2alrvkec32.webp",
+    "link": "https://s.shopee.com.br/4VcqGCV7kv"
+  },
+  {
+    "id": "shopee-celular-moto-g47-5g-128gb-grafite",
+    "name": "Smartphone Moto G47 5G 128GB Motorola - Grafite",
+    "category": "Celulares",
+    "store": "Shopee",
+    "price": 1443.32,
+    "image": "https://down-bs-br.img.susercontent.com/sg-11134201-825al-mq7zpd51ph4xe5.webp",
+    "link": "https://s.shopee.com.br/40gZfHX1lq"
+  },
+  {
+    "id": "shopee-celular-moto-g17-256gb",
+    "name": "Smartphone G17 Tela 6,7 Polegadas 256GB 4G Câmera 50MP Motorola",
+    "category": "Celulares",
+    "store": "Shopee",
+    "price": 1387.78,
+    "image": "https://down-bs-br.img.susercontent.com/sg-11134201-82603-mlged3it5bt43e.webp",
+    "link": "https://s.shopee.com.br/4AzzraWOQt"
+  },
+  {
+    "id": "shopee-tv-hq-32-android",
+    "name": "Smart TV HQ 32\" HD tela sem Bordas Sistema Android Design Slim HQS32NKHM",
+    "category": "TVs",
+    "store": "Shopee",
+    "price": 977.17,
+    "image": "https://down-bs-br.img.susercontent.com/sg-11134201-7ratl-mb4317s4tber51.webp",
+    "link": "https://s.shopee.com.br/8AW8dQZukD"
+  },
+  {
+    "id": "shopee-tv-philco-43-qled-roku",
+    "name": "Smart TV 43\" Philco QLED HDR10 Roku TV P43KRB",
+    "category": "TVs",
+    "store": "Shopee",
+    "price": 2209.90,
+    "image": "https://down-bs-br.img.susercontent.com/sg-11134201-82594-mt5ouyoyymfc3e.webp",
+    "link": "https://s.shopee.com.br/8KpYpjZHPG"
+  },
+  {
+    "id": "shopee-tv-hq-40-android12",
+    "name": "Smart TV HQ 40\" Full HD tela sem bordas Android 12 design Slim HQS40NKHM",
+    "category": "TVs",
+    "store": "Shopee",
+    "price": 1346.74,
+    "image": "https://down-bs-br.img.susercontent.com/sg-11134201-825ai-mftv8bdouqywd8.webp",
+    "link": "https://s.shopee.com.br/8V8z22Ye4J"
+  },
+  {
+    "id": "shopee-tv-hq-qled-50",
+    "name": "Smart TV HQ QLED 50 Polegadas HQ-QLED50SM 4K Wi-Fi Bluetooth, Dolby Audio, Apps, Netflix, YouTube e Prime Video, 3 HDMI",
+    "category": "TVs",
+    "store": "Shopee",
+    "price": 2009.78,
+    "image": "https://down-bs-br.img.susercontent.com/sg-11134201-823ps-moobpaxang995c.webp",
+    "link": "https://s.shopee.com.br/AKadDPRfLa"
+  },
+  {
+    "id": "shopee-tv-philco-50-roku",
+    "name": "SMART TV PHILCO 50 POLEGADAS 4K ROKU P50CRB QUAD CORE",
+    "category": "TVs",
+    "store": "Shopee",
+    "price": 2159.90,
+    "image": "https://down-bs-br.img.susercontent.com/sg-11134201-8257z-msacz9wmwuf7e2.webp",
+    "link": "https://s.shopee.com.br/AUu3PiR20d"
+  },
+  {
+    "id": "shopee-tv-aoc-50-roku",
+    "name": "Smart TV AOC DLED 50 Polegadas 4k WI-FI Roku TV 50U7045/78G",
+    "category": "TVs",
+    "store": "Shopee",
+    "price": 2381.90,
+    "image": "https://down-bs-br.img.susercontent.com/sg-11134201-82629-mlxvdyuun9xcbd.webp",
+    "link": "https://s.shopee.com.br/80CiR7aY5A"
+  },
+  {
+    "id": "shopee-tv-hq-qled-55",
+    "name": "Smart TV HQ QLED 55 Polegadas HQ-QLED55SM 4K Wi-Fi Bluetooth, Apps, Netflix, YouTube e Prime Vídeo",
+    "category": "TVs",
+    "store": "Shopee",
+    "price": 2455.43,
+    "image": "https://down-bs-br.img.susercontent.com/br-11134207-820ln-mo8ddxmj9csib1.webp",
+    "link": "https://s.shopee.com.br/AAHD16SIgX"
+  },
+  {
+    "id": "shopee-tv-xion-32",
+    "name": "TV LED HD smart 32 polegadas XION RÁPIDA E COMPLETA /YouTube/HDMI/Netflix/Wifi outros",
+    "category": "TVs",
+    "store": "Shopee",
+    "price": 959.00,
+    "image": "https://down-bs-br.img.susercontent.com/br-11134207-820lo-mmhmryziwv7k7a.webp",
+    "link": "https://s.shopee.com.br/9peMcUTZMR"
+  },
+  {
+    "id": "shopee-tv-aoc-32-roku",
+    "name": "Smart TV LED HD 32 Polegadas AOC - Sistema Roku, Wi-Fi, HDMI, Design Ultracurto",
+    "category": "TVs",
+    "store": "Shopee",
+    "price": 1027.90,
+    "image": "https://down-bs-br.img.susercontent.com/br-11134207-820le-mris9yop4z5zd5.webp",
+    "link": "https://s.shopee.com.br/9zxmonSw1U"
+  },
+  {
+    "id": "shopee-tv-philips-65-4k",
+    "name": "Smart TV 65 polegadas 4K Philips 65PUG7419/78 Google TV Comando de Voz Dolby Atmos",
+    "category": "TVs",
+    "store": "Shopee",
+    "price": 3645.75,
+    "image": "https://down-bs-br.img.susercontent.com/sg-11134201-825bc-msl8h85j2znl30.webp",
+    "link": "https://s.shopee.com.br/4fwGSmfI2z"
+  },
+  {
+    "id": "shopee-liquidificador-mondial-l99-turbo",
+    "name": "Liquidificador Mondial L‑99 Turbo 550 W 3 Velocidades",
+    "category": "Casa e eletrodomésticos",
+    "store": "Shopee",
+    "price": 101.99,
+    "image": "https://down-bs-br.img.susercontent.com/br-11134207-7r98o-mc83lzgst4gw71.webp",
+    "link": "https://s.shopee.com.br/4VcqHCjTFc"
+  },
+  {
+    "id": "shopee-liquidificador-britania-blqe01",
+    "name": "Liquidificador Britânia BLQE01 2 copos 2,6L 900W",
+    "category": "Casa e eletrodomésticos",
+    "store": "Shopee",
+    "price": 119.90,
+    "image": "https://down-bs-br.img.susercontent.com/sg-11134201-8259y-mt5nuxi6qx3cfa.webp",
+    "link": "https://s.shopee.com.br/4LJQ4tk6ab"
+  },
+  {
+    "id": "shopee-ferro-blackdecker-vfa1110tm2",
+    "name": "Ferro de Passar Roupa a Seco BLACK+DECKER VFA1110TM2 Preto 110V",
+    "category": "Casa e eletrodomésticos",
+    "store": "Shopee",
+    "price": 129.00,
+    "image": "https://down-bs-br.img.susercontent.com/sg-11134201-824gh-mpsdxv2cwbv06a.webp",
+    "link": "https://s.shopee.com.br/4Azzsakjva"
+  },
+  {
+    "id": "shopee-aspirador-britania-bas1200c",
+    "name": "Aspirador de Pó Vertical Britânia 2 em 1 1200W BAS1200C",
+    "category": "Casa e eletrodomésticos",
+    "store": "Shopee",
+    "price": 159.90,
+    "image": "https://down-bs-br.img.susercontent.com/sg-11134201-825ak-mt5nvcxiicy203.webp",
+    "link": "https://s.shopee.com.br/40gZgHlNGZ"
+  },
+  {
+    "id": "shopee-sanduicheira-britania-bgre01",
+    "name": "Sanduicheira e Grill Britânia 2 em 1 750W BGRE01",
+    "category": "Casa e eletrodomésticos",
+    "store": "Shopee",
+    "price": 89.90,
+    "image": "https://down-bs-br.img.susercontent.com/sg-11134201-825b4-mt5nuymp51j5de.webp",
+    "link": "https://s.shopee.com.br/3qN9Tym0bY"
+  },
+  {
+    "id": "shopee-batedeira-britania-500w",
+    "name": "Batedeira Britânia 500W 4 velocidades Turbo Preto Pérola 550",
+    "category": "Casa e eletrodomésticos",
+    "store": "Shopee",
+    "price": 109.90,
+    "image": "https://down-bs-br.img.susercontent.com/sg-11134201-82584-mt6qxwxco0eebe.webp",
+    "link": "https://s.shopee.com.br/3g3jHfmdwX"
+  },
+  {
+    "id": "shopee-ventilador-britania-bvt400",
+    "name": "Ventilador de Mesa Britânia 40cm BVT400 150W Preto",
+    "category": "Casa e eletrodomésticos",
+    "store": "Shopee",
+    "price": 130.41,
+    "image": "https://down-bs-br.img.susercontent.com/sg-11134201-7rd5x-lxa1ibkb2xye83.webp",
+    "link": "https://s.shopee.com.br/3VkJ5MnHHW"
+  },
+  {
+    "id": "shopee-torradeira-electrolux-ets10",
+    "name": "Torradeira Elétrica Electrolux Inox Preta Efficient com 8 Níveis de Tostagem (ETS10)",
+    "category": "Casa e eletrodomésticos",
+    "store": "Shopee",
+    "price": 159.90,
+    "image": "https://down-bs-br.img.susercontent.com/sg-11134201-7rfi1-m9yigvqshztbc4.webp",
+    "link": "https://s.shopee.com.br/3LQst3nucV"
+  },
+  {
+    "id": "shopee-chaleira-eletrica-inox",
+    "name": "Chaleira Elétrica Jarra Café Chá Inox 110v",
+    "category": "Casa e eletrodomésticos",
+    "store": "Shopee",
+    "price": 43.90,
+    "image": "https://down-bs-br.img.susercontent.com/br-11134207-820m9-mr7oweocldl204.webp",
+    "link": "https://s.shopee.com.br/3B7SgkoXxU"
+  },
+  {
+    "id": "shopee-panela-pressao-eletrica-philco-4l",
+    "name": "Panela de Pressão Elétrica Philco 4L 14 funções PPPE04A",
+    "category": "Casa e eletrodomésticos",
+    "store": "Shopee",
+    "price": 379.89,
+    "image": "https://down-bs-br.img.susercontent.com/sg-11134201-825b7-mt6nnfitdekqe6.webp",
+    "link": "https://s.shopee.com.br/30o2URpBIT"
+  },
+  {
+    "id": "shopee-notebook-lenovo-thinkpad-t14-i5",
+    "name": "Notebook Lenovo Core I5 10ª Geração Thinkpad T14 8GB/16GB Memória ram e 256GB SSD - Recondicionado",
+    "category": "Notebooks",
+    "store": "Shopee",
+    "price": 2399.00,
+    "image": "https://down-bs-br.img.susercontent.com/br-11134207-81ztu-mkl4ona0bh8g75.webp",
+    "link": "https://s.shopee.com.br/80CiRwBXz3"
+  },
+  {
+    "id": "shopee-notebook-lenovo-ideapad-slim3-15iru10",
+    "name": "Notebook Lenovo IdeaPad Slim 3 15IRU10 Intel Core 3 100U 8GB 512GB SSD Windows 11 15.3\" - 83NU0006BR",
+    "category": "Notebooks",
+    "store": "Shopee",
+    "price": 3639.90,
+    "image": "https://down-bs-br.img.susercontent.com/br-11134207-820m0-mq837n5o4ykg7d.webp",
+    "link": "https://s.shopee.com.br/8V8z2r9dyA"
+  },
+  {
+    "id": "shopee-notebook-lenovo-thinkpad-t495-ryzen5",
+    "name": "Notebook Lenovo Thinkpad T495 Ryzen 5 Pro Ram 8gb Ssd 256gb",
+    "category": "Notebooks",
+    "store": "Shopee",
+    "price": 2099.30,
+    "image": "https://down-bs-br.img.susercontent.com/br-11134207-81z1k-mh6m0eebim851e.webp",
+    "link": "https://s.shopee.com.br/8KpYqYAHJ9"
+  },
+  {
+    "id": "shopee-notebook-dell-latitude-i5-recond",
+    "name": "Notebook Dell Core i5 Latitude 16GB RAM 240GB SSD - RECONDICIONADO",
+    "category": "Notebooks",
+    "store": "Shopee",
+    "price": 1799.00,
+    "image": "https://down-bs-br.img.susercontent.com/br-11134207-81zun-mkzsb03tv1tu88.webp",
+    "link": "https://s.shopee.com.br/AAHD1v3IaW"
+  },
+  {
+    "id": "shopee-notebook-dell-latitude-5490-office",
+    "name": "Notebook Dell Latitude 5490 Preto Core i5 8ª Ger 16GB SSD 256GB Win 10 Pro + Office (Recondicionado)",
+    "category": "Notebooks",
+    "store": "Shopee",
+    "price": 2099.00,
+    "image": "https://down-bs-br.img.susercontent.com/br-11134207-820mg-mpquirey93i87c.webp",
+    "link": "https://s.shopee.com.br/9zxmpc3vvV"
+  },
+  {
+    "id": "shopee-notebook-samsung-book-i3-1tb",
+    "name": "Notebook Samsung Book NP550XDA-KV3BR Intel Core i3 15,6\" HD 1 TB 4GB RAM Windows 11",
+    "category": "Notebooks",
+    "store": "Shopee",
+    "price": 2590.00,
+    "image": "https://down-bs-br.img.susercontent.com/br-11134207-7r98o-lu2as65mgaxxab.webp",
+    "link": "https://s.shopee.com.br/AUu3QX21uc"
+  },
+  {
+    "id": "shopee-notebook-asus-vivobook-s14-oled-ultra7",
+    "name": "Notebook ASUS Vivobook S14 OLED S5406SA Intel Core Ultra 7 256V 16Gb Ram 512Gb SSD Win11 Home 14\" FHD 120Hz Blue -PP218W",
+    "category": "Notebooks",
+    "store": "Shopee",
+    "price": 6399.00,
+    "image": "https://down-bs-br.img.susercontent.com/sg-11134201-821e0-mggn7soti58vb2.webp",
+    "link": "https://s.shopee.com.br/AKadEE2fFb"
+  },
+  {
+    "id": "shopee-notebook-asus-vivobook-go15-e510ka",
+    "name": "Notebook ASUS Vivobook Go 15 E510KA Intel Celeron Dual Core N4500 4GB Ram 128GB EMMC W11 - BR833WS",
+    "category": "Notebooks",
+    "store": "Shopee",
+    "price": 2599.00,
+    "image": "https://down-bs-br.img.susercontent.com/sg-11134201-8258r-mg89fn2a4ljcb0.webp",
+    "link": "https://s.shopee.com.br/9V1WEh5pwS"
+  },
+  {
+    "id": "shopee-notebook-asus-vivobook-go15-e510",
+    "name": "Notebook Asus Vivobook Go 15 E510 intel 128GB tela 15.6\" Windows 11",
+    "category": "Notebooks",
+    "store": "Shopee",
+    "price": 2499.00,
+    "image": "https://down-bs-br.img.susercontent.com/br-11134207-820m2-mrhh97hr7nyd6a.webp",
+    "link": "https://s.shopee.com.br/9Ki62O6THR"
+  },
+  {
+    "id": "shopee-notebook-asus-vivobook-go-e1504ga-i3",
+    "name": "Notebook ASUS Vivobook Go E1504GA Intel Core i3 N305 4GB Ram 256GB SSD Linux Tela 15,6\" FHD - NJ447",
+    "category": "Notebooks",
+    "store": "Shopee",
+    "price": 3399.00,
+    "image": "https://down-bs-br.img.susercontent.com/sg-11134201-82598-mg89jk7l0fm506.webp",
+    "link": "https://s.shopee.com.br/9peMdJ4ZGY"
   }
 ]
