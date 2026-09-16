@@ -1,6 +1,5 @@
 (() => {
   const baseProducts = Array.isArray(window.ACHOU_PRODUCTS) ? window.ACHOU_PRODUCTS : [];
-  const coupons = Array.isArray(window.ACHOU_COUPONS) ? window.ACHOU_COUPONS : [];
   const localProducts = (() => {
     try {
       const raw = localStorage.getItem('achouOfertaProducts');
@@ -17,7 +16,6 @@
 
   const $ = (id) => document.getElementById(id);
   const productGrid = $('productGrid');
-  const couponGrid = $('couponGrid');
   const categoryGrid = $('categoryGrid');
   const filterChips = $('filterChips');
   const resultsCount = $('resultsCount');
@@ -85,29 +83,6 @@
       return `<img src="${escapeHtml(p.image)}" alt="${escapeHtml(p.name)}" loading="lazy">`;
     }
     return `<div class="product-emoji" aria-hidden="true">${escapeHtml(p.emoji || '🛍️')}</div>`;
-  }
-
-  function renderCoupons() {
-    if (!couponGrid) return;
-    const today = new Date().toISOString().slice(0, 10);
-    const active = coupons.filter(c => !c.validUntil || c.validUntil >= today);
-    if (!active.length) {
-      couponGrid.closest('.section')?.setAttribute('hidden', '');
-      return;
-    }
-    couponGrid.innerHTML = active.map(c => {
-      const until = c.validUntil ? new Date(`${c.validUntil}T00:00:00`).toLocaleDateString('pt-BR') : '';
-      const minPurchase = c.minPurchase ? `Compra mínima ${money(c.minPurchase)}` : '';
-      const terms = [minPurchase, until ? `Válido até ${until}` : ''].filter(Boolean).join(' · ');
-      return `
-        <article class="coupon-card">
-          <span class="coupon-store">${escapeHtml(c.store)}${c.seller ? ' · ' + escapeHtml(c.seller) : ''}</span>
-          <span class="coupon-value">${escapeHtml(c.discountLabel)}</span>
-          <span class="coupon-desc">${escapeHtml(c.description || '')}</span>
-          <span class="coupon-terms">${escapeHtml(terms)}${c.autoApply ? ' · Aplicado automaticamente no carrinho' : ''}</span>
-          <a class="coupon-btn" href="${escapeHtml(c.link)}" target="_blank" rel="nofollow sponsored noopener">Ver produtos ↗</a>
-        </article>`;
-    }).join('');
   }
 
   function renderProducts() {
@@ -207,5 +182,4 @@
   if (clearSearch) clearSearch.style.visibility = 'hidden';
   renderCategories();
   renderProducts();
-  renderCoupons();
 })();

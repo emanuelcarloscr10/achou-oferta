@@ -2,6 +2,62 @@
 // O Claude Code pode atualizar somente este arquivo para inserir novas ofertas.
 window.ACHOU_PRODUCTS = [
   {
+    id: "mercadolivre-tenis-newbalance-freshfoam-1080-v14",
+    name: "Tênis New Balance Fresh Foam 1080 V14 M",
+    category: "Tênis",
+    store: "Mercado Livre",
+    price: 833.93,
+    oldPrice: 1299.90,
+    image: "https://http2.mlstatic.com/D_NQ_611604-MLA104787095126_012026-G.jpg",
+    emoji: "👟",
+    link: "https://meli.la/2cxibSk",
+    featured: true,
+    isDemo: false,
+    createdAt: "2026-09-16T18:10:00-03:00"
+  },
+  {
+    id: "mercadolivre-video-porteiro-hikvision-dskis603p",
+    name: "Video Porteiro Ip Hikvision Ds-kis603-p Kit Interfone Cor Preto",
+    category: "Casa e eletrodomésticos",
+    store: "Mercado Livre",
+    price: 1566,
+    oldPrice: 1649,
+    image: "https://http2.mlstatic.com/D_NQ_NP_755841-MLA100001899229_112025-O.webp",
+    emoji: "🔔",
+    link: "https://meli.la/1bCRpTo",
+    featured: false,
+    isDemo: false,
+    createdAt: "2026-09-16T18:11:00-03:00"
+  },
+  {
+    id: "mercadolivre-oculos-armani-exchange-4041sl",
+    name: "Óculos De Sol Armani Exchange 4041sl 80789a Tam 58 XL Preto",
+    category: "Moda",
+    store: "Mercado Livre",
+    price: 450.05,
+    oldPrice: 620,
+    image: "https://http2.mlstatic.com/D_NQ_735825-MLA115590754298_092026-OO.webp",
+    emoji: "🕶️",
+    link: "https://meli.la/1f3tRGv",
+    featured: false,
+    isDemo: false,
+    createdAt: "2026-09-16T18:12:00-03:00"
+  },
+  {
+    id: "mercadolivre-sofa-chesterfield-duque-zurcdecor",
+    name: "Sofá 2 Lugares Chesterfield Clássico Duque",
+    category: "Casa e eletrodomésticos",
+    store: "Mercado Livre",
+    price: 1187.49,
+    oldPrice: 1494.09,
+    image: "https://http2.mlstatic.com/D_NQ_NP_616554-MLA99910756133_112025-O.webp",
+    emoji: "🛋️",
+    link: "https://meli.la/1erC8U",
+    featured: false,
+    isDemo: false,
+    createdAt: "2026-09-16T18:13:00-03:00"
+  },
+  {
     id: "mercadolivre-fritadeira-mondial-afon12l-bg",
     name: "Fritadeira Elétrica AFON-12L-BG Forno Oven 12 Litros Preto Mondial",
     category: "Casa e eletrodomésticos",
