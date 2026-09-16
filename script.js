@@ -33,6 +33,17 @@
     return Math.round((1 - Number(p.price) / Number(p.oldPrice)) * 100);
   };
 
+  const normalize = (value) => String(value || '')
+    .normalize('NFD').replace(/[̀-ͯ]/g, '')
+    .toLowerCase();
+
+  function matchesQuery(p, query) {
+    const words = normalize(query).split(/\s+/).filter(Boolean);
+    if (!words.length) return true;
+    const haystack = normalize(`${p.name} ${p.category} ${p.store} ${(p.keywords || []).join(' ')}`);
+    return words.every(word => haystack.includes(word));
+  }
+
   const categories = ['Todos', ...new Set(products.map(p => p.category).filter(Boolean))];
 
   function renderCategories() {
@@ -95,9 +106,7 @@
     if (!productGrid) return;
     let list = products.filter(p => {
       const categoryOk = activeCategory === 'Todos' || p.category === activeCategory;
-      const haystack = `${p.name} ${p.category} ${p.store}`.toLowerCase();
-      const queryOk = !query || haystack.includes(query.toLowerCase());
-      return categoryOk && queryOk;
+      return categoryOk && matchesQuery(p, query);
     });
 
     list = [...list].sort((a, b) => {
