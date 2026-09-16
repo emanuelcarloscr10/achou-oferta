@@ -110,8 +110,8 @@
   });
 
   $('resetBtn')?.addEventListener('click', () => {
-    if (!confirm('Restaurar produtos de demonstração?')) return;
-    products = JSON.parse(JSON.stringify(DEFAULTS)); save(); toast('Demonstração restaurada.');
+    if (!confirm('Restaurar o catálogo publicado, descartando alterações feitas neste navegador?')) return;
+    products = JSON.parse(JSON.stringify(DEFAULTS)); save(); toast('Catálogo padrão restaurado.');
   });
 
   $('exportBtn')?.addEventListener('click', () => {

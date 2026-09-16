@@ -50,6 +50,7 @@ Não invente preço, desconto, avaliação, número de vendas, imagem ou link. U
 - Roupa de academia / Moda fitness
 - Eletrônicos
 - Livros
+- Notebooks
 
 ## Critérios de curadoria
 Priorizar, quando os dados estiverem disponíveis:
