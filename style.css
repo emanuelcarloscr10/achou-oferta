@@ -51,6 +51,16 @@ h2{font-size:clamp(30px,4vw,46px);margin:8px 0 8px;line-height:1.05}
 .category-icon{display:block;font-size:31px;margin-bottom:20px}
 .category-card strong,.category-card small{display:block}
 .category-card small{color:var(--muted);margin-top:5px}
+.coupon-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:16px}
+.coupon-card{display:flex;flex-direction:column;gap:10px;background:linear-gradient(135deg,var(--blue),#003a9e);color:#fff;border-radius:20px;padding:22px;position:relative;overflow:hidden}
+.coupon-card:after{content:"";position:absolute;width:180px;height:180px;border-radius:50%;background:rgba(255,255,255,.08);right:-60px;bottom:-70px}
+.coupon-store{font-size:12px;font-weight:800;letter-spacing:.06em;text-transform:uppercase;color:#bcd0ff}
+.coupon-value{font-size:34px;font-weight:800;color:var(--yellow)}
+.coupon-desc{font-size:14px;line-height:1.4;color:#e7edff;position:relative}
+.coupon-terms{font-size:12px;color:#bcd0ff;position:relative}
+.coupon-btn{display:block;text-align:center;text-decoration:none;background:var(--yellow);color:#3a2e00;padding:11px 14px;border-radius:12px;font-weight:800;margin-top:auto;position:relative}
+.coupon-btn:hover{background:#ffd633}
+
 .toolbar{display:flex;justify-content:space-between;gap:20px;align-items:center;margin-bottom:22px}
 .filter-chips{display:flex;gap:8px;flex-wrap:wrap}
 .filter-chip{border:1px solid var(--line);background:#fff;border-radius:999px;padding:9px 13px;cursor:pointer}
