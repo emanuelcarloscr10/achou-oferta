@@ -1045,32 +1045,4 @@ window.ACHOU_PRODUCTS = [
     isDemo: false,
     createdAt: "2026-09-16T12:29:00-03:00"
   },
-  {
-    id: "demo-fone-001",
-    name: "Fone de ouvido com arco ajustável",
-    category: "Eletrônicos",
-    store: "Demonstração",
-    price: 149.90,
-    oldPrice: 229.90,
-    image: "",
-    emoji: "🎧",
-    link: "",
-    featured: false,
-    isDemo: true,
-    createdAt: "2026-09-10T12:00:00-03:00"
-  },
-  {
-    id: "demo-livros-001",
-    name: "Seleção de livros para a sua estante",
-    category: "Livros",
-    store: "Demonstração",
-    price: 89.90,
-    oldPrice: 119.90,
-    image: "",
-    emoji: "📚",
-    link: "",
-    featured: false,
-    isDemo: true,
-    createdAt: "2026-09-10T12:00:00-03:00"
-  }
 ];

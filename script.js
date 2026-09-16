@@ -72,23 +72,6 @@
     });
   }
 
-  function renderBanner() {
-    const banner = $('constructionBanner');
-    const bannerMessage = $('bannerMessage');
-    if (!banner || !bannerMessage) return;
-    const hasDemo = products.some(p => p.isDemo);
-    if (!hasDemo) { banner.hidden = true; return; }
-    const realCount = products.filter(p => !p.isDemo).length;
-    let msg = realCount === 0
-      ? 'Nenhuma oferta cadastrada ainda.'
-      : realCount === 1
-        ? 'Primeira oferta cadastrada.'
-        : `${realCount} ofertas cadastradas.`;
-    msg += ' Os demais produtos estão marcados como exemplos.';
-    bannerMessage.textContent = msg;
-    banner.hidden = false;
-  }
-
   function escapeHtml(value = '') {
     return String(value).replace(/[&<>'"]/g, c => ({
       '&':'&amp;', '<':'&lt;', '>':'&gt;', "'":'&#039;', '"':'&quot;'
@@ -199,5 +182,4 @@
   if (clearSearch) clearSearch.style.visibility = 'hidden';
   renderCategories();
   renderProducts();
-  renderBanner();
 })();
