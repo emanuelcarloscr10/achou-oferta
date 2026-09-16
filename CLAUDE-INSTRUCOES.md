@@ -52,6 +52,7 @@ Não invente preço, desconto, avaliação, número de vendas, imagem ou link. U
 - Livros
 - Notebooks
 - Ferramentas
+- Enxoval
 
 ## Critérios de curadoria
 Priorizar, quando os dados estiverem disponíveis:
