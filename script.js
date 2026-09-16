@@ -50,7 +50,7 @@
     if (!categoryGrid || !filterChips) return;
     const icons = {
       'Celulares': '📱', 'Tênis': '👟', 'TVs': '📺', 'Livros': '📚',
-      'Moda': '👕', 'Eletrônicos': '🎧', 'Casa e eletrodomésticos': '🏠', 'Notebooks': '💻', 'Todos': '✨'
+      'Moda': '👕', 'Eletrônicos': '🎧', 'Casa e eletrodomésticos': '🏠', 'Notebooks': '💻', 'Ferramentas': '🧰', 'Todos': '✨'
     };
 
     categoryGrid.innerHTML = categories.filter(c => c !== 'Todos').map(category => `

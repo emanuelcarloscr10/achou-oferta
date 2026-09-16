@@ -768,5 +768,185 @@
     "price": 3399.00,
     "image": "https://down-bs-br.img.susercontent.com/sg-11134201-82598-mg89jk7l0fm506.webp",
     "link": "https://s.shopee.com.br/9peMdJ4ZGY"
+  },
+  {
+    "id": "mercadolivre-sofa-retratil-quantum-cinza",
+    "name": "Sofá Retrátil Reclinável 2 Lugares 1,80m Quantum Cinza",
+    "category": "Casa e eletrodomésticos",
+    "store": "Mercado Livre",
+    "price": 1234.90,
+    "oldPrice": 1715.89,
+    "image": "https://http2.mlstatic.com/D_Q_NP_818284-MLB114601550062_082026-R-sofa-retratil-reclinavel-2-lugares-180m-quantum-cinza.webp",
+    "link": "https://meli.la/2SjwSbi"
+  },
+  {
+    "id": "mercadolivre-sofa-2-lugares-reclinavel-madeira-140cm",
+    "name": "Sofá 2 Lugares Reclinável 140cm Confortável Pés Em Madeira",
+    "category": "Casa e eletrodomésticos",
+    "store": "Mercado Livre",
+    "price": 1163,
+    "oldPrice": 1799,
+    "image": "https://http2.mlstatic.com/D_Q_NP_2X_980167-MLB115051182482_082026-E--sofa-2-lugares-reclinavel-140cm-confortavel-pes-em-madeira.webp",
+    "link": "https://meli.la/15Jjojf"
+  },
+  {
+    "id": "mercadolivre-estante-plastica-modular-7-prateleiras",
+    "name": "Estante Plástica Modular Multiuso Preta 7 Prateleiras Organizadora",
+    "category": "Casa e eletrodomésticos",
+    "store": "Mercado Livre",
+    "price": 78,
+    "oldPrice": 189,
+    "image": "https://http2.mlstatic.com/D_Q_NP_2X_917253-MLA113296918629_062026-E.webp",
+    "link": "https://meli.la/1NyPvSH"
+  },
+  {
+    "id": "mercadolivre-estante-livreiro-de-chao-6-prateleiras",
+    "name": "Estante Livreiro De Chão 6 Prateleiras",
+    "category": "Casa e eletrodomésticos",
+    "store": "Mercado Livre",
+    "price": 128,
+    "oldPrice": 307,
+    "image": "https://http2.mlstatic.com/D_Q_NP_2X_610403-CBT116152351145_082026-E--estante-livreiro-de-chao-6-prateleiras.webp",
+    "link": "https://meli.la/25hFQb8"
+  },
+  {
+    "id": "mercadolivre-lixeira-automatica-sensor-13l",
+    "name": "Lixeira Automática Sensor 13L Inteligente Banheiro Cozinha Tampa Elétrica",
+    "category": "Casa e eletrodomésticos",
+    "store": "Mercado Livre",
+    "price": 78,
+    "oldPrice": 133,
+    "image": "https://http2.mlstatic.com/D_Q_NP_2X_865922-MLA111043192201_042026-E.webp",
+    "link": "https://meli.la/1WLecg1"
+  },
+  {
+    "id": "mercadolivre-kit-15-potes-hermeticos-cozinha",
+    "name": "Kit 15 Potes Herméticos Retangulares Mantimentos Organizador Cozinha",
+    "category": "Casa e eletrodomésticos",
+    "store": "Mercado Livre",
+    "price": 109,
+    "oldPrice": 199,
+    "image": "https://http2.mlstatic.com/D_Q_NP_2X_960945-MLA112825434084_072026-E.webp",
+    "link": "https://meli.la/1W2sRAQ"
+  },
+  {
+    "id": "mercadolivre-escorredor-inox-2-andares",
+    "name": "Escorredor Inox Organizador Louças 2 Andares Para Pia Cozinha",
+    "category": "Casa e eletrodomésticos",
+    "store": "Mercado Livre",
+    "price": 136,
+    "oldPrice": 189,
+    "image": "https://http2.mlstatic.com/D_Q_NP_2X_868675-MLB116214079508_092026-E--escorredor-inox-organizador-loucas-2andares-para-pia-cozinha.webp",
+    "link": "https://meli.la/2ELGnU4"
+  },
+  {
+    "id": "mercadolivre-fruteira-redonda-decorativa-mesa",
+    "name": "Fruteira Redonda Decorativa Para Mesa",
+    "category": "Casa e eletrodomésticos",
+    "store": "Mercado Livre",
+    "price": 24,
+    "oldPrice": 58,
+    "image": "https://http2.mlstatic.com/D_Q_NP_2X_647633-CBT117269274675_092026-E--fruteira-redonda-decorativa-para-mesa.webp",
+    "link": "https://meli.la/1RJxZHb"
+  },
+  {
+    "id": "mercadolivre-prateleira-flutuante-kit-3un",
+    "name": "Prateleira Flutuante 60x20cm 15mm Suporte Invisível Kit 03un",
+    "category": "Casa e eletrodomésticos",
+    "store": "Mercado Livre",
+    "price": 62,
+    "oldPrice": 78,
+    "image": "https://http2.mlstatic.com/D_Q_NP_2X_881509-MLB91210120960_092025-E--prateleira-flutuante-60x20cm-15mm-suporte-invisivel-kit-03un.webp",
+    "link": "https://meli.la/2EtDKQT"
+  },
+  {
+    "id": "mercadolivre-parafusadeira-furadeira-wap-k21",
+    "name": "Parafusadeira e Furadeira de Impacto 3/8\" WAP K21 ID02 2000 mAh",
+    "category": "Ferramentas",
+    "store": "Mercado Livre",
+    "price": 193,
+    "oldPrice": 260,
+    "image": "https://http2.mlstatic.com/D_Q_NP_2X_621555-MLA114663974288_082026-E.webp",
+    "link": "https://meli.la/1Nniqk4"
+  },
+  {
+    "id": "mercadolivre-parafusadeira-furadeira-blacktools-tb21px",
+    "name": "Parafusadeira Furadeira De Impacto The Black Tools TB-21PX 2 Baterias Com Maleta",
+    "category": "Ferramentas",
+    "store": "Mercado Livre",
+    "price": 158,
+    "oldPrice": 319,
+    "image": "https://http2.mlstatic.com/D_Q_NP_2X_981459-MLA117136184907_092026-E.webp",
+    "link": "https://meli.la/1J5v5hB"
+  },
+  {
+    "id": "mercadolivre-serra-tico-tico-wap-estt800",
+    "name": "Serra Tico WAP Estt 800 com Botão de Trava 6 Níveis 800W",
+    "category": "Ferramentas",
+    "store": "Mercado Livre",
+    "price": 249,
+    "oldPrice": 413,
+    "image": "https://http2.mlstatic.com/D_Q_NP_2X_710877-MLA99499698178_112025-E.webp",
+    "link": "https://meli.la/2L2jjnh"
+  },
+  {
+    "id": "mercadolivre-esmerilhadeira-blackdecker-g650",
+    "name": "Esmerilhadeira Angular 115mm BLACK+DECKER 12.000RPM G650 650W",
+    "category": "Ferramentas",
+    "store": "Mercado Livre",
+    "price": 182,
+    "oldPrice": 219,
+    "image": "https://http2.mlstatic.com/D_Q_NP_2X_633757-MLA99556934146_122025-E.webp",
+    "link": "https://meli.la/1Lo9N8s"
+  },
+  {
+    "id": "mercadolivre-compressor-ar-compbrasil-8l",
+    "name": "Compressor De Ar Modelo 1100-8l De 800w 8 Litros Compbrasil",
+    "category": "Ferramentas",
+    "store": "Mercado Livre",
+    "price": 892,
+    "oldPrice": 1319,
+    "image": "https://http2.mlstatic.com/D_Q_NP_2X_945735-MLB86715420875_062025-E--compressor-de-ar-modelo-11008l-de-800w-8-litros-compbrasil.webp",
+    "link": "https://meli.la/2guxT3o"
+  },
+  {
+    "id": "mercadolivre-kit-ferramentas-142pc-fasterr",
+    "name": "Kit Jogo De Ferramentas 142 Peças Fasterr Com Maleta",
+    "category": "Ferramentas",
+    "store": "Mercado Livre",
+    "price": 62,
+    "oldPrice": 159,
+    "image": "https://http2.mlstatic.com/D_Q_NP_2X_944743-MLA99871128121_112025-E.webp",
+    "link": "https://meli.la/2taKBbs"
+  },
+  {
+    "id": "mercadolivre-trena-laser-40m-digital",
+    "name": "Trena Laser 40m Digital Recarregável USB Medidor Distância Área Volume",
+    "category": "Ferramentas",
+    "store": "Mercado Livre",
+    "price": 87,
+    "oldPrice": 189,
+    "image": "https://http2.mlstatic.com/D_Q_NP_2X_861117-MLA116486172473_082026-E.webp",
+    "link": "https://meli.la/2Gj6xgg"
+  },
+  {
+    "id": "mercadolivre-lixadeira-orbital-bosch-gss140",
+    "name": "Lixadeira Profissional Orbital Bosch Professional GSS 140 Azul",
+    "category": "Ferramentas",
+    "store": "Mercado Livre",
+    "price": 252,
+    "oldPrice": 311,
+    "image": "https://http2.mlstatic.com/D_Q_NP_2X_988164-MLA115960191528_092026-E.webp",
+    "link": "https://meli.la/2keMHR4"
+  },
+  {
+    "id": "mercadolivre-kit-soquetes-fortfy-94pc",
+    "name": "Kit Jogo de Soquetes FortFy 94 Peças 1/2 e 1/4 Catraca Reversível com Maleta",
+    "category": "Ferramentas",
+    "store": "Mercado Livre",
+    "price": 218,
+    "oldPrice": 367,
+    "image": "https://http2.mlstatic.com/D_Q_NP_2X_627416-MLA111349823604_052026-E.webp",
+    "link": "https://meli.la/2EicFiN"
   }
 ]

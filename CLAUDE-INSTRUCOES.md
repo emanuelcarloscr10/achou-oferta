@@ -51,6 +51,7 @@ Não invente preço, desconto, avaliação, número de vendas, imagem ou link. U
 - Eletrônicos
 - Livros
 - Notebooks
+- Ferramentas
 
 ## Critérios de curadoria
 Priorizar, quando os dados estiverem disponíveis:
