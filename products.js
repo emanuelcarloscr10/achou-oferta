@@ -1708,4 +1708,31 @@ window.ACHOU_PRODUCTS = [
     isDemo: false,
     createdAt: "2026-09-17T11:25:00-03:00"
   },
+  {
+    id: "amazon-arara-roupas-prateleira-organizador-closet",
+    name: "Arara de Roupas com Prateleira Inferior 145cm Aço Carbono 90 Cabides Organizador de Closet",
+    category: "Casa e eletrodomésticos",
+    store: "Amazon",
+    price: 151.90,
+    oldPrice: 189.90,
+    image: "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61wFc2KbT-L._AC_SY300_SX300_QL70_ML2_.jpg",
+    emoji: "👔",
+    link: "https://www.amazon.com.br/dp/B0H36W3761?tag=achouoferta20-20",
+    featured: false,
+    isDemo: false,
+    createdAt: "2026-09-17T12:00:00-03:00"
+  },
+  {
+    id: "amazon-kit-ferramentas-manuais-24pc-martelo",
+    name: "Conjunto de Ferramentas Manuais 24 Peças Martelo de Garra, Chave Sextavada, Cortador de Fio e Caixa",
+    category: "Ferramentas",
+    store: "Amazon",
+    price: 183.00,
+    image: "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61-USxa7PML._AC_SY300_SX300_QL70_ML2_.jpg",
+    emoji: "🔨",
+    link: "https://www.amazon.com.br/dp/B0H8XTSN75?tag=achouoferta20-20",
+    featured: false,
+    isDemo: false,
+    createdAt: "2026-09-17T12:01:00-03:00"
+  },
 ];
