@@ -160,7 +160,7 @@ window.ACHOU_PRODUCTS = [
     name: "Fritadeira Elétrica AFON-12L-BG Forno Oven 12 Litros Preto Mondial",
     category: "Casa e eletrodomésticos",
     store: "Mercado Livre",
-    price: 509.50,
+    price: 633.66,
     oldPrice: 899,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_900387-MLA109507200694_042026-AB.webp",
     emoji: "🍟",
@@ -168,7 +168,8 @@ window.ACHOU_PRODUCTS = [
     link: "https://meli.la/2UDmKk5",
     featured: true,
     isDemo: false,
-    createdAt: "2026-09-15T19:10:00-03:00"
+    createdAt: "2026-09-15T19:10:00-03:00",
+    checkedAt: "2026-09-18T20:00:00-03:00"
   },
   {
     id: "mercadolivre-cafeteira-electrolux-ecm10",
@@ -182,63 +183,68 @@ window.ACHOU_PRODUCTS = [
     link: "https://meli.la/2Pbjqjy",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-15T19:11:00-03:00"
+    createdAt: "2026-09-15T19:11:00-03:00",
+    checkedAt: "2026-09-18T20:00:00-03:00"
   },
   {
     id: "mercadolivre-microondas-britania-bmo23",
     name: "Micro-ondas Britânia Bmo23 De Preto 20l Branco",
     category: "Casa e eletrodomésticos",
     store: "Mercado Livre",
-    price: 449.90,
-    oldPrice: 579,
+    price: 509.90,
+    oldPrice: 574.90,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_612754-MLA99995329987_112025-AB.webp",
     emoji: "🍲",
     link: "https://meli.la/2WL9EbR",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-15T19:12:00-03:00"
+    createdAt: "2026-09-15T19:12:00-03:00",
+    checkedAt: "2026-09-18T20:00:00-03:00"
   },
   {
     id: "mercadolivre-escova-britania-bec07r",
     name: "Escova Secadora E Modeladora Britânia 4 EM 1 ANTI FRIZZ BRILHO E MACIEZ BEC07R 1300W 127V/220V",
     category: "Casa e eletrodomésticos",
     store: "Mercado Livre",
-    price: 92.00,
+    price: 109.47,
     oldPrice: 139.90,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_734805-MLA114128393951_072026-AB.webp",
     emoji: "💇",
     link: "https://meli.la/18BfTzM",
     featured: true,
     isDemo: false,
-    createdAt: "2026-09-15T20:00:00-03:00"
+    createdAt: "2026-09-15T20:00:00-03:00",
+    checkedAt: "2026-09-18T20:00:00-03:00"
   },
   {
     id: "mercadolivre-batedeira-mondial-b44b",
     name: "Batedeira Prática Mondial 400W - B-44-B",
     category: "Casa e eletrodomésticos",
     store: "Mercado Livre",
-    price: 83.15,
+    price: 102.56,
     oldPrice: 154.90,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_877834-MLA99469550350_112025-AB.webp",
     emoji: "🥣",
     link: "https://meli.la/1osaHRN",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-15T20:01:00-03:00"
+    createdAt: "2026-09-15T20:01:00-03:00",
+    checkedAt: "2026-09-18T20:00:00-03:00"
   },
   {
     id: "mercadolivre-espremedor-mondial-e02",
     name: "Espremedor Premium Mondial 30W E-02",
     category: "Casa e eletrodomésticos",
     store: "Mercado Livre",
-    price: 62.00,
+    price: 75.92,
     oldPrice: 104.90,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_852738-MLA99700511468_122025-AB.webp",
     emoji: "🍹",
     link: "https://meli.la/1aMi5fx",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-15T20:02:00-03:00"
+    createdAt: "2026-09-15T20:02:00-03:00",
+    checkedAt: "2026-09-18T20:00:00-03:00"
   },
   {
     id: "mercadolivre-sanduicheira-elgin-brunchtime",
@@ -255,21 +261,6 @@ window.ACHOU_PRODUCTS = [
     createdAt: "2026-09-15T20:03:00-03:00"
   },
   {
-    id: "mercadolivre-fritadeira-mondial-afn50",
-    name: "Fritadeira elétrica sem óleo Mondial Cozinha AFN-50 5L preta e inox",
-    category: "Casa e eletrodomésticos",
-    store: "Mercado Livre",
-    price: 298.99,
-    oldPrice: 592.90,
-    image: "https://http2.mlstatic.com/D_Q_NP_2X_885713-MLA99522058136_122025-AB.webp",
-    emoji: "🍟",
-    keywords: ["air fryer", "airfryer"],
-    link: "https://meli.la/1C7YTp6",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-09-15T20:04:00-03:00"
-  },
-  {
     id: "mercadolivre-galaxy-a17",
     name: "Celular Samsung Galaxy A17 Com Ia, 256gb, 8gb Ram, Câm De 50mp, Tela De 6.7 , Nfc, Ip54 - Preto 4G",
     category: "Celulares",
@@ -281,7 +272,8 @@ window.ACHOU_PRODUCTS = [
     link: "https://meli.la/2hNMcvQ",
     featured: true,
     isDemo: false,
-    createdAt: "2026-09-15T20:05:00-03:00"
+    createdAt: "2026-09-15T20:05:00-03:00",
+    checkedAt: "2026-09-18T20:00:00-03:00"
   },
   {
     id: "mercadolivre-galaxy-s25-fe",
@@ -295,7 +287,8 @@ window.ACHOU_PRODUCTS = [
     link: "https://meli.la/1YoYN2m",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-15T20:06:00-03:00"
+    createdAt: "2026-09-15T20:06:00-03:00",
+    checkedAt: "2026-09-18T20:00:00-03:00"
   },
   {
     id: "mercadolivre-iphone-15-128gb",
