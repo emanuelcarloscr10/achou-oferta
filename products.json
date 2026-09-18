@@ -1,5 +1,635 @@
 [
   {
+    "id": "mercadolivre-moto-g06-128gb",
+    "name": "Smartphone Motorola Moto G06 128GB 12GB (4GB+8GB RAM Boost) Câmera 50MP Bateria 5200mAh",
+    "category": "Celulares",
+    "store": "Mercado Livre",
+    "price": 699.00,
+    "oldPrice": 1399.00,
+    "image": "https://http2.mlstatic.com/D_Q_NP_2X_657060-MLA104761778541_012026-E.webp",
+    "link": "https://meli.la/2JFEvwH"
+  },
+  {
+    "id": "mercadolivre-galaxy-a17-5g-128gb-preto",
+    "name": "Smartphone Samsung Galaxy A17 5G 128GB 4GB Super AMOLED 6.7'' Câmera 50MP Preto",
+    "category": "Celulares",
+    "store": "Mercado Livre",
+    "price": 989.00,
+    "oldPrice": 1855.00,
+    "image": "https://http2.mlstatic.com/D_Q_NP_2X_755351-MLA99597188918_122025-E.webp",
+    "link": "https://meli.la/1gpoQDU"
+  },
+  {
+    "id": "mercadolivre-galaxy-a07-256gb-violeta",
+    "name": "Celular Samsung Galaxy A07 256GB 8GB Câmera 50MP Tela 6.7 Proteção IP54 Violeta",
+    "category": "Celulares",
+    "store": "Mercado Livre",
+    "price": 934.15,
+    "oldPrice": 1799.00,
+    "image": "https://http2.mlstatic.com/D_Q_NP_2X_765861-MLA95532186080_102025-E.webp",
+    "link": "https://meli.la/2w3JZ54"
+  },
+  {
+    "id": "mercadolivre-galaxy-a36-5g-128gb-branco",
+    "name": "Smartphone Samsung Galaxy A36 5G 128GB 6GB RAM Câmera Tripla 50MP IP67 Super AMOLED Branco",
+    "category": "Celulares",
+    "store": "Mercado Livre",
+    "price": 1276.00,
+    "oldPrice": 2212.00,
+    "image": "https://http2.mlstatic.com/D_Q_NP_2X_968548-MLA99944961199_112025-E.webp",
+    "link": "https://meli.la/1CpyPxm"
+  },
+  {
+    "id": "mercadolivre-moto-g17-4g-128gb",
+    "name": "Smartphone Motorola Moto G17 4G 128GB 12GB (4GB+8GB RAM Boost) Câmera 50MP Sony Lytia Azul",
+    "category": "Celulares",
+    "store": "Mercado Livre",
+    "price": 799.00,
+    "oldPrice": 1599.00,
+    "image": "https://http2.mlstatic.com/D_Q_NP_2X_773592-MLA105493148200_012026-E.webp",
+    "link": "https://meli.la/1gq6GzR"
+  },
+  {
+    "id": "mercadolivre-moto-g67-5g-128gb",
+    "name": "Smartphone Motorola Moto G67 5G 128GB 12GB (4GB+8GB RAM Boost) Tela 1.5K Extreme AMOLED 120Hz Chumbo",
+    "category": "Celulares",
+    "store": "Mercado Livre",
+    "price": 1180.00,
+    "oldPrice": 2299.00,
+    "image": "https://http2.mlstatic.com/D_Q_NP_2X_635893-MLA106048486992_022026-E.webp",
+    "link": "https://meli.la/1LZt75R"
+  },
+  {
+    "id": "mercadolivre-moto-g35-5g-128gb",
+    "name": "Smartphone Motorola Moto G35 5G 12GB RAM Boost 128GB Grafite",
+    "category": "Celulares",
+    "store": "Mercado Livre",
+    "price": 946.30,
+    "oldPrice": 1324.00,
+    "image": "https://http2.mlstatic.com/D_Q_NP_2X_649586-MLA100448312516_122025-E.webp",
+    "link": "https://meli.la/29DakG3"
+  },
+  {
+    "id": "mercadolivre-tv-lg-43lr671-fhd",
+    "name": "Smart TV LG 43\" Full HD ThinQ AI Alexa WebOS 43LR671",
+    "category": "TVs",
+    "store": "Mercado Livre",
+    "price": 1849.00,
+    "oldPrice": 2361.00,
+    "image": "https://http2.mlstatic.com/D_Q_NP_2X_983852-MLB79480945945_092024-E--smart-tv-lg-43-fhd-hdr10-thinqai-webos23-wifi5-alexa-43lr671.webp",
+    "link": "https://meli.la/1ZYy17b"
+  },
+  {
+    "id": "mercadolivre-tv-philco-43-p43vik-roku",
+    "name": "Smart TV Philco 43\" P43VIK Roku LED Dolby Audio Wi-Fi HDMI HDR Full HD",
+    "category": "TVs",
+    "store": "Mercado Livre",
+    "price": 1449.00,
+    "oldPrice": 2499.00,
+    "image": "https://http2.mlstatic.com/D_Q_NP_2X_697288-MLA100482486016_122025-E.webp",
+    "link": "https://meli.la/2C2GGUz"
+  },
+  {
+    "id": "mercadolivre-tv-lg-43un85-4k-nano",
+    "name": "Smart TV LG 43'' 4K Ultra HD Nano AI WebOS 26 43UN85",
+    "category": "TVs",
+    "store": "Mercado Livre",
+    "price": 1725.00,
+    "oldPrice": 2779.00,
+    "image": "https://http2.mlstatic.com/D_Q_NP_2X_855844-MLB116862362541_082026-E--smart-tv-lg-43-4k-ultra-hd-nano-ai-webos-26-43un85.webp",
+    "link": "https://meli.la/2Ua2JmW"
+  },
+  {
+    "id": "mercadolivre-tv-philips-43pfg6910",
+    "name": "Smart TV Philips 43\" Full HD 43PFG6910/78 Wi-Fi",
+    "category": "TVs",
+    "store": "Mercado Livre",
+    "price": 1529.00,
+    "oldPrice": 2499.00,
+    "image": "https://http2.mlstatic.com/D_Q_NP_2X_882487-MLA92677639078_092025-E.webp",
+    "link": "https://meli.la/2qRdcjr"
+  },
+  {
+    "id": "mercadolivre-tv-hisense-43a4nv",
+    "name": "Smart TV Hisense FHD 43\" 43A4NV HDR10 DTS Virtual X Alexa e Google Home",
+    "category": "TVs",
+    "store": "Mercado Livre",
+    "price": 1499.00,
+    "oldPrice": 2999.00,
+    "image": "https://http2.mlstatic.com/D_Q_NP_2X_625134-MLA93305690443_092025-E.webp",
+    "link": "https://meli.la/2L99uNL"
+  },
+  {
+    "id": "mercadolivre-tv-samsung-43-f6000f",
+    "name": "Smart TV 43\" Full HD F6000F 2025 Samsung Bivolt",
+    "category": "TVs",
+    "store": "Mercado Livre",
+    "price": 1676.00,
+    "oldPrice": 2299.00,
+    "image": "https://http2.mlstatic.com/D_Q_NP_2X_886409-MLA117528603517_092026-E.webp",
+    "link": "https://meli.la/2j7APzs"
+  },
+  {
+    "id": "mercadolivre-tv-tcl-43s5k-qled",
+    "name": "Smart TV TCL 43 Polegadas QLED Full HD S5K Wi-Fi Bluetooth Google TV HDR10 Dolby Audio",
+    "category": "TVs",
+    "store": "Mercado Livre",
+    "price": 1541.00,
+    "oldPrice": 1990.00,
+    "image": "https://http2.mlstatic.com/D_Q_NP_2X_957852-MLA114585921650_082026-E.webp",
+    "link": "https://meli.la/1PjZkx4"
+  },
+  {
+    "id": "mercadolivre-livro-habitos-atomicos",
+    "name": "Hábitos Atômicos - James Clear - Editora Alta Life - Capa Mole",
+    "category": "Livros",
+    "store": "Mercado Livre",
+    "price": 34.60,
+    "oldPrice": 60.90,
+    "image": "https://http2.mlstatic.com/D_Q_NP_2X_653257-MLU50462500949_062022-E.webp",
+    "link": "https://meli.la/2aYEWjT"
+  },
+  {
+    "id": "mercadolivre-livro-hipotese-do-amor",
+    "name": "A Hipótese do Amor - Edição com Sobrecapa do Filme - Ali Hazelwood - Editora Arqueiro",
+    "category": "Livros",
+    "store": "Mercado Livre",
+    "price": 40.01,
+    "oldPrice": 64.90,
+    "image": "https://http2.mlstatic.com/D_Q_NP_2X_980089-MLU50709668667_072022-E.webp",
+    "link": "https://meli.la/1526gPw"
+  },
+  {
+    "id": "mercadolivre-livro-diario-de-um-banana-1",
+    "name": "Diário de um Banana 1 - Jeff Kinney - VR Editora - Capa Dura",
+    "category": "Livros",
+    "store": "Mercado Livre",
+    "price": 48.70,
+    "oldPrice": 74.90,
+    "image": "https://http2.mlstatic.com/D_Q_NP_2X_655974-MLU50516803001_062022-E.webp",
+    "link": "https://meli.la/1tbvvNp"
+  },
+  {
+    "id": "mercadolivre-livro-princesa-desastrada-4",
+    "name": "O Diário de uma Princesa Desastrada 4 - Maidy Lacerda - Outro Planeta",
+    "category": "Livros",
+    "store": "Mercado Livre",
+    "price": 52.27,
+    "oldPrice": 84.90,
+    "image": "https://http2.mlstatic.com/D_Q_NP_2X_813121-MLA110797564301_042026-E.webp",
+    "link": "https://meli.la/2tQ6UDu"
+  },
+  {
+    "id": "mercadolivre-livro-patinando-no-amor",
+    "name": "Patinando no Amor - Lynn Painter - Intrínseca - Capa Mole",
+    "category": "Livros",
+    "store": "Mercado Livre",
+    "price": 46.97,
+    "oldPrice": 69.90,
+    "image": "https://http2.mlstatic.com/D_Q_NP_2X_812454-MLA94687199899_102025-E.webp",
+    "link": "https://meli.la/1uKnvsd"
+  },
+  {
+    "id": "mercadolivre-livro-anatomia-fisiologia-humana",
+    "name": "Livro Anatomia e Fisiologia Humana - O Mais Vendido",
+    "category": "Livros",
+    "store": "Mercado Livre",
+    "price": 57.90,
+    "oldPrice": 119.00,
+    "image": "https://http2.mlstatic.com/D_Q_NP_2X_618745-MLB54778473465_032023-E--livro-anatomia-e-fisiologia-humana--o-mais-vendido.webp",
+    "link": "https://meli.la/25XfvFY"
+  },
+  {
+    "id": "mercadolivre-livro-prospeccao-fanatica",
+    "name": "Prospecção Fanática - Guia Definitivo de Conversas para Iniciar Vendas - Editora Alta Books",
+    "category": "Livros",
+    "store": "Mercado Livre",
+    "price": 53.99,
+    "oldPrice": 93.50,
+    "image": "https://http2.mlstatic.com/D_Q_NP_2X_809626-MLU50420431875_062022-E.webp",
+    "link": "https://meli.la/2RQpByq"
+  },
+  {
+    "id": "mercadolivre-notebook-acer-aspire-go-15-i5",
+    "name": "Notebook Acer Aspire Go 15 Intel Core i5 1334U 8GB RAM 256GB SSD Windows 11 Cinza",
+    "category": "Notebooks",
+    "store": "Mercado Livre",
+    "price": 3564.00,
+    "oldPrice": 7000.00,
+    "image": "https://http2.mlstatic.com/D_Q_NP_2X_621941-MLA106863964483_022026-E.webp",
+    "link": "https://meli.la/2B1PY3s"
+  },
+  {
+    "id": "mercadolivre-notebook-dell-i5-8gb-512gb",
+    "name": "Notebook Dell DC15-i51334U-A50 15.6 FHD i5 8GB 512GB Windows 11",
+    "category": "Notebooks",
+    "store": "Mercado Livre",
+    "price": 3825.00,
+    "oldPrice": 5524.00,
+    "image": "https://http2.mlstatic.com/D_Q_NP_2X_602930-MLA111944189869_052026-E.webp",
+    "link": "https://meli.la/1kMTp8H"
+  },
+  {
+    "id": "mercadolivre-notebook-samsung-galaxy-book4",
+    "name": "Notebook Samsung Galaxy Book4 Intel Core i5-1335U 8GB 512GB SSD Iris Xe 15.6'' Full HD",
+    "category": "Notebooks",
+    "store": "Mercado Livre",
+    "price": 4179.00,
+    "oldPrice": 5799.00,
+    "image": "https://http2.mlstatic.com/D_Q_NP_2X_902725-MLA113038325332_072026-E.webp",
+    "link": "https://meli.la/33fQ4Vp"
+  },
+  {
+    "id": "mercadolivre-notebook-asus-vivobook-15-i5",
+    "name": "Notebook ASUS Vivobook 15 X1504VA Intel Core i5 1334U 8GB RAM 512GB SSD Windows 11 Silver",
+    "category": "Notebooks",
+    "store": "Mercado Livre",
+    "price": 3893.00,
+    "oldPrice": 4999.00,
+    "image": "https://http2.mlstatic.com/D_Q_NP_2X_704459-MLA99979883783_112025-E.webp",
+    "link": "https://meli.la/1jmaBcr"
+  },
+  {
+    "id": "mercadolivre-notebook-positivo-vision-i15m",
+    "name": "Notebook Positivo Vision i15M com Minitela Intel Core i3 N300 8GB RAM SSD 512GB Windows 11",
+    "category": "Notebooks",
+    "store": "Mercado Livre",
+    "price": 3699.00,
+    "oldPrice": 4637.00,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_746655-MLA99724220345_112025-O.webp",
+    "link": "https://meli.la/2gXKvyT"
+  },
+  {
+    "id": "mercadolivre-notebook-vaio-fe16-i5",
+    "name": "Notebook VAIO FE16 Intel Core i5-1334U 13ª Gen Linux 8GB RAM 256GB SSD Cinza Grafite",
+    "category": "Notebooks",
+    "store": "Mercado Livre",
+    "price": 3599.00,
+    "oldPrice": 4999.00,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_634501-MLA99874074933_112025-O.webp",
+    "link": "https://meli.la/2EipZnp"
+  },
+  {
+    "id": "mercadolivre-notebook-lenovo-ideapad-slim3",
+    "name": "Notebook Lenovo IdeaPad Slim 3 15IRH10 Intel Core i5-13420H 8GB 256GB SSD Windows 11 Luna Grey",
+    "category": "Notebooks",
+    "store": "Mercado Livre",
+    "price": 3314.00,
+    "oldPrice": 4999.00,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_986125-MLA100031539491_122025-O.webp",
+    "link": "https://meli.la/2u8smbc"
+  },
+  {
+    "id": "mercadolivre-parafusadeira-black-tools-tb21pw",
+    "name": "Parafusadeira e Furadeira de Impacto The Black Tools TB-21PW 3/8 Amarelo",
+    "category": "Ferramentas",
+    "store": "Mercado Livre",
+    "price": 148.20,
+    "oldPrice": 299.90,
+    "image": "https://http2.mlstatic.com/D_Q_NP_2X_629064-MLA114933297788_082026-E.webp",
+    "link": "https://meli.la/26KRhTi"
+  },
+  {
+    "id": "mercadolivre-parafusadeira-wap-k21-id01",
+    "name": "Parafusadeira e Furadeira de Impacto WAP 3/8 K21 ID01",
+    "category": "Ferramentas",
+    "store": "Mercado Livre",
+    "price": 219.00,
+    "oldPrice": 522.00,
+    "image": "https://http2.mlstatic.com/D_Q_NP_2X_881860-MLA114663641920_082026-E.webp",
+    "link": "https://meli.la/1ig6M2g"
+  },
+  {
+    "id": "mercadolivre-parafusadeira-bosch-gsb183li",
+    "name": "Parafusadeira e Furadeira de Impacto a Bateria 18V Bosch GSB 183-LI Maleta com Kit 103 Peças",
+    "category": "Ferramentas",
+    "store": "Mercado Livre",
+    "price": 892.91,
+    "oldPrice": 1799.00,
+    "image": "https://http2.mlstatic.com/D_Q_NP_2X_626334-MLA99457573836_112025-E.webp",
+    "link": "https://meli.la/2SwZv44"
+  },
+  {
+    "id": "mercadolivre-parafusadeira-dewalt-dcd7781d2",
+    "name": "Parafusadeira Furadeira de Impacto Dewalt DCD7781D2 20V Brushless 13mm com 2 Baterias e Maleta",
+    "category": "Ferramentas",
+    "store": "Mercado Livre",
+    "price": 913.47,
+    "oldPrice": 1040.00,
+    "image": "https://http2.mlstatic.com/D_Q_NP_2X_941338-MLA113249466298_072026-E.webp",
+    "link": "https://meli.la/2cXNymt"
+  },
+  {
+    "id": "mercadolivre-parafusadeira-blackdecker-ld12s",
+    "name": "Parafusadeira e Furadeira de Impacto 10mm 12V Black+Decker LD12S-BR com 13 Acessórios",
+    "category": "Ferramentas",
+    "store": "Mercado Livre",
+    "price": 217.55,
+    "oldPrice": 399.00,
+    "image": "https://http2.mlstatic.com/D_Q_NP_2X_915234-MLA113306675820_072026-E.webp",
+    "link": "https://meli.la/1dwchJP"
+  },
+  {
+    "id": "mercadolivre-parafusadeira-black-tools-tb21pzw",
+    "name": "Parafusadeira Furadeira de Impacto a Bateria 21V 3/8 The Black Tools TB-21PZW com Maleta",
+    "category": "Ferramentas",
+    "store": "Mercado Livre",
+    "price": 124.90,
+    "oldPrice": 259.90,
+    "image": "https://http2.mlstatic.com/D_Q_NP_2X_660718-MLA99503122958_112025-E.webp",
+    "link": "https://meli.la/1i9Uav6"
+  },
+  {
+    "id": "mercadolivre-parafusadeira-makita-hp333dwyx3",
+    "name": "Kit Parafusadeira Furadeira de Impacto HP333DWYX3 Makita Bateria 12V com Carregador",
+    "category": "Ferramentas",
+    "store": "Mercado Livre",
+    "price": 649.90,
+    "oldPrice": 1147.00,
+    "image": "https://http2.mlstatic.com/D_Q_NP_2X_740407-MLA96384749878_102025-E.webp",
+    "link": "https://meli.la/2cY9TLy"
+  },
+  {
+    "id": "mercadolivre-lencol-texfine-400-fios",
+    "name": "Jogo de Lençol 400 Fios Ponto Palito Cama Queen 3 Peças Saldão - TEXFINE",
+    "category": "Enxoval",
+    "store": "Mercado Livre",
+    "price": 31.89,
+    "oldPrice": 49.90,
+    "image": "https://http2.mlstatic.com/D_Q_NP_2X_833331-MLB91182119648_092025-E-jogo-de-lencol-400-fios-ponto-palito-cama-queen-3-pcs-saldo.webp",
+    "link": "https://meli.la/2vP6bJE"
+  },
+  {
+    "id": "mercadolivre-lencol-gu-casa-conforto",
+    "name": "Jogo de Lençol Queen 3 Peças 400 Fios com Elástico Hotel - GU Casa Conforto",
+    "category": "Enxoval",
+    "store": "Mercado Livre",
+    "price": 29.50,
+    "oldPrice": 41.99,
+    "image": "https://http2.mlstatic.com/D_Q_NP_2X_714533-MLB79667122021_092024-E-jogo-de-lencol-queen-3-pecas-400-fios-c-elastico-hotel.webp",
+    "link": "https://meli.la/2J17PUc"
+  },
+  {
+    "id": "mercadolivre-lencol-vilma-elastico",
+    "name": "Jogo de Lençol Elástico Casal Padrão Box 3 Peças 400 Fios - Vilma Enxovais",
+    "category": "Enxoval",
+    "store": "Mercado Livre",
+    "price": 37.18,
+    "oldPrice": 59.90,
+    "image": "https://http2.mlstatic.com/D_Q_NP_2X_931416-MLB85541687919_062025-E-jogo-de-lencol-elastico-casal-padro-box-3-pecas-400-fios.webp",
+    "link": "https://meli.la/2TWv26T"
+  },
+  {
+    "id": "mercadolivre-lencol-raraluz-200-fios",
+    "name": "Jogo de Lençol Casal 3 Peças 200 Fios Fronhas com Ponto Palito - Raraluz Casa",
+    "category": "Enxoval",
+    "store": "Mercado Livre",
+    "price": 60.84,
+    "oldPrice": 78.00,
+    "image": "https://http2.mlstatic.com/D_Q_NP_2X_938575-MLB52559527320_112022-E-jogo-lencol-casal-3-pecas-200-fios-fronhas-com-ponto-palito.webp",
+    "link": "https://meli.la/2ZFGWjP"
+  },
+  {
+    "id": "mercadolivre-coberdrom-fv-enxovais",
+    "name": "Kit Coberdrom Casal Queen Jogo de Cama Dupla Face 400 Fios - F V Enxovais",
+    "category": "Enxoval",
+    "store": "Mercado Livre",
+    "price": 267.89,
+    "oldPrice": 399.90,
+    "image": "https://http2.mlstatic.com/D_Q_NP_2X_957094-MLB95110810455_102025-E-kit-coberdrom-casal-queen-jogo-cama-dupla-face-400-fios.webp",
+    "link": "https://meli.la/2ekWRPE"
+  },
+  {
+    "id": "mercadolivre-cobertor-ml-basics-queen",
+    "name": "Cobertor de Microfibra Canelado Queen Toque de Seda - Mercado Livre Basics",
+    "category": "Enxoval",
+    "store": "Mercado Livre",
+    "price": 106.69,
+    "oldPrice": 142.90,
+    "image": "https://http2.mlstatic.com/D_Q_NP_2X_937126-MLA115255273022_082026-E.webp",
+    "link": "https://meli.la/1bdmfrQ"
+  },
+  {
+    "id": "mercadolivre-cobre-leito-fv-enxovais",
+    "name": "Kit Cobre Leito Casal Queen Dupla Face Colcha 200 Fios 3 Peças - F.V Enxovais",
+    "category": "Enxoval",
+    "store": "Mercado Livre",
+    "price": 123.09,
+    "oldPrice": 187.44,
+    "image": "https://http2.mlstatic.com/D_Q_NP_2X_795371-MLB117656884261_092026-E.webp",
+    "link": "https://meli.la/2h8Wi98"
+  },
+  {
+    "id": "mercadolivre-tenis-via-marte-branco",
+    "name": "Tênis Feminino Via Marte Branco Confortável Leve Original",
+    "category": "Tênis",
+    "store": "Mercado Livre",
+    "price": 149.31,
+    "oldPrice": 274.20,
+    "image": "https://http2.mlstatic.com/D_Q_NP_2X_877386-MLB91996259516_092025-E-tnis-feminino-via-marte-branco-confortavel-leve-original.webp",
+    "link": "https://meli.la/2PqiguV"
+  },
+  {
+    "id": "mercadolivre-tenis-vizzano-branco",
+    "name": "Tênis Feminino Casual Vizzano Branco Confortável Original",
+    "category": "Tênis",
+    "store": "Mercado Livre",
+    "price": 128.75,
+    "oldPrice": 167.79,
+    "image": "https://http2.mlstatic.com/D_Q_NP_2X_622791-MLB82471437819_022025-E-tenis-feminino-casual-vizzano-branco-confortavel-original.webp",
+    "link": "https://meli.la/2JyfEbW"
+  },
+  {
+    "id": "mercadolivre-tenis-modare-conforto",
+    "name": "Tênis Feminino Modare Conforto Casual Dia a Dia Trabalho",
+    "category": "Tênis",
+    "store": "Mercado Livre",
+    "price": 139.00,
+    "oldPrice": 276.04,
+    "image": "https://http2.mlstatic.com/D_Q_NP_2X_697975-MLB95460087547_102025-E-tnis-feminino-modare-conforto-casual-dia-a-dia-trabalho.webp",
+    "link": "https://meli.la/1r3VsUr"
+  },
+  {
+    "id": "mercadolivre-tenis-kolosh-c1296",
+    "name": "Tênis Feminino Casual Conforto Cadarço Elástico Kolosh C1296",
+    "category": "Tênis",
+    "store": "Mercado Livre",
+    "price": 154.60,
+    "oldPrice": 259.99,
+    "image": "https://http2.mlstatic.com/D_Q_NP_2X_930834-MLB80510718852_112024-E--tenis-feminino-casual-conforto-cadarco-elastico-kolosh-c1296.webp",
+    "link": "https://meli.la/1GBrYoB"
+  },
+  {
+    "id": "mercadolivre-tenis-vizzano-samba-flataform",
+    "name": "Tênis Feminino Casual Vizzano Samba Flataform Conforto Leve",
+    "category": "Tênis",
+    "store": "Mercado Livre",
+    "price": 133.52,
+    "oldPrice": 189.50,
+    "image": "https://http2.mlstatic.com/D_Q_NP_2X_911608-MLB109559157534_042026-E-tenis-feminino-casual-vizzano-samba-flataform-conforto-leve.webp",
+    "link": "https://meli.la/1WvdRAo"
+  },
+  {
+    "id": "mercadolivre-tenis-ramarim-fly-high",
+    "name": "Tênis Feminino Ramarim Fly High Branco Original",
+    "category": "Tênis",
+    "store": "Mercado Livre",
+    "price": 142.49,
+    "oldPrice": 249.99,
+    "image": "https://http2.mlstatic.com/D_Q_NP_2X_976842-MLB82086036027_012025-E-tnis-feminino-ramarim-fly-high-branco-original.webp",
+    "link": "https://meli.la/2iAWaBF"
+  },
+  {
+    "id": "mercadolivre-tenis-mormaii-urban-free",
+    "name": "Tênis Mormaii Urban Free Original Skate Casual",
+    "category": "Tênis",
+    "store": "Mercado Livre",
+    "price": 133.84,
+    "oldPrice": 179.90,
+    "image": "https://http2.mlstatic.com/D_Q_NP_2X_623765-MLB97192177608_112025-E--tenis-mormaii-urban-free-original-skate-casual-masculino.webp",
+    "link": "https://meli.la/26Up4dd"
+  },
+  {
+    "id": "mercadolivre-bermuda-bolldor-kit3",
+    "name": "Kit 3 Shorts Academia Masculina Dry Fit com Bolsos - Bolldor",
+    "category": "Moda",
+    "store": "Mercado Livre",
+    "price": 86.64,
+    "oldPrice": 170.00,
+    "image": "https://http2.mlstatic.com/D_Q_NP_2X_744440-MLB115143838976_082026-E-kit-3-shorts-academia-masculina-dry-fit-com-bolsos.webp",
+    "link": "https://meli.la/1FaPxWY"
+  },
+  {
+    "id": "mercadolivre-bermuda-mm-compressao",
+    "name": "Bermuda Masculina 2 em 1 Compressão Short Dry Fit Academia",
+    "category": "Moda",
+    "store": "Mercado Livre",
+    "price": 38.90,
+    "oldPrice": 54.90,
+    "image": "https://http2.mlstatic.com/D_Q_NP_2X_911963-MLB117718616671_092026-E-bermuda-masculina-2-em-1-compresso-short-dry-fit-academia.webp",
+    "link": "https://meli.la/2cpwnP9"
+  },
+  {
+    "id": "mercadolivre-bermuda-sandrini-kit4",
+    "name": "Kit 4 Bermuda Shorts Tactel Sandrini Elastano Academia Praia",
+    "category": "Moda",
+    "store": "Mercado Livre",
+    "price": 59.99,
+    "oldPrice": 124.99,
+    "image": "https://http2.mlstatic.com/D_Q_NP_2X_740026-MLB86614660221_062025-E.webp",
+    "link": "https://meli.la/243SMvj"
+  },
+  {
+    "id": "mercadolivre-bermuda-puma-media",
+    "name": "Bermuda Masculina Média Puma com Bolso Praia Academia Tactel",
+    "category": "Moda",
+    "store": "Mercado Livre",
+    "price": 115.00,
+    "oldPrice": 279.49,
+    "image": "https://http2.mlstatic.com/D_Q_NP_2X_938676-MLB113067129944_072026-E-bermuda-masculina-media-puma-com-bolso-praia-academia-tactel.webp",
+    "link": "https://meli.la/1mb7sXG"
+  },
+  {
+    "id": "mercadolivre-shorts-duplo-dryfit-termica",
+    "name": "Kit 4 Shorts 2 em 1 Duplo Dryfit Masculino Compressão Térmica",
+    "category": "Moda",
+    "store": "Mercado Livre",
+    "price": 95.00,
+    "oldPrice": 142.00,
+    "image": "https://http2.mlstatic.com/D_Q_NP_2X_878492-MLB108664426620_032026-E-kit-4-shorts-2-em-1-duplo-dryfit-masculino-compresso-termic.webp",
+    "link": "https://meli.la/2qZNfTr"
+  },
+  {
+    "id": "mercadolivre-shorts-duplo-bolso-kit3",
+    "name": "Kit 3 Shorts 2 em 1 Duplo Bolso para Academia Treino Corrida",
+    "category": "Moda",
+    "store": "Mercado Livre",
+    "price": 73.53,
+    "oldPrice": 129.00,
+    "image": "https://http2.mlstatic.com/D_Q_NP_2X_719092-MLB109643097642_042026-E--kit-3-shorts-2-em-1-duplo-bolso-para-academia-treino-corrida.webp",
+    "link": "https://meli.la/24VZCqK"
+  },
+  {
+    "id": "mercadolivre-bermuda-compressao-duplo-mm",
+    "name": "Bermuda Compressão Duplo Masculina 2 em 1 Short Academia",
+    "category": "Moda",
+    "store": "Mercado Livre",
+    "price": 42.73,
+    "oldPrice": 59.90,
+    "image": "https://http2.mlstatic.com/D_Q_NP_2X_770296-MLB111762232788_062026-E--bermuda-compressao-duplo-masculina-2-em-1-short-academia.webp",
+    "link": "https://meli.la/2Xh67L8"
+  },
+  {
+    "id": "mercadolivre-airfryer-wap-wafg2s-5l",
+    "name": "Fritadeira Elétrica Air Fryer WAP WAFG2S 5 Litros com Revestimento Antiaderente 1500W",
+    "category": "Casa e eletrodomésticos",
+    "store": "Mercado Livre",
+    "price": 237.90,
+    "oldPrice": 598.00,
+    "image": "https://http2.mlstatic.com/D_Q_NP_2X_646462-MLA89509974686_082025-E.webp",
+    "link": "https://meli.la/1KQqpHo"
+  },
+  {
+    "id": "mercadolivre-airfryer-mondial-afn40ri-4l",
+    "name": "Fritadeira Sem Óleo Air Fryer 4L Mondial 1500W AFN-40-RI Vermelho/Inox",
+    "category": "Casa e eletrodomésticos",
+    "store": "Mercado Livre",
+    "price": 449.90,
+    "oldPrice": 1041.00,
+    "image": "https://http2.mlstatic.com/D_Q_NP_2X_900291-MLA100001205819_112025-E.webp",
+    "link": "https://meli.la/1dBanRv"
+  },
+  {
+    "id": "mercadolivre-airfryer-electrolux-ritalobo-eaf45",
+    "name": "Air Fryer Fritadeira Elétrica sem Óleo Rita Lobo 5,6L Electrolux EAF45",
+    "category": "Casa e eletrodomésticos",
+    "store": "Mercado Livre",
+    "price": 359.91,
+    "oldPrice": 719.90,
+    "image": "https://http2.mlstatic.com/D_Q_NP_2X_870458-MLA116583927377_082026-E.webp",
+    "link": "https://meli.la/2kHL4q7"
+  },
+  {
+    "id": "mercadolivre-airfryer-britania-bfr2100p-12l",
+    "name": "Fritadeira Air Fry Oven Britânia BFR2100P 12 Litros 1800W Preto",
+    "category": "Casa e eletrodomésticos",
+    "store": "Mercado Livre",
+    "price": 439.00,
+    "oldPrice": 829.90,
+    "image": "https://http2.mlstatic.com/D_Q_NP_2X_768323-MLA99461508192_112025-E.webp",
+    "link": "https://meli.la/144dsTT"
+  },
+  {
+    "id": "mercadolivre-airfryer-elgin-quadfry-42l",
+    "name": "Fritadeira Elétrica Air Fryer Quad Fry Elgin 4,2L 1400W Preto",
+    "category": "Casa e eletrodomésticos",
+    "store": "Mercado Livre",
+    "price": 159.90,
+    "oldPrice": 299.00,
+    "image": "https://http2.mlstatic.com/D_Q_NP_2X_813389-MLA99520090726_112025-E.webp",
+    "link": "https://meli.la/1Gm4kma"
+  },
+  {
+    "id": "mercadolivre-airfryer-mondial-afn50bi-5l",
+    "name": "Fritadeira Sem Óleo Air Fryer 5L Mondial 1900W AFN-50-BI",
+    "category": "Casa e eletrodomésticos",
+    "store": "Mercado Livre",
+    "price": 378.20,
+    "oldPrice": 592.90,
+    "image": "https://http2.mlstatic.com/D_Q_NP_2X_708441-MLA99523951400_122025-E.webp",
+    "link": "https://meli.la/1VLs8cF"
+  },
+  {
+    "id": "mercadolivre-airfryer-electrolux-eaf71-7l",
+    "name": "Air Fryer Forno Electrolux 7L 1700W Digital EAF71 Cinza",
+    "category": "Casa e eletrodomésticos",
+    "store": "Mercado Livre",
+    "price": 437.90,
+    "oldPrice": 599.00,
+    "image": "https://http2.mlstatic.com/D_Q_NP_2X_736907-MLA108656792797_032026-E.webp",
+    "link": "https://meli.la/2xbvLG5"
+  },
+  {
     "id": "mercadolivre-fone-soundcore-p30i-anker",
     "name": "Fone de Ouvido Bluetooth 5.4 Soundcore P30i da Anker, Cancelamento de Ruído Adaptativo, Estojo 2-em-1 com Suporte para Celular",
     "category": "Casa e eletrodomésticos",
