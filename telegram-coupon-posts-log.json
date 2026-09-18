@@ -16,5 +16,23 @@
     "discountLabel": "15% OFF",
     "validUntil": "2026-09-21",
     "publishedAt": "2026-09-18T09:41:00-03:00"
+  },
+  {
+    "code": "20BRINCA",
+    "store": "Amazon",
+    "category": "Brinquedos",
+    "type": "coupon",
+    "discountLabel": "20% OFF",
+    "validUntil": null,
+    "publishedAt": "2026-09-18T11:18:00-03:00"
+  },
+  {
+    "code": "TXLM46QKVA",
+    "store": "Shopee",
+    "category": "Cupons gerais",
+    "type": "coupon",
+    "discountLabel": "R$20 OFF",
+    "validUntil": null,
+    "publishedAt": "2026-09-18T11:19:00-03:00"
   }
 ]
