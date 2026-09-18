@@ -1,5 +1,75 @@
 [
   {
+    "id": "mercadolivre-fone-soundcore-p30i-anker",
+    "name": "Fone de Ouvido Bluetooth 5.4 Soundcore P30i da Anker, Cancelamento de Ruído Adaptativo, Estojo 2-em-1 com Suporte para Celular",
+    "category": "Casa e eletrodomésticos",
+    "store": "Mercado Livre",
+    "price": 196.60,
+    "oldPrice": 389.00,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_605237-MLA99957853439_112025-O.webp",
+    "link": "https://meli.la/2L2PuWX"
+  },
+  {
+    "id": "mercadolivre-tenis-fila-vector-masculino",
+    "name": "Tênis Fila Vector Masculino Confortável Estilo Esportivo",
+    "category": "Tênis",
+    "store": "Mercado Livre",
+    "price": 175.90,
+    "oldPrice": 299.99,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_890716-MLB108412872577_032026-O-tnis-fila-vector-masculino-confortavel-estilo-esportivo.webp",
+    "link": "https://meli.la/1LBmqT8"
+  },
+  {
+    "id": "mercadolivre-suporte-tv-elg-articulado-26-65",
+    "name": "Suporte Articulado de Parede TV 26 a 65 Polegadas 30kg ELG Giratório Inclinável",
+    "category": "Casa e eletrodomésticos",
+    "store": "Mercado Livre",
+    "price": 87.20,
+    "oldPrice": 169.90,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_833118-MLA116160731828_092026-O.webp",
+    "link": "https://meli.la/2WN3KDW"
+  },
+  {
+    "id": "mercadolivre-power-bank-20000mah-casenn",
+    "name": "Carregador Portátil 20000mAh Turbo 22.5W Power Bank Premium Universal Casenn",
+    "category": "Casa e eletrodomésticos",
+    "store": "Mercado Livre",
+    "price": 105.53,
+    "oldPrice": 159.90,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_614937-MLA96889123348_112025-O.webp",
+    "link": "https://meli.la/2HMzUkV"
+  },
+  {
+    "id": "mercadolivre-conjunto-fitness-bicolor-feminino",
+    "name": "Conjunto Fitness Bicolor Suplex Premium Feminino Academia",
+    "category": "Moda",
+    "store": "Mercado Livre",
+    "price": 79.90,
+    "oldPrice": 149.90,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_796482-MLB105238701224_012026-O-conjunto-fitness-bicolor-suplex-premium-feminino-academia.webp",
+    "link": "https://meli.la/2KZapRh"
+  },
+  {
+    "id": "amazon-fritadeira-britania-55l-bfr50-redstone",
+    "name": "Fritadeira Air Fryer Britânia 5,5L 1500W BFR50 Redstone 220V",
+    "category": "Casa e eletrodomésticos",
+    "store": "Amazon",
+    "price": 289.00,
+    "oldPrice": 425.00,
+    "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/31PQckP05aL._AC_.jpg",
+    "link": "https://www.amazon.com.br/dp/B0CRBJYG6P?tag=achouoferta20-20"
+  },
+  {
+    "id": "shopee-carrinho-organizador-multiuso-4-camadas",
+    "name": "Carrinho Organizador Móvel Fácil Montar 4 Andares Multiuso com Rodinhas",
+    "category": "Casa e eletrodomésticos",
+    "store": "Shopee",
+    "price": 39.99,
+    "oldPrice": 99.99,
+    "image": "https://down-br.img.susercontent.com/file/br-11110105-7r98o-luupailf2haw03",
+    "link": "https://s.shopee.com.br/3LQwABGubd"
+  },
+  {
     "id": "mercadolivre-tenis-newbalance-freshfoam-1080-v14",
     "name": "Tênis New Balance Fresh Foam 1080 V14 M",
     "category": "Tênis",
