@@ -1,10 +1,10 @@
 {
-  "code": "MLVANTAGEM",
+  "code": "MLCOMPRANDO",
   "discountLabel": "30% OFF",
   "minPurchase": 1,
   "maxDiscount": 500,
   "store": "Mercado Livre",
-  "validUntil": "2026-10-13",
+  "validUntil": "2026-10-31",
   "source": "Canal oficial Afiliados e Criadores Mercado Livre Brasil (Telegram)",
-  "note": "Cupom generico valido para produtos elegiveis do Mercado Livre, enquanto durarem os estoques. Trocado do BATEUPRONTOCUPOM (vencia 05.10) por ter mesmo desconto e validade mais longa (13.10)."
+  "note": "Cupom generico valido para produtos elegiveis do Mercado Livre, enquanto durarem os estoques. Trocado do MLVANTAGEM (vencia 13.10) por ter mesmo desconto e mesmos limites (min R$1, max R$500), mas validade mais longa (31.10)."
 }
