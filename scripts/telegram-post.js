@@ -7,16 +7,8 @@ const DELAY_BETWEEN_POSTS_MS = 2000;
 const root = path.join(__dirname, '..');
 const productsPath = path.join(root, 'products.json');
 const statePath = path.join(root, 'telegram-state.json');
-const couponPath = path.join(root, 'telegram-coupon.json');
 
 const products = JSON.parse(fs.readFileSync(productsPath, 'utf8'));
-
-let coupon = null;
-if (fs.existsSync(couponPath)) {
-  const c = JSON.parse(fs.readFileSync(couponPath, 'utf8'));
-  const today = new Date().toISOString().slice(0, 10);
-  if (!c.validUntil || c.validUntil >= today) coupon = c;
-}
 
 let state = { lastIndex: -1 };
 if (fs.existsSync(statePath)) {
@@ -44,11 +36,6 @@ function buildCaption(p) {
   }
   lines.push('');
   lines.push(`\u{1F517} ${p.link}`);
-
-  if (coupon && p.store === coupon.store) {
-    lines.push('');
-    lines.push(`\u{1F4B0} Cupom bônus: ${coupon.code} (${coupon.discountLabel}, até R$ ${brl(coupon.maxDiscount)}, compra mín. R$ ${brl(coupon.minPurchase)})`);
-  }
 
   lines.push('');
   lines.push('(Anúncio)');
