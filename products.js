@@ -3100,4 +3100,46 @@ window.ACHOU_PRODUCTS = [
     isDemo: false,
     createdAt: "2026-09-19T02:07:00-03:00"
   },
+  {
+    id: "mercadolivre-impressora-hp-smart-tank-584",
+    name: "Impressora Multifuncional HP Smart Tank 584 - Preta",
+    category: "Eletrônicos",
+    store: "Mercado Livre",
+    price: 808.99,
+    oldPrice: 1399.00,
+    image: "https://http2.mlstatic.com/D_Q_NP_2X_797897-MLA116198687211_082026-AB.webp",
+    emoji: "🖨️",
+    link: "https://meli.la/2pu8Syf",
+    featured: false,
+    isDemo: false,
+    createdAt: "2026-09-19T12:00:00-03:00"
+  },
+  {
+    id: "mercadolivre-toalhas-buddemeyer-bella-4pc",
+    name: "Jogo De Toalhas Buddemeyer Bella Extra Soft Banho 4 Grafite/cinza Lisa",
+    category: "Enxoval",
+    store: "Mercado Livre",
+    price: 137.75,
+    oldPrice: 229.90,
+    image: "https://http2.mlstatic.com/D_Q_NP_2X_992849-MLA100187157773_122025-AB.webp",
+    emoji: "🛁",
+    link: "https://meli.la/2fbBKvV",
+    featured: false,
+    isDemo: false,
+    createdAt: "2026-09-19T12:01:00-03:00"
+  },
+  {
+    id: "mercadolivre-kit-2-cameras-icsee-hw",
+    name: "Kit 2 Câmeras Segurança Ip Interna Externa Wifi iCSee Infravermelho Prova D'Água - HW",
+    category: "Eletrônicos",
+    store: "Mercado Livre",
+    price: 179.99,
+    oldPrice: 349.00,
+    image: "https://http2.mlstatic.com/D_Q_NP_2X_694546-MLA117038112537_092026-AB.webp",
+    emoji: "📹",
+    link: "https://meli.la/19urCxK",
+    featured: false,
+    isDemo: false,
+    createdAt: "2026-09-19T12:02:00-03:00"
+  },
 ];
