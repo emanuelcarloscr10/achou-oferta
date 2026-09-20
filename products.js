@@ -1129,20 +1129,6 @@ window.ACHOU_PRODUCTS = [
     checkedAt: "2026-09-18T20:00:00-03:00"
   },
   {
-    id: "mercadolivre-sanduicheira-elgin-brunchtime",
-    name: "Sanduicheira Brunch Time 2 Em 1 Elgin Antiaderente Preta",
-    category: "Casa e eletrodomésticos",
-    store: "Mercado Livre",
-    price: 61.38,
-    oldPrice: 78.50,
-    image: "https://http2.mlstatic.com/D_Q_NP_2X_787291-MLA114324644258_082026-AB.webp",
-    emoji: "🥪",
-    link: "https://meli.la/1Vf4gVF",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-09-15T20:03:00-03:00"
-  },
-  {
     id: "mercadolivre-galaxy-a17",
     name: "Celular Samsung Galaxy A17 Com Ia, 256gb, 8gb Ram, Câm De 50mp, Tela De 6.7 , Nfc, Ip54 - Preto 4G",
     category: "Celulares",
@@ -1182,6 +1168,7 @@ window.ACHOU_PRODUCTS = [
     image: "https://http2.mlstatic.com/D_Q_NP_2X_831434-MLA96401363339_102025-AB.webp",
     emoji: "📱",
     link: "https://meli.la/2pkKBdh",
+    checkedAt: "2026-09-20T09:41:49-03:00",
     featured: false,
     isDemo: false,
     createdAt: "2026-09-15T20:07:00-03:00"
@@ -1191,11 +1178,12 @@ window.ACHOU_PRODUCTS = [
     name: "iPhone 17 256 GB 8 GB Preto - Distribuidor Autorizado",
     category: "Celulares",
     store: "Mercado Livre",
-    price: 5299.00,
+    price: 5909.09,
     oldPrice: 7999.00,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_724430-MLA97899894923_112025-AB.webp",
     emoji: "📱",
     link: "https://meli.la/1RC19nX",
+    checkedAt: "2026-09-20T09:41:49-03:00",
     featured: false,
     isDemo: false,
     createdAt: "2026-09-15T20:08:00-03:00"
@@ -1210,6 +1198,7 @@ window.ACHOU_PRODUCTS = [
     image: "https://http2.mlstatic.com/D_Q_NP_2X_739019-MLA95656293708_102025-AB.webp",
     emoji: "📱",
     link: "https://meli.la/2pw7zXM",
+    checkedAt: "2026-09-20T09:41:49-03:00",
     featured: false,
     isDemo: false,
     createdAt: "2026-09-15T20:09:00-03:00"
@@ -1224,6 +1213,7 @@ window.ACHOU_PRODUCTS = [
     image: "https://http2.mlstatic.com/D_Q_NP_2X_697288-MLA100482486016_122025-AB.webp",
     emoji: "📺",
     link: "https://meli.la/2C2GGUz",
+    checkedAt: "2026-09-20T09:41:49-03:00",
     featured: true,
     isDemo: false,
     createdAt: "2026-09-15T20:10:00-03:00"
@@ -1238,6 +1228,7 @@ window.ACHOU_PRODUCTS = [
     image: "https://http2.mlstatic.com/D_Q_NP_2X_691057-MLA100479527690_122025-AB.webp",
     emoji: "📺",
     link: "https://meli.la/32ZuhZ8",
+    checkedAt: "2026-09-20T09:41:49-03:00",
     featured: false,
     isDemo: false,
     createdAt: "2026-09-15T20:11:00-03:00"
@@ -1252,6 +1243,7 @@ window.ACHOU_PRODUCTS = [
     image: "https://http2.mlstatic.com/D_Q_NP_2X_753324-MLA108743670040_032026-AB.webp",
     emoji: "📺",
     link: "https://meli.la/2KRN6tW",
+    checkedAt: "2026-09-20T09:41:49-03:00",
     featured: false,
     isDemo: false,
     createdAt: "2026-09-15T20:12:00-03:00"
@@ -1266,6 +1258,7 @@ window.ACHOU_PRODUCTS = [
     image: "https://http2.mlstatic.com/D_Q_NP_2X_739445-MLA106908065058_022026-AB.webp",
     emoji: "📺",
     link: "https://meli.la/133rCMk",
+    checkedAt: "2026-09-20T09:41:49-03:00",
     featured: false,
     isDemo: false,
     createdAt: "2026-09-15T20:13:00-03:00"
@@ -1289,11 +1282,12 @@ window.ACHOU_PRODUCTS = [
     name: "Tênis Masculino Feminino Kappa Park 2.0 Original",
     category: "Tênis",
     store: "Mercado Livre",
-    price: 77.89,
+    price: 93.95,
     oldPrice: 169.99,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_677665-MLB115936957238_092026-AB-tnis-masculino-feminino-kappa-park-20-original.webp",
     emoji: "👟",
     link: "https://meli.la/2SSrKnj",
+    checkedAt: "2026-09-20T09:41:49-03:00",
     featured: true,
     isDemo: false,
     createdAt: "2026-09-15T20:15:00-03:00"
