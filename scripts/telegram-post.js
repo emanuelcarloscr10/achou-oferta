@@ -66,22 +66,56 @@ async function postProduct(p) {
   }
 }
 
+// Produtos novos primeiro: state.postedIds guarda os ids ja postados. Todo produto
+// que ainda nao esta nessa lista e "novo" e sai antes da rotacao normal, do mais
+// recente (fim de products.json) para o mais antigo. Sem postedIds (estado antigo),
+// a fila de novos fica desligada para nao postar o catalogo inteiro de uma vez.
+function saveState(extra) {
+  const ids = new Set(products.map((x) => x.id));
+  const postedIds = Array.isArray(state.postedIds)
+    ? state.postedIds.filter((id) => ids.has(id))
+    : undefined;
+  state = { ...state, ...extra, postedIds, lastPostedAt: new Date().toISOString() };
+  if (postedIds === undefined) delete state.postedIds;
+  fs.writeFileSync(statePath, JSON.stringify(state, null, 2) + '\n');
+}
+
+function nextNewProductIndex() {
+  if (!Array.isArray(state.postedIds)) return -1;
+  const posted = new Set(state.postedIds);
+  for (let i = products.length - 1; i >= 0; i--) {
+    if (!posted.has(products[i].id)) return i;
+  }
+  return -1;
+}
+
 async function main() {
   const batchSize = Math.min(BATCH_SIZE, products.length);
 
   for (let i = 0; i < batchSize; i++) {
-    const index = (Number(state.lastIndex) + 1) % products.length;
+    const newIndex = nextNewProductIndex();
+    let index;
+    let isNew = false;
+    if (newIndex >= 0) {
+      index = newIndex;
+      isNew = true;
+    } else {
+      index = (Number(state.lastIndex) + 1) % products.length;
+    }
     const p = products[index];
 
     await postProduct(p);
 
-    state = {
-      lastIndex: index,
-      lastProductId: p.id,
-      lastPostedAt: new Date().toISOString(),
-    };
-    fs.writeFileSync(statePath, JSON.stringify(state, null, 2) + '\n');
-    console.log(`Posted [${index}/${products.length}]: ${p.name}`);
+    if (isNew) {
+      state.postedIds = [...state.postedIds, p.id];
+      saveState({});
+    } else {
+      if (Array.isArray(state.postedIds) && !state.postedIds.includes(p.id)) {
+        state.postedIds = [...state.postedIds, p.id];
+      }
+      saveState({ lastIndex: index, lastProductId: p.id });
+    }
+    console.log(`Posted ${isNew ? 'NOVO ' : ''}[${index}/${products.length}]: ${p.name}`);
 
     if (i < batchSize - 1) await sleep(DELAY_BETWEEN_POSTS_MS);
   }
