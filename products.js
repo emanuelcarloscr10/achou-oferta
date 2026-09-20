@@ -1547,14 +1547,15 @@ window.ACHOU_PRODUCTS = [
     name: "Smart TV TCL 55 Polegadas QLED 4K P8K WiFi Bluetooth Google TV 144Hz HDR10+ Dolby Atmos Vision 55P8K",
     category: "TVs",
     store: "Mercado Livre",
-    price: 2996.00,
-    oldPrice: 4849.00,
+    price: 2754.05,
+    oldPrice: 3099.00,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_665053-MLA115948927163_082026-AB.webp",
     emoji: "📺",
     link: "https://meli.la/1pCtXF3",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-15T20:14:00-03:00"
+    createdAt: "2026-09-15T20:14:00-03:00",
+    checkedAt: "2026-09-20T18:45:00-03:00"
   },
   {
     id: "mercadolivre-tenis-kappa-park-20",
@@ -1583,7 +1584,8 @@ window.ACHOU_PRODUCTS = [
     link: "https://meli.la/2SyX5rR",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-15T20:16:00-03:00"
+    createdAt: "2026-09-15T20:16:00-03:00",
+    checkedAt: "2026-09-20T18:45:00-03:00"
   },
   {
     id: "mercadolivre-tenis-kappa-zenit",
@@ -1597,35 +1599,38 @@ window.ACHOU_PRODUCTS = [
     link: "https://meli.la/14TQ8ZD",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-15T20:17:00-03:00"
+    createdAt: "2026-09-15T20:17:00-03:00",
+    checkedAt: "2026-09-20T18:45:00-03:00"
   },
   {
     id: "mercadolivre-tenis-olympikus-delta-122",
     name: "Tênis Feminino Delta 122 Olympikus Marinho/purple Liso 36 Br",
     category: "Tênis",
     store: "Mercado Livre",
-    price: 133.00,
+    price: 171.00,
     oldPrice: 229.99,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_836066-MLA98895341533_112025-AB.webp",
     emoji: "👟",
     link: "https://meli.la/2uT7iDq",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-15T20:18:00-03:00"
+    createdAt: "2026-09-15T20:18:00-03:00",
+    checkedAt: "2026-09-20T18:45:00-03:00"
   },
   {
     id: "mercadolivre-tenis-sandrini-aero-run",
     name: "Tênis Sandrini Aero Run Academia Caminhada Treino",
     category: "Tênis",
     store: "Mercado Livre",
-    price: 52.99,
+    price: 59.99,
     oldPrice: 149.99,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_800756-MLB114124488109_072026-AB-tnis-sandrini-aero-run-academia-caminhada-treino.webp",
     emoji: "👟",
     link: "https://meli.la/29zo8jd",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-15T20:19:00-03:00"
+    createdAt: "2026-09-15T20:19:00-03:00",
+    checkedAt: "2026-09-20T18:45:00-03:00"
   },
   {
     id: "mercadolivre-kit-bermuda-dryfit-academia",
@@ -1639,7 +1644,8 @@ window.ACHOU_PRODUCTS = [
     link: "https://meli.la/1C9Azjx",
     featured: true,
     isDemo: false,
-    createdAt: "2026-09-15T20:20:00-03:00"
+    createdAt: "2026-09-15T20:20:00-03:00",
+    checkedAt: "2026-09-20T18:45:00-03:00"
   },
   {
     id: "mercadolivre-kit-bermuda-tactel-academia",
@@ -1653,7 +1659,8 @@ window.ACHOU_PRODUCTS = [
     link: "https://meli.la/1icEVqN",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-15T20:21:00-03:00"
+    createdAt: "2026-09-15T20:21:00-03:00",
+    checkedAt: "2026-09-20T18:45:00-03:00"
   },
   {
     id: "mercadolivre-conjunto-fitness-calca-top",
@@ -1667,7 +1674,8 @@ window.ACHOU_PRODUCTS = [
     link: "https://meli.la/1FwJjAM",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-15T20:22:00-03:00"
+    createdAt: "2026-09-15T20:22:00-03:00",
+    checkedAt: "2026-09-20T18:45:00-03:00"
   },
   {
     id: "mercadolivre-conjunto-legging-cropped",
@@ -1681,7 +1689,8 @@ window.ACHOU_PRODUCTS = [
     link: "https://meli.la/2f2cd84",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-15T20:23:00-03:00"
+    createdAt: "2026-09-15T20:23:00-03:00",
+    checkedAt: "2026-09-20T18:45:00-03:00"
   },
   {
     id: "mercadolivre-kit-calca-moletom-academia",
@@ -1695,20 +1704,8 @@ window.ACHOU_PRODUCTS = [
     link: "https://meli.la/2eds7wB",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-15T20:24:00-03:00"
-  },
-  {
-    id: "shopee-livro-100-primeiras-palavras",
-    name: "Minhas 100 primeiras palavras | Aprendizado com muita diversão",
-    category: "Livros",
-    store: "Shopee",
-    price: 14.99,
-    image: "https://down-bs-br.img.susercontent.com/sg-11134201-7rdw9-m160v7qrh41081.webp",
-    emoji: "📚",
-    link: "https://s.shopee.com.br/4LJQ3a8QfH",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-09-16T11:40:00-03:00"
+    createdAt: "2026-09-15T20:24:00-03:00",
+    checkedAt: "2026-09-20T18:45:00-03:00"
   },
   {
     id: "shopee-livro-infantil-falante-bilingue",
