@@ -1190,21 +1190,6 @@ window.ACHOU_PRODUCTS = [
     createdAt: "2026-09-15T20:09:00-03:00"
   },
   {
-    id: "mercadolivre-tv-philco-43-p43vik",
-    name: "Smart Tv 43 Philco P43vik Roku Led Dolby Audio Wi-fi Hdmi Hdr Full Hd 110/220v",
-    category: "TVs",
-    store: "Mercado Livre",
-    price: 1449.00,
-    oldPrice: 2499.00,
-    image: "https://http2.mlstatic.com/D_Q_NP_2X_697288-MLA100482486016_122025-AB.webp",
-    emoji: "📺",
-    link: "https://meli.la/2C2GGUz",
-    checkedAt: "2026-09-20T09:41:49-03:00",
-    featured: true,
-    isDemo: false,
-    createdAt: "2026-09-15T20:10:00-03:00"
-  },
-  {
     id: "mercadolivre-tv-philco-32-p32vik",
     name: "Smart Tv 32 Philco P32vik Roku Led Dolby Audio Hdr Wi-fi 110/220v",
     category: "TVs",
@@ -2781,20 +2766,6 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-19T12:01:00-03:00"
-  },
-  {
-    id: "mercadolivre-kit-2-cameras-icsee-hw",
-    name: "Kit 2 Câmeras Segurança Ip Interna Externa Wifi iCSee Infravermelho Prova D'Água - HW",
-    category: "Eletrônicos",
-    store: "Mercado Livre",
-    price: 179.99,
-    oldPrice: 349.00,
-    image: "https://http2.mlstatic.com/D_Q_NP_2X_694546-MLA117038112537_092026-AB.webp",
-    emoji: "📹",
-    link: "https://meli.la/19urCxK",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-09-19T12:02:00-03:00"
   },
   {
     id: "mercadolivre-smartwatch-samsung-galaxy-watch-8-40mm-bt-gps-branco-com-pul",
