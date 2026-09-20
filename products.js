@@ -3160,20 +3160,6 @@ window.ACHOU_PRODUCTS = [
     createdAt: "2026-09-20T12:45:00-03:00"
   },
   {
-    id: "mercadolivre-tv-lg-qned70-50qned70bsa",
-    name: "Smart TV LG QNED evo AI QNED70 50\" 50QNED70BSA 2026 4K UHD",
-    category: "TVs",
-    store: "Mercado Livre",
-    price: 2569.32,
-    oldPrice: 3294.00,
-    image: "https://http2.mlstatic.com/D_NQ_NP_933276-MLA112010979660_062026-O.webp",
-    emoji: "📺",
-    link: "https://meli.la/2tCtWXT",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-09-20T12:46:00-03:00"
-  },
-  {
     id: "mercadolivre-notebook-positivo-vision-c15m-celeron",
     name: "Notebook Positivo Vision C15M Intel Celeron N4500 Windows 11 Home 4GB RAM 128GB eMMC Tela 15\" Full HD IPS Antirreflexo - Minitela e Tecla Copilot - Cinza",
     category: "Notebooks",
