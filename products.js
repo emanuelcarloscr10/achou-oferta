@@ -1708,19 +1708,6 @@ window.ACHOU_PRODUCTS = [
     checkedAt: "2026-09-20T18:45:00-03:00"
   },
   {
-    id: "shopee-livro-infantil-falante-bilingue",
-    name: "Livro Infantil Falante Bilíngue Português/Inglês Educativo Interativo com Som",
-    category: "Livros",
-    store: "Shopee",
-    price: 38.21,
-    image: "https://down-bs-br.img.susercontent.com/br-11134207-820lc-mscge5xo2rk7e9.webp",
-    emoji: "📚",
-    link: "https://s.shopee.com.br/3VkJ43BbM8",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-09-16T11:41:00-03:00"
-  },
-  {
     id: "shopee-livro-365-habitos-poderosos",
     name: "365 Hábitos Simples e Poderosos",
     category: "Livros",
