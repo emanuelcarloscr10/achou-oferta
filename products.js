@@ -3870,20 +3870,6 @@ window.ACHOU_PRODUCTS = [
     createdAt: "2026-09-21T18:55:00-03:00"
   },
   {
-    id: "shopee-smartwatch-t800-ultra-serie-8",
-    name: "2026 Nova Série 8 Relógio T800 Ultra Smart Watch Esportivo Sem Fio À Prova D'água T800 Ultra2 MAX",
-    category: "Smartwatch",
-    store: "Shopee",
-    price: 45.88,
-    oldPrice: 169.00,
-    image: "https://down-br.img.susercontent.com/file/sg-11134201-7rdym-lxrzfhio6fhl9d",
-    emoji: "⌚",
-    link: "https://s.shopee.com.br/2BF3wWB8JG",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-09-21T18:56:00-03:00"
-  },
-  {
     id: "mercadolivre-samsung-galaxy-watch-ultra-47mm-lte-titanio",
     name: "Samsung Galaxy Watch Ultra 47mm LTE Titanio cinza.",
     category: "Smartwatch",
@@ -3924,61 +3910,5 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-21T18:59:00-03:00"
-  },
-  {
-    id: "shopee-smartwatch-s10-mini-38mm",
-    name: "2026 S10 mini 38mm Mais Recente Smartwatch Relógio Inteligente Série IWO 10, Lembrete De Mensagem, Personalizar Papel",
-    category: "Smartwatch",
-    store: "Shopee",
-    price: 49.99,
-    oldPrice: 100.00,
-    image: "https://down-br.img.susercontent.com/file/cn-11134207-820l4-mf80cp0cuqyzb4",
-    emoji: "⌚",
-    link: "https://s.shopee.com.br/3LR1RmmOou",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-09-21T20:20:00-03:00"
-  },
-  {
-    id: "shopee-smartwatch-d20-y68-foto-tela",
-    name: "Smartwatch D20 relógio Colocar foto com tela hd y68 bluetooth com lembrete chamada monitor de frequência",
-    category: "Smartwatch",
-    store: "Shopee",
-    price: 21.99,
-    oldPrice: 69.99,
-    image: "https://down-br.img.susercontent.com/file/sg-11134201-7rbk0-lqqgjmiq5mao68",
-    emoji: "⌚",
-    link: "https://s.shopee.com.br/5AsfdGhCML",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-09-21T20:21:00-03:00"
-  },
-  {
-    id: "shopee-smartwatch-s20-pro-max",
-    name: "2026 Novo Watch S20 PRO Max Relógio 10 Smart Watch Homens BT Chamada Sempre Em Exibição Temperatura",
-    category: "Smartwatch",
-    store: "Shopee",
-    price: 39.88,
-    oldPrice: 129.00,
-    image: "https://down-br.img.susercontent.com/file/br-11134207-81ztn-ml5rhfmfr405fa",
-    emoji: "⌚",
-    link: "https://s.shopee.com.br/4fwP2Lj6NG",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-09-21T20:22:00-03:00"
-  },
-  {
-    id: "shopee-smartwatch-9-pro-carregamento-sem-fio",
-    name: "2026 smartwatch 9 pro Carregamento sem fio relógio inteligente 2.02 inches Série 9 Bluetooth Call",
-    category: "Smartwatch",
-    store: "Shopee",
-    price: 49.88,
-    oldPrice: 150.00,
-    image: "https://down-br.img.susercontent.com/file/sg-11134201-7rdw9-lzabd7yd64ru41",
-    emoji: "⌚",
-    link: "https://s.shopee.com.br/3VkRe5llTx",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-09-21T20:23:00-03:00"
   },
 ];
