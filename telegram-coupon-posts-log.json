@@ -17,5 +17,15 @@
     "discountLabel": "R$20 OFF",
     "validUntil": null,
     "publishedAt": "2026-09-18T11:19:00-03:00"
+  },
+  {
+    "code": "AMODESCONTO",
+    "store": "Mercado Livre",
+    "category": "Casa e eletrodomésticos",
+    "type": "coupon",
+    "discountLabel": "15% OFF",
+    "validUntil": "2026-09-27",
+    "publishedAt": "2026-09-23T17:48:00-03:00",
+    "note": "Cupom categoria Casas Bahia (loja oficial no Mercado Livre), postado no canal Afiliados e Criadores Mercado Livre Brasil em 22/09 (lote Monday). Link bit.ly/4i5LKEG verificado apontando para lista.mercadolivre.com.br antes da publicacao. Confirmado publicado no canal Achou Oferta - Promocoes as 17:48."
   }
 ]
