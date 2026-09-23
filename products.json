@@ -1242,8 +1242,10 @@
     "category": "Livros",
     "store": "Shopee",
     "price": 21.57,
+    "oldPrice": 39.90,
     "image": "https://down-bs-br.img.susercontent.com/sg-11134201-7rdw1-m16074d6ryce26.webp",
-    "link": "https://s.shopee.com.br/3LQsrkCEh7"
+    "link": "https://s.shopee.com.br/3LQsrkCEh7",
+    "checkedAt": "2026-09-23T19:10:00-03:00"
   },
   {
     "id": "shopee-livro-pequeno-principe-luxo",
@@ -1251,8 +1253,10 @@
     "category": "Livros",
     "store": "Shopee",
     "price": 14.90,
+    "oldPrice": 29.90,
     "image": "https://down-bs-br.img.susercontent.com/br-11134207-81z1k-mhm2ue90yxvm96.webp",
-    "link": "https://s.shopee.com.br/3g3jGMAy1D"
+    "link": "https://s.shopee.com.br/3g3jGMAy1D",
+    "checkedAt": "2026-09-23T19:10:00-03:00"
   },
   {
     "id": "shopee-livro-mulheres-com-deus-devocional",
@@ -1260,161 +1264,131 @@
     "category": "Livros",
     "store": "Shopee",
     "price": 17.94,
+    "oldPrice": 39.90,
     "image": "https://down-bs-br.img.susercontent.com/sg-11134201-7rdxz-mc9mb2wz7xjld0.webp",
-    "link": "https://s.shopee.com.br/2qUcGpE8i4"
+    "link": "https://s.shopee.com.br/2qUcGpE8i4",
+    "checkedAt": "2026-09-23T19:10:00-03:00"
   },
   {
     "id": "shopee-livro-colorir-cozy-time",
     "name": "Livro de Colorir Cozy Time Ilustrações Exclusivas 48 Páginas",
     "category": "Livros",
     "store": "Shopee",
-    "price": 24.90,
+    "price": 5.90,
+    "oldPrice": 24.90,
     "image": "https://down-bs-br.img.susercontent.com/br-11134207-820mf-mr0jkpdouxae52.webp",
-    "link": "https://s.shopee.com.br/2gBC4WEm33"
+    "link": "https://s.shopee.com.br/2gBC4WEm33",
+    "checkedAt": "2026-09-23T19:10:00-03:00"
   },
   {
     "id": "shopee-livro-poder-do-autocontrole",
     "name": "O Poder do Autocontrole: A Chave para a Grandeza Pessoal",
     "category": "Livros",
     "store": "Shopee",
-    "price": 12.16,
+    "price": 19.90,
+    "oldPrice": 29.90,
     "image": "https://down-bs-br.img.susercontent.com/sg-11134201-8224t-mhjcw6845n284a.webp",
-    "link": "https://s.shopee.com.br/3B7SfRCs2A"
+    "link": "https://s.shopee.com.br/3B7SfRCs2A",
+    "checkedAt": "2026-09-23T19:10:00-03:00"
   },
   {
     "id": "shopee-livro-primeira-biblioteca-box10",
     "name": "Coleção Primeira Biblioteca Volume 01 - Box com 10 Livrinhos",
     "category": "Livros",
     "store": "Shopee",
-    "price": 40.74,
+    "price": 40.44,
+    "oldPrice": 99.90,
     "image": "https://down-bs-br.img.susercontent.com/sg-11134201-7rccq-m68eag264wcg7a.webp",
-    "link": "https://s.shopee.com.br/30o2T8DVN9"
+    "link": "https://s.shopee.com.br/30o2T8DVN9",
+    "checkedAt": "2026-09-23T19:10:00-03:00"
   },
   {
     "id": "shopee-livro-365-dias-amor-com-deus",
     "name": "365 Dias Amor com Deus - Devocional",
     "category": "Livros",
     "store": "Shopee",
-    "price": 17.78,
+    "price": 17.48,
+    "oldPrice": 39.90,
     "image": "https://down-bs-br.img.susercontent.com/br-11134207-7r98o-m1ztnbj51scxa7.webp",
-    "link": "https://s.shopee.com.br/2BEvTbGg40"
-  },
-  {
-    "id": "shopee-celular-moto-g17-4g-128gb",
-    "name": "Smartphone Motorola Moto G17 4G - 128GB 12GB (4GB RAM + 8GB RAM Boost) camera 50MP Sony Lytia 600",
-    "category": "Celulares",
-    "store": "Shopee",
-    "price": 894.78,
-    "image": "https://down-bs-br.img.susercontent.com/sg-11134201-8262x-mkws1i0b9f5v03.webp",
-    "link": "https://s.shopee.com.br/5AsX3QSaP7"
-  },
-  {
-    "id": "shopee-celular-realme-note-50-60-60x",
-    "name": "Smartphone Realme Note 50 60 60X 256/4GB 128GB/4GB 64/3GB - 1 Ano de Garantia Original Lacrado",
-    "category": "Celulares",
-    "store": "Shopee",
-    "price": 789.00,
-    "image": "https://down-bs-br.img.susercontent.com/br-11134207-820mg-mna33a49zpc083.webp",
-    "link": "https://s.shopee.com.br/4fwGSVUUQ2"
-  },
-  {
-    "id": "shopee-celular-galaxy-a17-128gb-cinza",
-    "name": "Smartphone Samsung Galaxy A17, 4G, 128GB, 4GB RAM Cinza SM-A175F/DS",
-    "category": "Celulares",
-    "store": "Shopee",
-    "price": 929.00,
-    "image": "https://down-bs-br.img.susercontent.com/br-11134207-820m5-msbmb9offax37f.webp",
-    "link": "https://s.shopee.com.br/4qFgeoTr55"
+    "link": "https://s.shopee.com.br/2BEvTbGg40",
+    "checkedAt": "2026-09-23T19:10:00-03:00"
   },
   {
     "id": "shopee-celular-moto-g86-5g-256gb",
     "name": "Smartphone Motorola Moto g86 5G - 256GB, 8GB RAM+16GB Ram Boost 50MP Sony camera OIS Moto AI",
     "category": "Celulares",
     "store": "Shopee",
-    "price": 1776.67,
+    "price": 1552.81,
+    "oldPrice": 1776.67,
     "image": "https://down-bs-br.img.susercontent.com/sg-11134201-821gc-mgp752kbcjdad3.webp",
-    "link": "https://s.shopee.com.br/6Al4FGOmNC"
+    "link": "https://s.shopee.com.br/6Al4FGOmNC",
+    "checkedAt": "2026-09-23T19:10:00-03:00"
   },
   {
     "id": "shopee-celular-galaxy-a17-256gb-tripla",
     "name": "Smartphone A17 256GB 8GB RAM 4G Câmera Tripla Traseira 50 MP Samsung",
     "category": "Celulares",
     "store": "Shopee",
-    "price": 1299.90,
+    "price": 1136.11,
+    "oldPrice": 1299.90,
     "image": "https://down-bs-br.img.susercontent.com/sg-11134201-82274-mhkhgrof6brabd.webp",
-    "link": "https://s.shopee.com.br/60Re2xPPiB"
-  },
-  {
-    "id": "shopee-celular-xiaomi-poco-c85-256gb",
-    "name": "Smartphone Xiaomi POCO C85 256GB 8GB Global Version Original Sealed, 6.9\" LCD Screen",
-    "category": "Celulares",
-    "store": "Shopee",
-    "price": 1045.00,
-    "image": "https://down-bs-br.img.susercontent.com/br-11134207-820ld-moppofluqcjp03.webp",
-    "link": "https://s.shopee.com.br/4LJQ3tVl5s"
-  },
-  {
-    "id": "shopee-celular-moto-g06-4g-256gb-bege",
-    "name": "Smartphone Motorola Moto G06 4G 256GB 4GB RAM Câmera Traseira 50MP + Câmera Frontal 8MP Tela de 6,9\" 5200 mAh - Bege",
-    "category": "Celulares",
-    "store": "Shopee",
-    "price": 869.00,
-    "image": "https://down-bs-br.img.susercontent.com/sg-11134201-8260n-mkjj2alrvkec32.webp",
-    "link": "https://s.shopee.com.br/4VcqGCV7kv"
+    "link": "https://s.shopee.com.br/60Re2xPPiB",
+    "checkedAt": "2026-09-23T19:10:00-03:00"
   },
   {
     "id": "shopee-celular-moto-g47-5g-128gb-grafite",
     "name": "Smartphone Moto G47 5G 128GB Motorola - Grafite",
     "category": "Celulares",
     "store": "Shopee",
-    "price": 1443.32,
+    "price": 1179.93,
+    "oldPrice": 1421.10,
     "image": "https://down-bs-br.img.susercontent.com/sg-11134201-825al-mq7zpd51ph4xe5.webp",
-    "link": "https://s.shopee.com.br/40gZfHX1lq"
+    "link": "https://s.shopee.com.br/40gZfHX1lq",
+    "checkedAt": "2026-09-23T19:10:00-03:00"
   },
   {
     "id": "shopee-celular-moto-g17-256gb",
     "name": "Smartphone G17 Tela 6,7 Polegadas 256GB 4G Câmera 50MP Motorola",
     "category": "Celulares",
     "store": "Shopee",
-    "price": 1387.78,
+    "price": 1087.68,
+    "oldPrice": 1309.99,
     "image": "https://down-bs-br.img.susercontent.com/sg-11134201-82603-mlged3it5bt43e.webp",
-    "link": "https://s.shopee.com.br/4AzzraWOQt"
-  },
-  {
-    "id": "shopee-tv-hq-32-android",
-    "name": "Smart TV HQ 32\" HD tela sem Bordas Sistema Android Design Slim HQS32NKHM",
-    "category": "TVs",
-    "store": "Shopee",
-    "price": 977.17,
-    "image": "https://down-bs-br.img.susercontent.com/sg-11134201-7ratl-mb4317s4tber51.webp",
-    "link": "https://s.shopee.com.br/8AW8dQZukD"
+    "link": "https://s.shopee.com.br/4AzzraWOQt",
+    "checkedAt": "2026-09-23T19:10:00-03:00"
   },
   {
     "id": "shopee-tv-philco-43-qled-roku",
     "name": "Smart TV 43\" Philco QLED HDR10 Roku TV P43KRB",
     "category": "TVs",
     "store": "Shopee",
-    "price": 2209.90,
+    "price": 1941.11,
+    "oldPrice": 2209.90,
     "image": "https://down-bs-br.img.susercontent.com/sg-11134201-82594-mt5ouyoyymfc3e.webp",
-    "link": "https://s.shopee.com.br/8KpYpjZHPG"
+    "link": "https://s.shopee.com.br/8KpYpjZHPG",
+    "checkedAt": "2026-09-23T19:10:00-03:00"
   },
   {
     "id": "shopee-tv-hq-40-android12",
     "name": "Smart TV HQ 40\" Full HD tela sem bordas Android 12 design Slim HQS40NKHM",
     "category": "TVs",
     "store": "Shopee",
-    "price": 1346.74,
+    "price": 1234.06,
+    "oldPrice": 1411.96,
     "image": "https://down-bs-br.img.susercontent.com/sg-11134201-825ai-mftv8bdouqywd8.webp",
-    "link": "https://s.shopee.com.br/8V8z22Ye4J"
+    "link": "https://s.shopee.com.br/8V8z22Ye4J",
+    "checkedAt": "2026-09-23T19:10:00-03:00"
   },
   {
     "id": "shopee-tv-hq-qled-50",
     "name": "Smart TV HQ QLED 50 Polegadas HQ-QLED50SM 4K Wi-Fi Bluetooth, Dolby Audio, Apps, Netflix, YouTube e Prime Video, 3 HDMI",
     "category": "TVs",
     "store": "Shopee",
-    "price": 2009.78,
+    "price": 1633.52,
+    "oldPrice": 1869.02,
     "image": "https://down-bs-br.img.susercontent.com/sg-11134201-823ps-moobpaxang995c.webp",
-    "link": "https://s.shopee.com.br/AKadDPRfLa"
+    "link": "https://s.shopee.com.br/AKadDPRfLa",
+    "checkedAt": "2026-09-23T19:10:00-03:00"
   },
   {
     "id": "shopee-tv-philco-50-roku",
