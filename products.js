@@ -1721,19 +1721,6 @@ window.ACHOU_PRODUCTS = [
     createdAt: "2026-09-16T11:42:00-03:00"
   },
   {
-    id: "shopee-livro-interativo-som-bilingue",
-    name: "Livro Interativo com Som Bilíngue Português-Inglês Educacional",
-    category: "Livros",
-    store: "Shopee",
-    price: 38.90,
-    image: "https://down-bs-br.img.susercontent.com/br-11134207-820lg-msns4d9vp6h15b.webp",
-    emoji: "📚",
-    link: "https://s.shopee.com.br/3qN9SfAKgE",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-09-16T11:43:00-03:00"
-  },
-  {
     id: "shopee-livro-pequeno-principe-luxo",
     name: "O Pequeno Príncipe - Edição de Luxo Almofadada",
     category: "Livros",
@@ -1810,19 +1797,6 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-16T11:49:00-03:00"
-  },
-  {
-    id: "shopee-celular-moto-g06-128gb",
-    name: "Smartphone Motorola Moto g06 - 128GB 12GB (4GB RAM + 8GB Ram Boost) e Camera 50MP Bateria de 5200mAh",
-    category: "Celulares",
-    store: "Shopee",
-    price: 786.76,
-    image: "https://down-bs-br.img.susercontent.com/sg-11134201-821g3-mgzq4fbjcs20e1.webp",
-    emoji: "📱",
-    link: "https://s.shopee.com.br/50Z6r7TDk4",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-09-16T11:50:00-03:00"
   },
   {
     id: "shopee-celular-moto-g17-4g-128gb",
