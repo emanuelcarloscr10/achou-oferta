@@ -27,5 +27,15 @@
     "validUntil": "2026-09-27",
     "publishedAt": "2026-09-23T17:48:00-03:00",
     "note": "Cupom categoria Casas Bahia (loja oficial no Mercado Livre), postado no canal Afiliados e Criadores Mercado Livre Brasil em 22/09 (lote Monday). Link bit.ly/4i5LKEG verificado apontando para lista.mercadolivre.com.br antes da publicacao. Confirmado publicado no canal Achou Oferta - Promocoes as 17:48."
+  },
+  {
+    "code": "MELIKIDS",
+    "store": "Mercado Livre",
+    "category": "Brinquedos e Bebês",
+    "type": "coupon",
+    "discountLabel": "15% OFF",
+    "validUntil": "2026-09-27",
+    "publishedAt": "2026-09-24T07:46:00-03:00",
+    "note": "Cupom categoria Brinquedos e Bebes (min R$59, max R$50), postado no canal Afiliados e Criadores Mercado Livre Brasil em 21/09. Link bit.ly/46rgxEW resolvido via curl para lista.mercadolivre.com.br/_Container_toys-e-babys; publicado com o link oficial direto. Mensagem saiu por engano so como 'CUPOM ATIVO' e foi editada em seguida para o post completo; conteudo editado confirmado no canal as 07:46."
   }
 ]
