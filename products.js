@@ -1287,49 +1287,38 @@ window.ACHOU_PRODUCTS = [
     link: "https://meli.la/2cxibSk",
     featured: true,
     isDemo: false,
-    createdAt: "2026-09-16T18:10:00-03:00"
+    createdAt: "2026-09-16T18:10:00-03:00",
+    checkedAt: "2026-09-24T19:05:00-03:00"
   },
   {
     id: "mercadolivre-video-porteiro-hikvision-dskis603p",
     name: "Video Porteiro Ip Hikvision Ds-kis603-p Kit Interfone Cor Preto",
     category: "Casa e eletrodomésticos",
     store: "Mercado Livre",
-    price: 1566,
-    oldPrice: 1649,
+    price: 1519.90,
+    oldPrice: 1599.90,
     image: "https://http2.mlstatic.com/D_NQ_NP_755841-MLA100001899229_112025-O.webp",
     emoji: "🔔",
     link: "https://meli.la/1bCRpTo",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-16T18:11:00-03:00"
+    createdAt: "2026-09-16T18:11:00-03:00",
+    checkedAt: "2026-09-24T19:05:00-03:00"
   },
   {
     id: "mercadolivre-oculos-armani-exchange-4041sl",
     name: "Óculos De Sol Armani Exchange 4041sl 80789a Tam 58 XL Preto",
     category: "Moda",
     store: "Mercado Livre",
-    price: 450.05,
-    oldPrice: 620,
+    price: 389.86,
+    oldPrice: 449,
     image: "https://http2.mlstatic.com/D_NQ_NP_881015-MLU75602377290_042024-O.webp",
     emoji: "🕶️",
     link: "https://meli.la/1f3tRGv",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-16T18:12:00-03:00"
-  },
-  {
-    id: "mercadolivre-sofa-chesterfield-duque-zurcdecor",
-    name: "Sofá 2 Lugares Chesterfield Clássico Duque",
-    category: "Casa e eletrodomésticos",
-    store: "Mercado Livre",
-    price: 1187.49,
-    oldPrice: 1494.09,
-    image: "https://http2.mlstatic.com/D_NQ_NP_616554-MLA99910756133_112025-O.webp",
-    emoji: "🛋️",
-    link: "https://meli.la/1erC8U",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-09-16T18:13:00-03:00"
+    createdAt: "2026-09-16T18:12:00-03:00",
+    checkedAt: "2026-09-24T19:05:00-03:00"
   },
   {
     id: "mercadolivre-fritadeira-mondial-afon12l-bg",
@@ -1933,84 +1922,6 @@ window.ACHOU_PRODUCTS = [
     checkedAt: "2026-09-24T07:12:00-03:00"
   },
   {
-    id: "shopee-notebook-dell-latitude-5490-office",
-    name: "Notebook Dell Latitude 5490 Preto Core i5 8ª Ger 16GB SSD 256GB Win 10 Pro + Office (Recondicionado)",
-    category: "Notebooks",
-    store: "Shopee",
-    price: 2099.00,
-    image: "https://down-bs-br.img.susercontent.com/br-11134207-820mg-mpquirey93i87c.webp",
-    emoji: "💻",
-    link: "https://s.shopee.com.br/9zxmpc3vvV",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-09-16T12:24:00-03:00"
-  },
-  {
-    id: "shopee-notebook-samsung-book-i3-1tb",
-    name: "Notebook Samsung Book NP550XDA-KV3BR Intel Core i3 15,6\" HD 1 TB 4GB RAM Windows 11",
-    category: "Notebooks",
-    store: "Shopee",
-    price: 2590.00,
-    image: "https://down-bs-br.img.susercontent.com/br-11134207-7r98o-lu2as65mgaxxab.webp",
-    emoji: "💻",
-    link: "https://s.shopee.com.br/AUu3QX21uc",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-09-16T12:25:00-03:00"
-  },
-  {
-    id: "shopee-notebook-asus-vivobook-s14-oled-ultra7",
-    name: "Notebook ASUS Vivobook S14 OLED S5406SA Intel Core Ultra 7 256V 16Gb Ram 512Gb SSD Win11 Home 14\" FHD 120Hz Blue -PP218W",
-    category: "Notebooks",
-    store: "Shopee",
-    price: 6399.00,
-    image: "https://down-bs-br.img.susercontent.com/sg-11134201-821e0-mggn7soti58vb2.webp",
-    emoji: "💻",
-    link: "https://s.shopee.com.br/AKadEE2fFb",
-    featured: true,
-    isDemo: false,
-    createdAt: "2026-09-16T12:26:00-03:00"
-  },
-  {
-    id: "shopee-notebook-asus-vivobook-go15-e510ka",
-    name: "Notebook ASUS Vivobook Go 15 E510KA Intel Celeron Dual Core N4500 4GB Ram 128GB EMMC W11 - BR833WS",
-    category: "Notebooks",
-    store: "Shopee",
-    price: 2599.00,
-    image: "https://down-bs-br.img.susercontent.com/sg-11134201-8258r-mg89fn2a4ljcb0.webp",
-    emoji: "💻",
-    link: "https://s.shopee.com.br/9V1WEh5pwS",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-09-16T12:27:00-03:00"
-  },
-  {
-    id: "shopee-notebook-asus-vivobook-go15-e510",
-    name: "Notebook Asus Vivobook Go 15 E510 intel 128GB tela 15.6\" Windows 11",
-    category: "Notebooks",
-    store: "Shopee",
-    price: 2499.00,
-    image: "https://down-bs-br.img.susercontent.com/br-11134207-820m2-mrhh97hr7nyd6a.webp",
-    emoji: "💻",
-    link: "https://s.shopee.com.br/9Ki62O6THR",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-09-16T12:28:00-03:00"
-  },
-  {
-    id: "shopee-notebook-asus-vivobook-go-e1504ga-i3",
-    name: "Notebook ASUS Vivobook Go E1504GA Intel Core i3 N305 4GB Ram 256GB SSD Linux Tela 15,6\" FHD - NJ447",
-    category: "Notebooks",
-    store: "Shopee",
-    price: 3399.00,
-    image: "https://down-bs-br.img.susercontent.com/sg-11134201-82598-mg89jk7l0fm506.webp",
-    emoji: "💻",
-    link: "https://s.shopee.com.br/9peMdJ4ZGY",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-09-16T12:29:00-03:00"
-  },
-  {
     id: "mercadolivre-sofa-retratil-quantum-cinza",
     name: "Sofá Retrátil Reclinável 2 Lugares 1,80m Quantum Cinza",
     category: "Casa e eletrodomésticos",
@@ -2022,49 +1933,38 @@ window.ACHOU_PRODUCTS = [
     link: "https://meli.la/2SjwSbi",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-17T10:00:00-03:00"
+    createdAt: "2026-09-17T10:00:00-03:00",
+    checkedAt: "2026-09-24T19:05:00-03:00"
   },
   {
     id: "mercadolivre-sofa-2-lugares-reclinavel-madeira-140cm",
     name: "Sofá 2 Lugares Reclinável 140cm Confortável Pés Em Madeira",
     category: "Casa e eletrodomésticos",
     store: "Mercado Livre",
-    price: 1163,
+    price: 1159.78,
     oldPrice: 1799,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_980167-MLB115051182482_082026-E--sofa-2-lugares-reclinavel-140cm-confortavel-pes-em-madeira.webp",
     emoji: "🛋️",
     link: "https://meli.la/15Jjojf",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-17T10:01:00-03:00"
-  },
-  {
-    id: "mercadolivre-estante-plastica-modular-7-prateleiras",
-    name: "Estante Plástica Modular Multiuso Preta 7 Prateleiras Organizadora",
-    category: "Casa e eletrodomésticos",
-    store: "Mercado Livre",
-    price: 78,
-    oldPrice: 189,
-    image: "https://http2.mlstatic.com/D_Q_NP_2X_917253-MLA113296918629_062026-E.webp",
-    emoji: "🗄️",
-    link: "https://meli.la/1NyPvSH",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-09-17T10:02:00-03:00"
+    createdAt: "2026-09-17T10:01:00-03:00",
+    checkedAt: "2026-09-24T19:05:00-03:00"
   },
   {
     id: "mercadolivre-estante-livreiro-de-chao-6-prateleiras",
     name: "Estante Livreiro De Chão 6 Prateleiras",
     category: "Casa e eletrodomésticos",
     store: "Mercado Livre",
-    price: 128,
-    oldPrice: 307,
+    price: 149.66,
+    oldPrice: 345.44,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_610403-CBT116152351145_082026-E--estante-livreiro-de-chao-6-prateleiras.webp",
     emoji: "📚",
     link: "https://meli.la/25hFQb8",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-17T10:03:00-03:00"
+    createdAt: "2026-09-17T10:03:00-03:00",
+    checkedAt: "2026-09-24T19:05:00-03:00"
   },
   {
     id: "mercadolivre-lixeira-automatica-sensor-13l",
@@ -2078,35 +1978,38 @@ window.ACHOU_PRODUCTS = [
     link: "https://meli.la/1WLecg1",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-17T10:04:00-03:00"
+    createdAt: "2026-09-17T10:04:00-03:00",
+    checkedAt: "2026-09-24T19:05:00-03:00"
   },
   {
     id: "mercadolivre-kit-15-potes-hermeticos-cozinha",
     name: "Kit 15 Potes Herméticos Retangulares Mantimentos Organizador Cozinha",
     category: "Casa e eletrodomésticos",
     store: "Mercado Livre",
-    price: 109,
-    oldPrice: 199,
+    price: 87.62,
+    oldPrice: 199.90,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_960945-MLA112825434084_072026-E.webp",
     emoji: "🥡",
     link: "https://meli.la/1W2sRAQ",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-17T10:05:00-03:00"
+    createdAt: "2026-09-17T10:05:00-03:00",
+    checkedAt: "2026-09-24T19:05:00-03:00"
   },
   {
     id: "mercadolivre-escorredor-inox-2-andares",
     name: "Escorredor Inox Organizador Louças 2 Andares Para Pia Cozinha",
     category: "Casa e eletrodomésticos",
     store: "Mercado Livre",
-    price: 136,
+    price: 129.99,
     oldPrice: 189,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_868675-MLB116214079508_092026-E--escorredor-inox-organizador-loucas-2andares-para-pia-cozinha.webp",
     emoji: "🍽️",
     link: "https://meli.la/2ELGnU4",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-17T10:06:00-03:00"
+    createdAt: "2026-09-17T10:06:00-03:00",
+    checkedAt: "2026-09-24T19:05:00-03:00"
   },
   {
     id: "mercadolivre-fruteira-redonda-decorativa-mesa",
@@ -2141,14 +2044,15 @@ window.ACHOU_PRODUCTS = [
     name: "Parafusadeira e Furadeira de Impacto 3/8\" WAP K21 ID02 2000 mAh",
     category: "Ferramentas",
     store: "Mercado Livre",
-    price: 193,
+    price: 199,
     oldPrice: 260,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_621555-MLA114663974288_082026-E.webp",
     emoji: "🔧",
     link: "https://meli.la/1Nniqk4",
     featured: true,
     isDemo: false,
-    createdAt: "2026-09-17T10:09:00-03:00"
+    createdAt: "2026-09-17T10:09:00-03:00",
+    checkedAt: "2026-09-24T19:05:00-03:00"
   },
   {
     id: "mercadolivre-parafusadeira-furadeira-blacktools-tb21px",
