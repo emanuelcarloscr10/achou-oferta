@@ -1,10 +1,10 @@
 {
-  "code": "MELICOMPRAS",
+  "code": "FOIBARATO",
   "discountLabel": "30% OFF",
   "minPurchase": 1,
   "maxDiscount": 500,
   "store": "Mercado Livre",
-  "validUntil": "2026-10-31",
+  "validUntil": "2026-10-25",
   "source": "Canal oficial Afiliados e Criadores Mercado Livre Brasil (Telegram)",
-  "note": "Cupom generico valido para produtos elegiveis do Mercado Livre, enquanto durarem os estoques. Trocado do MLCOMPRANDO por lote de codigos mais recente (postado 22.09, mesmo desconto 30% e mesmos limites min R$1/max R$500, mesma validade 31.10) - o canal tambem publicou MLCUPOM (25%), MELINOCARRINHO (22%) e MELIDESCONTEI (30%, tambem valido) no mesmo lote como codigos alternativos."
+  "note": "Cupom generico valido para produtos elegiveis do Mercado Livre, enquanto durarem os estoques. Trocado do MELICOMPRAS (lote de 22.09) pelo lote mais recente postado em 24.09 (mesmo desconto 30%, min R$1/max R$500, validade 25.10) - codigo mais novo tende a ter estoque disponivel. Mesmo lote tambem trouxe MLVANTAGEM (30%, ate 13.10), PRECINHOBOM (30%, ate 11.10), SAIUBARATO e PRECINHOPONTO (25%, ate 25.10)."
 }
