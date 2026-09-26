@@ -1035,21 +1035,23 @@ window.ACHOU_PRODUCTS = [
     link: "https://meli.la/2L2PuWX",
     featured: true,
     isDemo: false,
-    createdAt: "2026-09-18T15:00:00-03:00"
+    createdAt: "2026-09-18T15:00:00-03:00",
+    checkedAt: "2026-09-25T21:46:00-03:00"
   },
   {
     id: "mercadolivre-tenis-fila-vector-masculino",
     name: "Tênis Fila Vector Masculino Confortável Estilo Esportivo",
     category: "Tênis",
     store: "Mercado Livre",
-    price: 175.90,
+    price: 159.99,
     oldPrice: 299.99,
     image: "https://http2.mlstatic.com/D_NQ_NP_890716-MLB108412872577_032026-O-tnis-fila-vector-masculino-confortavel-estilo-esportivo.webp",
     emoji: "👟",
     link: "https://meli.la/1LBmqT8",
     featured: true,
     isDemo: false,
-    createdAt: "2026-09-18T15:01:00-03:00"
+    createdAt: "2026-09-18T15:01:00-03:00",
+    checkedAt: "2026-09-25T21:46:00-03:00"
   },
   {
     id: "mercadolivre-smart-tv-lg-uhd-ai-ua75-50-webos-25",
@@ -1224,42 +1226,45 @@ window.ACHOU_PRODUCTS = [
     name: "Suporte Articulado de Parede TV 26 a 65 Polegadas 30kg ELG Giratório Inclinável",
     category: "Casa e eletrodomésticos",
     store: "Mercado Livre",
-    price: 87.20,
-    oldPrice: 169.90,
+    price: 92.22,
+    oldPrice: 158.43,
     image: "https://http2.mlstatic.com/D_NQ_NP_833118-MLA116160731828_092026-O.webp",
     emoji: "📺",
     link: "https://meli.la/2WN3KDW",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-18T15:02:00-03:00"
+    createdAt: "2026-09-18T15:02:00-03:00",
+    checkedAt: "2026-09-25T21:46:00-03:00"
   },
   {
     id: "mercadolivre-power-bank-20000mah-casenn",
     name: "Carregador Portátil 20000mAh Turbo 22.5W Power Bank Premium Universal Casenn",
     category: "Casa e eletrodomésticos",
     store: "Mercado Livre",
-    price: 105.53,
+    price: 102.29,
     oldPrice: 159.90,
     image: "https://http2.mlstatic.com/D_NQ_NP_614937-MLA96889123348_112025-O.webp",
     emoji: "🔋",
     link: "https://meli.la/2HMzUkV",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-18T15:03:00-03:00"
+    createdAt: "2026-09-18T15:03:00-03:00",
+    checkedAt: "2026-09-25T21:46:00-03:00"
   },
   {
     id: "mercadolivre-conjunto-fitness-bicolor-feminino",
     name: "Conjunto Fitness Bicolor Suplex Premium Feminino Academia",
     category: "Moda",
     store: "Mercado Livre",
-    price: 79.90,
+    price: 75.90,
     oldPrice: 149.90,
     image: "https://http2.mlstatic.com/D_NQ_NP_796482-MLB105238701224_012026-O-conjunto-fitness-bicolor-suplex-premium-feminino-academia.webp",
     emoji: "🏋️‍♀️",
     link: "https://meli.la/2KZapRh",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-18T15:04:00-03:00"
+    createdAt: "2026-09-18T15:04:00-03:00",
+    checkedAt: "2026-09-25T21:46:00-03:00"
   },
   {
     id: "shopee-carrinho-organizador-multiuso-4-camadas",
@@ -1273,7 +1278,8 @@ window.ACHOU_PRODUCTS = [
     link: "https://s.shopee.com.br/3LQwABGubd",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-18T15:06:00-03:00"
+    createdAt: "2026-09-18T15:06:00-03:00",
+    checkedAt: "2026-09-25T21:46:00-03:00"
   },
   {
     id: "mercadolivre-tenis-newbalance-freshfoam-1080-v14",
@@ -2059,42 +2065,30 @@ window.ACHOU_PRODUCTS = [
     name: "Parafusadeira Furadeira De Impacto The Black Tools TB-21PX 2 Baterias Com Maleta",
     category: "Ferramentas",
     store: "Mercado Livre",
-    price: 158,
-    oldPrice: 319,
+    price: 169.90,
+    oldPrice: 319.90,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_981459-MLA117136184907_092026-E.webp",
     emoji: "🔩",
     link: "https://meli.la/1J5v5hB",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-17T10:10:00-03:00"
-  },
-  {
-    id: "mercadolivre-serra-tico-tico-wap-estt800",
-    name: "Serra Tico WAP Estt 800 com Botão de Trava 6 Níveis 800W",
-    category: "Ferramentas",
-    store: "Mercado Livre",
-    price: 249,
-    oldPrice: 413,
-    image: "https://http2.mlstatic.com/D_Q_NP_2X_710877-MLA99499698178_112025-E.webp",
-    emoji: "🪚",
-    link: "https://meli.la/2L2jjnh",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-09-17T10:11:00-03:00"
-  },
+    createdAt: "2026-09-17T10:10:00-03:00",
+    checkedAt: "2026-09-25T21:46:00-03:00"
+  },
   {
     id: "mercadolivre-esmerilhadeira-blackdecker-g650",
     name: "Esmerilhadeira Angular 115mm BLACK+DECKER 12.000RPM G650 650W",
     category: "Ferramentas",
     store: "Mercado Livre",
-    price: 182,
-    oldPrice: 219,
+    price: 178.60,
+    oldPrice: 219.90,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_633757-MLA99556934146_122025-E.webp",
     emoji: "⚙️",
     link: "https://meli.la/1Lo9N8s",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-17T10:12:00-03:00"
+    createdAt: "2026-09-17T10:12:00-03:00",
+    checkedAt: "2026-09-25T21:46:00-03:00"
   },
   {
     id: "mercadolivre-compressor-ar-compbrasil-8l",
@@ -2115,14 +2109,15 @@ window.ACHOU_PRODUCTS = [
     name: "Kit Jogo De Ferramentas 142 Peças Fasterr Com Maleta",
     category: "Ferramentas",
     store: "Mercado Livre",
-    price: 62,
-    oldPrice: 159,
+    price: 79.90,
+    oldPrice: 89.90,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_944743-MLA99871128121_112025-E.webp",
     emoji: "🧰",
     link: "https://meli.la/2taKBbs",
     featured: true,
     isDemo: false,
-    createdAt: "2026-09-17T10:14:00-03:00"
+    createdAt: "2026-09-17T10:14:00-03:00",
+    checkedAt: "2026-09-25T21:46:00-03:00"
   },
   {
     id: "mercadolivre-trena-laser-40m-digital",
@@ -2137,76 +2132,51 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-17T10:15:00-03:00"
-  },
-  {
-    id: "mercadolivre-lixadeira-orbital-bosch-gss140",
-    name: "Lixadeira Profissional Orbital Bosch Professional GSS 140 Azul",
-    category: "Ferramentas",
-    store: "Mercado Livre",
-    price: 252,
-    oldPrice: 311,
-    image: "https://http2.mlstatic.com/D_Q_NP_2X_988164-MLA115960191528_092026-E.webp",
-    emoji: "🛠️",
-    link: "https://meli.la/2keMHR4",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-09-17T10:16:00-03:00"
-  },
-  {
-    id: "mercadolivre-kit-soquetes-fortfy-94pc",
-    name: "Kit Jogo de Soquetes FortFy 94 Peças 1/2 e 1/4 Catraca Reversível com Maleta",
-    category: "Ferramentas",
-    store: "Mercado Livre",
-    price: 218,
-    oldPrice: 367,
-    image: "https://http2.mlstatic.com/D_Q_NP_2X_627416-MLA111349823604_052026-E.webp",
-    emoji: "🔧",
-    link: "https://meli.la/2EicFiN",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-09-17T10:17:00-03:00"
-  },
+  },
   {
     id: "mercadolivre-frigobar-mondial-120l",
     name: "Frigobar 120L Mondial FGB-01-W120",
     category: "Casa e eletrodomésticos",
     store: "Mercado Livre",
-    price: 1199,
-    oldPrice: 1499,
+    price: 1128,
+    oldPrice: 1499.90,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_729976-MLA99990946013_112025-E.webp",
     emoji: "🧊",
     link: "https://meli.la/2NT8zmY",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-17T11:00:00-03:00"
+    createdAt: "2026-09-17T11:00:00-03:00",
+    checkedAt: "2026-09-25T21:46:00-03:00"
   },
   {
     id: "mercadolivre-tanquinho-colormaq-10kg",
     name: "Tanquinho Colormaq Lavadora Roupas Semi-automática LCS 10kg",
     category: "Casa e eletrodomésticos",
     store: "Mercado Livre",
-    price: 434,
-    oldPrice: 530,
+    price: 463.50,
+    oldPrice: 530.35,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_666321-MLA114452594671_072026-E.webp",
     emoji: "🧺",
     link: "https://meli.la/1TB7dk9",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-17T11:01:00-03:00"
+    createdAt: "2026-09-17T11:01:00-03:00",
+    checkedAt: "2026-09-25T21:46:00-03:00"
   },
   {
     id: "mercadolivre-ar-condicionado-portatil-hisense-12000btu",
     name: "Ar Condicionado Portátil Com Wi-fi Hisense 12.000 BTUs",
     category: "Casa e eletrodomésticos",
     store: "Mercado Livre",
-    price: 2239,
-    oldPrice: 3599,
+    price: 2014,
+    oldPrice: 2699,
     image: "https://http2.mlstatic.com/D_NQ_NP_711674-MLA99585997938_122025-O.webp",
     emoji: "❄️",
     link: "https://meli.la/1EeeDgM",
     featured: true,
     isDemo: false,
-    createdAt: "2026-09-17T11:02:00-03:00"
+    createdAt: "2026-09-17T11:02:00-03:00",
+    checkedAt: "2026-09-25T21:46:00-03:00"
   },
   {
     id: "mercadolivre-forno-embutir-electrolux-80l-oe8ew",
@@ -2220,7 +2190,8 @@ window.ACHOU_PRODUCTS = [
     link: "https://meli.la/1Cvqz4i",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-17T11:03:00-03:00"
+    createdAt: "2026-09-17T11:03:00-03:00",
+    checkedAt: "2026-09-25T21:46:00-03:00"
   },
   {
     id: "mercadolivre-camera-seguranca-a28-icsee",
