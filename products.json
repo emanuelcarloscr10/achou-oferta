@@ -1467,26 +1467,6 @@
     "checkedAt": "2026-09-24T19:05:00-03:00"
   },
   {
-    "id": "mercadolivre-fruteira-redonda-decorativa-mesa",
-    "name": "Fruteira Redonda Decorativa Para Mesa",
-    "category": "Casa e eletrodomésticos",
-    "store": "Mercado Livre",
-    "price": 24,
-    "oldPrice": 58,
-    "image": "https://http2.mlstatic.com/D_Q_NP_2X_647633-CBT117269274675_092026-E--fruteira-redonda-decorativa-para-mesa.webp",
-    "link": "https://meli.la/1RJxZHb"
-  },
-  {
-    "id": "mercadolivre-prateleira-flutuante-kit-3un",
-    "name": "Prateleira Flutuante 60x20cm 15mm Suporte Invisível Kit 03un",
-    "category": "Casa e eletrodomésticos",
-    "store": "Mercado Livre",
-    "price": 62,
-    "oldPrice": 78,
-    "image": "https://http2.mlstatic.com/D_Q_NP_2X_881509-MLB91210120960_092025-E--prateleira-flutuante-60x20cm-15mm-suporte-invisivel-kit-03un.webp",
-    "link": "https://meli.la/2EtDKQT"
-  },
-  {
     "id": "mercadolivre-parafusadeira-furadeira-wap-k21",
     "name": "Parafusadeira e Furadeira de Impacto 3/8\" WAP K21 ID02 2000 mAh",
     "category": "Ferramentas",
@@ -1520,16 +1500,6 @@
     "checkedAt": "2026-09-25T21:46:00-03:00"
   },
   {
-    "id": "mercadolivre-compressor-ar-compbrasil-8l",
-    "name": "Compressor De Ar Modelo 1100-8l De 800w 8 Litros Compbrasil",
-    "category": "Ferramentas",
-    "store": "Mercado Livre",
-    "price": 892,
-    "oldPrice": 1319,
-    "image": "https://http2.mlstatic.com/D_Q_NP_2X_945735-MLB86715420875_062025-E--compressor-de-ar-modelo-11008l-de-800w-8-litros-compbrasil.webp",
-    "link": "https://meli.la/2guxT3o"
-  },
-  {
     "id": "mercadolivre-kit-ferramentas-142pc-fasterr",
     "name": "Kit Jogo De Ferramentas 142 Peças Fasterr Com Maleta",
     "category": "Ferramentas",
@@ -1539,16 +1509,6 @@
     "image": "https://http2.mlstatic.com/D_Q_NP_2X_944743-MLA99871128121_112025-E.webp",
     "link": "https://meli.la/2taKBbs",
     "checkedAt": "2026-09-25T21:46:00-03:00"
-  },
-  {
-    "id": "mercadolivre-trena-laser-40m-digital",
-    "name": "Trena Laser 40m Digital Recarregável USB Medidor Distância Área Volume",
-    "category": "Ferramentas",
-    "store": "Mercado Livre",
-    "price": 87,
-    "oldPrice": 189,
-    "image": "https://http2.mlstatic.com/D_Q_NP_2X_861117-MLA116486172473_082026-E.webp",
-    "link": "https://meli.la/2Gj6xgg"
   },
   {
     "id": "mercadolivre-frigobar-mondial-120l",

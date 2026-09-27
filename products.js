@@ -2018,34 +2018,6 @@ window.ACHOU_PRODUCTS = [
     checkedAt: "2026-09-24T19:05:00-03:00"
   },
   {
-    id: "mercadolivre-fruteira-redonda-decorativa-mesa",
-    name: "Fruteira Redonda Decorativa Para Mesa",
-    category: "Casa e eletrodomésticos",
-    store: "Mercado Livre",
-    price: 24,
-    oldPrice: 58,
-    image: "https://http2.mlstatic.com/D_Q_NP_2X_647633-CBT117269274675_092026-E--fruteira-redonda-decorativa-para-mesa.webp",
-    emoji: "🍎",
-    link: "https://meli.la/1RJxZHb",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-09-17T10:07:00-03:00"
-  },
-  {
-    id: "mercadolivre-prateleira-flutuante-kit-3un",
-    name: "Prateleira Flutuante 60x20cm 15mm Suporte Invisível Kit 03un",
-    category: "Casa e eletrodomésticos",
-    store: "Mercado Livre",
-    price: 62,
-    oldPrice: 78,
-    image: "https://http2.mlstatic.com/D_Q_NP_2X_881509-MLB91210120960_092025-E--prateleira-flutuante-60x20cm-15mm-suporte-invisivel-kit-03un.webp",
-    emoji: "📐",
-    link: "https://meli.la/2EtDKQT",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-09-17T10:08:00-03:00"
-  },
-  {
     id: "mercadolivre-parafusadeira-furadeira-wap-k21",
     name: "Parafusadeira e Furadeira de Impacto 3/8\" WAP K21 ID02 2000 mAh",
     category: "Ferramentas",
@@ -2074,7 +2046,7 @@ window.ACHOU_PRODUCTS = [
     isDemo: false,
     createdAt: "2026-09-17T10:10:00-03:00",
     checkedAt: "2026-09-25T21:46:00-03:00"
-  },
+  },
   {
     id: "mercadolivre-esmerilhadeira-blackdecker-g650",
     name: "Esmerilhadeira Angular 115mm BLACK+DECKER 12.000RPM G650 650W",
@@ -2091,20 +2063,6 @@ window.ACHOU_PRODUCTS = [
     checkedAt: "2026-09-25T21:46:00-03:00"
   },
   {
-    id: "mercadolivre-compressor-ar-compbrasil-8l",
-    name: "Compressor De Ar Modelo 1100-8l De 800w 8 Litros Compbrasil",
-    category: "Ferramentas",
-    store: "Mercado Livre",
-    price: 892,
-    oldPrice: 1319,
-    image: "https://http2.mlstatic.com/D_Q_NP_2X_945735-MLB86715420875_062025-E--compressor-de-ar-modelo-11008l-de-800w-8-litros-compbrasil.webp",
-    emoji: "💨",
-    link: "https://meli.la/2guxT3o",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-09-17T10:13:00-03:00"
-  },
-  {
     id: "mercadolivre-kit-ferramentas-142pc-fasterr",
     name: "Kit Jogo De Ferramentas 142 Peças Fasterr Com Maleta",
     category: "Ferramentas",
@@ -2119,20 +2077,6 @@ window.ACHOU_PRODUCTS = [
     createdAt: "2026-09-17T10:14:00-03:00",
     checkedAt: "2026-09-25T21:46:00-03:00"
   },
-  {
-    id: "mercadolivre-trena-laser-40m-digital",
-    name: "Trena Laser 40m Digital Recarregável USB Medidor Distância Área Volume",
-    category: "Ferramentas",
-    store: "Mercado Livre",
-    price: 87,
-    oldPrice: 189,
-    image: "https://http2.mlstatic.com/D_Q_NP_2X_861117-MLA116486172473_082026-E.webp",
-    emoji: "📏",
-    link: "https://meli.la/2Gj6xgg",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-09-17T10:15:00-03:00"
-  },
   {
     id: "mercadolivre-frigobar-mondial-120l",
     name: "Frigobar 120L Mondial FGB-01-W120",
@@ -3326,7 +3270,8 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-19T15:41:00-03:00"
-  },  {
+  },
+  {
     id: "mercadolivre-smartwatch-haylou-solar-ultra-ls23-16-bluetooth",
     name: "Smartwatch Haylou Solar Ultra LS23 Solar Ultra 1.6 chamadas bluetooth cor preto",
     category: "Smartwatch",
