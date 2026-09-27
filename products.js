@@ -1065,49 +1065,23 @@ window.ACHOU_PRODUCTS = [
     link: "https://meli.la/1xue3yY",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-20T16:26:24-03:00"
-  },
-  {
-    id: "shopee-tv-philco-43-p43cra-fhd",
-    name: "Smart TV 43\" Philco P43CRA Full HD Wi-Fi HDMI USB Conversor Digital (preço no Pix com cupom)",
-    category: "TVs",
-    store: "Shopee",
-    price: 1277.88,
-    oldPrice: 2203.24,
-    image: "https://down-br.img.susercontent.com/file/br-11134207-820m0-mn0cuq20oqgy2a",
-    emoji: "📺",
-    link: "https://s.shopee.com.br/gQEPQg01Y",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-09-20T16:27:24-03:00"
+    createdAt: "2026-09-20T16:26:24-03:00",
+    checkedAt: "2026-09-27T17:54:00-03:00"
   },
   {
     id: "mercadolivre-smart-tv-lg-qned73-55-webos-ai-magic",
     name: "Smart TV 55\" LG QNED73 4K webOS AI Magic",
     category: "TVs",
     store: "Mercado Livre",
-    price: 3299.00,
+    price: 2989.00,
     oldPrice: 4900.00,
     image: "https://http2.mlstatic.com/D_NQ_NP_830993-MLA110505911317_042026-O-smart-tv-55--lg-qned73-4k-webos-ai-magic.webp",
     emoji: "📺",
     link: "https://meli.la/1N6tbYv",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-20T16:28:24-03:00"
-  },
-  {
-    id: "shopee-notebook-lenovo-ideapad-slim-3i-i5-512gb",
-    name: "Notebook Lenovo IdeaPad Slim 3i Intel Core i5 8GB 512GB SSD 15.3\" Windows 11 Home Cinza (preço no Pix com cupom)",
-    category: "Notebooks",
-    store: "Shopee",
-    price: 3679.08,
-    oldPrice: 5839.81,
-    image: "https://down-br.img.susercontent.com/file/sg-11134201-7rdwh-mbppf23q87z911",
-    emoji: "💻",
-    link: "https://s.shopee.com.br/4B06a3jcWH",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-09-20T16:29:24-03:00"
+    createdAt: "2026-09-20T16:28:24-03:00",
+    checkedAt: "2026-09-27T17:54:00-03:00"
   },
   {
     id: "mercadolivre-smart-tv-55-4k-crystal-lh55bethvggxzd",
@@ -1121,21 +1095,8 @@ window.ACHOU_PRODUCTS = [
     link: "https://meli.la/1z1czNh",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-20T16:30:24-03:00"
-  },
-  {
-    id: "shopee-tv-aoc-43-roku-43s5155",
-    name: "Tv Smart 43 Polegadas Aoc Roku Hd Wi-fi 43s5155/78g (preço no Pix com cupom)",
-    category: "TVs",
-    store: "Shopee",
-    price: 1247.52,
-    oldPrice: 3371.68,
-    image: "https://down-br.img.susercontent.com/file/br-11134207-820ll-moilok50zwna36",
-    emoji: "📺",
-    link: "https://s.shopee.com.br/qjebjfMgb",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-09-20T16:31:24-03:00"
+    createdAt: "2026-09-20T16:30:24-03:00",
+    checkedAt: "2026-09-27T17:54:00-03:00"
   },
   {
     id: "mercadolivre-samsung-vision-ai-tv-55-oled-s85h",
@@ -1163,7 +1124,8 @@ window.ACHOU_PRODUCTS = [
     link: "https://meli.la/1dB8Bn9",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-20T16:33:24-03:00"
+    createdAt: "2026-09-20T16:33:24-03:00",
+    checkedAt: "2026-09-27T17:54:00-03:00"
   },
   {
     id: "mercadolivre-notebook-gamer-acer-nitro-i5-rtx4050",
@@ -1177,7 +1139,8 @@ window.ACHOU_PRODUCTS = [
     link: "https://meli.la/2FycJuT",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-20T16:34:24-03:00"
+    createdAt: "2026-09-20T16:34:24-03:00",
+    checkedAt: "2026-09-27T17:54:00-03:00"
   },
   {
     id: "mercadolivre-notebook-gamer-acer-v15-i5-rtx4050",
@@ -1191,7 +1154,8 @@ window.ACHOU_PRODUCTS = [
     link: "https://meli.la/2h3fxGw",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-20T16:35:24-03:00"
+    createdAt: "2026-09-20T16:35:24-03:00",
+    checkedAt: "2026-09-27T17:54:00-03:00"
   },
   {
     id: "mercadolivre-notebook-lenovo-ideapad-slim-3i-i7-13620h",
@@ -1205,7 +1169,8 @@ window.ACHOU_PRODUCTS = [
     link: "https://meli.la/19FQsuq",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-20T16:36:24-03:00"
+    createdAt: "2026-09-20T16:36:24-03:00",
+    checkedAt: "2026-09-27T17:54:00-03:00"
   },
   {
     id: "mercadolivre-notebook-lenovo-legion-5-i7-11800h-rtx3060",
@@ -2730,42 +2695,45 @@ window.ACHOU_PRODUCTS = [
     name: "Smart TV LG 43\" Full HD, Processador A5 Ger6, AI, Alexa e webOS 23 - 43LR6700PSA",
     category: "TVs",
     store: "Mercado Livre",
-    price: 1619.70,
-    oldPrice: 2299.99,
+    price: 1415.50,
+    oldPrice: 2409.99,
     image: "https://http2.mlstatic.com/D_NQ_NP_741946-MLA107875422514_032026-O.webp",
     emoji: "📺",
     link: "https://meli.la/17LUj4q",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-20T12:40:00-03:00"
+    createdAt: "2026-09-20T12:40:00-03:00",
+    checkedAt: "2026-09-27T17:54:00-03:00"
   },
   {
     id: "mercadolivre-notebook-acer-aspire-go-15-ag15-71p-5939",
     name: "Notebook Acer Aspire Go 15 AG15-71P-5939 - Intel Core i5-13420H 13ª Geração • 8GB DDR5 • 256GB SSD NVMe • Tela 15,6\u0027 • Windows 11 Home",
     category: "Notebooks",
     store: "Mercado Livre",
-    price: 3399.15,
+    price: 3394.90,
     oldPrice: 5717.80,
     image: "https://http2.mlstatic.com/D_NQ_NP_815916-MLA95648094482_102025-O.webp",
     emoji: "💻",
     link: "https://meli.la/2Nc289N",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-20T12:41:00-03:00"
+    createdAt: "2026-09-20T12:41:00-03:00",
+    checkedAt: "2026-09-27T17:54:00-03:00"
   },
   {
     id: "mercadolivre-tv-lg-pro-50un85c-4k",
     name: "Smart TV PRO LG 50\u0027\u0027 4K Ultra HD AI 50UN85C",
     category: "TVs",
     store: "Mercado Livre",
-    price: 2255.99,
-    oldPrice: 3800.00,
+    price: 2139.32,
+    oldPrice: 3424.00,
     image: "https://http2.mlstatic.com/D_NQ_NP_837435-MLA116824598567_082026-O.webp",
     emoji: "📺",
     link: "https://meli.la/1Sa3asS",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-20T12:42:00-03:00"
+    createdAt: "2026-09-20T12:42:00-03:00",
+    checkedAt: "2026-09-27T17:54:00-03:00"
   },
   {
     id: "mercadolivre-notebook-asus-vivobook-go-15-e1504fa-nj825w",
@@ -2779,63 +2747,38 @@ window.ACHOU_PRODUCTS = [
     link: "https://meli.la/2yQuUBG",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-20T12:43:00-03:00"
-  },
-  {
-    id: "mercadolivre-tv-samsung-55-mini-led-m75h",
-    name: "Samsung Smart TV 55\" Mini LED 4K M75H 2027",
-    category: "TVs",
-    store: "Mercado Livre",
-    price: 3054.53,
-    oldPrice: 4299.00,
-    image: "https://http2.mlstatic.com/D_NQ_NP_615876-MLA116061870194_092026-O.webp",
-    emoji: "📺",
-    link: "https://meli.la/2XJCasF",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-09-20T12:44:00-03:00"
+    createdAt: "2026-09-20T12:43:00-03:00",
+    checkedAt: "2026-09-27T17:54:00-03:00"
   },
   {
     id: "mercadolivre-notebook-acer-aspire-go-ag15-51p-39mu-i3",
     name: "Notebook Acer Aspire Go AG15-51P-39MU Intel Core i3-1305U 8GB 256ssd Windows 11 Home 15,3\u0027\u0027",
     category: "Notebooks",
     store: "Mercado Livre",
-    price: 2974.15,
+    price: 3067.69,
     oldPrice: 4299.00,
     image: "https://http2.mlstatic.com/D_NQ_NP_692920-MLA100061644521_122025-O.webp",
     emoji: "💻",
     link: "https://meli.la/2xjgCeT",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-20T12:45:00-03:00"
+    createdAt: "2026-09-20T12:45:00-03:00",
+    checkedAt: "2026-09-27T17:54:00-03:00"
   },
   {
     id: "mercadolivre-notebook-positivo-vision-c15m-celeron",
     name: "Notebook Positivo Vision C15M Intel Celeron N4500 Windows 11 Home 4GB RAM 128GB eMMC Tela 15\" Full HD IPS Antirreflexo - Minitela e Tecla Copilot - Cinza",
     category: "Notebooks",
     store: "Mercado Livre",
-    price: 1895.25,
+    price: 1887.28,
     oldPrice: 2699.00,
     image: "https://http2.mlstatic.com/D_NQ_NP_670150-MLA109213899052_042026-O.webp",
     emoji: "💻",
     link: "https://meli.la/1LZ5zGB",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-20T12:47:00-03:00"
-  },
-  {
-    id: "mercadolivre-tv-philco-40-roku-ptv40",
-    name: "Smart Tv Philco 40\u0027\u0027 Full Hd Roku Tv Ptv40 Hdr10 Dolby",
-    category: "TVs",
-    store: "Mercado Livre",
-    price: 1585.43,
-    oldPrice: 2059.53,
-    image: "https://http2.mlstatic.com/D_NQ_NP_995595-MLA99489107224_112025-O.webp",
-    emoji: "📺",
-    link: "https://meli.la/2xSGt1i",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-09-20T12:48:00-03:00"
+    createdAt: "2026-09-20T12:47:00-03:00",
+    checkedAt: "2026-09-27T17:54:00-03:00"
   },
   {
     id: "mercadolivre-notebook-lenovo-slim3-r7-linux",
@@ -2849,7 +2792,8 @@ window.ACHOU_PRODUCTS = [
     link: "https://meli.la/14TzSH5",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-20T12:49:00-03:00"
+    createdAt: "2026-09-20T12:49:00-03:00",
+    checkedAt: "2026-09-27T17:54:00-03:00"
   },
   {
     id: "mercadolivre-jbl-boombox-4-preta",
