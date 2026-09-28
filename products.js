@@ -13,49 +13,53 @@ window.ACHOU_PRODUCTS = [
     link: "https://meli.la/2JFEvwH",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-18T18:00:00-03:00"
+    createdAt: "2026-09-18T18:00:00-03:00",
+    checkedAt: "2026-09-28T11:26:00-03:00"
   },
   {
     id: "mercadolivre-galaxy-a17-5g-128gb-preto",
     name: "Smartphone Samsung Galaxy A17 5G 128GB 4GB Super AMOLED 6.7'' Câmera 50MP Preto",
     category: "Celulares",
     store: "Mercado Livre",
-    price: 989.00,
-    oldPrice: 1855.00,
+    price: 827.10,
+    oldPrice: 1499.00,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_755351-MLA99597188918_122025-E.webp",
     emoji: "📱",
     link: "https://meli.la/1gpoQDU",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-18T18:01:00-03:00"
+    createdAt: "2026-09-18T18:01:00-03:00",
+    checkedAt: "2026-09-28T11:26:00-03:00"
   },
   {
     id: "mercadolivre-galaxy-a07-256gb-violeta",
     name: "Celular Samsung Galaxy A07 256GB 8GB Câmera 50MP Tela 6.7 Proteção IP54 Violeta",
     category: "Celulares",
     store: "Mercado Livre",
-    price: 934.15,
-    oldPrice: 1799.00,
+    price: 909.00,
+    oldPrice: 1582.63,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_765861-MLA95532186080_102025-E.webp",
     emoji: "📱",
     link: "https://meli.la/2w3JZ54",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-18T18:02:00-03:00"
+    createdAt: "2026-09-18T18:02:00-03:00",
+    checkedAt: "2026-09-28T11:26:00-03:00"
   },
   {
     id: "mercadolivre-galaxy-a36-5g-128gb-branco",
     name: "Smartphone Samsung Galaxy A36 5G 128GB 6GB RAM Câmera Tripla 50MP IP67 Super AMOLED Branco",
     category: "Celulares",
     store: "Mercado Livre",
-    price: 1276.00,
-    oldPrice: 2212.00,
+    price: 1309.00,
+    oldPrice: 2212.86,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_968548-MLA99944961199_112025-E.webp",
     emoji: "📱",
     link: "https://meli.la/1CpyPxm",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-18T18:03:00-03:00"
+    createdAt: "2026-09-18T18:03:00-03:00",
+    checkedAt: "2026-09-28T11:26:00-03:00"
   },
   {
     id: "mercadolivre-moto-g17-4g-128gb",
@@ -69,7 +73,8 @@ window.ACHOU_PRODUCTS = [
     link: "https://meli.la/1gq6GzR",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-18T18:04:00-03:00"
+    createdAt: "2026-09-18T18:04:00-03:00",
+    checkedAt: "2026-09-28T11:26:00-03:00"
   },
   {
     id: "mercadolivre-smart-tv-tcl-50-qled-4k-p7l-google-tv-50p7l",
@@ -223,35 +228,38 @@ window.ACHOU_PRODUCTS = [
     link: "https://meli.la/1LZt75R",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-18T18:05:00-03:00"
+    createdAt: "2026-09-18T18:05:00-03:00",
+    checkedAt: "2026-09-28T11:26:00-03:00"
   },
   {
     id: "mercadolivre-moto-g35-5g-128gb",
     name: "Smartphone Motorola Moto G35 5G 12GB RAM Boost 128GB Grafite",
     category: "Celulares",
     store: "Mercado Livre",
-    price: 946.30,
-    oldPrice: 1324.00,
+    price: 969.00,
+    oldPrice: 1324.29,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_649586-MLA100448312516_122025-E.webp",
     emoji: "📱",
     link: "https://meli.la/29DakG3",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-18T18:06:00-03:00"
+    createdAt: "2026-09-18T18:06:00-03:00",
+    checkedAt: "2026-09-28T11:26:00-03:00"
   },
   {
     id: "mercadolivre-tv-lg-43lr671-fhd",
     name: "Smart TV LG 43\" Full HD ThinQ AI Alexa WebOS 43LR671",
     category: "TVs",
     store: "Mercado Livre",
-    price: 1849.00,
-    oldPrice: 2361.00,
+    price: 1647.90,
+    oldPrice: 2361.12,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_983852-MLB79480945945_092024-E--smart-tv-lg-43-fhd-hdr10-thinqai-webos23-wifi5-alexa-43lr671.webp",
     emoji: "📺",
     link: "https://meli.la/1ZYy17b",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-18T18:07:00-03:00"
+    createdAt: "2026-09-18T18:07:00-03:00",
+    checkedAt: "2026-09-28T11:26:00-03:00"
   },
   {
     id: "mercadolivre-tv-philco-43-p43vik-roku",
@@ -265,147 +273,128 @@ window.ACHOU_PRODUCTS = [
     link: "https://meli.la/2C2GGUz",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-18T18:08:00-03:00"
-  },
-  {
-    id: "mercadolivre-tv-lg-43un85-4k-nano",
-    name: "Smart TV LG 43'' 4K Ultra HD Nano AI WebOS 26 43UN85",
-    category: "TVs",
-    store: "Mercado Livre",
-    price: 1725.00,
-    oldPrice: 2779.00,
-    image: "https://http2.mlstatic.com/D_Q_NP_2X_855844-MLB116862362541_082026-E--smart-tv-lg-43-4k-ultra-hd-nano-ai-webos-26-43un85.webp",
-    emoji: "📺",
-    link: "https://meli.la/2Ua2JmW",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-09-18T18:09:00-03:00"
+    createdAt: "2026-09-18T18:08:00-03:00",
+    checkedAt: "2026-09-28T11:26:00-03:00"
   },
   {
     id: "mercadolivre-tv-philips-43pfg6910",
     name: "Smart TV Philips 43\" Full HD 43PFG6910/78 Wi-Fi",
     category: "TVs",
     store: "Mercado Livre",
-    price: 1529.00,
-    oldPrice: 2499.00,
+    price: 1599.00,
+    oldPrice: 2099.00,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_882487-MLA92677639078_092025-E.webp",
     emoji: "📺",
     link: "https://meli.la/2qRdcjr",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-18T18:10:00-03:00"
+    createdAt: "2026-09-18T18:10:00-03:00",
+    checkedAt: "2026-09-28T11:26:00-03:00"
   },
   {
     id: "mercadolivre-tv-hisense-43a4nv",
     name: "Smart TV Hisense FHD 43\" 43A4NV HDR10 DTS Virtual X Alexa e Google Home",
     category: "TVs",
     store: "Mercado Livre",
-    price: 1499.00,
-    oldPrice: 2999.00,
+    price: 1499.99,
+    oldPrice: 1749.00,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_625134-MLA93305690443_092025-E.webp",
     emoji: "📺",
     link: "https://meli.la/2L99uNL",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-18T18:11:00-03:00"
+    createdAt: "2026-09-18T18:11:00-03:00",
+    checkedAt: "2026-09-28T11:26:00-03:00"
   },
   {
     id: "mercadolivre-tv-samsung-43-f6000f",
     name: "Smart TV 43\" Full HD F6000F 2025 Samsung Bivolt",
     category: "TVs",
     store: "Mercado Livre",
-    price: 1676.00,
+    price: 1657.46,
     oldPrice: 2299.00,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_886409-MLA117528603517_092026-E.webp",
     emoji: "📺",
     link: "https://meli.la/2j7APzs",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-18T18:12:00-03:00"
+    createdAt: "2026-09-18T18:12:00-03:00",
+    checkedAt: "2026-09-28T11:26:00-03:00"
   },
   {
     id: "mercadolivre-tv-tcl-43s5k-qled",
     name: "Smart TV TCL 43 Polegadas QLED Full HD S5K Wi-Fi Bluetooth Google TV HDR10 Dolby Audio",
     category: "TVs",
     store: "Mercado Livre",
-    price: 1541.00,
-    oldPrice: 1990.00,
+    price: 1614.05,
+    oldPrice: 1849.00,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_957852-MLA114585921650_082026-E.webp",
     emoji: "📺",
     link: "https://meli.la/1PjZkx4",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-18T18:13:00-03:00"
+    createdAt: "2026-09-18T18:13:00-03:00",
+    checkedAt: "2026-09-28T11:26:00-03:00"
   },
   {
     id: "mercadolivre-livro-habitos-atomicos",
     name: "Hábitos Atômicos - James Clear - Editora Alta Life - Capa Mole",
     category: "Livros",
     store: "Mercado Livre",
-    price: 34.60,
+    price: 37.13,
     oldPrice: 60.90,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_653257-MLU50462500949_062022-E.webp",
     emoji: "📚",
     link: "https://meli.la/2aYEWjT",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-18T18:14:00-03:00"
-  },
-  {
-    id: "mercadolivre-livro-hipotese-do-amor",
-    name: "A Hipótese do Amor - Edição com Sobrecapa do Filme - Ali Hazelwood - Editora Arqueiro",
-    category: "Livros",
-    store: "Mercado Livre",
-    price: 40.01,
-    oldPrice: 64.90,
-    image: "https://http2.mlstatic.com/D_Q_NP_2X_980089-MLU50709668667_072022-E.webp",
-    emoji: "📚",
-    link: "https://meli.la/1526gPw",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-09-18T18:15:00-03:00"
+    createdAt: "2026-09-18T18:14:00-03:00",
+    checkedAt: "2026-09-28T11:26:00-03:00"
   },
   {
     id: "mercadolivre-livro-diario-de-um-banana-1",
     name: "Diário de um Banana 1 - Jeff Kinney - VR Editora - Capa Dura",
     category: "Livros",
     store: "Mercado Livre",
-    price: 48.70,
+    price: 44.90,
     oldPrice: 74.90,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_655974-MLU50516803001_062022-E.webp",
     emoji: "📚",
     link: "https://meli.la/1tbvvNp",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-18T18:16:00-03:00"
+    createdAt: "2026-09-18T18:16:00-03:00",
+    checkedAt: "2026-09-28T11:26:00-03:00"
   },
   {
     id: "mercadolivre-livro-princesa-desastrada-4",
     name: "O Diário de uma Princesa Desastrada 4 - Maidy Lacerda - Outro Planeta",
     category: "Livros",
     store: "Mercado Livre",
-    price: 52.27,
+    price: 46.56,
     oldPrice: 84.90,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_813121-MLA110797564301_042026-E.webp",
     emoji: "📚",
     link: "https://meli.la/2tQ6UDu",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-18T18:17:00-03:00"
+    createdAt: "2026-09-18T18:17:00-03:00",
+    checkedAt: "2026-09-28T11:26:00-03:00"
   },
   {
     id: "mercadolivre-livro-patinando-no-amor",
     name: "Patinando no Amor - Lynn Painter - Intrínseca - Capa Mole",
     category: "Livros",
     store: "Mercado Livre",
-    price: 46.97,
+    price: 50.18,
     oldPrice: 69.90,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_812454-MLA94687199899_102025-E.webp",
     emoji: "📚",
     link: "https://meli.la/1uKnvsd",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-18T18:18:00-03:00"
+    createdAt: "2026-09-18T18:18:00-03:00",
+    checkedAt: "2026-09-28T11:26:00-03:00"
   },
   {
     id: "mercadolivre-livro-anatomia-fisiologia-humana",
@@ -419,7 +408,8 @@ window.ACHOU_PRODUCTS = [
     link: "https://meli.la/25XfvFY",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-18T18:19:00-03:00"
+    createdAt: "2026-09-18T18:19:00-03:00",
+    checkedAt: "2026-09-28T11:26:00-03:00"
   },
   {
     id: "mercadolivre-livro-prospeccao-fanatica",
