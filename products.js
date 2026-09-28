@@ -4776,7 +4776,7 @@ window.ACHOU_PRODUCTS = [
   {
     id: "mercadolivre-dark-souls-remastered-ps4",
     name: "Jogo Dark Souls: Remastered Standard Edition PS4 Mídia Física",
-    category: "Jogos",
+    category: "Games",
     store: "Mercado Livre",
     price: 119.96,
     oldPrice: 187.30,
@@ -4790,7 +4790,7 @@ window.ACHOU_PRODUCTS = [
   {
     id: "mercadolivre-f1-22-standard-edition-ps4",
     name: "Jogo F1 22 Standard Edition PS4 Mídia Física Novo Lacrado",
-    category: "Jogos",
+    category: "Games",
     store: "Mercado Livre",
     price: 170.00,
     oldPrice: 269.90,
@@ -4804,7 +4804,7 @@ window.ACHOU_PRODUCTS = [
   {
     id: "mercadolivre-hogwarts-legacy-standard-ps4",
     name: "Jogo Hogwarts Legacy Standard Edition PS4 Mídia Física",
-    category: "Jogos",
+    category: "Games",
     store: "Mercado Livre",
     price: 132.31,
     oldPrice: 149.90,
@@ -4818,7 +4818,7 @@ window.ACHOU_PRODUCTS = [
   {
     id: "mercadolivre-red-dead-redemption-2-ps4",
     name: "Jogo Red Dead Redemption 2 PS4 Mídia Física Lacrado",
-    category: "Jogos",
+    category: "Games",
     store: "Mercado Livre",
     price: 142.79,
     oldPrice: 188.67,
@@ -4832,7 +4832,7 @@ window.ACHOU_PRODUCTS = [
   {
     id: "mercadolivre-the-last-of-us-remasterizado-ps4",
     name: "Jogo The Last Of Us Remasterizado PlayStation Hits PS4",
-    category: "Jogos",
+    category: "Games",
     store: "Mercado Livre",
     price: 94.90,
     oldPrice: 290.00,
@@ -4846,7 +4846,7 @@ window.ACHOU_PRODUCTS = [
   {
     id: "mercadolivre-ghost-of-tsushima-directors-cut-ps5",
     name: "Jogo Ghost Of Tsushima Director's Cut PS5 Mídia Física Sony",
-    category: "Jogos",
+    category: "Games",
     store: "Mercado Livre",
     price: 257.91,
     oldPrice: 399.00,
@@ -4860,7 +4860,7 @@ window.ACHOU_PRODUCTS = [
   {
     id: "mercadolivre-gta-5-ps5-midia-fisica",
     name: "Jogo GTA 5 PS5 - Grand Theft Auto V Mídia Física",
-    category: "Jogos",
+    category: "Games",
     store: "Mercado Livre",
     price: 155.96,
     oldPrice: 209.90,
@@ -4874,7 +4874,7 @@ window.ACHOU_PRODUCTS = [
   {
     id: "mercadolivre-death-stranding-2-on-the-beach-ps5",
     name: "Jogo Death Stranding 2: On The Beach Edição Padrão PS5 Sony",
-    category: "Jogos",
+    category: "Games",
     store: "Mercado Livre",
     price: 246.05,
     oldPrice: 459.00,
@@ -4888,7 +4888,7 @@ window.ACHOU_PRODUCTS = [
   {
     id: "mercadolivre-god-of-war-ragnarok-ps5-midia-fisica",
     name: "Jogo God Of War Ragnarök Edição Física PlayStation 5",
-    category: "Jogos",
+    category: "Games",
     store: "Mercado Livre",
     price: 273.13,
     oldPrice: 318.72,
@@ -4902,7 +4902,7 @@ window.ACHOU_PRODUCTS = [
   {
     id: "mercadolivre-spider-man-miles-morales-ps5",
     name: "Jogo Marvel's Spider-Man: Miles Morales PS5",
-    category: "Jogos",
+    category: "Games",
     store: "Mercado Livre",
     price: 127.88,
     oldPrice: 299.00,

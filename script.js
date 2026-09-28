@@ -50,7 +50,9 @@
     if (!categoryGrid || !filterChips) return;
     const icons = {
       'Celulares': '📱', 'Tênis': '👟', 'TVs': '📺', 'Livros': '📚',
-      'Moda': '👕', 'Eletrônicos': '🎧', 'Casa e eletrodomésticos': '🏠', 'Notebooks': '💻', 'Ferramentas': '🧰', 'Enxoval': '🛏️', 'Todos': '✨'
+      'Moda': '👕', 'Eletrônicos': '🎧', 'Casa e eletrodomésticos': '🏠', 'Notebooks': '💻', 'Ferramentas': '🧰', 'Enxoval': '🛏️',
+      'Games': '🎮', 'Fitness': '🏋️', 'Informática': '🖥️', 'Smartwatch': '⌚', 'Acessórios': '👜', 'Beleza': '💄', 'Brinquedos': '🧸',
+      'Todos': '✨'
     };
 
     categoryGrid.innerHTML = categories.filter(c => c !== 'Todos').map(category => `
