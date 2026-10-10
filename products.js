@@ -14,44 +14,14 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-18T18:00:00-03:00",
-    checkedAt: "2026-09-28T11:26:00-03:00"
-  },
-  {
-    id: "mercadolivre-galaxy-a17-5g-128gb-preto",
-    name: "Smartphone Samsung Galaxy A17 5G 128GB 4GB Super AMOLED 6.7'' Câmera 50MP Preto",
-    category: "Celulares",
-    store: "Mercado Livre",
-    price: 827.10,
-    oldPrice: 1499.00,
-    image: "https://http2.mlstatic.com/D_Q_NP_2X_755351-MLA99597188918_122025-E.webp",
-    emoji: "📱",
-    link: "https://meli.la/1gpoQDU",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-09-18T18:01:00-03:00",
-    checkedAt: "2026-09-28T11:26:00-03:00"
-  },
-  {
-    id: "mercadolivre-galaxy-a07-256gb-violeta",
-    name: "Celular Samsung Galaxy A07 256GB 8GB Câmera 50MP Tela 6.7 Proteção IP54 Violeta",
-    category: "Celulares",
-    store: "Mercado Livre",
-    price: 909.00,
-    oldPrice: 1582.63,
-    image: "https://http2.mlstatic.com/D_Q_NP_2X_765861-MLA95532186080_102025-E.webp",
-    emoji: "📱",
-    link: "https://meli.la/2w3JZ54",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-09-18T18:02:00-03:00",
-    checkedAt: "2026-09-28T11:26:00-03:00"
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "mercadolivre-galaxy-a36-5g-128gb-branco",
     name: "Smartphone Samsung Galaxy A36 5G 128GB 6GB RAM Câmera Tripla 50MP IP67 Super AMOLED Branco",
     category: "Celulares",
     store: "Mercado Livre",
-    price: 1309.00,
+    price: 1389.52,
     oldPrice: 2212.86,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_968548-MLA99944961199_112025-E.webp",
     emoji: "📱",
@@ -59,7 +29,7 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-18T18:03:00-03:00",
-    checkedAt: "2026-09-28T11:26:00-03:00"
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "mercadolivre-moto-g17-4g-128gb",
@@ -74,77 +44,67 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-18T18:04:00-03:00",
-    checkedAt: "2026-09-28T11:26:00-03:00"
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "mercadolivre-smart-tv-tcl-50-qled-4k-p7l-google-tv-50p7l",
     name: "Smart TV TCL 50\" QLED 4K P7L Wi-Fi Bluetooth Google TV HDR10+ 60Hz 50P7L",
     category: "TVs",
     store: "Mercado Livre",
-    price: 2259.99,
+    price: 2349.00,
     oldPrice: 2999.00,
     image: "https://http2.mlstatic.com/D_NQ_NP_978669-MLA114751005026_082026-O.webp",
     emoji: "📺",
     link: "https://meli.la/1A7rhdX",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-20T14:31:00-03:00"
+    createdAt: "2026-09-20T14:31:00-03:00",
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "mercadolivre-notebook-acer-nitro-96aq-i9-13g-rtx4060",
     name: "Notebook Acer Nitro 96AQ Core i9 13ª Geração 16GB 512GB SSD RTX 4060 Windows 11",
     category: "Notebooks",
     store: "Mercado Livre",
-    price: 7748.99,
-    oldPrice: 11599.00,
+    price: 7999.00,
+    oldPrice: 13431.34,
     image: "https://http2.mlstatic.com/D_NQ_NP_912240-MLB87120833500_072025-O-notebook-acer-nitro-96aq-ci9-13g-16gb-512ssd-rtx4060-w11.webp",
     emoji: "💻",
     link: "https://meli.la/1WhVt4i",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-20T14:32:00-03:00"
-  },
-  {
-    id: "mercadolivre-smart-tv-lg-qned-evo-ai-qned70-50-2026",
-    name: "Smart TV LG QNED evo AI QNED70 50\" 50QNED70BSA 2026 4K UHD",
-    category: "TVs",
-    store: "Mercado Livre",
-    price: 2569.32,
-    oldPrice: 3294.00,
-    image: "https://http2.mlstatic.com/D_NQ_NP_933276-MLA112010979660_062026-O.webp",
-    emoji: "📺",
-    link: "https://meli.la/2tCtWXT",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-09-20T14:33:00-03:00"
+    createdAt: "2026-09-20T14:32:00-03:00",
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "mercadolivre-notebook-acer-aspire-go-15-ag15-71p-54j6",
     name: "Notebook Acer Aspire Go 15 Core i5 8GB 256GB 15,6\" AG15-71P-54J6",
     category: "Notebooks",
     store: "Mercado Livre",
-    price: 3535.90,
+    price: 3147.76,
     oldPrice: 5299.00,
     image: "https://http2.mlstatic.com/D_NQ_NP_730219-MLB109376576427_032026-O-notebook-acer-aspire-go-15-i5-8gb-256gb-156---ag1571p54j6.webp",
     emoji: "💻",
     link: "https://meli.la/1UdkyZc",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-20T14:34:00-03:00"
+    createdAt: "2026-09-20T14:34:00-03:00",
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "mercadolivre-smart-tv-lg-qned73-50-4k-webos-25",
     name: "Smart TV 4K 50\" LG QNED73 Portal de Games Processador AI α7 Ger8 Google Cast Controle AI Magic WebOS 25",
     category: "TVs",
     store: "Mercado Livre",
-    price: 2569.53,
+    price: 2200.93,
     oldPrice: 3399.00,
     image: "https://http2.mlstatic.com/D_NQ_NP_736986-MLA110508533913_042026-O.webp",
     emoji: "📺",
     link: "https://meli.la/1j3QztJ",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-20T14:35:00-03:00"
+    createdAt: "2026-09-20T14:35:00-03:00",
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "mercadolivre-notebook-lenovo-v15-g4-i7-13620h-16gb",
@@ -165,42 +125,45 @@ window.ACHOU_PRODUCTS = [
     name: "Smart TV AOC 50\" Roku 4K UHD DLED Wi-Fi Dolby Audio 50U7066",
     category: "TVs",
     store: "Mercado Livre",
-    price: 2399.00,
+    price: 2119.99,
     oldPrice: 3899.00,
     image: "https://http2.mlstatic.com/D_NQ_NP_817676-MLA115644044060_092026-O-smart-tv-aoc-50-roku-4k-uhd-dled-wifi-dolby-audio-50u7066.webp",
     emoji: "📺",
     link: "https://meli.la/1cqCSwd",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-20T14:37:00-03:00"
+    createdAt: "2026-09-20T14:37:00-03:00",
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "mercadolivre-notebook-acer-aspire-5-i7-12650h-512gb",
     name: "Notebook Acer Aspire 5 15.6\" Full HD Core i7-12650H 8GB 512GB NVMe",
     category: "Notebooks",
     store: "Mercado Livre",
-    price: 5035.81,
+    price: 5411.73,
     oldPrice: 6199.00,
     image: "https://http2.mlstatic.com/D_NQ_NP_701945-MLB89220401072_082025-O-notebook-acer-aspire-5-156-fhd-i712650h-512gb-nvme-8gb.webp",
     emoji: "💻",
     link: "https://meli.la/2iegivP",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-20T14:38:00-03:00"
+    createdAt: "2026-09-20T14:38:00-03:00",
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "mercadolivre-smart-tv-50-4k-tronos-led-android-uhd-tizen",
     name: "Smart TV 50\" 4K Tronos LED Android UHD Tizen Wi-Fi Bluetooth Dolby",
     category: "TVs",
     store: "Mercado Livre",
-    price: 1920.50,
+    price: 1871.99,
     oldPrice: 3019.00,
     image: "https://http2.mlstatic.com/D_NQ_NP_969306-MLA115339859429_072026-O.webp",
     emoji: "📺",
     link: "https://meli.la/2JRyUxC",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-20T14:39:00-03:00"
+    createdAt: "2026-09-20T14:39:00-03:00",
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "mercadolivre-laptop-hp-pavilion-15-intel-n100-8gb-256gb",
@@ -221,7 +184,7 @@ window.ACHOU_PRODUCTS = [
     name: "Smartphone Motorola Moto G67 5G 128GB 12GB (4GB+8GB RAM Boost) Tela 1.5K Extreme AMOLED 120Hz Chumbo",
     category: "Celulares",
     store: "Mercado Livre",
-    price: 1180.00,
+    price: 1205.10,
     oldPrice: 2299.00,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_635893-MLA106048486992_022026-E.webp",
     emoji: "📱",
@@ -229,14 +192,14 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-18T18:05:00-03:00",
-    checkedAt: "2026-09-28T11:26:00-03:00"
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "mercadolivre-moto-g35-5g-128gb",
     name: "Smartphone Motorola Moto G35 5G 12GB RAM Boost 128GB Grafite",
     category: "Celulares",
     store: "Mercado Livre",
-    price: 969.00,
+    price: 907.70,
     oldPrice: 1324.29,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_649586-MLA100448312516_122025-E.webp",
     emoji: "📱",
@@ -244,37 +207,7 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-18T18:06:00-03:00",
-    checkedAt: "2026-09-28T11:26:00-03:00"
-  },
-  {
-    id: "mercadolivre-tv-lg-43lr671-fhd",
-    name: "Smart TV LG 43\" Full HD ThinQ AI Alexa WebOS 43LR671",
-    category: "TVs",
-    store: "Mercado Livre",
-    price: 1647.90,
-    oldPrice: 2361.12,
-    image: "https://http2.mlstatic.com/D_Q_NP_2X_983852-MLB79480945945_092024-E--smart-tv-lg-43-fhd-hdr10-thinqai-webos23-wifi5-alexa-43lr671.webp",
-    emoji: "📺",
-    link: "https://meli.la/1ZYy17b",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-09-18T18:07:00-03:00",
-    checkedAt: "2026-09-28T11:26:00-03:00"
-  },
-  {
-    id: "mercadolivre-tv-philco-43-p43vik-roku",
-    name: "Smart TV Philco 43\" P43VIK Roku LED Dolby Audio Wi-Fi HDMI HDR Full HD",
-    category: "TVs",
-    store: "Mercado Livre",
-    price: 1449.00,
-    oldPrice: 2499.00,
-    image: "https://http2.mlstatic.com/D_Q_NP_2X_697288-MLA100482486016_122025-E.webp",
-    emoji: "📺",
-    link: "https://meli.la/2C2GGUz",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-09-18T18:08:00-03:00",
-    checkedAt: "2026-09-28T11:26:00-03:00"
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "mercadolivre-tv-philips-43pfg6910",
@@ -289,14 +222,14 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-18T18:10:00-03:00",
-    checkedAt: "2026-09-28T11:26:00-03:00"
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "mercadolivre-tv-hisense-43a4nv",
     name: "Smart TV Hisense FHD 43\" 43A4NV HDR10 DTS Virtual X Alexa e Google Home",
     category: "TVs",
     store: "Mercado Livre",
-    price: 1499.99,
+    price: 1399.99,
     oldPrice: 1749.00,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_625134-MLA93305690443_092025-E.webp",
     emoji: "📺",
@@ -304,14 +237,14 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-18T18:11:00-03:00",
-    checkedAt: "2026-09-28T11:26:00-03:00"
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "mercadolivre-tv-samsung-43-f6000f",
     name: "Smart TV 43\" Full HD F6000F 2025 Samsung Bivolt",
     category: "TVs",
     store: "Mercado Livre",
-    price: 1657.46,
+    price: 1519.05,
     oldPrice: 2299.00,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_886409-MLA117528603517_092026-E.webp",
     emoji: "📺",
@@ -319,14 +252,14 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-18T18:12:00-03:00",
-    checkedAt: "2026-09-28T11:26:00-03:00"
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "mercadolivre-tv-tcl-43s5k-qled",
     name: "Smart TV TCL 43 Polegadas QLED Full HD S5K Wi-Fi Bluetooth Google TV HDR10 Dolby Audio",
     category: "TVs",
     store: "Mercado Livre",
-    price: 1614.05,
+    price: 1570.06,
     oldPrice: 1849.00,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_957852-MLA114585921650_082026-E.webp",
     emoji: "📺",
@@ -334,7 +267,7 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-18T18:13:00-03:00",
-    checkedAt: "2026-09-28T11:26:00-03:00"
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "mercadolivre-livro-habitos-atomicos",
@@ -349,14 +282,14 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-18T18:14:00-03:00",
-    checkedAt: "2026-09-28T11:26:00-03:00"
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "mercadolivre-livro-diario-de-um-banana-1",
     name: "Diário de um Banana 1 - Jeff Kinney - VR Editora - Capa Dura",
     category: "Livros",
     store: "Mercado Livre",
-    price: 44.90,
+    price: 52.65,
     oldPrice: 74.90,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_655974-MLU50516803001_062022-E.webp",
     emoji: "📚",
@@ -364,14 +297,14 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-18T18:16:00-03:00",
-    checkedAt: "2026-09-28T11:26:00-03:00"
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "mercadolivre-livro-princesa-desastrada-4",
     name: "O Diário de uma Princesa Desastrada 4 - Maidy Lacerda - Outro Planeta",
     category: "Livros",
     store: "Mercado Livre",
-    price: 46.56,
+    price: 41.54,
     oldPrice: 84.90,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_813121-MLA110797564301_042026-E.webp",
     emoji: "📚",
@@ -379,14 +312,14 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-18T18:17:00-03:00",
-    checkedAt: "2026-09-28T11:26:00-03:00"
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "mercadolivre-livro-patinando-no-amor",
     name: "Patinando no Amor - Lynn Painter - Intrínseca - Capa Mole",
     category: "Livros",
     store: "Mercado Livre",
-    price: 50.18,
+    price: 44.80,
     oldPrice: 69.90,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_812454-MLA94687199899_102025-E.webp",
     emoji: "📚",
@@ -394,7 +327,7 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-18T18:18:00-03:00",
-    checkedAt: "2026-09-28T11:26:00-03:00"
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "mercadolivre-livro-anatomia-fisiologia-humana",
@@ -409,175 +342,187 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-18T18:19:00-03:00",
-    checkedAt: "2026-09-28T11:26:00-03:00"
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "mercadolivre-livro-prospeccao-fanatica",
     name: "Prospecção Fanática - Guia Definitivo de Conversas para Iniciar Vendas - Editora Alta Books",
     category: "Livros",
     store: "Mercado Livre",
-    price: 53.99,
+    price: 65.82,
     oldPrice: 93.50,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_809626-MLU50420431875_062022-E.webp",
     emoji: "📚",
     link: "https://meli.la/2RQpByq",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-18T18:20:00-03:00"
+    createdAt: "2026-09-18T18:20:00-03:00",
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "mercadolivre-notebook-acer-aspire-go-15-i5",
     name: "Notebook Acer Aspire Go 15 Intel Core i5 1334U 8GB RAM 256GB SSD Windows 11 Cinza",
     category: "Notebooks",
     store: "Mercado Livre",
-    price: 3564.00,
+    price: 3712.72,
     oldPrice: 7000.00,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_621941-MLA106863964483_022026-E.webp",
     emoji: "💻",
     link: "https://meli.la/2B1PY3s",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-18T18:21:00-03:00"
+    createdAt: "2026-09-18T18:21:00-03:00",
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "mercadolivre-notebook-dell-i5-8gb-512gb",
     name: "Notebook Dell DC15-i51334U-A50 15.6 FHD i5 8GB 512GB Windows 11",
     category: "Notebooks",
     store: "Mercado Livre",
-    price: 3825.00,
+    price: 4349.33,
     oldPrice: 5524.00,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_602930-MLA111944189869_052026-E.webp",
     emoji: "💻",
     link: "https://meli.la/1kMTp8H",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-18T18:22:00-03:00"
+    createdAt: "2026-09-18T18:22:00-03:00",
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "mercadolivre-notebook-samsung-galaxy-book4",
     name: "Notebook Samsung Galaxy Book4 Intel Core i5-1335U 8GB 512GB SSD Iris Xe 15.6'' Full HD",
     category: "Notebooks",
     store: "Mercado Livre",
-    price: 4179.00,
+    price: 3869.10,
     oldPrice: 5799.00,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_902725-MLA113038325332_072026-E.webp",
     emoji: "💻",
     link: "https://meli.la/33fQ4Vp",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-18T18:23:00-03:00"
+    createdAt: "2026-09-18T18:23:00-03:00",
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "mercadolivre-notebook-asus-vivobook-15-i5",
     name: "Notebook ASUS Vivobook 15 X1504VA Intel Core i5 1334U 8GB RAM 512GB SSD Windows 11 Silver",
     category: "Notebooks",
     store: "Mercado Livre",
-    price: 3893.00,
+    price: 3899.90,
     oldPrice: 4999.00,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_704459-MLA99979883783_112025-E.webp",
     emoji: "💻",
     link: "https://meli.la/1jmaBcr",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-18T18:24:00-03:00"
+    createdAt: "2026-09-18T18:24:00-03:00",
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "mercadolivre-notebook-positivo-vision-i15m",
     name: "Notebook Positivo Vision i15M com Minitela Intel Core i3 N300 8GB RAM SSD 512GB Windows 11",
     category: "Notebooks",
     store: "Mercado Livre",
-    price: 3699.00,
-    oldPrice: 4637.00,
+    price: 3221.00,
+    oldPrice: 4637.99,
     image: "https://http2.mlstatic.com/D_NQ_NP_746655-MLA99724220345_112025-O.webp",
     emoji: "💻",
     link: "https://meli.la/2gXKvyT",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-18T18:25:00-03:00"
+    createdAt: "2026-09-18T18:25:00-03:00",
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "mercadolivre-notebook-vaio-fe16-i5",
     name: "Notebook VAIO FE16 Intel Core i5-1334U 13ª Gen Linux 8GB RAM 256GB SSD Cinza Grafite",
     category: "Notebooks",
     store: "Mercado Livre",
-    price: 3599.00,
-    oldPrice: 4999.00,
+    price: 3419.00,
+    oldPrice: 5999.00,
     image: "https://http2.mlstatic.com/D_NQ_NP_634501-MLA99874074933_112025-O.webp",
     emoji: "💻",
     link: "https://meli.la/2EipZnp",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-18T18:26:00-03:00"
+    createdAt: "2026-09-18T18:26:00-03:00",
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "mercadolivre-notebook-lenovo-ideapad-slim3",
     name: "Notebook Lenovo IdeaPad Slim 3 15IRH10 Intel Core i5-13420H 8GB 256GB SSD Windows 11 Luna Grey",
     category: "Notebooks",
     store: "Mercado Livre",
-    price: 3314.00,
-    oldPrice: 4999.00,
+    price: 3509.10,
+    oldPrice: 4699.00,
     image: "https://http2.mlstatic.com/D_NQ_NP_986125-MLA100031539491_122025-O.webp",
     emoji: "💻",
     link: "https://meli.la/2u8smbc",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-18T18:27:00-03:00"
+    createdAt: "2026-09-18T18:27:00-03:00",
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "mercadolivre-parafusadeira-black-tools-tb21pw",
     name: "Parafusadeira e Furadeira de Impacto The Black Tools TB-21PW 3/8 Amarelo",
     category: "Ferramentas",
     store: "Mercado Livre",
-    price: 148.20,
+    price: 151.05,
     oldPrice: 299.90,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_629064-MLA114933297788_082026-E.webp",
     emoji: "🧰",
     link: "https://meli.la/26KRhTi",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-18T18:28:00-03:00"
+    createdAt: "2026-09-18T18:28:00-03:00",
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "mercadolivre-parafusadeira-wap-k21-id01",
     name: "Parafusadeira e Furadeira de Impacto WAP 3/8 K21 ID01",
     category: "Ferramentas",
     store: "Mercado Livre",
-    price: 219.00,
+    price: 287.13,
     oldPrice: 522.00,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_881860-MLA114663641920_082026-E.webp",
     emoji: "🧰",
     link: "https://meli.la/1ig6M2g",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-18T18:29:00-03:00"
+    createdAt: "2026-09-18T18:29:00-03:00",
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "mercadolivre-parafusadeira-bosch-gsb183li",
     name: "Parafusadeira e Furadeira de Impacto a Bateria 18V Bosch GSB 183-LI Maleta com Kit 103 Peças",
     category: "Ferramentas",
     store: "Mercado Livre",
-    price: 892.91,
+    price: 949.99,
     oldPrice: 1799.00,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_626334-MLA99457573836_112025-E.webp",
     emoji: "🧰",
     link: "https://meli.la/2SwZv44",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-18T18:30:00-03:00"
+    createdAt: "2026-09-18T18:30:00-03:00",
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "mercadolivre-parafusadeira-dewalt-dcd7781d2",
     name: "Parafusadeira Furadeira de Impacto Dewalt DCD7781D2 20V Brushless 13mm com 2 Baterias e Maleta",
     category: "Ferramentas",
     store: "Mercado Livre",
-    price: 913.47,
-    oldPrice: 1040.00,
+    price: 999.90,
+    oldPrice: 1399.90,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_941338-MLA113249466298_072026-E.webp",
     emoji: "🧰",
     link: "https://meli.la/2cXNymt",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-18T18:31:00-03:00"
+    createdAt: "2026-09-18T18:31:00-03:00",
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "mercadolivre-parafusadeira-blackdecker-ld12s",
@@ -585,13 +530,14 @@ window.ACHOU_PRODUCTS = [
     category: "Ferramentas",
     store: "Mercado Livre",
     price: 217.55,
-    oldPrice: 399.00,
+    oldPrice: 251.90,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_915234-MLA113306675820_072026-E.webp",
     emoji: "🧰",
     link: "https://meli.la/1dwchJP",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-18T18:32:00-03:00"
+    createdAt: "2026-09-18T18:32:00-03:00",
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "mercadolivre-parafusadeira-black-tools-tb21pzw",
@@ -605,21 +551,8 @@ window.ACHOU_PRODUCTS = [
     link: "https://meli.la/1i9Uav6",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-18T18:33:00-03:00"
-  },
-  {
-    id: "mercadolivre-parafusadeira-makita-hp333dwyx3",
-    name: "Kit Parafusadeira Furadeira de Impacto HP333DWYX3 Makita Bateria 12V com Carregador",
-    category: "Ferramentas",
-    store: "Mercado Livre",
-    price: 649.90,
-    oldPrice: 1147.00,
-    image: "https://http2.mlstatic.com/D_Q_NP_2X_740407-MLA96384749878_102025-E.webp",
-    emoji: "🧰",
-    link: "https://meli.la/2cY9TLy",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-09-18T18:34:00-03:00"
+    createdAt: "2026-09-18T18:33:00-03:00",
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "mercadolivre-lencol-texfine-400-fios",
@@ -703,21 +636,23 @@ window.ACHOU_PRODUCTS = [
     link: "https://meli.la/1bdmfrQ",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-18T18:40:00-03:00"
+    createdAt: "2026-09-18T18:40:00-03:00",
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "mercadolivre-cobre-leito-fv-enxovais",
     name: "Kit Cobre Leito Casal Queen Dupla Face Colcha 200 Fios 3 Peças - F.V Enxovais",
     category: "Enxoval",
     store: "Mercado Livre",
-    price: 123.09,
+    price: 126.90,
     oldPrice: 187.44,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_795371-MLB117656884261_092026-E.webp",
     emoji: "🛏️",
     link: "https://meli.la/2h8Wi98",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-18T18:41:00-03:00"
+    createdAt: "2026-09-18T18:41:00-03:00",
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "mercadolivre-tenis-via-marte-branco",
@@ -766,14 +701,15 @@ window.ACHOU_PRODUCTS = [
     name: "Tênis Feminino Casual Conforto Cadarço Elástico Kolosh C1296",
     category: "Tênis",
     store: "Mercado Livre",
-    price: 154.60,
+    price: 174.18,
     oldPrice: 259.99,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_930834-MLB80510718852_112024-E--tenis-feminino-casual-conforto-cadarco-elastico-kolosh-c1296.webp",
     emoji: "👟",
     link: "https://meli.la/1GBrYoB",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-18T18:45:00-03:00"
+    createdAt: "2026-09-18T18:45:00-03:00",
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "mercadolivre-tenis-vizzano-samba-flataform",
@@ -808,14 +744,15 @@ window.ACHOU_PRODUCTS = [
     name: "Tênis Mormaii Urban Free Original Skate Casual",
     category: "Tênis",
     store: "Mercado Livre",
-    price: 133.84,
+    price: 137.00,
     oldPrice: 179.90,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_623765-MLB97192177608_112025-E--tenis-mormaii-urban-free-original-skate-casual-masculino.webp",
     emoji: "👟",
     link: "https://meli.la/26Up4dd",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-18T18:48:00-03:00"
+    createdAt: "2026-09-18T18:48:00-03:00",
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "mercadolivre-bermuda-bolldor-kit3",
@@ -850,14 +787,15 @@ window.ACHOU_PRODUCTS = [
     name: "Kit 4 Bermuda Shorts Tactel Sandrini Elastano Academia Praia",
     category: "Moda",
     store: "Mercado Livre",
-    price: 59.99,
+    price: 55.19,
     oldPrice: 124.99,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_740026-MLB86614660221_062025-E.webp",
     emoji: "🩳",
     link: "https://meli.la/243SMvj",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-18T18:51:00-03:00"
+    createdAt: "2026-09-18T18:51:00-03:00",
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "mercadolivre-bermuda-puma-media",
@@ -899,119 +837,128 @@ window.ACHOU_PRODUCTS = [
     link: "https://meli.la/24VZCqK",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-18T18:54:00-03:00"
+    createdAt: "2026-09-18T18:54:00-03:00",
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "mercadolivre-bermuda-compressao-duplo-mm",
     name: "Bermuda Compressão Duplo Masculina 2 em 1 Short Academia",
     category: "Moda",
     store: "Mercado Livre",
-    price: 42.73,
+    price: 39.70,
     oldPrice: 59.90,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_770296-MLB111762232788_062026-E--bermuda-compressao-duplo-masculina-2-em-1-short-academia.webp",
     emoji: "🩳",
     link: "https://meli.la/2Xh67L8",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-18T18:55:00-03:00"
+    createdAt: "2026-09-18T18:55:00-03:00",
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "mercadolivre-airfryer-wap-wafg2s-5l",
     name: "Fritadeira Elétrica Air Fryer WAP WAFG2S 5 Litros com Revestimento Antiaderente 1500W",
     category: "Casa e eletrodomésticos",
     store: "Mercado Livre",
-    price: 237.90,
+    price: 219.00,
     oldPrice: 598.00,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_646462-MLA89509974686_082025-E.webp",
     emoji: "🍟",
     link: "https://meli.la/1KQqpHo",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-18T18:56:00-03:00"
+    createdAt: "2026-09-18T18:56:00-03:00",
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "mercadolivre-airfryer-mondial-afn40ri-4l",
     name: "Fritadeira Sem Óleo Air Fryer 4L Mondial 1500W AFN-40-RI Vermelho/Inox",
     category: "Casa e eletrodomésticos",
     store: "Mercado Livre",
-    price: 449.90,
-    oldPrice: 1041.00,
+    price: 580.00,
+    oldPrice: 913.12,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_900291-MLA100001205819_112025-E.webp",
     emoji: "🍟",
     link: "https://meli.la/1dBanRv",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-18T18:57:00-03:00"
+    createdAt: "2026-09-18T18:57:00-03:00",
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "mercadolivre-airfryer-electrolux-ritalobo-eaf45",
     name: "Air Fryer Fritadeira Elétrica sem Óleo Rita Lobo 5,6L Electrolux EAF45",
     category: "Casa e eletrodomésticos",
     store: "Mercado Livre",
-    price: 359.91,
+    price: 349.20,
     oldPrice: 719.90,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_870458-MLA116583927377_082026-E.webp",
     emoji: "🍟",
     link: "https://meli.la/2kHL4q7",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-18T18:58:00-03:00"
+    createdAt: "2026-09-18T18:58:00-03:00",
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "mercadolivre-airfryer-britania-bfr2100p-12l",
     name: "Fritadeira Air Fry Oven Britânia BFR2100P 12 Litros 1800W Preto",
     category: "Casa e eletrodomésticos",
     store: "Mercado Livre",
-    price: 439.00,
+    price: 526.55,
     oldPrice: 829.90,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_768323-MLA99461508192_112025-E.webp",
     emoji: "🍟",
     link: "https://meli.la/144dsTT",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-18T18:59:00-03:00"
+    createdAt: "2026-09-18T18:59:00-03:00",
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "mercadolivre-airfryer-elgin-quadfry-42l",
     name: "Fritadeira Elétrica Air Fryer Quad Fry Elgin 4,2L 1400W Preto",
     category: "Casa e eletrodomésticos",
     store: "Mercado Livre",
-    price: 159.90,
+    price: 145.00,
     oldPrice: 299.00,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_813389-MLA99520090726_112025-E.webp",
     emoji: "🍟",
     link: "https://meli.la/1Gm4kma",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-18T19:00:00-03:00"
+    createdAt: "2026-09-18T19:00:00-03:00",
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "mercadolivre-airfryer-mondial-afn50bi-5l",
     name: "Fritadeira Sem Óleo Air Fryer 5L Mondial 1900W AFN-50-BI",
     category: "Casa e eletrodomésticos",
     store: "Mercado Livre",
-    price: 378.20,
+    price: 331.63,
     oldPrice: 592.90,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_708441-MLA99523951400_122025-E.webp",
     emoji: "🍟",
     link: "https://meli.la/1VLs8cF",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-18T19:01:00-03:00"
+    createdAt: "2026-09-18T19:01:00-03:00",
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "mercadolivre-airfryer-electrolux-eaf71-7l",
     name: "Air Fryer Forno Electrolux 7L 1700W Digital EAF71 Cinza",
     category: "Casa e eletrodomésticos",
     store: "Mercado Livre",
-    price: 437.90,
+    price: 389.90,
     oldPrice: 599.00,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_736907-MLA108656792797_032026-E.webp",
     emoji: "🍟",
     link: "https://meli.la/2xbvLG5",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-18T19:02:00-03:00"
+    createdAt: "2026-09-18T19:02:00-03:00",
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "mercadolivre-fone-soundcore-p30i-anker",
@@ -1026,7 +973,7 @@ window.ACHOU_PRODUCTS = [
     featured: true,
     isDemo: false,
     createdAt: "2026-09-18T15:00:00-03:00",
-    checkedAt: "2026-09-25T21:46:00-03:00"
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "mercadolivre-tenis-fila-vector-masculino",
@@ -1048,7 +995,7 @@ window.ACHOU_PRODUCTS = [
     name: "Smart TV LG UHD AI UA75 50\" HDR10 Pro Processador α7 AI Ger8 webOS 25",
     category: "TVs",
     store: "Mercado Livre",
-    price: 2736.34,
+    price: 2613.52,
     oldPrice: 3500.00,
     image: "https://http2.mlstatic.com/D_NQ_NP_986921-MLA106908213424_022026-O-smart-tv-lg-uhd-ai-ua75-50-hdr10-pro-7-ai-ger8-webos-25.webp",
     emoji: "📺",
@@ -1056,14 +1003,14 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-20T16:26:24-03:00",
-    checkedAt: "2026-09-27T17:54:00-03:00"
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "mercadolivre-smart-tv-lg-qned73-55-webos-ai-magic",
     name: "Smart TV 55\" LG QNED73 4K webOS AI Magic",
     category: "TVs",
     store: "Mercado Livre",
-    price: 2989.00,
+    price: 2859.00,
     oldPrice: 4900.00,
     image: "https://http2.mlstatic.com/D_NQ_NP_830993-MLA110505911317_042026-O-smart-tv-55--lg-qned73-4k-webos-ai-magic.webp",
     emoji: "📺",
@@ -1071,14 +1018,14 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-20T16:28:24-03:00",
-    checkedAt: "2026-09-27T17:54:00-03:00"
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "mercadolivre-smart-tv-55-4k-crystal-lh55bethvggxzd",
     name: "Smart TV 55\" 4K Crystal LH55BETHVGGXZD",
     category: "TVs",
     store: "Mercado Livre",
-    price: 2984.00,
+    price: 2649.00,
     oldPrice: 3999.00,
     image: "https://http2.mlstatic.com/D_NQ_NP_951305-MLB109618750599_032026-O-smart-tv-55--4k-crystal-lh55bethvggxzd.webp",
     emoji: "📺",
@@ -1086,28 +1033,29 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-20T16:30:24-03:00",
-    checkedAt: "2026-09-27T17:54:00-03:00"
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "mercadolivre-samsung-vision-ai-tv-55-oled-s85h",
     name: "Samsung Vision AI TV 55\" OLED 4K S85H 2026",
     category: "TVs",
     store: "Mercado Livre",
-    price: 5409.00,
+    price: 5991.70,
     oldPrice: 7899.00,
     image: "https://http2.mlstatic.com/D_NQ_NP_798705-MLB115085475363_072026-O-samsung-vision-ai-tv-55--oled-4k-s85h-2026.webp",
     emoji: "📺",
     link: "https://meli.la/22LT7T6",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-20T16:32:24-03:00"
+    createdAt: "2026-09-20T16:32:24-03:00",
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "mercadolivre-notebook-lenovo-ideapad-slim-3-83ns0002br",
     name: "Notebook Lenovo Intel i5 IdeaPad Slim 3 Tela 15.3 83NS0002BR",
     category: "Notebooks",
     store: "Mercado Livre",
-    price: 4599.90,
+    price: 4374.59,
     oldPrice: 6299.00,
     image: "https://http2.mlstatic.com/D_NQ_NP_721945-MLA85788494302_062025-O-notebook-lenovo-intel-i5-ideapad-slim-3-tela-153-83ns0002br.webp",
     emoji: "💻",
@@ -1115,29 +1063,29 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-20T16:33:24-03:00",
-    checkedAt: "2026-09-27T17:54:00-03:00"
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "mercadolivre-notebook-gamer-acer-nitro-i5-rtx4050",
     name: "Notebook Gamer Acer Nitro Core i5 RTX 4050 512GB 8GB Windows 11 15.6\"",
     category: "Notebooks",
     store: "Mercado Livre",
-    price: 5699.05,
-    oldPrice: 8399.00,
+    price: 5699.00,
+    oldPrice: 7511.95,
     image: "https://http2.mlstatic.com/D_NQ_NP_709911-MLB110299005238_052026-O-notebook-gamer-acer-nitro-ci5-rtx4050-512gb-8gb-w11-156.webp",
     emoji: "💻",
     link: "https://meli.la/2FycJuT",
     featured: false,
     isDemo: false,
     createdAt: "2026-09-20T16:34:24-03:00",
-    checkedAt: "2026-09-27T17:54:00-03:00"
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "mercadolivre-notebook-gamer-acer-v15-i5-rtx4050",
     name: "Notebook Gamer Acer V15 Core i5 RTX 4050 512GB 8GB Windows 11",
     category: "Notebooks",
     store: "Mercado Livre",
-    price: 5585.05,
+    price: 5879.00,
     oldPrice: 7999.00,
     image: "https://http2.mlstatic.com/D_NQ_NP_671991-MLB109933142377_042026-O-notebook-gamer-acer-v15-ci5-rtx4050-512gb-8gb-w-11ubook.webp",
     emoji: "💻",
@@ -1145,14 +1093,14 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-20T16:35:24-03:00",
-    checkedAt: "2026-09-27T17:54:00-03:00"
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "mercadolivre-notebook-lenovo-ideapad-slim-3i-i7-13620h",
     name: "Notebook Lenovo IdeaPad Slim 3i i7-13620H 8GB 512GB SSD Windows 11",
     category: "Notebooks",
     store: "Mercado Livre",
-    price: 4599.00,
+    price: 4699.00,
     oldPrice: 5999.00,
     image: "https://http2.mlstatic.com/D_NQ_NP_608427-MLA99938104121_112025-O-notebook-lenovo-ideapad-slim-3i-i713620h-8gb-512gb-ssd-w11.webp",
     emoji: "💻",
@@ -1160,43 +1108,44 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-20T16:36:24-03:00",
-    checkedAt: "2026-09-27T17:54:00-03:00"
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "mercadolivre-notebook-lenovo-legion-5-i7-11800h-rtx3060",
     name: "Notebook Lenovo Legion 5 i7-11800H RTX 3060 6GB Phantom Blue",
     category: "Notebooks",
     store: "Mercado Livre",
-    price: 8694.27,
+    price: 7751.52,
     oldPrice: 10799.00,
     image: "https://http2.mlstatic.com/D_NQ_NP_754616-MLA114034718176_072026-O.webp",
     emoji: "💻",
     link: "https://meli.la/2kMF8xa",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-20T16:37:24-03:00"
+    createdAt: "2026-09-20T16:37:24-03:00",
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "mercadolivre-suporte-tv-elg-articulado-26-65",
     name: "Suporte Articulado de Parede TV 26 a 65 Polegadas 30kg ELG Giratório Inclinável",
     category: "Casa e eletrodomésticos",
     store: "Mercado Livre",
-    price: 92.22,
-    oldPrice: 158.43,
+    price: 92.69,
+    oldPrice: 102.99,
     image: "https://http2.mlstatic.com/D_NQ_NP_833118-MLA116160731828_092026-O.webp",
     emoji: "📺",
     link: "https://meli.la/2WN3KDW",
     featured: false,
     isDemo: false,
     createdAt: "2026-09-18T15:02:00-03:00",
-    checkedAt: "2026-09-25T21:46:00-03:00"
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "mercadolivre-power-bank-20000mah-casenn",
     name: "Carregador Portátil 20000mAh Turbo 22.5W Power Bank Premium Universal Casenn",
     category: "Casa e eletrodomésticos",
     store: "Mercado Livre",
-    price: 102.29,
+    price: 99.90,
     oldPrice: 159.90,
     image: "https://http2.mlstatic.com/D_NQ_NP_614937-MLA96889123348_112025-O.webp",
     emoji: "🔋",
@@ -1204,7 +1153,7 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-18T15:03:00-03:00",
-    checkedAt: "2026-09-25T21:46:00-03:00"
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "mercadolivre-conjunto-fitness-bicolor-feminino",
@@ -1234,7 +1183,7 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-18T15:06:00-03:00",
-    checkedAt: "2026-09-25T21:46:00-03:00"
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "mercadolivre-tenis-newbalance-freshfoam-1080-v14",
@@ -1377,22 +1326,22 @@ window.ACHOU_PRODUCTS = [
     name: "Celular Samsung Galaxy A17 Com Ia, 256gb, 8gb Ram, Câm De 50mp, Tela De 6.7 , Nfc, Ip54 - Preto 4G",
     category: "Celulares",
     store: "Mercado Livre",
-    price: 1104.00,
-    oldPrice: 1599.00,
+    price: 1254.66,
+    oldPrice: 1699.00,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_781103-MLA99983064831_112025-AB.webp",
     emoji: "📱",
     link: "https://meli.la/2hNMcvQ",
     featured: true,
     isDemo: false,
     createdAt: "2026-09-15T20:05:00-03:00",
-    checkedAt: "2026-09-18T20:00:00-03:00"
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "mercadolivre-galaxy-s25-fe",
     name: "Celular Samsung Galaxy S25 Fe 5g, 128gb, 8gb Ram, Câmera Tripla De 50+12+8, Tela Grande De 6.7 Azul Marinho",
     category: "Celulares",
     store: "Mercado Livre",
-    price: 2943.00,
+    price: 2789.00,
     oldPrice: 4499.00,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_993303-MLA96666133268_112025-AB.webp",
     emoji: "📱",
@@ -1400,19 +1349,19 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-15T20:06:00-03:00",
-    checkedAt: "2026-09-18T20:00:00-03:00"
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "mercadolivre-iphone-15-128gb",
     name: "Apple iPhone 15 (128 GB) - Azul - Distribuidor Autorizado",
     category: "Celulares",
     store: "Mercado Livre",
-    price: 4299.00,
+    price: 4009.80,
     oldPrice: 7209.00,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_831434-MLA96401363339_102025-AB.webp",
     emoji: "📱",
     link: "https://meli.la/2pkKBdh",
-    checkedAt: "2026-09-20T09:41:49-03:00",
+    checkedAt: "2026-10-10T18:23:00-03:00",
     featured: false,
     isDemo: false,
     createdAt: "2026-09-15T20:07:00-03:00"
@@ -1422,12 +1371,12 @@ window.ACHOU_PRODUCTS = [
     name: "iPhone 17 256 GB 8 GB Preto - Distribuidor Autorizado",
     category: "Celulares",
     store: "Mercado Livre",
-    price: 5909.09,
+    price: 5594.31,
     oldPrice: 7999.00,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_724430-MLA97899894923_112025-AB.webp",
     emoji: "📱",
     link: "https://meli.la/1RC19nX",
-    checkedAt: "2026-09-20T09:41:49-03:00",
+    checkedAt: "2026-10-10T18:23:00-03:00",
     featured: false,
     isDemo: false,
     createdAt: "2026-09-15T20:08:00-03:00"
@@ -1463,41 +1412,11 @@ window.ACHOU_PRODUCTS = [
     createdAt: "2026-09-15T20:11:00-03:00"
   },
   {
-    id: "mercadolivre-tv-philco-50-p50vik",
-    name: "Smart Tv Philco 50 P50vik 4k Uhd Led Roku Dolby Audio Wi-fi Hdr10 110/220v",
-    category: "TVs",
-    store: "Mercado Livre",
-    price: 2089.00,
-    oldPrice: 3499.00,
-    image: "https://http2.mlstatic.com/D_Q_NP_2X_753324-MLA108743670040_032026-AB.webp",
-    emoji: "📺",
-    link: "https://meli.la/2KRN6tW",
-    checkedAt: "2026-09-20T09:41:49-03:00",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-09-15T20:12:00-03:00"
-  },
-  {
-    id: "mercadolivre-tv-lg-uhd-ua75-55",
-    name: "Smart TV LG UHD AI UA75 55 polegadas HDR10 Pro Processador α7 AI Ger8 webOS 25",
-    category: "TVs",
-    store: "Mercado Livre",
-    price: 2899.00,
-    oldPrice: 4299.00,
-    image: "https://http2.mlstatic.com/D_Q_NP_2X_739445-MLA106908065058_022026-AB.webp",
-    emoji: "📺",
-    link: "https://meli.la/133rCMk",
-    checkedAt: "2026-09-20T09:41:49-03:00",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-09-15T20:13:00-03:00"
-  },
-  {
     id: "mercadolivre-tv-tcl-55-qled-p8k",
     name: "Smart TV TCL 55 Polegadas QLED 4K P8K WiFi Bluetooth Google TV 144Hz HDR10+ Dolby Atmos Vision 55P8K",
     category: "TVs",
     store: "Mercado Livre",
-    price: 2754.05,
+    price: 2526.05,
     oldPrice: 3099.00,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_665053-MLA115948927163_082026-AB.webp",
     emoji: "📺",
@@ -1505,7 +1424,7 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-15T20:14:00-03:00",
-    checkedAt: "2026-09-20T18:45:00-03:00"
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "mercadolivre-tenis-kappa-park-20",
@@ -1557,7 +1476,7 @@ window.ACHOU_PRODUCTS = [
     name: "Tênis Feminino Delta 122 Olympikus Marinho/purple Liso 36 Br",
     category: "Tênis",
     store: "Mercado Livre",
-    price: 171.00,
+    price: 125.39,
     oldPrice: 229.99,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_836066-MLA98895341533_112025-AB.webp",
     emoji: "👟",
@@ -1565,7 +1484,7 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-15T20:18:00-03:00",
-    checkedAt: "2026-09-20T18:45:00-03:00"
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "mercadolivre-tenis-sandrini-aero-run",
@@ -1610,7 +1529,7 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-15T20:21:00-03:00",
-    checkedAt: "2026-09-20T18:45:00-03:00"
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "mercadolivre-conjunto-fitness-calca-top",
@@ -1662,7 +1581,7 @@ window.ACHOU_PRODUCTS = [
     name: "365 Hábitos Simples e Poderosos",
     category: "Livros",
     store: "Shopee",
-    price: 21.57,
+    price: 19.90,
     oldPrice: 39.90,
     image: "https://down-bs-br.img.susercontent.com/sg-11134201-7rdw1-m16074d6ryce26.webp",
     emoji: "📚",
@@ -1670,29 +1589,14 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-16T11:42:00-03:00",
-    checkedAt: "2026-09-23T19:10:00-03:00"
-  },
-  {
-    id: "shopee-livro-pequeno-principe-luxo",
-    name: "O Pequeno Príncipe - Edição de Luxo Almofadada",
-    category: "Livros",
-    store: "Shopee",
-    price: 14.90,
-    oldPrice: 29.90,
-    image: "https://down-bs-br.img.susercontent.com/br-11134207-81z1k-mhm2ue90yxvm96.webp",
-    emoji: "📚",
-    link: "https://s.shopee.com.br/3g3jGMAy1D",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-09-16T11:44:00-03:00",
-    checkedAt: "2026-09-23T19:10:00-03:00"
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "shopee-livro-mulheres-com-deus-devocional",
     name: "Mulheres com Deus - 365 Dias de Fé - Devocional",
     category: "Livros",
     store: "Shopee",
-    price: 17.94,
+    price: 19.90,
     oldPrice: 39.90,
     image: "https://down-bs-br.img.susercontent.com/sg-11134201-7rdxz-mc9mb2wz7xjld0.webp",
     emoji: "📚",
@@ -1700,7 +1604,7 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-16T11:45:00-03:00",
-    checkedAt: "2026-09-23T19:10:00-03:00"
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "shopee-livro-colorir-cozy-time",
@@ -1715,14 +1619,14 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-16T11:46:00-03:00",
-    checkedAt: "2026-09-23T19:10:00-03:00"
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "shopee-livro-poder-do-autocontrole",
     name: "O Poder do Autocontrole: A Chave para a Grandeza Pessoal",
     category: "Livros",
     store: "Shopee",
-    price: 19.90,
+    price: 14.48,
     oldPrice: 29.90,
     image: "https://down-bs-br.img.susercontent.com/sg-11134201-8224t-mhjcw6845n284a.webp",
     emoji: "📚",
@@ -1730,14 +1634,14 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-16T11:47:00-03:00",
-    checkedAt: "2026-09-23T19:10:00-03:00"
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "shopee-livro-primeira-biblioteca-box10",
     name: "Coleção Primeira Biblioteca Volume 01 - Box com 10 Livrinhos",
     category: "Livros",
     store: "Shopee",
-    price: 40.44,
+    price: 42.90,
     oldPrice: 99.90,
     image: "https://down-bs-br.img.susercontent.com/sg-11134201-7rccq-m68eag264wcg7a.webp",
     emoji: "📚",
@@ -1745,7 +1649,7 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-16T11:48:00-03:00",
-    checkedAt: "2026-09-23T19:10:00-03:00"
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "shopee-livro-365-dias-amor-com-deus",
@@ -1760,37 +1664,37 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-16T11:49:00-03:00",
-    checkedAt: "2026-09-23T19:10:00-03:00"
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "shopee-celular-moto-g86-5g-256gb",
     name: "Smartphone Motorola Moto g86 5G - 256GB, 8GB RAM+16GB Ram Boost 50MP Sony camera OIS Moto AI",
     category: "Celulares",
     store: "Shopee",
-    price: 1552.81,
-    oldPrice: 1776.67,
+    price: 1951.43,
+    oldPrice: 2221.11,
     image: "https://down-bs-br.img.susercontent.com/sg-11134201-821gc-mgp752kbcjdad3.webp",
     emoji: "📱",
     link: "https://s.shopee.com.br/6Al4FGOmNC",
     featured: false,
     isDemo: false,
     createdAt: "2026-09-16T11:54:00-03:00",
-    checkedAt: "2026-09-23T19:10:00-03:00"
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "shopee-celular-galaxy-a17-256gb-tripla",
     name: "Smartphone A17 256GB 8GB RAM 4G Câmera Tripla Traseira 50 MP Samsung",
     category: "Celulares",
     store: "Shopee",
-    price: 1136.11,
-    oldPrice: 1299.90,
+    price: 1214.77,
+    oldPrice: 1389.90,
     image: "https://down-bs-br.img.susercontent.com/sg-11134201-82274-mhkhgrof6brabd.webp",
     emoji: "📱",
     link: "https://s.shopee.com.br/60Re2xPPiB",
     featured: false,
     isDemo: false,
     createdAt: "2026-09-16T11:55:00-03:00",
-    checkedAt: "2026-09-23T19:10:00-03:00"
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "shopee-celular-moto-g47-5g-128gb-grafite",
@@ -1805,14 +1709,14 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-16T11:58:00-03:00",
-    checkedAt: "2026-09-23T19:10:00-03:00"
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "shopee-celular-moto-g17-256gb",
     name: "Smartphone G17 Tela 6,7 Polegadas 256GB 4G Câmera 50MP Motorola",
     category: "Celulares",
     store: "Shopee",
-    price: 1087.68,
+    price: 967.75,
     oldPrice: 1309.99,
     image: "https://down-bs-br.img.susercontent.com/sg-11134201-82603-mlged3it5bt43e.webp",
     emoji: "📱",
@@ -1820,14 +1724,14 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-16T11:59:00-03:00",
-    checkedAt: "2026-09-23T19:10:00-03:00"
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "shopee-tv-philco-43-qled-roku",
     name: "Smart TV 43\" Philco QLED HDR10 Roku TV P43KRB",
     category: "TVs",
     store: "Shopee",
-    price: 1941.11,
+    price: 1301.30,
     oldPrice: 2209.90,
     image: "https://down-bs-br.img.susercontent.com/sg-11134201-82594-mt5ouyoyymfc3e.webp",
     emoji: "📺",
@@ -1835,37 +1739,22 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-16T12:01:00-03:00",
-    checkedAt: "2026-09-23T19:10:00-03:00"
-  },
-  {
-    id: "shopee-tv-hq-40-android12",
-    name: "Smart TV HQ 40\" Full HD tela sem bordas Android 12 design Slim HQS40NKHM",
-    category: "TVs",
-    store: "Shopee",
-    price: 1234.06,
-    oldPrice: 1411.96,
-    image: "https://down-bs-br.img.susercontent.com/sg-11134201-825ai-mftv8bdouqywd8.webp",
-    emoji: "📺",
-    link: "https://s.shopee.com.br/8V8z22Ye4J",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-09-16T12:02:00-03:00",
-    checkedAt: "2026-09-23T19:10:00-03:00"
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "shopee-tv-hq-qled-50",
     name: "Smart TV HQ QLED 50 Polegadas HQ-QLED50SM 4K Wi-Fi Bluetooth, Dolby Audio, Apps, Netflix, YouTube e Prime Video, 3 HDMI",
     category: "TVs",
     store: "Shopee",
-    price: 1633.52,
-    oldPrice: 1869.02,
+    price: 1887.01,
+    oldPrice: 2151.09,
     image: "https://down-bs-br.img.susercontent.com/sg-11134201-823ps-moobpaxang995c.webp",
     emoji: "📺",
     link: "https://s.shopee.com.br/AKadDPRfLa",
     featured: false,
     isDemo: false,
     createdAt: "2026-09-16T12:03:00-03:00",
-    checkedAt: "2026-09-23T19:10:00-03:00"
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "shopee-chaleira-eletrica-inox",
@@ -1880,14 +1769,14 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-16T12:18:00-03:00",
-    checkedAt: "2026-09-24T07:12:00-03:00"
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "mercadolivre-sofa-retratil-quantum-cinza",
     name: "Sofá Retrátil Reclinável 2 Lugares 1,80m Quantum Cinza",
     category: "Casa e eletrodomésticos",
     store: "Mercado Livre",
-    price: 1234.90,
+    price: 1324.47,
     oldPrice: 1715.89,
     image: "https://http2.mlstatic.com/D_NQ_NP_818284-MLB114601550062_082026-O.webp",
     emoji: "🛋️",
@@ -1895,7 +1784,7 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-17T10:00:00-03:00",
-    checkedAt: "2026-09-24T19:05:00-03:00"
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "mercadolivre-sofa-2-lugares-reclinavel-madeira-140cm",
@@ -1910,22 +1799,22 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-17T10:01:00-03:00",
-    checkedAt: "2026-09-24T19:05:00-03:00"
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "mercadolivre-estante-livreiro-de-chao-6-prateleiras",
     name: "Estante Livreiro De Chão 6 Prateleiras",
     category: "Casa e eletrodomésticos",
     store: "Mercado Livre",
-    price: 149.66,
-    oldPrice: 345.44,
+    price: 144.48,
+    oldPrice: 254.31,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_610403-CBT116152351145_082026-E--estante-livreiro-de-chao-6-prateleiras.webp",
     emoji: "📚",
     link: "https://meli.la/25hFQb8",
     featured: false,
     isDemo: false,
     createdAt: "2026-09-17T10:03:00-03:00",
-    checkedAt: "2026-09-24T19:05:00-03:00"
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "mercadolivre-lixeira-automatica-sensor-13l",
@@ -1947,7 +1836,7 @@ window.ACHOU_PRODUCTS = [
     name: "Kit 15 Potes Herméticos Retangulares Mantimentos Organizador Cozinha",
     category: "Casa e eletrodomésticos",
     store: "Mercado Livre",
-    price: 87.62,
+    price: 113.94,
     oldPrice: 199.90,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_960945-MLA112825434084_072026-E.webp",
     emoji: "🥡",
@@ -1955,22 +1844,22 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-17T10:05:00-03:00",
-    checkedAt: "2026-09-24T19:05:00-03:00"
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "mercadolivre-escorredor-inox-2-andares",
     name: "Escorredor Inox Organizador Louças 2 Andares Para Pia Cozinha",
     category: "Casa e eletrodomésticos",
     store: "Mercado Livre",
-    price: 129.99,
-    oldPrice: 189,
+    price: 116.40,
+    oldPrice: 189.00,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_868675-MLB116214079508_092026-E--escorredor-inox-organizador-loucas-2andares-para-pia-cozinha.webp",
     emoji: "🍽️",
     link: "https://meli.la/2ELGnU4",
     featured: false,
     isDemo: false,
     createdAt: "2026-09-17T10:06:00-03:00",
-    checkedAt: "2026-09-24T19:05:00-03:00"
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "mercadolivre-parafusadeira-furadeira-wap-k21",
@@ -1985,14 +1874,14 @@ window.ACHOU_PRODUCTS = [
     featured: true,
     isDemo: false,
     createdAt: "2026-09-17T10:09:00-03:00",
-    checkedAt: "2026-09-24T19:05:00-03:00"
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "mercadolivre-parafusadeira-furadeira-blacktools-tb21px",
     name: "Parafusadeira Furadeira De Impacto The Black Tools TB-21PX 2 Baterias Com Maleta",
     category: "Ferramentas",
     store: "Mercado Livre",
-    price: 169.90,
+    price: 159.90,
     oldPrice: 319.90,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_981459-MLA117136184907_092026-E.webp",
     emoji: "🔩",
@@ -2000,14 +1889,14 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-17T10:10:00-03:00",
-    checkedAt: "2026-09-25T21:46:00-03:00"
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "mercadolivre-esmerilhadeira-blackdecker-g650",
     name: "Esmerilhadeira Angular 115mm BLACK+DECKER 12.000RPM G650 650W",
     category: "Ferramentas",
     store: "Mercado Livre",
-    price: 178.60,
+    price: 186.20,
     oldPrice: 219.90,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_633757-MLA99556934146_122025-E.webp",
     emoji: "⚙️",
@@ -2015,22 +1904,7 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-17T10:12:00-03:00",
-    checkedAt: "2026-09-25T21:46:00-03:00"
-  },
-  {
-    id: "mercadolivre-kit-ferramentas-142pc-fasterr",
-    name: "Kit Jogo De Ferramentas 142 Peças Fasterr Com Maleta",
-    category: "Ferramentas",
-    store: "Mercado Livre",
-    price: 79.90,
-    oldPrice: 89.90,
-    image: "https://http2.mlstatic.com/D_Q_NP_2X_944743-MLA99871128121_112025-E.webp",
-    emoji: "🧰",
-    link: "https://meli.la/2taKBbs",
-    featured: true,
-    isDemo: false,
-    createdAt: "2026-09-17T10:14:00-03:00",
-    checkedAt: "2026-09-25T21:46:00-03:00"
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "mercadolivre-frigobar-mondial-120l",
@@ -2643,49 +2517,37 @@ window.ACHOU_PRODUCTS = [
     name: "Relógios Inteligentes Feminino Smartwatch Esportivo Original",
     category: "Smartwatch",
     store: "Mercado Livre",
-    price: 206.67,
+    price: 160.69,
     oldPrice: 354.00,
     image: "https://http2.mlstatic.com/D_NQ_NP_885252-MLB89539079211_082025-O-relogios-inteligentes-feminino-smartwatch-esportivo-original.webp",
     emoji: "⌚",
     link: "https://meli.la/1iF3PEV",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-19T15:09:00-03:00"
+    createdAt: "2026-09-19T15:09:00-03:00",
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "mercadolivre-caixa-de-som-lg-xboom-go-xg9s-bluetooth-5-3-50w-ipx7",
     name: "Caixa de Som LG XBOOM GO XG9S Bluetooth 5.3 50W IPX7",
     category: "Eletrônicos",
     store: "Mercado Livre",
-    price: 1037.00,
-    oldPrice: 2141.43,
+    price: 692.31,
+    oldPrice: 1494.41,
     image: "https://http2.mlstatic.com/D_NQ_NP_922049-MLA107760535162_032026-O.webp",
     emoji: "🎧",
     link: "https://meli.la/2Qyr6bo",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-19T15:10:00-03:00"
-  },
-  {
-    id: "mercadolivre-caixa-amplificada-cm-150-bivolt-preto-mondial",
-    name: "Caixa Amplificada CM-150 Bivolt Preto Mondial",
-    category: "Eletrônicos",
-    store: "Mercado Livre",
-    price: 174.51,
-    oldPrice: 327.99,
-    image: "https://http2.mlstatic.com/D_NQ_NP_716222-MLA99988238741_112025-O.webp",
-    emoji: "🎧",
-    link: "https://meli.la/1cPKAvF",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-09-19T15:11:00-03:00"
+    createdAt: "2026-09-19T15:10:00-03:00",
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "mercadolivre-tv-lg-43lr6700-full-hd",
     name: "Smart TV LG 43\" Full HD, Processador A5 Ger6, AI, Alexa e webOS 23 - 43LR6700PSA",
     category: "TVs",
     store: "Mercado Livre",
-    price: 1415.50,
+    price: 1412.99,
     oldPrice: 2409.99,
     image: "https://http2.mlstatic.com/D_NQ_NP_741946-MLA107875422514_032026-O.webp",
     emoji: "📺",
@@ -2693,14 +2555,14 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-20T12:40:00-03:00",
-    checkedAt: "2026-09-27T17:54:00-03:00"
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "mercadolivre-notebook-acer-aspire-go-15-ag15-71p-5939",
     name: "Notebook Acer Aspire Go 15 AG15-71P-5939 - Intel Core i5-13420H 13ª Geração • 8GB DDR5 • 256GB SSD NVMe • Tela 15,6\u0027 • Windows 11 Home",
     category: "Notebooks",
     store: "Mercado Livre",
-    price: 3394.90,
+    price: 3621.90,
     oldPrice: 5717.80,
     image: "https://http2.mlstatic.com/D_NQ_NP_815916-MLA95648094482_102025-O.webp",
     emoji: "💻",
@@ -2708,22 +2570,22 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-20T12:41:00-03:00",
-    checkedAt: "2026-09-27T17:54:00-03:00"
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "mercadolivre-tv-lg-pro-50un85c-4k",
     name: "Smart TV PRO LG 50\u0027\u0027 4K Ultra HD AI 50UN85C",
     category: "TVs",
     store: "Mercado Livre",
-    price: 2139.32,
-    oldPrice: 3424.00,
+    price: 2274.00,
+    oldPrice: 4750.00,
     image: "https://http2.mlstatic.com/D_NQ_NP_837435-MLA116824598567_082026-O.webp",
     emoji: "📺",
     link: "https://meli.la/1Sa3asS",
     featured: false,
     isDemo: false,
     createdAt: "2026-09-20T12:42:00-03:00",
-    checkedAt: "2026-09-27T17:54:00-03:00"
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "mercadolivre-notebook-asus-vivobook-go-15-e1504fa-nj825w",
@@ -2768,14 +2630,14 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-20T12:47:00-03:00",
-    checkedAt: "2026-09-27T17:54:00-03:00"
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "mercadolivre-notebook-lenovo-slim3-r7-linux",
     name: "Notebook Lenovo Slim3 R7 8gb 256GB Ssd 15.3 Fhd Linux",
     category: "Notebooks",
     store: "Mercado Livre",
-    price: 3599.10,
+    price: 3257.10,
     oldPrice: 4699.00,
     image: "https://http2.mlstatic.com/D_NQ_NP_967344-MLA98386191356_112025-O.webp",
     emoji: "💻",
@@ -2783,21 +2645,7 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-20T12:49:00-03:00",
-    checkedAt: "2026-09-27T17:54:00-03:00"
-  },
-  {
-    id: "mercadolivre-jbl-boombox-4-preta",
-    name: "JBL BOOMBOX 4 Preta",
-    category: "Eletrônicos",
-    store: "Mercado Livre",
-    price: 2123.65,
-    oldPrice: 3999.00,
-    image: "https://http2.mlstatic.com/D_NQ_NP_866062-MLA112624540350_062026-O.webp",
-    emoji: "🎧",
-    link: "https://meli.la/2nxKQYA",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-09-19T15:12:00-03:00"
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "mercadolivre-projetor-wanbo-x5-pro-com-decodificacao-4k-netflix-google-tv",
@@ -2811,21 +2659,23 @@ window.ACHOU_PRODUCTS = [
     link: "https://meli.la/2yPn1b7",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-19T15:13:00-03:00"
+    createdAt: "2026-09-19T15:13:00-03:00",
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "mercadolivre-projetor-portatil-4k-hd-android-11-0-smart-wifi-5g-bluetooth",
     name: "Projetor Portátil 4K HD Android 11.0 Smart Wifi 5G Bluetooth",
     category: "Eletrônicos",
     store: "Mercado Livre",
-    price: 171.94,
+    price: 181.00,
     oldPrice: 349.90,
     image: "https://http2.mlstatic.com/D_NQ_NP_828936-MLB88748640584_082025-O-projetor-portatil-4k-hd-android-110-smart-wifi-5g-bluetooth.webp",
     emoji: "🎧",
     link: "https://meli.la/2JRnD1a",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-19T15:14:00-03:00"
+    createdAt: "2026-09-19T15:14:00-03:00",
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "mercadolivre-fone-de-ouvido-bluetooth-soundcore-q20i-da-anker-anc-hibrido",
@@ -2839,21 +2689,23 @@ window.ACHOU_PRODUCTS = [
     link: "https://meli.la/1Xag7mp",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-19T15:15:00-03:00"
+    createdAt: "2026-09-19T15:15:00-03:00",
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "mercadolivre-fone-de-ouvido-bluetooth-5-3-soundcore-q11i-da-anker-over-ea",
     name: "Fone de Ouvido Bluetooth 5.3 Soundcore Q11i da Anker Over-Ear 60H Preto",
     category: "Eletrônicos",
     store: "Mercado Livre",
-    price: 199.00,
+    price: 189.00,
     oldPrice: 433.00,
     image: "https://http2.mlstatic.com/D_NQ_NP_945793-MLA99480417312_112025-O.webp",
     emoji: "🎧",
     link: "https://meli.la/1WsJ1P2",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-19T15:16:00-03:00"
+    createdAt: "2026-09-19T15:16:00-03:00",
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "mercadolivre-fone-soundcore-by-anker-liberty-4-nc-anc-bluetooth-5-3-50h-c",
@@ -2867,63 +2719,53 @@ window.ACHOU_PRODUCTS = [
     link: "https://meli.la/1AHaApC",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-19T15:17:00-03:00"
+    createdAt: "2026-09-19T15:17:00-03:00",
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "mercadolivre-monitor-gamer-aoc-21-5-led-full-hd-va-hdmi-vga-vesa-120hz",
     name: "Monitor Gamer AOC 21,5\" LED Full HD VA HDMI VGA VESA 120Hz",
     category: "Informática",
     store: "Mercado Livre",
-    price: 394.68,
+    price: 444.90,
     oldPrice: 849.90,
     image: "https://http2.mlstatic.com/D_NQ_NP_973025-MLA84683838064_052025-O-monitor-gamer-aoc-215-led-full-hd-va-hdmi--vga-vesa--120hz.webp",
     emoji: "🖥️",
     link: "https://meli.la/2LwpK3d",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-19T15:18:00-03:00"
+    createdAt: "2026-09-19T15:18:00-03:00",
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "mercadolivre-tablet-lenovo-tab-10-1-wifi-5-64gb-4gb-ram-android-14-cinza",
     name: "Tablet Lenovo Tab 10.1\" Wifi 5 64GB 4GB RAM Android 14 Cinza",
     category: "Informática",
     store: "Mercado Livre",
-    price: 893.84,
-    oldPrice: 1784.28,
+    price: 995.78,
+    oldPrice: 1249.00,
     image: "https://http2.mlstatic.com/D_NQ_NP_684905-MLA106055190360_022026-O.webp",
     emoji: "🖥️",
     link: "https://meli.la/2sraPEL",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-19T15:19:00-03:00"
+    createdAt: "2026-09-19T15:19:00-03:00",
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "mercadolivre-teclado-gamer-mecanico-hyperx-alloy-origins-core-rgb-switch",
     name: "Teclado Gamer Mecânico HyperX Alloy Origins Core RGB Switch Blue ABNT2",
     category: "Informática",
     store: "Mercado Livre",
-    price: 294.50,
-    oldPrice: 699.00,
+    price: 492.00,
+    oldPrice: 893.87,
     image: "https://http2.mlstatic.com/D_NQ_NP_662998-MLA99590652326_122025-O.webp",
     emoji: "🖥️",
     link: "https://meli.la/16r4vUr",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-19T15:20:00-03:00"
-  },
-  {
-    id: "mercadolivre-teclado-gamer-hyperx-alloy-core-rgb-abnt2",
-    name: "Teclado Gamer HyperX Alloy Core RGB ABNT2",
-    category: "Informática",
-    store: "Mercado Livre",
-    price: 230.55,
-    oldPrice: 400.00,
-    image: "https://http2.mlstatic.com/D_NQ_NP_694158-MLA99986025645_112025-O.webp",
-    emoji: "🖥️",
-    link: "https://meli.la/1uuf1JD",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-09-19T15:21:00-03:00"
+    createdAt: "2026-09-19T15:20:00-03:00",
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "mercadolivre-bolsa-feminina-baguete-espacosa-de-ombro-estilosa-casual",
@@ -2972,14 +2814,15 @@ window.ACHOU_PRODUCTS = [
     name: "Bolsa Sacola Grande + Transversal Média Kit com 2 Peças",
     category: "Acessórios",
     store: "Mercado Livre",
-    price: 69.99,
+    price: 77.59,
     oldPrice: 149.99,
     image: "https://http2.mlstatic.com/D_NQ_NP_612486-MLB106402986935_022026-O-bolsa-sacola-grande--transversal-media-kit-com-2-pecas.webp",
     emoji: "👜",
     link: "https://meli.la/167HqWt",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-19T15:25:00-03:00"
+    createdAt: "2026-09-19T15:25:00-03:00",
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "mercadolivre-romantic-crown-bolsa-de-mao-feminina-de-alta-qualidade",
@@ -2993,21 +2836,23 @@ window.ACHOU_PRODUCTS = [
     link: "https://meli.la/1Pinnko",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-19T15:26:00-03:00"
+    createdAt: "2026-09-19T15:26:00-03:00",
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "mercadolivre-oculos-de-sol-uv400-oval-feminino-verona-tortoise-giorno",
     name: "Óculos de Sol UV400 Oval Feminino Verona Tortoise Giorno",
     category: "Acessórios",
     store: "Mercado Livre",
-    price: 68.90,
+    price: 78.89,
     oldPrice: 187.42,
     image: "https://http2.mlstatic.com/D_NQ_NP_905969-MLB88717964559_072025-O-oculos-de-sol-uv400-oval-feminino-verona-tortoise-giorno.webp",
     emoji: "🕶️",
     link: "https://meli.la/2xpViJh",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-19T15:27:00-03:00"
+    createdAt: "2026-09-19T15:27:00-03:00",
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "mercadolivre-oculos-de-sol-retangular-ibiza-moderno-elegante-acetato-uv40",
@@ -3042,14 +2887,15 @@ window.ACHOU_PRODUCTS = [
     name: "Diasp Conjunto Fitness Feminino Canelado Brilho Academia",
     category: "Fitness",
     store: "Mercado Livre",
-    price: 38.31,
+    price: 48.97,
     oldPrice: 78.99,
     image: "https://http2.mlstatic.com/D_NQ_NP_999199-MLB108849121260_032026-O-diasp-conjunto-fitness-feminino-canelado-brilho-academia.webp",
     emoji: "🏋️",
     link: "https://meli.la/1GXZq94",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-19T15:30:00-03:00"
+    createdAt: "2026-09-19T15:30:00-03:00",
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "mercadolivre-conjunto-fitness-academia-feminino-zero-transparencia-treino",
@@ -3084,14 +2930,15 @@ window.ACHOU_PRODUCTS = [
     name: "Conjunto Legging e Top Fitness Cintura Alta Roupa Academia",
     category: "Fitness",
     store: "Mercado Livre",
-    price: 63.00,
+    price: 69.99,
     oldPrice: 139.99,
     image: "https://http2.mlstatic.com/D_NQ_NP_805786-MLB102827535889_122025-O-conjunto-legging-e-top-fitness-cintura-alta-roupa-academia.webp",
     emoji: "🏋️",
     link: "https://meli.la/1nsK2QG",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-19T15:33:00-03:00"
+    createdAt: "2026-09-19T15:33:00-03:00",
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "mercadolivre-kit-2-conjunto-cropped-legging-fitness-academia-biop",
@@ -3112,14 +2959,15 @@ window.ACHOU_PRODUCTS = [
     name: "Conjunto Feminino Academia Top e Shorts Poliamida Demillus",
     category: "Fitness",
     store: "Mercado Livre",
-    price: 48.96,
+    price: 44.99,
     oldPrice: 149.99,
     image: "https://http2.mlstatic.com/D_NQ_NP_938071-MLB114435487146_082026-O-conjunto-feminino-academia-top-e-shorts-poliamida-demillus.webp",
     emoji: "🏋️",
     link: "https://meli.la/2CkAi9s",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-19T15:35:00-03:00"
+    createdAt: "2026-09-19T15:35:00-03:00",
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "mercadolivre-conjunto-plus-size-academia-top-e-bermuda-bolso-kit-fitness",
@@ -3133,7 +2981,8 @@ window.ACHOU_PRODUCTS = [
     link: "https://meli.la/1wMhxAh",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-19T15:36:00-03:00"
+    createdAt: "2026-09-19T15:36:00-03:00",
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "mercadolivre-tapete-de-pilates-xpe-tapete-de-yoga-com-reducao-de-ruido",
@@ -3154,14 +3003,15 @@ window.ACHOU_PRODUCTS = [
     name: "Tapete para Exercícios Resistente Confort 180cm Roxo Acte Sports Antiderrapante",
     category: "Fitness",
     store: "Mercado Livre",
-    price: 78.23,
-    oldPrice: 129.90,
+    price: 105.00,
+    oldPrice: 189.90,
     image: "https://http2.mlstatic.com/D_NQ_NP_997435-MLU75305581222_032024-O.webp",
     emoji: "🏋️",
     link: "https://meli.la/2LKZnHD",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-19T15:38:00-03:00"
+    createdAt: "2026-09-19T15:38:00-03:00",
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "mercadolivre-calca-legging-poliamida-sem-costura-benevola-leg-confortavel",
@@ -3189,7 +3039,8 @@ window.ACHOU_PRODUCTS = [
     link: "https://meli.la/19Sm2Fd",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-19T15:40:00-03:00"
+    createdAt: "2026-09-19T15:40:00-03:00",
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "mercadolivre-webcam-camera-full-hd-1080p-zoom-360-videoconferencia-usb-co",
@@ -3203,21 +3054,23 @@ window.ACHOU_PRODUCTS = [
     link: "https://meli.la/1yYhWXX",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-19T15:41:00-03:00"
+    createdAt: "2026-09-19T15:41:00-03:00",
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "mercadolivre-smartwatch-haylou-solar-ultra-ls23-16-bluetooth",
     name: "Smartwatch Haylou Solar Ultra LS23 Solar Ultra 1.6 chamadas bluetooth cor preto",
     category: "Smartwatch",
     store: "Mercado Livre",
-    price: 318.16,
-    oldPrice: 699.89,
+    price: 324.90,
+    oldPrice: 361.00,
     image: "https://http2.mlstatic.com/D_NQ_NP_983980-MLA99937063901_112025-O.webp",
     emoji: "⌚",
     link: "https://meli.la/14h9S1m",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-21T18:50:00-03:00"
+    createdAt: "2026-09-21T18:50:00-03:00",
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "mercadolivre-smartwatch-samsung-galaxy-watch8-lte-44mm-grafite",
@@ -3392,14 +3245,15 @@ window.ACHOU_PRODUCTS = [
     name: "Blocos de Montar Coloridos Infantil 48 Peças Maletinha Infantil Brinquedo Educativo Didático",
     category: "Brinquedos",
     store: "Shopee",
-    price: 44.90,
+    price: 46.90,
     oldPrice: 64.23,
     image: "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lt8g7cqag9oc42",
     emoji: "🧸",
     link: "https://s.shopee.com.br/W6t6Tz25z",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-23T09:04:00-03:00"
+    createdAt: "2026-09-23T09:04:00-03:00",
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "mercadolivre-caixa-amplificada-mondial-300w-bivolt-cm-300-n",
@@ -3469,7 +3323,8 @@ window.ACHOU_PRODUCTS = [
     link: "https://s.shopee.com.br/AUuF0rMxnr",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-23T09:09:00-03:00"
+    createdAt: "2026-09-23T09:09:00-03:00",
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "mercadolivre-fone-de-ouvido-tws-philips-tat1109bk00-preto-ipx4",
@@ -3504,14 +3359,15 @@ window.ACHOU_PRODUCTS = [
     name: "INOVA Fone de Ouvido Esportivo Sem Fio Bluetooth Com Microfone IPX5 À Prova D'Água Gancho Alta Fidelidade Estéreo",
     category: "Eletrônicos",
     store: "Shopee",
-    price: 65.99,
-    oldPrice: 129.39,
+    price: 61.99,
+    oldPrice: 159.00,
     image: "https://down-br.img.susercontent.com/file/br-11134207-820lk-mm8e1uokutc69b",
     emoji: "🎧",
     link: "https://s.shopee.com.br/1AcVZ0w6q",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-23T09:12:00-03:00"
+    createdAt: "2026-09-23T09:12:00-03:00",
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "shopee-tapete-de-agua-magico-brinquedo-educativo-para-criatividade",
@@ -3525,7 +3381,8 @@ window.ACHOU_PRODUCTS = [
     link: "https://s.shopee.com.br/BU2hs0Ilt",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-23T09:13:00-03:00"
+    createdAt: "2026-09-23T09:13:00-03:00",
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "shopee-jogo-quebra-gelo-pinguim-numa-fria-blocos-brinquedo-art-brink",
@@ -3539,7 +3396,8 @@ window.ACHOU_PRODUCTS = [
     link: "https://s.shopee.com.br/LnSuAzfQw",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-23T09:14:00-03:00"
+    createdAt: "2026-09-23T09:14:00-03:00",
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "mercadolivre-brinquedo-educativo-mapa-brasil-grande-quebra-cabeca-estado",
@@ -3568,20 +3426,6 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-23T14:31:00-03:00"
-  },
-  {
-    id: "shopee-vestido-feminino-curto-estampado-cut-cut-elastex-frente-unica-argola",
-    name: "Vestido Feminino Curto Estampado Cut Cut com Elastex Frente Única Com Argola Vestido de Verão",
-    category: "Moda",
-    store: "Shopee",
-    price: 48.95,
-    oldPrice: 148.33,
-    image: "https://down-br.img.susercontent.com/file/br-11134207-820mh-mpjfk0zyjxtv5b",
-    emoji: "👗",
-    link: "https://s.shopee.com.br/2LYXSLbT3H",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-09-23T14:32:00-03:00"
   },
   {
     id: "mercadolivre-kit-48-carrinhos-friccao-pista-brinquedo-infantil-maleta",
@@ -3626,32 +3470,19 @@ window.ACHOU_PRODUCTS = [
     createdAt: "2026-09-23T14:35:00-03:00"
   },
   {
-    id: "shopee-tenis-infantil-crianca-confortavel-escolar-igreja-unissex",
-    name: "Tênis Infantil Criança Confortável Escolar Igreja Unissex Esportivo Solado Trança Ultraleve",
-    category: "Tênis",
-    store: "Shopee",
-    price: 44.99,
-    oldPrice: 119.80,
-    image: "https://down-br.img.susercontent.com/file/br-11134207-7qukw-lk8569yr1o7d03",
-    emoji: "👟",
-    link: "https://s.shopee.com.br/LnT4fj56x",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-09-23T14:36:00-03:00"
-  },
-  {
     id: "shopee-25-pecas-brinquedo-de-pistas-estacionamento-carro-acessorios-infantis",
     name: "25 Peças Brinquedo de Pistas Estacionamento - Carro + Acessórios Infantis",
     category: "Brinquedos",
     store: "Shopee",
-    price: 35.90,
-    oldPrice: 99.72,
+    price: 36.90,
+    oldPrice: 100.00,
     image: "https://down-br.img.susercontent.com/file/br-11134207-81z1k-mgyhjucdx1qdad",
     emoji: "🧸",
     link: "https://s.shopee.com.br/W6tGyiRly",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-23T14:37:00-03:00"
+    createdAt: "2026-09-23T14:37:00-03:00",
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "mercadolivre-boneca-amy-brinquedo-day-luna-bebe-realista-acessorio-reborn",
@@ -3686,14 +3517,15 @@ window.ACHOU_PRODUCTS = [
     name: "Jaqueta Corta Vento Masculina Impermeável Capuz Zíper Bolso",
     category: "Moda",
     store: "Mercado Livre",
-    price: 56.80,
+    price: 44.99,
     oldPrice: 78.90,
     image: "https://http2.mlstatic.com/D_NQ_NP_825221-MLB110113853156_042026-O-jaqueta-corta-vento-masculina-impermeavel-capuz-ziper-bolso.webp",
     emoji: "👗",
     link: "https://meli.la/2QyB3pm",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-23T14:40:00-03:00"
+    createdAt: "2026-09-23T14:40:00-03:00",
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "shopee-brincadeira-educativa-labirinto-magnetico-com-bolinhas-foco-concentracao",
@@ -3707,7 +3539,8 @@ window.ACHOU_PRODUCTS = [
     link: "https://s.shopee.com.br/1Acg3kLmr",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-23T14:41:00-03:00"
+    createdAt: "2026-09-23T14:41:00-03:00",
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "mercadolivre-calca-jeans-feminina-cos-alto-empina-bumbum-patria-brasil",
@@ -3724,32 +3557,19 @@ window.ACHOU_PRODUCTS = [
     createdAt: "2026-09-23T14:42:00-03:00"
   },
   {
-    id: "shopee-vestido-musa-suplex-premium-toque-macio-alta-qualidade",
-    name: "Vestido Musa Suplex Premium Toque Macio Alta Qualidade",
-    category: "Moda",
-    store: "Shopee",
-    price: 56.00,
-    oldPrice: 140.00,
-    image: "https://down-br.img.susercontent.com/file/br-11134207-820l4-mt0alyr6c1dwaf",
-    emoji: "👗",
-    link: "https://s.shopee.com.br/BU2sMjiRs",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-09-23T14:43:00-03:00"
-  },
-  {
     id: "mercadolivre-patinete-infantil-musical-3-rodas-kiddy-replay-kids-azul",
     name: "Patinete Infantil Musical 3 Rodas Kiddy Replay Kids Azul",
     category: "Brinquedos",
     store: "Mercado Livre",
-    price: 86.00,
-    oldPrice: 159.90,
+    price: 134.40,
+    oldPrice: 152.00,
     image: "https://http2.mlstatic.com/D_NQ_NP_839501-MLU72461100800_102023-O.webp",
     emoji: "🧸",
     link: "https://meli.la/28ayS84",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-23T14:44:00-03:00"
+    createdAt: "2026-09-23T14:44:00-03:00",
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "mercadolivre-kit-aerobico-em-casa-caneleira-2kg-colchonete-halter-2kg",
@@ -3770,14 +3590,15 @@ window.ACHOU_PRODUCTS = [
     name: "MEDOOSI Tapple com Display Digital - Jogo de Tabuleiro de Palavras Rápido e Interativo para Família",
     category: "Brinquedos",
     store: "Shopee",
-    price: 36.90,
-    oldPrice: 50.00,
+    price: 59.00,
+    oldPrice: 100.00,
     image: "https://down-br.img.susercontent.com/file/br-11134207-820ma-mr8hdiszrnr80d",
     emoji: "🧸",
     link: "https://s.shopee.com.br/7AdnIAeeO9",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-23T21:42:00-03:00"
+    createdAt: "2026-09-23T21:42:00-03:00",
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "mercadolivre-conjunto-fitness-calca-legging-e-top-element-suplex-academia",
@@ -3798,14 +3619,15 @@ window.ACHOU_PRODUCTS = [
     name: "Jogo Cilada Estrela Original Tabuleiro Infantil",
     category: "Brinquedos",
     store: "Mercado Livre",
-    price: 27.36,
+    price: 23.48,
     oldPrice: 44.99,
     image: "https://http2.mlstatic.com/D_NQ_NP_752826-MLA84843113093_052025-O.webp",
     emoji: "🧸",
     link: "https://meli.la/2zZm6Pd",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-23T21:44:00-03:00"
+    createdAt: "2026-09-23T21:44:00-03:00",
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "shopee-conjunto-fitness-feminino-short-com-bolso-e-top-duplo-zero-transparencia",
@@ -3840,14 +3662,15 @@ window.ACHOU_PRODUCTS = [
     name: "Jogo de Tabuleiro Lince Grow",
     category: "Brinquedos",
     store: "Mercado Livre",
-    price: 42.67,
+    price: 40.18,
     oldPrice: 74.39,
     image: "https://http2.mlstatic.com/D_NQ_NP_707688-MLA99600600112_122025-O.webp",
     emoji: "🧸",
     link: "https://meli.la/12gNJCc",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-23T21:47:00-03:00"
+    createdAt: "2026-09-23T21:47:00-03:00",
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "shopee-jogo-de-tabuleiro-covei-toys-stop-3-0-vocabulario-raciocinio",
@@ -3878,20 +3701,6 @@ window.ACHOU_PRODUCTS = [
     createdAt: "2026-09-23T21:49:00-03:00"
   },
   {
-    id: "mercadolivre-jogo-eu-sou-estrela",
-    name: "Jogo Eu Sou...? Estrela",
-    category: "Brinquedos",
-    store: "Mercado Livre",
-    price: 53.24,
-    oldPrice: 89.99,
-    image: "https://http2.mlstatic.com/D_NQ_NP_715723-MLA99937755703_112025-O.webp",
-    emoji: "🧸",
-    link: "https://meli.la/2X1JD4p",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-09-23T21:50:00-03:00"
-  },
-  {
     id: "shopee-conjunto-academia-corrida-feminino-calca-legging-zero-transparencia-cintura-alta",
     name: "Conjunto de Academia/Corrida Feminino Fitness Calça Legging Zero Transparência Cintura Alta",
     category: "Fitness",
@@ -3917,7 +3726,8 @@ window.ACHOU_PRODUCTS = [
     link: "https://meli.la/193p4TT",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-23T21:52:00-03:00"
+    createdAt: "2026-09-23T21:52:00-03:00",
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "mercadolivre-kit-2-macaquinho-curto-fitness-poli-academia",
@@ -3952,14 +3762,15 @@ window.ACHOU_PRODUCTS = [
     name: "Jogo De Tabuleiro - Imagem e Ação 1 - Grow - 1708",
     category: "Brinquedos",
     store: "Mercado Livre",
-    price: 74.76,
+    price: 85.06,
     oldPrice: 148.76,
     image: "https://http2.mlstatic.com/D_NQ_NP_978740-MLA99418165128_112025-O.webp",
     emoji: "🧸",
     link: "https://meli.la/1oSn4ug",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-23T21:55:00-03:00"
+    createdAt: "2026-09-23T21:55:00-03:00",
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "shopee-celular-infantil-telefone-interativo-musical-unicornio-ou-dinossauro",
@@ -4008,14 +3819,15 @@ window.ACHOU_PRODUCTS = [
     name: "Boneca Barbie Loira Fashion Articulada 30cm Mattel",
     category: "Brinquedos",
     store: "Mercado Livre",
-    price: 39.90,
+    price: 34.99,
     oldPrice: 59.90,
     image: "https://http2.mlstatic.com/D_NQ_NP_899112-MLB114653595451_072026-O-boneca-barbie-loira-fashion-articulada-30cm-mattel.webp",
     emoji: "🧸",
     link: "https://meli.la/2FP3eV3",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-24T09:03:00-03:00"
+    createdAt: "2026-09-24T09:03:00-03:00",
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "shopee-t-shirt-gola-alta-feminina-menegotti-100-algodao",
@@ -4074,20 +3886,6 @@ window.ACHOU_PRODUCTS = [
     createdAt: "2026-09-24T09:07:00-03:00"
   },
   {
-    id: "mercadolivre-pista-hot-wheels-reboque-de-dragao-mattel",
-    name: "Pista De Carro De Brinquedo Reboque de Dragão Hot Wheels Da Mattel",
-    category: "Brinquedos",
-    store: "Mercado Livre",
-    price: 87.39,
-    oldPrice: 169.99,
-    image: "https://http2.mlstatic.com/D_NQ_NP_718916-MLA99514946276_112025-O.webp",
-    emoji: "🧸",
-    link: "https://meli.la/2nMPzka",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-09-24T09:08:00-03:00"
-  },
-  {
     id: "shopee-cavalo-upa-upa-borrachado-com-som-musical-selo-inmetro",
     name: "Cavalo Upa Upa Borrachado com Som Musical (com Selo Inmetro)",
     category: "Brinquedos",
@@ -4120,28 +3918,15 @@ window.ACHOU_PRODUCTS = [
     name: "LEGO Speed - Oracle Red Bull Racing RB20 F1 - 251 Peças - 77243",
     category: "Brinquedos",
     store: "Mercado Livre",
-    price: 155.10,
+    price: 137.64,
     oldPrice: 249.99,
     image: "https://http2.mlstatic.com/D_NQ_NP_658714-MLA100005501511_122025-O.webp",
     emoji: "🧸",
     link: "https://meli.la/14gpzXr",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-24T09:11:00-03:00"
-  },
-  {
-    id: "mercadolivre-carrinho-controle-remoto-quick-run-360-4x4-drift",
-    name: "Carrinho De Controle Remoto Quick Run 360° 4x4 Drift",
-    category: "Brinquedos",
-    store: "Mercado Livre",
-    price: 78.99,
-    oldPrice: 139.99,
-    image: "https://http2.mlstatic.com/D_NQ_NP_954790-MLB109839594403_032026-O-carrinho-de-controle-remoto-quick-run-360-4x4-drift.webp",
-    emoji: "🧸",
-    link: "https://meli.la/2pF5NSH",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-09-24T09:12:00-03:00"
+    createdAt: "2026-09-24T09:11:00-03:00",
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "mercadolivre-vestido-longo-feminino-de-manguinhas-multiuso-de-luxo",
@@ -4155,21 +3940,23 @@ window.ACHOU_PRODUCTS = [
     link: "https://meli.la/2XjfgG1",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-24T09:13:00-03:00"
+    createdAt: "2026-09-24T09:13:00-03:00",
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "mercadolivre-lego-classic-maleta-da-criatividade-10713",
     name: "LEGO Classic Maleta da Criatividade 10713 - Brinquedo Criativo para Montar",
     category: "Brinquedos",
     store: "Mercado Livre",
-    price: 119.90,
+    price: 94.90,
     oldPrice: 199.99,
     image: "https://http2.mlstatic.com/D_NQ_NP_678645-MLA99447823800_112025-O.webp",
     emoji: "🧸",
     link: "https://meli.la/2QnMmiV",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-24T09:14:00-03:00"
+    createdAt: "2026-09-24T09:14:00-03:00",
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "mercadolivre-kit-mesa-didatica-brinquedo-educativo-1-ano-atividades",
@@ -4183,7 +3970,8 @@ window.ACHOU_PRODUCTS = [
     link: "https://meli.la/23xYWTB",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-24T14:00:00-03:00"
+    createdAt: "2026-09-24T14:00:00-03:00",
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "shopee-mercadinho-feirinha-comidinhas-kit-brinquedo-infantil",
@@ -4232,14 +4020,15 @@ window.ACHOU_PRODUCTS = [
     name: "Calça Legging Canelada Feminina Academia Sem Costura Fitness",
     category: "Fitness",
     store: "Mercado Livre",
-    price: 49.90,
+    price: 54.00,
     oldPrice: 89.99,
     image: "https://http2.mlstatic.com/D_NQ_NP_718432-MLB115547451704_082026-O-calca-legging-canelada-feminina-academia-sem-costura-fitness.webp",
     emoji: "🏋️",
     link: "https://meli.la/1tuRTfq",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-24T14:04:00-03:00"
+    createdAt: "2026-09-24T14:04:00-03:00",
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "shopee-lanca-bolhas-de-sabao-infantil-automatica-com-luz",
@@ -4260,14 +4049,15 @@ window.ACHOU_PRODUCTS = [
     name: "Carrinho De Fricção Grande Offroad 4x4 Monster Truck Cores",
     category: "Brinquedos",
     store: "Mercado Livre",
-    price: 53.00,
+    price: 49.90,
     oldPrice: 69.90,
     image: "https://http2.mlstatic.com/D_NQ_NP_607599-MLB96517619753_102025-O-carrinho-de-friccao-grande-offroad-44-monster-truck-cores.webp",
     emoji: "🧸",
     link: "https://meli.la/1ioGu4x",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-24T14:06:00-03:00"
+    createdAt: "2026-09-24T14:06:00-03:00",
+    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "shopee-conjunto-fitness-feminino-sem-costura-premium-top-shortinho",
@@ -4912,5 +4702,145 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-28T14:29:00-03:00"
+  },
+  {
+    id: "mercadolivre-serra-circular-the-black-tools-btc1000-185mm",
+    name: "Serra Circular Profissional The Black Tools BTC1000 7.1/4 Pol. 185mm 1100W com Disco Madeira",
+    category: "Ferramentas",
+    store: "Mercado Livre",
+    price: 269.90,
+    oldPrice: 452.32,
+    image: "https://http2.mlstatic.com/D_NQ_NP_813509-MLA112993496980_072026-O.webp",
+    emoji: "🔧",
+    link: "https://meli.la/2XSUL4X",
+    featured: false,
+    isDemo: false,
+    createdAt: "2026-10-10T18:26:00-03:00"
+  },
+  {
+    id: "mercadolivre-jogo-chave-boca-estrela-12-pcs-the-black-tools",
+    name: "Jogo de Chave Boca e Estrela Combinada 12 Peças 6-22mm Cromada Profissional The Black Tools TKCH12",
+    category: "Ferramentas",
+    store: "Mercado Livre",
+    price: 55.00,
+    oldPrice: 109.90,
+    image: "https://http2.mlstatic.com/D_NQ_NP_610242-MLA107057310600_022026-O.webp",
+    emoji: "🔧",
+    link: "https://meli.la/2zKvJgZ",
+    featured: false,
+    isDemo: false,
+    createdAt: "2026-10-10T18:27:00-03:00"
+  },
+  {
+    id: "mercadolivre-jogo-ferramentas-chave-catraca-bcs022-the-black-tools",
+    name: "Jogo Kit de Ferramentas Manuais Chave Catraca 1/2 8 a 32mm BCS022 The Black Tools",
+    category: "Ferramentas",
+    store: "Mercado Livre",
+    price: 112.42,
+    oldPrice: 279.90,
+    image: "https://http2.mlstatic.com/D_NQ_NP_680576-MLA113460946830_072026-O.webp",
+    emoji: "🔧",
+    link: "https://meli.la/1YGjGYQ",
+    featured: false,
+    isDemo: false,
+    createdAt: "2026-10-10T18:28:00-03:00"
+  },
+  {
+    id: "mercadolivre-esmerilhadeira-bosch-gws-700-220v",
+    name: "Esmerilhadeira Bosch 4,5\" 220V 710W GWS 700",
+    category: "Ferramentas",
+    store: "Mercado Livre",
+    price: 265.05,
+    oldPrice: 413.50,
+    image: "https://http2.mlstatic.com/D_NQ_NP_670719-MLA99986706915_112025-O.webp",
+    emoji: "🔧",
+    link: "https://meli.la/2xNUC5E",
+    featured: false,
+    isDemo: false,
+    createdAt: "2026-10-10T18:29:00-03:00"
+  },
+  {
+    id: "mercadolivre-chave-de-impacto-bateria-21v-the-black-tools",
+    name: "Chave de Impacto a Bateria 21V 1/2\" 2400 RPM Bivolt com Acessórios e Maleta The Black Tools",
+    category: "Ferramentas",
+    store: "Mercado Livre",
+    price: 275.40,
+    oldPrice: 513.39,
+    image: "https://http2.mlstatic.com/D_NQ_NP_652182-MLA113971474078_072026-O.webp",
+    emoji: "🔧",
+    link: "https://meli.la/2hWBDKV",
+    featured: false,
+    isDemo: false,
+    createdAt: "2026-10-10T18:30:00-03:00"
+  },
+  {
+    id: "mercadolivre-kit-hama-beads-24-cores-14000-pecas",
+    name: "Kit Hama Beads 24 Cores 14000 Peças 2.6mm Perler DIY Pixel",
+    category: "Brinquedos",
+    store: "Mercado Livre",
+    price: 34.95,
+    oldPrice: 79.80,
+    image: "https://http2.mlstatic.com/D_NQ_NP_812765-MLB117442343278_102026-O-kit-hama-beads-24-cores-14000-pecas-26mm-perler-diy-pixel.webp",
+    emoji: "🧸",
+    link: "https://meli.la/1SZnMaj",
+    featured: false,
+    isDemo: false,
+    createdAt: "2026-10-10T18:31:00-03:00"
+  },
+  {
+    id: "mercadolivre-pista-carrinhos-bombeiros-vermelho",
+    name: "Pista de Carrinhos Bombeiros Brinquedo Infantil Corrida Vermelho",
+    category: "Brinquedos",
+    store: "Mercado Livre",
+    price: 63.17,
+    oldPrice: 139.90,
+    image: "https://http2.mlstatic.com/D_NQ_NP_618953-MLA117213276940_102026-O.webp",
+    emoji: "🧸",
+    link: "https://meli.la/2baUGt2",
+    featured: false,
+    isDemo: false,
+    createdAt: "2026-10-10T18:32:00-03:00"
+  },
+  {
+    id: "mercadolivre-dinossauro-rex-controle-remoto-fumaca-kizumba",
+    name: "Dinossauro Rex de Controle Remoto que Anda e Solta Fumaça com Som 36cm Kizumba",
+    category: "Brinquedos",
+    store: "Mercado Livre",
+    price: 59.90,
+    oldPrice: 139.90,
+    image: "https://http2.mlstatic.com/D_NQ_NP_884416-MLA111969070636_062026-O.webp",
+    emoji: "🧸",
+    link: "https://meli.la/2csQBuC",
+    featured: false,
+    isDemo: false,
+    createdAt: "2026-10-10T18:33:00-03:00"
+  },
+  {
+    id: "mercadolivre-boneco-homem-aranha-universe-20-frases-50cm",
+    name: "Boneco Articulado Homem-Aranha Universe 20 Frases 50cm Marvel",
+    category: "Brinquedos",
+    store: "Mercado Livre",
+    price: 159.90,
+    oldPrice: 329.90,
+    image: "https://http2.mlstatic.com/D_NQ_NP_603214-MLA113027384258_072026-O.webp",
+    emoji: "🧸",
+    link: "https://meli.la/27sAbRN",
+    featured: false,
+    isDemo: false,
+    createdAt: "2026-10-10T18:34:00-03:00"
+  },
+  {
+    id: "mercadolivre-jogo-xadrez-tabuleiro-magnetico",
+    name: "Jogo de Xadrez Tabuleiro Magnético Lógica e Estratégia Brinquedo de Família",
+    category: "Brinquedos",
+    store: "Mercado Livre",
+    price: 19.90,
+    oldPrice: 76.90,
+    image: "https://http2.mlstatic.com/D_NQ_NP_618775-MLA106140485530_022026-O.webp",
+    emoji: "🧸",
+    link: "https://meli.la/1TczJ3d",
+    featured: false,
+    isDemo: false,
+    createdAt: "2026-10-10T18:35:00-03:00"
   },
 ];
