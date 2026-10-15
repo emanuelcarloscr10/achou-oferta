@@ -1532,21 +1532,6 @@ window.ACHOU_PRODUCTS = [
     checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
-    id: "mercadolivre-conjunto-fitness-calca-top",
-    name: "Roupa De Academia Conjunto Moda Fitness Feminino Calça E Top",
-    category: "Moda",
-    store: "Mercado Livre",
-    price: 55.81,
-    oldPrice: 99.80,
-    image: "https://http2.mlstatic.com/D_Q_NP_2X_659484-MLB115958582228_092026-AB-roupa-de-academia-conjunto-moda-fitness-feminino-calca-e-top.webp",
-    emoji: "🏋️",
-    link: "https://meli.la/1FwJjAM",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-09-15T20:22:00-03:00",
-    checkedAt: "2026-09-20T18:45:00-03:00"
-  },
-  {
     id: "mercadolivre-conjunto-legging-cropped",
     name: "Conjunto Fitness Legging E Cropped Feminino Roupa Ginástica",
     category: "Moda",
