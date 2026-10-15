@@ -81,10 +81,11 @@
     "name": "Notebook Lenovo V15 G4 Intel Core i7-13620H 16GB",
     "category": "Notebooks",
     "store": "Mercado Livre",
-    "price": 6482.15,
-    "oldPrice": 8418.13,
+    "price": 6715.15,
+    "oldPrice": 8721.55,
     "image": "https://http2.mlstatic.com/D_NQ_NP_656109-CBT116316710236_092026-O-notebook-lenovo-v15-g4-intel-core-i713620h-16gb.webp",
-    "link": "https://meli.la/1ax8RDD"
+    "link": "https://meli.la/1ax8RDD",
+    "checkedAt": "2026-10-15T19:04:00-03:00"
   },
   {
     "id": "mercadolivre-smart-tv-aoc-50-roku-4k-50u7066",
@@ -118,16 +119,6 @@
     "image": "https://http2.mlstatic.com/D_NQ_NP_969306-MLA115339859429_072026-O.webp",
     "link": "https://meli.la/2JRyUxC",
     "checkedAt": "2026-10-10T18:23:00-03:00"
-  },
-  {
-    "id": "mercadolivre-laptop-hp-pavilion-15-intel-n100-8gb-256gb",
-    "name": "Notebook HP Pavilion 15 Intel N100 8GB RAM 256GB",
-    "category": "Notebooks",
-    "store": "Mercado Livre",
-    "price": 3882.33,
-    "oldPrice": 5044.94,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_792237-CBT115255622164_082026-O-laptop-hp-pavilion-15-intel-n100-8gb-256gb.webp",
-    "link": "https://meli.la/2tvj6Pn"
   },
   {
     "id": "mercadolivre-moto-g67-5g-128gb",
@@ -409,10 +400,11 @@
     "name": "Jogo de Lençol 400 Fios Ponto Palito Cama Queen 3 Peças Saldão - TEXFINE",
     "category": "Enxoval",
     "store": "Mercado Livre",
-    "price": 31.89,
+    "price": 28.90,
     "oldPrice": 49.90,
     "image": "https://http2.mlstatic.com/D_Q_NP_2X_833331-MLB91182119648_092025-E-jogo-de-lencol-400-fios-ponto-palito-cama-queen-3-pcs-saldo.webp",
-    "link": "https://meli.la/2vP6bJE"
+    "link": "https://meli.la/2vP6bJE",
+    "checkedAt": "2026-10-15T19:04:00-03:00"
   },
   {
     "id": "mercadolivre-lencol-gu-casa-conforto",
@@ -422,7 +414,8 @@
     "price": 29.50,
     "oldPrice": 41.99,
     "image": "https://http2.mlstatic.com/D_Q_NP_2X_714533-MLB79667122021_092024-E-jogo-de-lencol-queen-3-pecas-400-fios-c-elastico-hotel.webp",
-    "link": "https://meli.la/2J17PUc"
+    "link": "https://meli.la/2J17PUc",
+    "checkedAt": "2026-10-15T19:04:00-03:00"
   },
   {
     "id": "mercadolivre-lencol-vilma-elastico",
@@ -432,17 +425,19 @@
     "price": 37.18,
     "oldPrice": 59.90,
     "image": "https://http2.mlstatic.com/D_Q_NP_2X_931416-MLB85541687919_062025-E-jogo-de-lencol-elastico-casal-padro-box-3-pecas-400-fios.webp",
-    "link": "https://meli.la/2TWv26T"
+    "link": "https://meli.la/2TWv26T",
+    "checkedAt": "2026-10-15T19:04:00-03:00"
   },
   {
     "id": "mercadolivre-lencol-raraluz-200-fios",
     "name": "Jogo de Lençol Casal 3 Peças 200 Fios Fronhas com Ponto Palito - Raraluz Casa",
     "category": "Enxoval",
     "store": "Mercado Livre",
-    "price": 60.84,
+    "price": 57.80,
     "oldPrice": 78.00,
     "image": "https://http2.mlstatic.com/D_Q_NP_2X_938575-MLB52559527320_112022-E-jogo-lencol-casal-3-pecas-200-fios-fronhas-com-ponto-palito.webp",
-    "link": "https://meli.la/2ZFGWjP"
+    "link": "https://meli.la/2ZFGWjP",
+    "checkedAt": "2026-10-15T19:04:00-03:00"
   },
   {
     "id": "mercadolivre-coberdrom-fv-enxovais",
@@ -452,7 +447,8 @@
     "price": 267.89,
     "oldPrice": 399.90,
     "image": "https://http2.mlstatic.com/D_Q_NP_2X_957094-MLB95110810455_102025-E-kit-coberdrom-casal-queen-jogo-cama-dupla-face-400-fios.webp",
-    "link": "https://meli.la/2ekWRPE"
+    "link": "https://meli.la/2ekWRPE",
+    "checkedAt": "2026-10-15T19:04:00-03:00"
   },
   {
     "id": "mercadolivre-cobertor-ml-basics-queen",
@@ -484,27 +480,30 @@
     "price": 149.31,
     "oldPrice": 274.20,
     "image": "https://http2.mlstatic.com/D_Q_NP_2X_877386-MLB91996259516_092025-E-tnis-feminino-via-marte-branco-confortavel-leve-original.webp",
-    "link": "https://meli.la/2PqiguV"
+    "link": "https://meli.la/2PqiguV",
+    "checkedAt": "2026-10-15T19:04:00-03:00"
   },
   {
     "id": "mercadolivre-tenis-vizzano-branco",
     "name": "Tênis Feminino Casual Vizzano Branco Confortável Original",
     "category": "Tênis",
     "store": "Mercado Livre",
-    "price": 128.75,
+    "price": 144.90,
     "oldPrice": 167.79,
     "image": "https://http2.mlstatic.com/D_Q_NP_2X_622791-MLB82471437819_022025-E-tenis-feminino-casual-vizzano-branco-confortavel-original.webp",
-    "link": "https://meli.la/2JyfEbW"
+    "link": "https://meli.la/2JyfEbW",
+    "checkedAt": "2026-10-15T19:04:00-03:00"
   },
   {
     "id": "mercadolivre-tenis-modare-conforto",
     "name": "Tênis Feminino Modare Conforto Casual Dia a Dia Trabalho",
     "category": "Tênis",
     "store": "Mercado Livre",
-    "price": 139.00,
-    "oldPrice": 276.04,
+    "price": 138.69,
+    "oldPrice": 283.99,
     "image": "https://http2.mlstatic.com/D_Q_NP_2X_697975-MLB95460087547_102025-E-tnis-feminino-modare-conforto-casual-dia-a-dia-trabalho.webp",
-    "link": "https://meli.la/1r3VsUr"
+    "link": "https://meli.la/1r3VsUr",
+    "checkedAt": "2026-10-15T19:04:00-03:00"
   },
   {
     "id": "mercadolivre-tenis-kolosh-c1296",
@@ -522,20 +521,22 @@
     "name": "Tênis Feminino Casual Vizzano Samba Flataform Conforto Leve",
     "category": "Tênis",
     "store": "Mercado Livre",
-    "price": 133.52,
+    "price": 138.33,
     "oldPrice": 189.50,
     "image": "https://http2.mlstatic.com/D_Q_NP_2X_911608-MLB109559157534_042026-E-tenis-feminino-casual-vizzano-samba-flataform-conforto-leve.webp",
-    "link": "https://meli.la/1WvdRAo"
+    "link": "https://meli.la/1WvdRAo",
+    "checkedAt": "2026-10-15T19:04:00-03:00"
   },
   {
     "id": "mercadolivre-tenis-ramarim-fly-high",
     "name": "Tênis Feminino Ramarim Fly High Branco Original",
     "category": "Tênis",
     "store": "Mercado Livre",
-    "price": 142.49,
+    "price": 169.99,
     "oldPrice": 249.99,
     "image": "https://http2.mlstatic.com/D_Q_NP_2X_976842-MLB82086036027_012025-E-tnis-feminino-ramarim-fly-high-branco-original.webp",
-    "link": "https://meli.la/2iAWaBF"
+    "link": "https://meli.la/2iAWaBF",
+    "checkedAt": "2026-10-15T19:04:00-03:00"
   },
   {
     "id": "mercadolivre-tenis-mormaii-urban-free",
@@ -556,7 +557,8 @@
     "price": 86.64,
     "oldPrice": 170.00,
     "image": "https://http2.mlstatic.com/D_Q_NP_2X_744440-MLB115143838976_082026-E-kit-3-shorts-academia-masculina-dry-fit-com-bolsos.webp",
-    "link": "https://meli.la/1FaPxWY"
+    "link": "https://meli.la/1FaPxWY",
+    "checkedAt": "2026-10-15T19:04:00-03:00"
   },
   {
     "id": "mercadolivre-bermuda-mm-compressao",
@@ -566,7 +568,8 @@
     "price": 38.90,
     "oldPrice": 54.90,
     "image": "https://http2.mlstatic.com/D_Q_NP_2X_911963-MLB117718616671_092026-E-bermuda-masculina-2-em-1-compresso-short-dry-fit-academia.webp",
-    "link": "https://meli.la/2cpwnP9"
+    "link": "https://meli.la/2cpwnP9",
+    "checkedAt": "2026-10-15T19:04:00-03:00"
   },
   {
     "id": "mercadolivre-bermuda-sandrini-kit4",
@@ -584,20 +587,22 @@
     "name": "Bermuda Masculina Média Puma com Bolso Praia Academia Tactel",
     "category": "Moda",
     "store": "Mercado Livre",
-    "price": 115.00,
-    "oldPrice": 279.49,
+    "price": 129.99,
+    "oldPrice": 399.99,
     "image": "https://http2.mlstatic.com/D_Q_NP_2X_938676-MLB113067129944_072026-E-bermuda-masculina-media-puma-com-bolso-praia-academia-tactel.webp",
-    "link": "https://meli.la/1mb7sXG"
+    "link": "https://meli.la/1mb7sXG",
+    "checkedAt": "2026-10-15T19:04:00-03:00"
   },
   {
     "id": "mercadolivre-shorts-duplo-dryfit-termica",
     "name": "Kit 4 Shorts 2 em 1 Duplo Dryfit Masculino Compressão Térmica",
     "category": "Moda",
     "store": "Mercado Livre",
-    "price": 95.00,
+    "price": 85.49,
     "oldPrice": 142.00,
     "image": "https://http2.mlstatic.com/D_Q_NP_2X_878492-MLB108664426620_032026-E-kit-4-shorts-2-em-1-duplo-dryfit-masculino-compresso-termic.webp",
-    "link": "https://meli.la/2qZNfTr"
+    "link": "https://meli.la/2qZNfTr",
+    "checkedAt": "2026-10-15T19:04:00-03:00"
   },
   {
     "id": "mercadolivre-shorts-duplo-bolso-kit3",
@@ -1438,20 +1443,11 @@
     "name": "Câmera Segurança Ip Externa Wifi A28 App Icsee À Prova D'Água",
     "category": "Casa e eletrodomésticos",
     "store": "Mercado Livre",
-    "price": 103.24,
-    "oldPrice": 300.00,
+    "price": 126.99,
+    "oldPrice": 350.00,
     "image": "https://http2.mlstatic.com/D_Q_NP_2X_927792-MLB91185357960_092025-AB--camera-seguranca-ip-externa-wifi-a28-app-icsee-a-prova-dagua.webp",
-    "link": "https://meli.la/1qXi6Pe"
-  },
-  {
-    "id": "mercadolivre-kit-2-cameras-seguranca-hw",
-    "name": "Kit 2 Câmeras Segurança Ip Interna Externa Wifi iCSee Infravermelho Prova D'Água - HW",
-    "category": "Casa e eletrodomésticos",
-    "store": "Mercado Livre",
-    "price": 179.99,
-    "oldPrice": 349.00,
-    "image": "https://http2.mlstatic.com/D_Q_NP_2X_694546-MLA117038112537_092026-AB.webp",
-    "link": "https://meli.la/19urCxK"
+    "link": "https://meli.la/1qXi6Pe",
+    "checkedAt": "2026-10-15T19:04:00-03:00"
   },
   {
     "id": "mercadolivre-massageador-deep-3d",
@@ -1461,17 +1457,19 @@
     "price": 78.00,
     "oldPrice": 240.00,
     "image": "https://http2.mlstatic.com/D_Q_NP_2X_971960-MLB109230680484_042026-AB--massageador-pescoco-ombro-recarregavel-maozinha-deep-3d.webp",
-    "link": "https://meli.la/1YK9TJu"
+    "link": "https://meli.la/1YK9TJu",
+    "checkedAt": "2026-10-15T19:04:00-03:00"
   },
   {
     "id": "mercadolivre-kit-10-potes-hermeticos-starhouse",
     "name": "Kit 10 Potes Herméticos Vidro 640ml Starhouse Marmita Forno Micro-ondas Airfryer com 4 travas de super vedação",
     "category": "Casa e eletrodomésticos",
     "store": "Mercado Livre",
-    "price": 107.77,
+    "price": 87.90,
     "oldPrice": 189.99,
     "image": "https://http2.mlstatic.com/D_Q_NP_2X_942823-MLA113526261849_062026-AB.webp",
-    "link": "https://meli.la/242HkYG"
+    "link": "https://meli.la/242HkYG",
+    "checkedAt": "2026-10-15T19:04:00-03:00"
   },
   {
     "id": "mercadolivre-jogo-toalhas-habitat-4pc",
