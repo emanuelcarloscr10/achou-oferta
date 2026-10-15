@@ -3769,7 +3769,8 @@ window.ACHOU_PRODUCTS = [
     link: "https://s.shopee.com.br/7KxEELqZss",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-24T09:00:00-03:00"
+    createdAt: "2026-09-24T09:00:00-03:00",
+    checkedAt: "2026-10-15T16:15:00-03:00"
   },
   {
     id: "shopee-blusa-tule-feminina-manga-longa-segunda-pele-varias-cores",
@@ -3783,7 +3784,8 @@ window.ACHOU_PRODUCTS = [
     link: "https://s.shopee.com.br/5fp0FHwvGa",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-24T09:01:00-03:00"
+    createdAt: "2026-09-24T09:01:00-03:00",
+    checkedAt: "2026-10-15T16:15:00-03:00"
   },
   {
     id: "mercadolivre-jaqueta-feminina-couro-casaco-blusa-moda-outono-inverno",
@@ -3797,7 +3799,8 @@ window.ACHOU_PRODUCTS = [
     link: "https://meli.la/2YuLnad",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-24T09:02:00-03:00"
+    createdAt: "2026-09-24T09:02:00-03:00",
+    checkedAt: "2026-10-15T16:15:00-03:00"
   },
   {
     id: "mercadolivre-boneca-barbie-loira-fashion-articulada-30cm-mattel",
@@ -3826,21 +3829,23 @@ window.ACHOU_PRODUCTS = [
     link: "https://s.shopee.com.br/7VGeQepwXv",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-24T09:04:00-03:00"
+    createdAt: "2026-09-24T09:04:00-03:00",
+    checkedAt: "2026-10-15T16:15:00-03:00"
   },
   {
     id: "mercadolivre-calca-jeans-masculina-original-elastano-lycra",
     name: "Calça Jeans Masculina Original Elastano Lycra",
     category: "Moda",
     store: "Mercado Livre",
-    price: 46.54,
+    price: 42.74,
     oldPrice: 78.00,
     image: "https://http2.mlstatic.com/D_NQ_NP_736480-MLB110617161021_042026-O-calca-jeans-masculina-original-elastano-lycra.webp",
     emoji: "👗",
     link: "https://meli.la/2mTaj7M",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-24T09:05:00-03:00"
+    createdAt: "2026-09-24T09:05:00-03:00",
+    checkedAt: "2026-10-15T16:15:00-03:00"
   },
   {
     id: "shopee-kit-24-massinha-de-modelar-25-moldes-cortador",
@@ -3854,7 +3859,8 @@ window.ACHOU_PRODUCTS = [
     link: "https://s.shopee.com.br/5LC9qfyBwY",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-24T09:06:00-03:00"
+    createdAt: "2026-09-24T09:06:00-03:00",
+    checkedAt: "2026-10-15T16:15:00-03:00"
   },
   {
     id: "mercadolivre-vestido-decote-transpassado-envelope-manga-curta-soltinho",
@@ -3868,35 +3874,38 @@ window.ACHOU_PRODUCTS = [
     link: "https://meli.la/1utztLM",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-24T09:07:00-03:00"
+    createdAt: "2026-09-24T09:07:00-03:00",
+    checkedAt: "2026-10-15T16:15:00-03:00"
   },
   {
     id: "shopee-cavalo-upa-upa-borrachado-com-som-musical-selo-inmetro",
     name: "Cavalo Upa Upa Borrachado com Som Musical (com Selo Inmetro)",
     category: "Brinquedos",
     store: "Shopee",
-    price: 43.88,
+    price: 49.99,
     oldPrice: 99.00,
     image: "https://down-br.img.susercontent.com/file/br-11134207-820l9-msmlfh83ij2c06",
     emoji: "🧸",
     link: "https://s.shopee.com.br/5q8QRawHvd",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-24T09:09:00-03:00"
+    createdAt: "2026-09-24T09:09:00-03:00",
+    checkedAt: "2026-10-15T16:15:00-03:00"
   },
   {
     id: "mercadolivre-calca-jeans-cargo-masculina-streetwear-preta-mescla",
     name: "Calça Jeans Cargo Masculina Streetwear Preta Mescla 34 ao 44",
     category: "Moda",
     store: "Mercado Livre",
-    price: 78.99,
+    price: 63.00,
     oldPrice: 197.79,
     image: "https://http2.mlstatic.com/D_NQ_NP_628310-MLB95718655116_102025-O-calca-jeans-cargo-masculina-streetwear-preta-mescla-34-ao-44.webp",
     emoji: "👗",
     link: "https://meli.la/1zoSnVn",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-24T09:10:00-03:00"
+    createdAt: "2026-09-24T09:10:00-03:00",
+    checkedAt: "2026-10-15T16:15:00-03:00"
   },
   {
     id: "mercadolivre-lego-speed-oracle-red-bull-racing-rb20-f1-77243",
@@ -3970,35 +3979,8 @@ window.ACHOU_PRODUCTS = [
     link: "https://s.shopee.com.br/1VzRxelIfc",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-24T14:01:00-03:00"
-  },
-  {
-    id: "mercadolivre-mesa-didatica-educativa-infantil-play-time-cotiplas",
-    name: "Mesa Didática Educativa Infantil Play Time Cotiplás Vermelha",
-    category: "Brinquedos",
-    store: "Mercado Livre",
-    price: 62.38,
-    oldPrice: 78.97,
-    image: "https://http2.mlstatic.com/D_NQ_NP_764493-MLB90212794583_082025-O-mesa-didatica-educativa-infantil-play-time-cotiplas-vermelha.webp",
-    emoji: "🧸",
-    link: "https://meli.la/1aiCdZV",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-09-24T14:02:00-03:00"
-  },
-  {
-    id: "shopee-kit-3-jogos-mimica-ludo-quem-e",
-    name: "KIT 3 Jogos - Fazendo Mímica + Ludo + Quem é (Estilo Cara a Cara) (preço no Pix com cupom)",
-    category: "Brinquedos",
-    store: "Shopee",
-    price: 47.03,
-    oldPrice: 58.79,
-    image: "https://down-br.img.susercontent.com/file/br-11134207-820lt-msy8ga6y08at4d",
-    emoji: "🧸",
-    link: "https://s.shopee.com.br/1Lg1lLlw0b",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-09-24T14:03:00-03:00"
+    createdAt: "2026-09-24T14:01:00-03:00",
+    checkedAt: "2026-10-15T16:15:00-03:00"
   },
   {
     id: "mercadolivre-calca-legging-canelada-feminina-academia-sem-costura",
@@ -4027,7 +4009,8 @@ window.ACHOU_PRODUCTS = [
     link: "https://s.shopee.com.br/2LYYxBi7yl",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-24T14:05:00-03:00"
+    createdAt: "2026-09-24T14:05:00-03:00",
+    checkedAt: "2026-10-15T16:15:00-03:00"
   },
   {
     id: "mercadolivre-carrinho-de-friccao-grande-offroad-4x4-monster-truck",
@@ -4049,14 +4032,15 @@ window.ACHOU_PRODUCTS = [
     name: "Conjunto Fitness Feminino Sem Costura Premium - Top + Shortinho Cintura Alta",
     category: "Fitness",
     store: "Shopee",
-    price: 35.90,
+    price: 32.90,
     oldPrice: 100.00,
     image: "https://down-br.img.susercontent.com/file/br-11134207-820m3-mr3yogwzn5s6dc",
     emoji: "🏋️",
     link: "https://s.shopee.com.br/2Vrz9UhUdm",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-24T14:07:00-03:00"
+    createdAt: "2026-09-24T14:07:00-03:00",
+    checkedAt: "2026-10-15T16:15:00-03:00"
   },
   {
     id: "mercadolivre-kit-2-calcas-legging-feminina-grossa-cintura-alta-com-bolso",
@@ -4070,35 +4054,8 @@ window.ACHOU_PRODUCTS = [
     link: "https://meli.la/243L2XW",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-24T14:08:00-03:00"
-  },
-  {
-    id: "mercadolivre-brastoy-escavadeira-de-controle-remoto-com-musica",
-    name: "Brastoy Escavadeira De Controle Remoto Veículos De Construção RC com Música",
-    category: "Brinquedos",
-    store: "Mercado Livre",
-    price: 152.52,
-    oldPrice: 240.00,
-    image: "https://http2.mlstatic.com/D_NQ_NP_841074-MLA110597072213_042026-O.webp",
-    emoji: "🧸",
-    link: "https://meli.la/2HmuUyS",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-09-24T14:09:00-03:00"
-  },
-  {
-    id: "shopee-kit-4-conjuntos-calca-e-top-feminina-academia-suplex",
-    name: "Kit 4 Conjuntos Calça E Top Roupas Feminina Academia Legging Esporte Suplex",
-    category: "Fitness",
-    store: "Shopee",
-    price: 162.36,
-    oldPrice: 300.67,
-    image: "https://down-br.img.susercontent.com/file/br-11134207-820lb-mn97shchan0i43",
-    emoji: "🏋️",
-    link: "https://s.shopee.com.br/20viYZjOef",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-09-24T14:10:00-03:00"
+    createdAt: "2026-09-24T14:08:00-03:00",
+    checkedAt: "2026-10-15T16:15:00-03:00"
   },
   {
     id: "mercadolivre-calcas-legging-feminina-academia-fitness-modelador-yoga",
@@ -4112,21 +4069,23 @@ window.ACHOU_PRODUCTS = [
     link: "https://meli.la/2ZuEFfw",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-24T14:11:00-03:00"
+    createdAt: "2026-09-24T14:11:00-03:00",
+    checkedAt: "2026-10-15T16:15:00-03:00"
   },
   {
     id: "mercadolivre-calca-legging-fitness-manalinda-feminina-academia-alta",
     name: "Calça Legging Fitness Manalinda Feminina Academia Alta Longa",
     category: "Fitness",
     store: "Mercado Livre",
-    price: 68.00,
+    price: 73.00,
     oldPrice: 174.90,
     image: "https://http2.mlstatic.com/D_NQ_NP_638609-MLB102182765629_122025-O-calca-legging-fitness-manalinda-feminina-academia-alta-longa.webp",
     emoji: "🏋️",
     link: "https://meli.la/1AEYMBi",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-24T14:12:00-03:00"
+    createdAt: "2026-09-24T14:12:00-03:00",
+    checkedAt: "2026-10-15T16:15:00-03:00"
   },
   {
     id: "mercadolivre-calca-legging-leg-flare-zero-transparencia-grossa",
@@ -4140,7 +4099,8 @@ window.ACHOU_PRODUCTS = [
     link: "https://meli.la/1c46Y2C",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-24T14:13:00-03:00"
+    createdAt: "2026-09-24T14:13:00-03:00",
+    checkedAt: "2026-10-15T16:15:00-03:00"
   },
   {
     id: "mercadolivre-carrinho-controle-remoto-homem-aranha-fumaca-e-luzes",
