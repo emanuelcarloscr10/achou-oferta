@@ -2253,102 +2253,79 @@ window.ACHOU_PRODUCTS = [
     checkedAt: "2026-10-16T14:50:00-03:00"
   },
   {
-    id: "mercadolivre-perfume-animale-for-men",
-    name: "Perfume Animale For Men EDT 100ml",
-    category: "Beleza",
-    store: "Mercado Livre",
-    price: 174.87,
-    oldPrice: 599.00,
-    image: "https://http2.mlstatic.com/D_NQ_NP_854275-MLA104226071298_012026-O.webp",
-    emoji: "🌸",
-    link: "https://meli.la/1ghg7rb",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-09-19T02:04:00-03:00"
-  },
-  {
     id: "mercadolivre-perfume-donna-la-rive",
     name: "Perfume Feminino Donna La Rive Eau de Parfum 90ml",
     category: "Beleza",
     store: "Mercado Livre",
-    price: 73.47,
-    oldPrice: 131.50,
+    price: 59.31,
+    oldPrice: 65.90,
     image: "https://http2.mlstatic.com/D_NQ_NP_991704-MLU75980804637_042024-O.webp",
     emoji: "🌸",
     link: "https://meli.la/2HLHvZB",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-19T02:05:00-03:00"
+    createdAt: "2026-09-19T02:05:00-03:00",
+    checkedAt: "2026-10-16T20:16:00-03:00"
   },
   {
     id: "mercadolivre-perfume-kuf-moneygold",
     name: "Perfume Masculino Kuf Moneygold 100ml Importado",
     category: "Beleza",
     store: "Mercado Livre",
-    price: 139.90,
+    price: 126.00,
     oldPrice: 349.90,
     image: "https://http2.mlstatic.com/D_NQ_NP_975809-MLA115306688206_082026-O.webp",
     emoji: "🌸",
     link: "https://meli.la/1tkDvAg",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-19T02:06:00-03:00"
+    createdAt: "2026-09-19T02:06:00-03:00",
+    checkedAt: "2026-10-16T20:16:00-03:00"
   },
   {
     id: "mercadolivre-aspirador-wap-highspeed-plus",
     name: "Aspirador De Pó Vertical e Portátil WAP High Speed Plus 1350W 3 Em 1",
     category: "Casa e eletrodomésticos",
     store: "Mercado Livre",
-    price: 160.04,
+    price: 149.00,
     oldPrice: 326.00,
     image: "https://http2.mlstatic.com/D_NQ_NP_841093-MLA116669740751_082026-O.webp",
     emoji: "🏠",
     link: "https://meli.la/2uD3SoY",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-19T02:07:00-03:00"
+    createdAt: "2026-09-19T02:07:00-03:00",
+    checkedAt: "2026-10-16T20:16:00-03:00"
   },
   {
     id: "mercadolivre-impressora-hp-smart-tank-584",
     name: "Impressora Multifuncional HP Smart Tank 584 - Preta",
     category: "Eletrônicos",
     store: "Mercado Livre",
-    price: 808.99,
-    oldPrice: 1399.00,
+    price: 751.06,
+    oldPrice: 1099.00,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_797897-MLA116198687211_082026-AB.webp",
     emoji: "🖨️",
     link: "https://meli.la/2pu8Syf",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-19T12:00:00-03:00"
+    createdAt: "2026-09-19T12:00:00-03:00",
+    checkedAt: "2026-10-16T20:16:00-03:00"
   },
   {
     id: "mercadolivre-toalhas-buddemeyer-bella-4pc",
     name: "Jogo De Toalhas Buddemeyer Bella Extra Soft Banho 4 Grafite/cinza Lisa",
     category: "Enxoval",
     store: "Mercado Livre",
-    price: 137.75,
+    price: 119.92,
     oldPrice: 229.90,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_992849-MLA100187157773_122025-AB.webp",
     emoji: "🛁",
     link: "https://meli.la/2fbBKvV",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-19T12:01:00-03:00"
-  },
-  {
-    id: "mercadolivre-smartwatch-samsung-galaxy-watch-8-40mm-bt-gps-branco-com-pul",
-    name: "Smartwatch Samsung Galaxy Watch 8 40mm BT GPS Branco com Pulseira Milanês Cinza-escuro",
-    category: "Smartwatch",
-    store: "Mercado Livre",
-    price: 1349.10,
-    oldPrice: 2999.99,
-    image: "https://http2.mlstatic.com/D_NQ_NP_783024-MLA110125232386_042026-O.webp",
-    emoji: "⌚",
-    link: "https://meli.la/1wRD7JN",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-09-19T15:00:00-03:00"
+    createdAt: "2026-09-19T12:01:00-03:00",
+    checkedAt: "2026-10-16T20:16:00-03:00"
   },
   {
     id: "mercadolivre-smartwatch-samsung-galaxy-watch-8-44mm-com-gps-e-nfc-em-alum",
@@ -2362,77 +2339,53 @@ window.ACHOU_PRODUCTS = [
     link: "https://meli.la/2Li5hBn",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-19T15:01:00-03:00"
-  },
-  {
-    id: "mercadolivre-samsung-galaxy-watch5-bt-40mm-cinza-escuro",
-    name: "Samsung Galaxy Watch5 BT 40mm Cinza-escuro",
-    category: "Smartwatch",
-    store: "Mercado Livre",
-    price: 1234.90,
-    oldPrice: 2289.90,
-    image: "https://http2.mlstatic.com/D_NQ_NP_862249-MLA99978261957_112025-O.webp",
-    emoji: "⌚",
-    link: "https://meli.la/2i9MHB3",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-09-19T15:02:00-03:00"
+    createdAt: "2026-09-19T15:01:00-03:00",
+    checkedAt: "2026-10-16T20:16:00-03:00"
   },
   {
     id: "mercadolivre-relogio-smartwatch-redmi-watch-6-active-global-gps-bluetooth",
     name: "Relógio Smartwatch Redmi Watch 6 Active Global GPS Bluetooth",
     category: "Smartwatch",
     store: "Mercado Livre",
-    price: 336.00,
+    price: 345.22,
     oldPrice: 589.90,
     image: "https://http2.mlstatic.com/D_NQ_NP_668528-MLB116486200861_082026-O-relogio-smartwatch-redmi-watch-6-active-global-gps-bluetooth.webp",
     emoji: "⌚",
     link: "https://meli.la/1VoM5hR",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-19T15:03:00-03:00"
+    createdAt: "2026-09-19T15:03:00-03:00",
+    checkedAt: "2026-10-16T20:16:00-03:00"
   },
   {
     id: "mercadolivre-smartwatch-huawei-watch-fit-5-amoled-1-82-design-leve-mini-t",
     name: "Smartwatch HUAWEI WATCH FIT 5 AMOLED 1.82\" Design Leve Mini Treino Bateria até 10 Dias 64GB GPS Branco",
     category: "Smartwatch",
     store: "Mercado Livre",
-    price: 899.00,
-    oldPrice: 1499.00,
+    price: 749.00,
+    oldPrice: 969.99,
     image: "https://http2.mlstatic.com/D_NQ_NP_888241-MLA110593054037_042026-O.webp",
     emoji: "⌚",
     link: "https://meli.la/15eCr3m",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-19T15:04:00-03:00"
+    createdAt: "2026-09-19T15:04:00-03:00",
+    checkedAt: "2026-10-16T20:16:00-03:00"
   },
   {
     id: "mercadolivre-relogio-inteligente-bettdow-fb048-sports-a-prova-de-agua",
     name: "Relógio Inteligente Bettdow FB048 Sports à Prova de Água",
     category: "Smartwatch",
     store: "Mercado Livre",
-    price: 80.00,
+    price: 77.00,
     oldPrice: 359.00,
     image: "https://http2.mlstatic.com/D_NQ_NP_943172-MLB98701976597_112025-O-relogio-inteligente-bettdow-fb048-sports-e-a-prova-de-agua.webp",
     emoji: "⌚",
     link: "https://meli.la/1zAtzrK",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-19T15:05:00-03:00"
-  },
-  {
-    id: "mercadolivre-relogio-inteligente-gps-smartwatch-amoled-3atm-outdoor-strar",
-    name: "Relógio Inteligente GPS Smartwatch AMOLED 3ATM Outdoor Strar",
-    category: "Smartwatch",
-    store: "Mercado Livre",
-    price: 284.67,
-    oldPrice: 599.00,
-    image: "https://http2.mlstatic.com/D_NQ_NP_889643-MLB111848290737_052026-O-relogio-inteligente-gps-smartwatch-amoled-3atm-outdoor-strar.webp",
-    emoji: "⌚",
-    link: "https://meli.la/22A8LuK",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-09-19T15:06:00-03:00"
+    createdAt: "2026-09-19T15:05:00-03:00",
+    checkedAt: "2026-10-16T20:16:00-03:00"
   },
   {
     id: "mercadolivre-relogio-inteligente-smartwatch-redondo-peje-pro-amoled-nfc",
@@ -2446,21 +2399,8 @@ window.ACHOU_PRODUCTS = [
     link: "https://meli.la/1DZSdqK",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-19T15:07:00-03:00"
-  },
-  {
-    id: "mercadolivre-relogio-inteligente-mulher-smartwatch-esportivo-redondo-ouro",
-    name: "Relógio Inteligente Mulher Smartwatch Esportivo Redondo Ouro",
-    category: "Smartwatch",
-    store: "Mercado Livre",
-    price: 164.73,
-    oldPrice: 289.00,
-    image: "https://http2.mlstatic.com/D_NQ_NP_673868-MLB106331950272_022026-O-relogio-inteligente-mulher-smartwatch-esportivo-redondo-ouro.webp",
-    emoji: "⌚",
-    link: "https://meli.la/2XCyXM5",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-09-19T15:08:00-03:00"
+    createdAt: "2026-09-19T15:07:00-03:00",
+    checkedAt: "2026-10-16T20:16:00-03:00"
   },
   {
     id: "mercadolivre-relogios-inteligentes-feminino-smartwatch-esportivo-original",
@@ -2729,35 +2669,38 @@ window.ACHOU_PRODUCTS = [
     link: "https://meli.la/1Ms3eWW",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-19T15:22:00-03:00"
+    createdAt: "2026-09-19T15:22:00-03:00",
+    checkedAt: "2026-10-16T20:16:00-03:00"
   },
   {
     id: "mercadolivre-bolsa-tote-feminina-acolchoada-preta-leve-dia-a-dia-casual",
     name: "Bolsa Tote Feminina Acolchoada Preta Leve Dia a Dia Casual",
     category: "Acessórios",
     store: "Mercado Livre",
-    price: 74.92,
+    price: 68.00,
     oldPrice: 148.80,
     image: "https://http2.mlstatic.com/D_NQ_NP_843725-MLB112795519386_072026-O-bolsa-tote-feminina-acolchoada-preta-leve-dia-a-dia-casual.webp",
     emoji: "👜",
     link: "https://meli.la/1TdcEBS",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-19T15:23:00-03:00"
+    createdAt: "2026-09-19T15:23:00-03:00",
+    checkedAt: "2026-10-16T20:16:00-03:00"
   },
   {
     id: "mercadolivre-bolsa-samariana-de-ombro-baguete-sintetica-feminina",
     name: "Bolsa Samariana de Ombro Baguete Sintética Feminina",
     category: "Acessórios",
     store: "Mercado Livre",
-    price: 24.90,
+    price: 26.90,
     oldPrice: 59.90,
     image: "https://http2.mlstatic.com/D_NQ_NP_828321-MLB114701078846_082026-O-bolsa-samariana-de-ombro-baguete-sintetica-feminina-lancamen.webp",
     emoji: "👜",
     link: "https://meli.la/1AcLxVx",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-19T15:24:00-03:00"
+    createdAt: "2026-09-19T15:24:00-03:00",
+    checkedAt: "2026-10-16T20:16:00-03:00"
   },
   {
     id: "mercadolivre-bolsa-sacola-grande-transversal-media-kit-com-2-pecas",
@@ -2809,28 +2752,30 @@ window.ACHOU_PRODUCTS = [
     name: "Óculos de Sol Retangular Ibiza Moderno Elegante Acetato UV400",
     category: "Acessórios",
     store: "Mercado Livre",
-    price: 68.90,
+    price: 73.90,
     oldPrice: 183.42,
     image: "https://http2.mlstatic.com/D_NQ_NP_892930-MLB89964340678_082025-O-oculos-de-sol-retangular-ibiza-moderno-elegante-acetat-uv400.webp",
     emoji: "🕶️",
     link: "https://meli.la/254Ci6M",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-19T15:28:00-03:00"
+    createdAt: "2026-09-19T15:28:00-03:00",
+    checkedAt: "2026-10-16T20:16:00-03:00"
   },
   {
     id: "mercadolivre-oculos-de-sol-feminino-viale-original-quadrado-luxo",
     name: "Óculos de Sol Feminino Viale Original Quadrado Luxo",
     category: "Acessórios",
     store: "Mercado Livre",
-    price: 59.40,
+    price: 50.17,
     oldPrice: 99.00,
     image: "https://http2.mlstatic.com/D_NQ_NP_980496-MLB115971095970_092026-O-oculos-de-sol-feminino-viale-original-quadrado-luxo.webp",
     emoji: "🕶️",
     link: "https://meli.la/2xDtqbx",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-19T15:29:00-03:00"
+    createdAt: "2026-09-19T15:29:00-03:00",
+    checkedAt: "2026-10-16T20:16:00-03:00"
   },
   {
     id: "mercadolivre-diasp-conjunto-fitness-feminino-canelado-brilho-academia",
