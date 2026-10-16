@@ -2002,154 +2002,120 @@ window.ACHOU_PRODUCTS = [
     name: "Jogo Toalhas Banho Grossas Macias Algodão 4pç Absorventes",
     category: "Enxoval",
     store: "Mercado Livre",
-    price: 85.21,
+    price: 89.70,
     oldPrice: 139.90,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_785463-MLB89373964059_082025-AB-jogo-toalhas-banho-grossas-macias-algodo-4pc-absorventes.webp",
     emoji: "🛏️",
     link: "https://meli.la/1GkBA7X",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-19T01:44:00-03:00"
+    createdAt: "2026-09-19T01:44:00-03:00",
+    checkedAt: "2026-10-16T14:50:00-03:00"
   },
   {
     id: "mercadolivre-cadeira-genebra-luvinco",
     name: "Cadeira Escritório Ergonômica Genebra B500 Luvinco Com Suporte Lombar Estofado Mesh",
     category: "Casa e eletrodomésticos",
     store: "Mercado Livre",
-    price: 473.00,
+    price: 497.90,
     oldPrice: 906.53,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_764756-MLA96570589252_112025-AB.webp",
     emoji: "🏠",
     link: "https://meli.la/2zQmgV7",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-19T01:45:00-03:00"
-  },
-  {
-    id: "mercadolivre-alaxe-caixa-som-inteligente",
-    name: "Alaxe Caixa De Som Inteligente Comando Voz Portátil Sem Fio",
-    category: "Eletrônicos",
-    store: "Mercado Livre",
-    price: 51.46,
-    oldPrice: 78.90,
-    image: "https://http2.mlstatic.com/D_Q_NP_2X_813959-MLB115351081126_082026-AB--alaxe-caixa-de-som-inteligente-comando-voz-portatil-sem-fio.webp",
-    emoji: "🎧",
-    link: "https://meli.la/2WFRMKV",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-09-19T01:46:00-03:00"
-  },
-  {
-    id: "mercadolivre-maquina-solda-dobevi-250a",
-    name: "Máquina Solda Inversora 250A Sem Gás 3 Em 1 110V/220V Dobevi",
-    category: "Ferramentas",
-    store: "Mercado Livre",
-    price: 617.10,
-    oldPrice: 2052.23,
-    image: "https://http2.mlstatic.com/D_Q_NP_2X_750670-MLA100075610267_122025-AB.webp",
-    emoji: "🧰",
-    link: "https://meli.la/26jKbdA",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-09-19T01:47:00-03:00"
+    createdAt: "2026-09-19T01:45:00-03:00",
+    checkedAt: "2026-10-16T14:50:00-03:00"
   },
   {
     id: "mercadolivre-parafusadeira-blacktools-tbkit23",
     name: "Parafusadeira Furadeira De Impacto The Black Tools Profissional Bateria 21V C/ Maleta + Kit Acessórios 145 Peças TBKIT23",
     category: "Ferramentas",
     store: "Mercado Livre",
-    price: 303.90,
+    price: 292.35,
     oldPrice: 539.90,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_703129-MLA115339980826_082026-AB.webp",
     emoji: "🧰",
     link: "https://meli.la/11JSmSB",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-19T01:48:00-03:00"
+    createdAt: "2026-09-19T01:48:00-03:00",
+    checkedAt: "2026-10-16T14:50:00-03:00"
   },
   {
     id: "mercadolivre-bicicleta-ergometrica-sevenfit",
     name: "Bicicleta Ergométrica Bike Spinning 6kg Sensação Inércia Fitness Sevenfit Para Cardio E Musculação",
     category: "Fitness",
     store: "Mercado Livre",
-    price: 479.53,
-    oldPrice: 1094.00,
+    price: 460.74,
+    oldPrice: 1094.99,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_745785-MLA114987927277_072026-AB.webp",
     emoji: "🏋️",
     link: "https://meli.la/2Vhrgiy",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-19T01:49:00-03:00"
+    createdAt: "2026-09-19T01:49:00-03:00",
+    checkedAt: "2026-10-16T14:50:00-03:00"
   },
   {
     id: "mercadolivre-impressora-epson-ecotank-l3250",
     name: "Impressora Multifuncional Cor Epson EcoTank L3250",
     category: "Informática",
     store: "Mercado Livre",
-    price: 988.33,
-    oldPrice: 1697.00,
+    price: 1075.62,
+    oldPrice: 1565.00,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_827740-MLA99943629541_112025-AB.webp",
     emoji: "🖨️",
     link: "https://meli.la/1fWjT39",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-19T01:50:00-03:00"
+    createdAt: "2026-09-19T01:50:00-03:00",
+    checkedAt: "2026-10-16T14:50:00-03:00"
   },
   {
     id: "mercadolivre-notebook-acer-aspire-go-15-13420h",
     name: "Notebook Acer Aspire Go 15 i5-13420H, RAM 8GB, SSD 256GB, 15,6\" Full HD, Linux",
     category: "Notebooks",
     store: "Mercado Livre",
-    price: 3067.14,
-    oldPrice: 4389.00,
+    price: 3577.00,
+    oldPrice: 5299.00,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_846715-MLA109375570233_032026-AB.webp",
     emoji: "💻",
     link: "https://meli.la/1QK2qPC",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-19T01:51:00-03:00"
+    createdAt: "2026-09-19T01:51:00-03:00",
+    checkedAt: "2026-10-16T14:50:00-03:00"
   },
   {
     id: "mercadolivre-camiseta-insider-light",
     name: "Camiseta Light T-shirt Insider Masculino",
     category: "Moda",
     store: "Mercado Livre",
-    price: 78.00,
+    price: 89.00,
     oldPrice: 189.00,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_779849-MLB89746747076_082025-AB-camiseta-light-t-shirt-insider-masculino.webp",
     emoji: "👕",
     link: "https://meli.la/2mkxzj7",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-19T01:52:00-03:00"
+    createdAt: "2026-09-19T01:52:00-03:00",
+    checkedAt: "2026-10-16T14:50:00-03:00"
   },
   {
     id: "mercadolivre-moto-g86-5g-256gb",
     name: "Celular Smartphone Motorola G86 5G 256GB 8GB+16GB RAM Boost Grafite",
     category: "Celulares",
     store: "Mercado Livre",
-    price: 1653.64,
-    oldPrice: 2999.00,
+    price: 1692.90,
+    oldPrice: 1881.00,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_634166-MLA99936645603_112025-AB.webp",
     emoji: "📱",
     link: "https://meli.la/17tX7C8",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-19T01:53:00-03:00"
-  },
-  {
-    id: "mercadolivre-power-bank-basike-20000mah",
-    name: "Power Bank Basike 20000mAh Preto, Carga Rápida 22.5W Para iPhone e Samsung",
-    category: "Eletrônicos",
-    store: "Mercado Livre",
-    price: 128.00,
-    oldPrice: 213.88,
-    image: "https://http2.mlstatic.com/D_Q_NP_2X_719636-MLA99381510294_112025-AB.webp",
-    emoji: "🎧",
-    link: "https://meli.la/2C3wmsY",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-09-19T01:54:00-03:00"
+    createdAt: "2026-09-19T01:53:00-03:00",
+    checkedAt: "2026-10-16T14:50:00-03:00"
   },
   {
     id: "mercadolivre-headset-olafvi-captain-780",
@@ -2163,21 +2129,23 @@ window.ACHOU_PRODUCTS = [
     link: "https://meli.la/2zmQmzA",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-19T01:55:00-03:00"
+    createdAt: "2026-09-19T01:55:00-03:00",
+    checkedAt: "2026-10-16T14:50:00-03:00"
   },
   {
     id: "mercadolivre-fone-prophonesee-bluetooth54",
     name: "Fone Ouvido Bluetooth 5.4 Sem Fio Estojo De Carregamento Anti Ruído À Prova D'Água Pro Phone See",
     category: "Eletrônicos",
     store: "Mercado Livre",
-    price: 45.00,
-    oldPrice: 78.99,
+    price: 49.70,
+    oldPrice: 78.90,
     image: "https://http2.mlstatic.com/S_Q_NP_2X_646535-MLA113987983224_072026-V.webp",
     emoji: "🎧",
     link: "https://meli.la/31Puf1E",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-19T01:56:00-03:00"
+    createdAt: "2026-09-19T01:56:00-03:00",
+    checkedAt: "2026-10-16T14:50:00-03:00"
   },
   {
     id: "mercadolivre-fone-inova-tws-54",
@@ -2191,77 +2159,83 @@ window.ACHOU_PRODUCTS = [
     link: "https://meli.la/1kMkbG4",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-19T01:57:00-03:00"
+    createdAt: "2026-09-19T01:57:00-03:00",
+    checkedAt: "2026-10-16T14:50:00-03:00"
   },
   {
     id: "mercadolivre-fone-jbl-wavebuds2",
     name: "Fone Bluetooth Wave Buds 2 TWS JBL",
     category: "Eletrônicos",
     store: "Mercado Livre",
-    price: 235.00,
+    price: 241.47,
     oldPrice: 369.00,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_811984-MLA99445406304_112025-E.webp",
     emoji: "🎧",
     link: "https://meli.la/1XLGuED",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-19T01:58:00-03:00"
+    createdAt: "2026-09-19T01:58:00-03:00",
+    checkedAt: "2026-10-16T14:50:00-03:00"
   },
   {
     id: "mercadolivre-samsung-galaxy-fit3",
     name: "Samsung Galaxy Fit3 Pulseira Esportiva Prata",
     category: "Smartwatch",
     store: "Mercado Livre",
-    price: 235.78,
+    price: 228.60,
     oldPrice: 499.00,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_628280-MLA99494775208_112025-E.webp",
     emoji: "⌚",
     link: "https://meli.la/2mMDfQ2",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-19T01:59:00-03:00"
+    createdAt: "2026-09-19T01:59:00-03:00",
+    checkedAt: "2026-10-16T14:50:00-03:00"
   },
   {
     id: "mercadolivre-redmi-watch-5-active-lite",
     name: "Relógio Smartwatch Redmi Watch 5 Active Lite Xiaomi",
     category: "Smartwatch",
     store: "Mercado Livre",
-    price: 357.81,
-    oldPrice: 699.99,
+    price: 320.24,
+    oldPrice: 376.76,
     image: "https://http2.mlstatic.com/S_Q_NP_2X_761997-MLA111392533251_052026-V.webp",
     emoji: "⌚",
     link: "https://meli.la/1Tqpiu8",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-19T02:00:00-03:00"
+    createdAt: "2026-09-19T02:00:00-03:00",
+    checkedAt: "2026-10-16T14:50:00-03:00"
   },
   {
     id: "mercadolivre-smartwatch-novante-gps",
     name: "Relógio Inteligente Smartwatch GPS Autônomo IP68 3ATM Novante",
     category: "Smartwatch",
     store: "Mercado Livre",
-    price: 207.22,
+    price: 227.10,
     oldPrice: 599.00,
     image: "https://http2.mlstatic.com/D_NQ_NP_692805-MLA115517949733_082026-O.webp",
     emoji: "⌚",
     link: "https://meli.la/1hHj9Aa",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-19T02:01:00-03:00"
+    createdAt: "2026-09-19T02:01:00-03:00",
+    checkedAt: "2026-10-16T14:50:00-03:00"
   },
   {
     id: "mercadolivre-mochila-jiesipote-executiva",
     name: "Mochila Executiva Impermeável Com Saída USB Para Notebook",
     category: "Acessórios",
     store: "Mercado Livre",
-    price: 89.99,
+    price: 85.49,
     oldPrice: 269.00,
     image: "https://http2.mlstatic.com/D_NQ_NP_685557-MLB113830432573_062026-O-mochila-executiva-impermeavel-com-saida-usb-para-notebook.webp",
     emoji: "🎒",
     link: "https://meli.la/248ZjtP",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-19T02:02:00-03:00"
+    createdAt: "2026-09-19T02:02:00-03:00",
+    checkedAt: "2026-10-16T14:50:00-03:00"
   },
   {
     id: "mercadolivre-mochila-yorepek-50l",
@@ -2275,7 +2249,8 @@ window.ACHOU_PRODUCTS = [
     link: "https://meli.la/1zGecAC",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-19T02:03:00-03:00"
+    createdAt: "2026-09-19T02:03:00-03:00",
+    checkedAt: "2026-10-16T14:50:00-03:00"
   },
   {
     id: "mercadolivre-perfume-animale-for-men",
@@ -5337,5 +5312,5 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-10-16T15:09:00-03:00"
-  },
+  }
 ];
