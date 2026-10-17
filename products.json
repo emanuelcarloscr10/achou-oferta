@@ -4194,5 +4194,60 @@
     "image": "https://down-br.img.susercontent.com/file/sg-11134201-7qvdh-lkbb0guky0lu75",
     "link": "https://s.shopee.com.br/4VddrH5wSS",
     "createdAt": "2026-10-17T13:39:00-03:00"
+  },
+  {
+    "id": "shopee-headset-gamer-mancer-twilight-s-rainbow-mcr-tlt",
+    "name": "Headset Gamer Mancer Twilight S, Rainbow, Drivers 40mm, Preto, MCR-TLT",
+    "category": "Games",
+    "store": "Shopee",
+    "price": 55.62,
+    "oldPrice": 82.33,
+    "image": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-md60qb32hrn6a9",
+    "link": "https://s.shopee.com.br/AUur1KjZqm",
+    "createdAt": "2026-10-17T13:55:00-03:00"
+  },
+  {
+    "id": "shopee-headset-gamer-pichau-vega-pch-vga-bl01",
+    "name": "Headset Gamer Pichau Vega, Drivers 50mm, Preto, PCH-VGA-BL01",
+    "category": "Games",
+    "store": "Shopee",
+    "price": 117.9,
+    "oldPrice": 223.99,
+    "image": "https://down-br.img.susercontent.com/file/sg-11134201-7rdvp-mcapznlrlndd39",
+    "link": "https://s.shopee.com.br/9V2JpUnNsY",
+    "createdAt": "2026-10-17T13:56:00-03:00"
+  },
+  {
+    "id": "shopee-smart-tv-lg-43-4k-uhd-43au801",
+    "name": "Smart TV LG 43\" 4K UHD Profissional 43AU801 Processador α7 AI Ger8",
+    "category": "TVs",
+    "store": "Shopee",
+    "price": 1967.9,
+    "oldPrice": 2787.54,
+    "image": "https://down-br.img.susercontent.com/file/br-11134207-820lq-mo64oiv518uaad",
+    "link": "https://s.shopee.com.br/9fLk1nmkXZ",
+    "createdAt": "2026-10-17T13:57:00-03:00"
+  },
+  {
+    "id": "shopee-smart-tv-samsung-55-crystal-uhd-4k-tizen",
+    "name": "Smart TV Samsung 55\" Crystal UHD 4K Tizen LED Bivolt Wi-Fi",
+    "category": "TVs",
+    "store": "Shopee",
+    "price": 2420.9,
+    "oldPrice": 3711,
+    "image": "https://down-br.img.susercontent.com/file/br-11134201-820lf-mqyi7qx3ykn8f7",
+    "link": "https://s.shopee.com.br/9KitdBo1DX",
+    "createdAt": "2026-10-17T13:58:00-03:00"
+  },
+  {
+    "id": "shopee-controle-ps5-dualsense-midnight-black",
+    "name": "Controle PS5 Sony DualSense Sem Fio - Midnight Black",
+    "category": "Games",
+    "store": "Shopee",
+    "price": 439.9,
+    "oldPrice": 674.04,
+    "image": "https://down-br.img.susercontent.com/file/br-11134207-820ls-mo65ro6coem92c",
+    "link": "https://s.shopee.com.br/9pfAE6m7Ca",
+    "createdAt": "2026-10-17T13:59:00-03:00"
   }
 ]
