@@ -3223,21 +3223,23 @@ window.ACHOU_PRODUCTS = [
     link: "https://meli.la/1DVPXhF",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-23T09:10:00-03:00"
+    createdAt: "2026-09-23T09:10:00-03:00",
+    checkedAt: "2026-10-19T15:48:00-03:00"
   },
   {
     id: "mercadolivre-caixa-de-som-bluetooth-54-portatil-boombox-para-festa-bt108",
     name: "Caixa De Som Bluetooth 5.4 Portátil Boombox Para Festa Bass Tws Ipx7 Graves Potentes TF Aux BT108 Preto Profundo",
     category: "Eletrônicos",
     store: "Mercado Livre",
-    price: 183.93,
+    price: 174.00,
     oldPrice: 499.00,
     image: "https://http2.mlstatic.com/D_NQ_NP_714738-MLA114476574029_072026-O.webp",
     emoji: "🎧",
     link: "https://meli.la/1aRehdK",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-23T09:11:00-03:00"
+    createdAt: "2026-09-23T09:11:00-03:00",
+    checkedAt: "2026-10-19T15:48:00-03:00"
   },
   {
     id: "shopee-inova-fone-de-ouvido-esportivo-sem-fio-bluetooth-ipx5",
@@ -3310,7 +3312,8 @@ window.ACHOU_PRODUCTS = [
     link: "https://meli.la/2VNrbph",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-23T14:31:00-03:00"
+    createdAt: "2026-09-23T14:31:00-03:00",
+    checkedAt: "2026-10-19T15:48:00-03:00"
   },
   {
     id: "mercadolivre-kit-48-carrinhos-friccao-pista-brinquedo-infantil-maleta",
@@ -3331,14 +3334,15 @@ window.ACHOU_PRODUCTS = [
     name: "Vestido Plus Size Longo Lastex Soltinho Alcinha Elegante",
     category: "Moda",
     store: "Mercado Livre",
-    price: 72.75,
-    oldPrice: 139.99,
+    price: 68.55,
+    oldPrice: 139.90,
     image: "https://http2.mlstatic.com/D_NQ_NP_937925-MLB107691906700_032026-O-vestido-plus-size-longo-lastex-soltinho-alcinha-elegante.webp",
     emoji: "👗",
     link: "https://meli.la/2cjjo1v",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-23T14:34:00-03:00"
+    createdAt: "2026-09-23T14:34:00-03:00",
+    checkedAt: "2026-10-19T15:48:00-03:00"
   },
   {
     id: "mercadolivre-mochila-escolar-infantil-unicornio-grande-impermeavel-cores",
@@ -3352,7 +3356,8 @@ window.ACHOU_PRODUCTS = [
     link: "https://meli.la/1uu2WDw",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-23T14:35:00-03:00"
+    createdAt: "2026-09-23T14:35:00-03:00",
+    checkedAt: "2026-10-19T15:48:00-03:00"
   },
   {
     id: "shopee-25-pecas-brinquedo-de-pistas-estacionamento-carro-acessorios-infantis",
@@ -3374,14 +3379,15 @@ window.ACHOU_PRODUCTS = [
     name: "Boneca Amy Brinquedo Day Luna Bebê Realista Acessório Reborn",
     category: "Brinquedos",
     store: "Mercado Livre",
-    price: 65.99,
+    price: 68.90,
     oldPrice: 92.90,
     image: "https://http2.mlstatic.com/D_NQ_NP_982771-MLB117413594253_092026-O-boneca-amy-brinquedo-day-luna-bebe-realista-acessorio-reborn.webp",
     emoji: "🧸",
     link: "https://meli.la/2Ho6sLX",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-23T14:38:00-03:00"
+    createdAt: "2026-09-23T14:38:00-03:00",
+    checkedAt: "2026-10-19T15:48:00-03:00"
   },
   {
     id: "mercadolivre-vestidos-rodado-soltinho-bolso-confortavel-alcinha-lindo",
@@ -3395,7 +3401,8 @@ window.ACHOU_PRODUCTS = [
     link: "https://meli.la/2THgqUb",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-23T14:39:00-03:00"
+    createdAt: "2026-09-23T14:39:00-03:00",
+    checkedAt: "2026-10-19T15:48:00-03:00"
   },
   {
     id: "mercadolivre-jaqueta-corta-vento-masculina-impermeavel-capuz-ziper-bolso",
@@ -3439,7 +3446,8 @@ window.ACHOU_PRODUCTS = [
     link: "https://meli.la/2gYgvWD",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-23T14:42:00-03:00"
+    createdAt: "2026-09-23T14:42:00-03:00",
+    checkedAt: "2026-10-19T15:48:00-03:00"
   },
   {
     id: "mercadolivre-patinete-infantil-musical-3-rodas-kiddy-replay-kids-azul",
@@ -3468,7 +3476,8 @@ window.ACHOU_PRODUCTS = [
     link: "https://meli.la/27AF6Fy",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-23T21:41:00-03:00"
+    createdAt: "2026-09-23T21:41:00-03:00",
+    checkedAt: "2026-10-19T15:48:00-03:00"
   },
   {
     id: "shopee-medoosi-tapple-display-digital-jogo-tabuleiro-de-palavras-familia",
@@ -3526,7 +3535,8 @@ window.ACHOU_PRODUCTS = [
     link: "https://s.shopee.com.br/6fhWhFgYP4",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-23T21:45:00-03:00"
+    createdAt: "2026-09-23T21:45:00-03:00",
+    checkedAt: "2026-10-19T15:48:00-03:00"
   },
   {
     id: "mercadolivre-conjunto-feminino-academia-top-short-duplo-cintura-alta",
@@ -3540,7 +3550,8 @@ window.ACHOU_PRODUCTS = [
     link: "https://meli.la/2WsHQtY",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-23T21:46:00-03:00"
+    createdAt: "2026-09-23T21:46:00-03:00",
+    checkedAt: "2026-10-19T15:48:00-03:00"
   },
   {
     id: "mercadolivre-jogo-de-tabuleiro-lince-grow",
@@ -3569,7 +3580,8 @@ window.ACHOU_PRODUCTS = [
     link: "https://s.shopee.com.br/6q0wtYfv47",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-23T21:48:00-03:00"
+    createdAt: "2026-09-23T21:48:00-03:00",
+    checkedAt: "2026-10-19T15:48:00-03:00"
   },
   {
     id: "mercadolivre-roupa-de-academia-conjunto-moda-fitness-feminino-calca-e-top",
@@ -3583,7 +3595,8 @@ window.ACHOU_PRODUCTS = [
     link: "https://meli.la/1FwJjAM",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-23T21:49:00-03:00"
+    createdAt: "2026-09-23T21:49:00-03:00",
+    checkedAt: "2026-10-19T15:48:00-03:00"
   },
   {
     id: "shopee-conjunto-academia-corrida-feminino-calca-legging-zero-transparencia-cintura-alta",
@@ -3597,7 +3610,8 @@ window.ACHOU_PRODUCTS = [
     link: "https://s.shopee.com.br/7fa3t5ckNI",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-23T21:51:00-03:00"
+    createdAt: "2026-09-23T21:51:00-03:00",
+    checkedAt: "2026-10-19T15:48:00-03:00"
   },
   {
     id: "mercadolivre-jogo-pula-pirata-brinquedos-estrela",
@@ -3626,21 +3640,23 @@ window.ACHOU_PRODUCTS = [
     link: "https://meli.la/1UxtfBa",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-23T21:53:00-03:00"
+    createdAt: "2026-09-23T21:53:00-03:00",
+    checkedAt: "2026-10-19T15:48:00-03:00"
   },
   {
     id: "shopee-conjunto-fitness-academia-feminino-bicolor-calca-legging-e-top-alca",
     name: "Conjunto Fitness Academia Feminino Bicolor Calça Legging e Top Alça Zero Transparência",
     category: "Fitness",
     store: "Shopee",
-    price: 77.90,
+    price: 75.90,
     oldPrice: 150.00,
     image: "https://down-br.img.susercontent.com/file/br-11134207-7r98o-mctd66ho4fn6b6",
     emoji: "🏋️",
     link: "https://s.shopee.com.br/7ptU5Oc72L",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-23T21:54:00-03:00"
+    createdAt: "2026-09-23T21:54:00-03:00",
+    checkedAt: "2026-10-19T15:48:00-03:00"
   },
   {
     id: "mercadolivre-jogo-de-tabuleiro-imagem-e-acao-1-grow-1708",
