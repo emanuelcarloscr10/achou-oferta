@@ -4044,35 +4044,38 @@ window.ACHOU_PRODUCTS = [
     link: "https://s.shopee.com.br/3LRArPGlGK",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-27T17:50:00-03:00"
+    createdAt: "2026-09-27T17:50:00-03:00",
+    checkedAt: "2026-10-19T19:07:00-03:00"
   },
   {
     id: "mercadolivre-smart-tv-32-led-hd-weyon-32wdsnbx",
     name: "Smart TV 32\" LED HD Weyon 60Hz 32WDSNBX Bivolt",
     category: "TVs",
     store: "Mercado Livre",
-    price: 889.00,
+    price: 899.00,
     oldPrice: 1899.00,
     image: "https://http2.mlstatic.com/D_NQ_NP_818284-MLA99860990557_112025-O-smart-tv-32-led-hd-weyon-tv-60hz-32wdsnbx-100240v.webp",
     emoji: "📺",
     link: "https://meli.la/2BsVpkj",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-27T17:51:00-03:00"
+    createdAt: "2026-09-27T17:51:00-03:00",
+    checkedAt: "2026-10-19T19:07:00-03:00"
   },
   {
     id: "mercadolivre-jogo-da-velha-eletronico-digital-portatil-infantil",
     name: "Brinquedo Jogo da Velha Eletrônico Digital Portátil Infantil",
     category: "Brinquedos",
     store: "Mercado Livre",
-    price: 39.72,
+    price: 37.07,
     oldPrice: 52.96,
     image: "https://http2.mlstatic.com/D_NQ_NP_733010-MLB98815310074_112025-O-brinquedo-jogo-da-velha-eletrnico-digital-portatil-infantil.webp",
     emoji: "🧸",
     link: "https://meli.la/1Z4UYPc",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-27T17:52:00-03:00"
+    createdAt: "2026-09-27T17:52:00-03:00",
+    checkedAt: "2026-10-19T19:07:00-03:00"
   },
   {
     id: "shopee-medoosi-tetris-quebra-cabeca-madeira-infantil",
@@ -4093,56 +4096,45 @@ window.ACHOU_PRODUCTS = [
     name: "Avião Cargueiro Porta 8 Carros com Rampas, Carrinhos e Helicóptero",
     category: "Brinquedos",
     store: "Mercado Livre",
-    price: 109.51,
+    price: 119.90,
     oldPrice: 149.90,
     image: "https://http2.mlstatic.com/D_NQ_NP_755857-MLB114028190076_072026-O-aviao-cargueiro-porta-8-carros-rampas-carrinhos-helicoptero.webp",
     emoji: "🧸",
     link: "https://meli.la/2c6xeg4",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-27T17:54:00-03:00"
+    createdAt: "2026-09-27T17:54:00-03:00",
+    checkedAt: "2026-10-19T19:07:00-03:00"
   },
   {
     id: "mercadolivre-smart-tv-lg-32-led-thinq-ai-webos-32lr600",
     name: "Smart TV LG 32\" LED ThinQ AI HDR10 webOS 32LR600",
     category: "TVs",
     store: "Mercado Livre",
-    price: 1234.70,
+    price: 1349.90,
     oldPrice: 1599.00,
     image: "https://http2.mlstatic.com/D_NQ_NP_894543-MLB77115996990_062024-O-smart-tv-lg-32--led-thinq-ai-hrd10-webos-32lr600-2024.webp",
     emoji: "📺",
     link: "https://meli.la/1JDbu2J",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-27T17:55:00-03:00"
-  },
-  {
-    id: "shopee-smart-tv-49-philco-uhd-4k-dled-roku-p49cra",
-    name: "Smart TV 49\" Philco UHD 4K DLED Roku P49CRA (preço no Pix com cupom)",
-    category: "TVs",
-    store: "Shopee",
-    price: 1706.84,
-    oldPrice: 2510.06,
-    image: "https://down-br.img.susercontent.com/file/sg-11134201-825as-mteah8t32jus69",
-    emoji: "📺",
-    link: "https://s.shopee.com.br/70KTE92np0",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-09-27T17:56:00-03:00"
+    createdAt: "2026-09-27T17:55:00-03:00",
+    checkedAt: "2026-10-19T19:07:00-03:00"
   },
   {
     id: "mercadolivre-caminhao-cargo-controle-remoto-recarregavel-luz",
     name: "Caminhão Cargo de Controle Remoto Recarregável com Luz - Preto",
     category: "Brinquedos",
     store: "Mercado Livre",
-    price: 73.80,
+    price: 82.00,
     oldPrice: 136.80,
     image: "https://http2.mlstatic.com/D_NQ_NP_827796-MLB114123956457_072026-O-caminhao-cargo-controle-remoto-recarregavel-com-luz-preto.webp",
     emoji: "🧸",
     link: "https://meli.la/1DuiEKQ",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-27T17:57:00-03:00"
+    createdAt: "2026-09-27T17:57:00-03:00",
+    checkedAt: "2026-10-19T19:07:00-03:00"
   },
   {
     id: "mercadolivre-smart-tv-semp-43-4k-s62-google-tv",
@@ -4184,21 +4176,23 @@ window.ACHOU_PRODUCTS = [
     link: "https://meli.la/1w5Gpqe",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-27T18:00:00-03:00"
+    createdAt: "2026-09-27T18:00:00-03:00",
+    checkedAt: "2026-10-19T19:07:00-03:00"
   },
   {
     id: "mercadolivre-smart-tv-tcl-55-qled-4k-p7l-google-tv-120hz",
     name: "Smart TV TCL 55\" QLED 4K P7L Google TV HDR10+ 120Hz VRR 55P7L",
     category: "TVs",
     store: "Mercado Livre",
-    price: 3029.00,
+    price: 2753.00,
     oldPrice: 4699.00,
     image: "https://http2.mlstatic.com/D_NQ_NP_720285-MLA115957186523_082026-O.webp",
     emoji: "📺",
     link: "https://meli.la/2gLVAF1",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-27T18:01:00-03:00"
+    createdAt: "2026-09-27T18:01:00-03:00",
+    checkedAt: "2026-10-19T19:07:00-03:00"
   },
   {
     id: "shopee-smart-tv-aoc-32-led-hd-roku-32s5155",
@@ -4219,28 +4213,30 @@ window.ACHOU_PRODUCTS = [
     name: "Hot Wheels Premium Cartela com 5 Carrinhos Mattel - Original",
     category: "Brinquedos",
     store: "Mercado Livre",
-    price: 102.00,
+    price: 127.26,
     oldPrice: 146.28,
     image: "https://http2.mlstatic.com/D_NQ_NP_811759-MLB115958502418_092026-O-hot-wheels-premium-cartela-c-5-carrinhos-mattel--original.webp",
     emoji: "🧸",
     link: "https://meli.la/1dp17LT",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-27T18:03:00-03:00"
+    createdAt: "2026-09-27T18:03:00-03:00",
+    checkedAt: "2026-10-19T19:07:00-03:00"
   },
   {
     id: "mercadolivre-smart-tv-tcl-55-qd-mini-led-4k-a400m-144hz",
     name: "Smart TV TCL 55\" QD-Mini LED 4K A400M Google TV HDR10+ 144Hz VRR",
     category: "TVs",
     store: "Mercado Livre",
-    price: 3999.00,
-    oldPrice: 6249.00,
+    price: 3257.79,
+    oldPrice: 4299.00,
     image: "https://http2.mlstatic.com/D_NQ_NP_808743-MLA115887588061_082026-O.webp",
     emoji: "📺",
     link: "https://meli.la/1LhVLfw",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-27T18:04:00-03:00"
+    createdAt: "2026-09-27T18:04:00-03:00",
+    checkedAt: "2026-10-19T19:07:00-03:00"
   },
   {
     id: "mercadolivre-kit-7-carrinhos-metal-carros-3-relampago-mcqueen",
