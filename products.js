@@ -4565,14 +4565,15 @@ window.ACHOU_PRODUCTS = [
     name: "Serra Circular Profissional The Black Tools BTC1000 7.1/4 Pol. 185mm 1100W com Disco Madeira",
     category: "Ferramentas",
     store: "Mercado Livre",
-    price: 269.90,
+    price: 279.90,
     oldPrice: 452.32,
     image: "https://http2.mlstatic.com/D_NQ_NP_813509-MLA112993496980_072026-O.webp",
     emoji: "🔧",
     link: "https://meli.la/2XSUL4X",
     featured: false,
     isDemo: false,
-    createdAt: "2026-10-10T18:26:00-03:00"
+    createdAt: "2026-10-10T18:26:00-03:00",
+    checkedAt: "2026-10-20T07:00:00-03:00"
   },
   {
     id: "mercadolivre-jogo-chave-boca-estrela-12-pcs-the-black-tools",
@@ -4586,119 +4587,113 @@ window.ACHOU_PRODUCTS = [
     link: "https://meli.la/2zKvJgZ",
     featured: false,
     isDemo: false,
-    createdAt: "2026-10-10T18:27:00-03:00"
+    createdAt: "2026-10-10T18:27:00-03:00",
+    checkedAt: "2026-10-20T07:00:00-03:00"
   },
   {
     id: "mercadolivre-jogo-ferramentas-chave-catraca-bcs022-the-black-tools",
     name: "Jogo Kit de Ferramentas Manuais Chave Catraca 1/2 8 a 32mm BCS022 The Black Tools",
     category: "Ferramentas",
     store: "Mercado Livre",
-    price: 112.42,
+    price: 151.99,
     oldPrice: 279.90,
     image: "https://http2.mlstatic.com/D_NQ_NP_680576-MLA113460946830_072026-O.webp",
     emoji: "🔧",
     link: "https://meli.la/1YGjGYQ",
     featured: false,
     isDemo: false,
-    createdAt: "2026-10-10T18:28:00-03:00"
+    createdAt: "2026-10-10T18:28:00-03:00",
+    checkedAt: "2026-10-20T07:00:00-03:00"
   },
   {
     id: "mercadolivre-esmerilhadeira-bosch-gws-700-220v",
     name: "Esmerilhadeira Bosch 4,5\" 220V 710W GWS 700",
     category: "Ferramentas",
     store: "Mercado Livre",
-    price: 265.05,
-    oldPrice: 413.50,
+    price: 251.91,
+    oldPrice: 391.99,
     image: "https://http2.mlstatic.com/D_NQ_NP_670719-MLA99986706915_112025-O.webp",
     emoji: "🔧",
     link: "https://meli.la/2xNUC5E",
     featured: false,
     isDemo: false,
-    createdAt: "2026-10-10T18:29:00-03:00"
+    createdAt: "2026-10-10T18:29:00-03:00",
+    checkedAt: "2026-10-20T07:00:00-03:00"
   },
   {
     id: "mercadolivre-chave-de-impacto-bateria-21v-the-black-tools",
     name: "Chave de Impacto a Bateria 21V 1/2\" 2400 RPM Bivolt com Acessórios e Maleta The Black Tools",
     category: "Ferramentas",
     store: "Mercado Livre",
-    price: 275.40,
+    price: 266.60,
     oldPrice: 513.39,
     image: "https://http2.mlstatic.com/D_NQ_NP_652182-MLA113971474078_072026-O.webp",
     emoji: "🔧",
     link: "https://meli.la/2hWBDKV",
     featured: false,
     isDemo: false,
-    createdAt: "2026-10-10T18:30:00-03:00"
+    createdAt: "2026-10-10T18:30:00-03:00",
+    checkedAt: "2026-10-20T07:00:00-03:00"
   },
   {
     id: "mercadolivre-kit-hama-beads-24-cores-14000-pecas",
     name: "Kit Hama Beads 24 Cores 14000 Peças 2.6mm Perler DIY Pixel",
     category: "Brinquedos",
     store: "Mercado Livre",
-    price: 34.95,
+    price: 32.00,
     oldPrice: 79.80,
     image: "https://http2.mlstatic.com/D_NQ_NP_812765-MLB117442343278_102026-O-kit-hama-beads-24-cores-14000-pecas-26mm-perler-diy-pixel.webp",
     emoji: "🧸",
     link: "https://meli.la/1SZnMaj",
     featured: false,
     isDemo: false,
-    createdAt: "2026-10-10T18:31:00-03:00"
+    createdAt: "2026-10-10T18:31:00-03:00",
+    checkedAt: "2026-10-20T07:00:00-03:00"
   },
   {
     id: "mercadolivre-pista-carrinhos-bombeiros-vermelho",
     name: "Pista de Carrinhos Bombeiros Brinquedo Infantil Corrida Vermelho",
     category: "Brinquedos",
     store: "Mercado Livre",
-    price: 63.17,
+    price: 69.90,
     oldPrice: 139.90,
     image: "https://http2.mlstatic.com/D_NQ_NP_618953-MLA117213276940_102026-O.webp",
     emoji: "🧸",
     link: "https://meli.la/2baUGt2",
     featured: false,
     isDemo: false,
-    createdAt: "2026-10-10T18:32:00-03:00"
+    createdAt: "2026-10-10T18:32:00-03:00",
+    checkedAt: "2026-10-20T07:00:00-03:00"
   },
   {
     id: "mercadolivre-dinossauro-rex-controle-remoto-fumaca-kizumba",
     name: "Dinossauro Rex de Controle Remoto que Anda e Solta Fumaça com Som 36cm Kizumba",
     category: "Brinquedos",
     store: "Mercado Livre",
-    price: 59.90,
+    price: 67.80,
     oldPrice: 139.90,
     image: "https://http2.mlstatic.com/D_NQ_NP_884416-MLA111969070636_062026-O.webp",
     emoji: "🧸",
     link: "https://meli.la/2csQBuC",
     featured: false,
     isDemo: false,
-    createdAt: "2026-10-10T18:33:00-03:00"
+    createdAt: "2026-10-10T18:33:00-03:00",
+    checkedAt: "2026-10-20T07:00:00-03:00"
   },
   {
     id: "mercadolivre-boneco-homem-aranha-universe-20-frases-50cm",
     name: "Boneco Articulado Homem-Aranha Universe 20 Frases 50cm Marvel",
     category: "Brinquedos",
     store: "Mercado Livre",
-    price: 159.90,
+    price: 229.90,
     oldPrice: 329.90,
     image: "https://http2.mlstatic.com/D_NQ_NP_603214-MLA113027384258_072026-O.webp",
     emoji: "🧸",
     link: "https://meli.la/27sAbRN",
     featured: false,
     isDemo: false,
-    createdAt: "2026-10-10T18:34:00-03:00"
-  },
-  {
-    id: "mercadolivre-jogo-xadrez-tabuleiro-magnetico",
-    name: "Jogo de Xadrez Tabuleiro Magnético Lógica e Estratégia Brinquedo de Família",
-    category: "Brinquedos",
-    store: "Mercado Livre",
-    price: 19.90,
-    oldPrice: 76.90,
-    image: "https://http2.mlstatic.com/D_NQ_NP_618775-MLA106140485530_022026-O.webp",
-    emoji: "🧸",
-    link: "https://meli.la/1TczJ3d",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-10-10T18:35:00-03:00"
+    createdAt: "2026-10-10T18:34:00-03:00",
+    checkedAt: "2026-10-20T07:00:00-03:00"
   },
   {
     id: "shopee-bolsa-sacola-grande-necessaire-willibags",
@@ -4706,13 +4701,14 @@ window.ACHOU_PRODUCTS = [
     category: "Acessórios",
     store: "Shopee",
     price: 49.90,
-    oldPrice: 70.28,
+    oldPrice: 69.90,
     image: "https://down-br.img.susercontent.com/file/br-11134207-820mh-mqp1wnzqayo023",
     emoji: "👜",
     link: "https://s.shopee.com.br/7pu2qg4I4b",
     featured: false,
     isDemo: false,
-    createdAt: "2026-10-15T16:50:00-03:00"
+    createdAt: "2026-10-15T16:50:00-03:00",
+    checkedAt: "2026-10-20T07:00:00-03:00"
   },
   {
     id: "shopee-bolsa-feminina-transversal-ombro-grande-capacidade",
@@ -4726,7 +4722,8 @@ window.ACHOU_PRODUCTS = [
     link: "https://s.shopee.com.br/7faceN4vPY",
     featured: false,
     isDemo: false,
-    createdAt: "2026-10-15T16:51:00-03:00"
+    createdAt: "2026-10-15T16:51:00-03:00",
+    checkedAt: "2026-10-20T07:00:00-03:00"
   },
   {
     id: "mercadolivre-camisa-gola-polo-feminina-basica-algodao",
@@ -4740,21 +4737,8 @@ window.ACHOU_PRODUCTS = [
     link: "https://meli.la/28YV1qT",
     featured: false,
     isDemo: false,
-    createdAt: "2026-10-15T16:52:00-03:00"
-  },
-  {
-    id: "mercadolivre-relogio-life-conquistas-feminino-aco-rose",
-    name: "Relógio Life Conquistas Feminino Aço Rosé",
-    category: "Acessórios",
-    store: "Mercado Livre",
-    price: 361.00,
-    oldPrice: 690.00,
-    image: "https://http2.mlstatic.com/D_NQ_NP_677170-MLU75539332796_042024-O.webp",
-    emoji: "👜",
-    link: "https://meli.la/2hgtvuA",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-10-15T16:53:00-03:00"
+    createdAt: "2026-10-15T16:52:00-03:00",
+    checkedAt: "2026-10-20T07:00:00-03:00"
   },
   {
     id: "shopee-bolsa-feminina-media-transversal",
@@ -4768,7 +4752,8 @@ window.ACHOU_PRODUCTS = [
     link: "https://s.shopee.com.br/6q1Veq866N",
     featured: false,
     isDemo: false,
-    createdAt: "2026-10-15T16:54:00-03:00"
+    createdAt: "2026-10-15T16:54:00-03:00",
+    checkedAt: "2026-10-20T07:00:00-03:00"
   },
   {
     id: "mercadolivre-calca-cargo-feminina-wide-leg-stillger",
@@ -4782,7 +4767,8 @@ window.ACHOU_PRODUCTS = [
     link: "https://meli.la/3392MXd",
     featured: false,
     isDemo: false,
-    createdAt: "2026-10-15T16:55:00-03:00"
+    createdAt: "2026-10-15T16:55:00-03:00",
+    checkedAt: "2026-10-20T07:00:00-03:00"
   },
   {
     id: "mercadolivre-relogio-tommy-hilfiger-1791659",
