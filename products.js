@@ -4023,14 +4023,15 @@ window.ACHOU_PRODUCTS = [
     name: "Carrinho de Controle Remoto Homem Aranha c/ Fumaça e Luzes - Flow Dimension",
     category: "Brinquedos",
     store: "Mercado Livre",
-    price: 68.90,
+    price: 74.65,
     oldPrice: 109.90,
     image: "https://http2.mlstatic.com/D_NQ_NP_831790-MLA114059723947_072026-O.webp",
     emoji: "🧸",
     link: "https://meli.la/2VsFUTr",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-24T14:14:00-03:00"
+    createdAt: "2026-09-24T14:14:00-03:00",
+    checkedAt: "2026-10-20T19:06:00-03:00"
   },
   {
     id: "shopee-microfone-infantil-karaoke-bluetooth-ws-858",
@@ -4089,7 +4090,8 @@ window.ACHOU_PRODUCTS = [
     link: "https://s.shopee.com.br/7AdtQS2AU3",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-27T17:53:00-03:00"
+    createdAt: "2026-09-27T17:53:00-03:00",
+    checkedAt: "2026-10-20T19:06:00-03:00"
   },
   {
     id: "mercadolivre-aviao-cargueiro-porta-8-carros-rampas-helicoptero",
@@ -4162,7 +4164,8 @@ window.ACHOU_PRODUCTS = [
     link: "https://s.shopee.com.br/3Vkb3iG7vN",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-27T17:59:00-03:00"
+    createdAt: "2026-09-27T17:59:00-03:00",
+    checkedAt: "2026-10-20T19:06:00-03:00"
   },
   {
     id: "mercadolivre-bonecos-articulados-athos-cadres-25cm-chaveiros",
@@ -4199,14 +4202,15 @@ window.ACHOU_PRODUCTS = [
     name: "Smart TV AOC 32\" LED HD Roku 32S5155/78G Wi-Fi HDMI Dolby Audio",
     category: "TVs",
     store: "Shopee",
-    price: 881.36,
-    oldPrice: 2149.66,
+    price: 999.99,
+    oldPrice: 2167.99,
     image: "https://down-br.img.susercontent.com/file/br-11134207-820le-mmke20ryjfnof5",
     emoji: "📺",
     link: "https://s.shopee.com.br/6q131q3R9x",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-27T18:02:00-03:00"
+    createdAt: "2026-09-27T18:02:00-03:00",
+    checkedAt: "2026-10-20T19:06:00-03:00"
   },
   {
     id: "mercadolivre-hot-wheels-premium-cartela-5-carrinhos-mattel",
@@ -4243,70 +4247,60 @@ window.ACHOU_PRODUCTS = [
     name: "Kit 7 Carrinhos de Metal Carros 3 O Filme - Relâmpago McQueen",
     category: "Brinquedos",
     store: "Mercado Livre",
-    price: 90.00,
+    price: 94.23,
     oldPrice: 120.00,
     image: "https://http2.mlstatic.com/D_NQ_NP_628766-MLB103845713628_012026-O-kit-7-carrinhos-metal-carros-3-o-filme--relampago-mcqueen.webp",
     emoji: "🧸",
     link: "https://meli.la/2RyCYZz",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-28T12:11:00-03:00"
+    createdAt: "2026-09-28T12:11:00-03:00",
+    checkedAt: "2026-10-20T19:06:00-03:00"
   },
   {
     id: "shopee-kit-avatar-voador-de-led-com-estilingue-foguete-helicoptero",
     name: "Kit Avatar Voador de LED com Estilingue Foguete Helicóptero (6, 10, 20 ou 30 unidades)",
     category: "Brinquedos",
     store: "Shopee",
-    price: 15.90,
+    price: 16.90,
     oldPrice: 31.90,
     image: "https://down-br.img.susercontent.com/file/br-11134207-7r98o-m7i0vgluckek32",
     emoji: "🧸",
     link: "https://s.shopee.com.br/LnaU1sidL",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-28T12:12:00-03:00"
+    createdAt: "2026-09-28T12:12:00-03:00",
+    checkedAt: "2026-10-20T19:06:00-03:00"
   },
   {
     id: "mercadolivre-smartphone-do-idoso-samsung-galaxy-128gb-icones-grandes",
     name: "Smartphone do Idoso Samsung Galaxy 128GB Ícones Grandes",
     category: "Celulares",
     store: "Mercado Livre",
-    price: 999.00,
-    oldPrice: 1379.90,
+    price: 1066.90,
+    oldPrice: 1379.00,
     image: "https://http2.mlstatic.com/D_NQ_NP_753324-MLB100106033256_122025-O-smartphone-do-idoso-samsung-galaxy-128gb-icones-grandes.webp",
     emoji: "📱",
     link: "https://meli.la/1771Zn1",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-28T12:13:00-03:00"
-  },
-  {
-    id: "mercadolivre-boneco-capitao-america-titan-series-marvel-hasbro",
-    name: "Boneco Capitão América Marvel Vingadores Titan Series Hasbro",
-    category: "Brinquedos",
-    store: "Mercado Livre",
-    price: 72.10,
-    oldPrice: 99.99,
-    image: "https://http2.mlstatic.com/D_NQ_NP_601724-MLA106740367905_022026-O.webp",
-    emoji: "🧸",
-    link: "https://meli.la/2sWBDQP",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-09-28T12:14:00-03:00"
+    createdAt: "2026-09-28T12:13:00-03:00",
+    checkedAt: "2026-10-20T19:06:00-03:00"
   },
   {
     id: "shopee-lancador-de-aviao-com-luz-planador-espuma-catapulta",
     name: "Lançador de Avião com Luz - Planador Infantil de Espuma Catapulta",
     category: "Brinquedos",
     store: "Shopee",
-    price: 15.90,
+    price: 16.90,
     oldPrice: 49.00,
     image: "https://down-br.img.susercontent.com/file/br-11134207-7r98o-m2l3w5dn8avn6e",
     emoji: "🧸",
     link: "https://s.shopee.com.br/2BFEfOljui",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-28T12:15:00-03:00"
+    createdAt: "2026-09-28T12:15:00-03:00",
+    checkedAt: "2026-10-20T19:06:00-03:00"
   },
   {
     id: "mercadolivre-xiaomi-redmi-15c-256gb-8gb-ram-dual-sim",
@@ -4323,60 +4317,19 @@ window.ACHOU_PRODUCTS = [
     createdAt: "2026-09-28T12:16:00-03:00"
   },
   {
-    id: "mercadolivre-pista-tubarao-looping-duplo-com-2-carrinhos",
-    name: "Pista Tubarão Looping Duplo com 2 Carrinhos Infantil",
-    category: "Brinquedos",
-    store: "Mercado Livre",
-    price: 122.00,
-    oldPrice: 299.00,
-    image: "https://http2.mlstatic.com/D_NQ_NP_888612-MLB114390155086_082026-O-pista-tubarao-looping-duplo-com-2-carrinhos-infantil.webp",
-    emoji: "🧸",
-    link: "https://meli.la/25E4uGk",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-09-28T12:17:00-03:00"
-  },
-  {
-    id: "shopee-caminhao-engolir-dinossauro-kit-12-carrinhos-ym5500",
-    name: "Caminhão de Engolir Dinossauro com Kit 12 Carrinhos YM5500 (preço no Pix com cupom)",
-    category: "Brinquedos",
-    store: "Shopee",
-    price: 104.50,
-    oldPrice: 120.11,
-    image: "https://down-br.img.susercontent.com/file/br-11134207-7r98o-md0hx2s3cdv6ec",
-    emoji: "🧸",
-    link: "https://s.shopee.com.br/20voT5mNFh",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-09-28T12:18:00-03:00"
-  },
-  {
     id: "mercadolivre-hot-wheels-monster-trucks-1-24-bone-shaker-mattel",
     name: "Hot Wheels Monster Trucks 1:24 Bone Shaker Mattel",
     category: "Brinquedos",
     store: "Mercado Livre",
-    price: 107.90,
+    price: 131.90,
     oldPrice: 169.99,
     image: "https://http2.mlstatic.com/D_NQ_NP_861478-MLB109107801215_032026-O-veiculo-hot-wheels-monster-trucks-124-2026-peca-bone-shaker.webp",
     emoji: "🧸",
     link: "https://meli.la/2qk3h74",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-28T12:20:00-03:00"
-  },
-  {
-    id: "shopee-celular-xiaomi-redmi-note-15-256gb-8gb-ram-global",
-    name: "Celular Xiaomi Redmi Note 15 256GB 8GB RAM Versão Global com Capinha (preço no Pix com cupom)",
-    category: "Celulares",
-    store: "Shopee",
-    price: 1057.08,
-    oldPrice: 1305.04,
-    image: "https://down-br.img.susercontent.com/file/br-11134207-81ztc-mjr7aw4b8h6q83",
-    emoji: "📱",
-    link: "https://s.shopee.com.br/W70gKs5IM",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-09-28T12:21:00-03:00"
+    createdAt: "2026-09-28T12:20:00-03:00",
+    checkedAt: "2026-10-20T19:06:00-03:00"
   },
   {
     id: "shopee-bola-magica-voadora-led-transforma-disco-voador",
@@ -4384,13 +4337,14 @@ window.ACHOU_PRODUCTS = [
     category: "Brinquedos",
     store: "Shopee",
     price: 28.99,
-    oldPrice: 69.90,
+    oldPrice: 36.99,
     image: "https://down-br.img.susercontent.com/file/br-11134201-820m1-mqxqcfm6wlqf80",
     emoji: "🧸",
     link: "https://s.shopee.com.br/2Vs540kTEo",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-28T12:22:00-03:00"
+    createdAt: "2026-09-28T12:22:00-03:00",
+    checkedAt: "2026-10-20T19:06:00-03:00"
   },
   {
     id: "mercadolivre-quadriciclo-pedal-eletrico-6v-som-farol-led-rosa",
