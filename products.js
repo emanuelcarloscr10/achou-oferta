@@ -4008,7 +4008,7 @@ window.ACHOU_PRODUCTS = [
     name: "Calça Legging Leg Flare Zero Transparência Grossa Academia",
     category: "Fitness",
     store: "Mercado Livre",
-    price: 35.90,
+    price: 34.90,
     oldPrice: 59.90,
     image: "https://http2.mlstatic.com/D_NQ_NP_658388-MLB90869609638_082025-O-calca-legging-leg-flare-zero-transparncia-grossa-academia.webp",
     emoji: "🏋️",
@@ -4016,7 +4016,7 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-24T14:13:00-03:00",
-    checkedAt: "2026-10-15T16:15:00-03:00"
+    checkedAt: "2026-10-22T15:46:00-03:00"
   },
   {
     id: "mercadolivre-carrinho-controle-remoto-homem-aranha-fumaca-e-luzes",
@@ -6482,20 +6482,6 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-10-22T15:45:00-03:00"
-  },
-  {
-    id: "mercadolivre-calca-legging-leg-flare-zero-transparencia",
-    name: "Calça Legging Leg Flare Zero Transparência Grossa",
-    category: "Moda",
-    store: "Mercado Livre",
-    price: 34.9,
-    oldPrice: 59.9,
-    image: "https://http2.mlstatic.com/D_NQ_NP_658388-MLB90869609638_082025-O-calca-legging-leg-flare-zero-transparncia-grossa-academia.webp",
-    emoji: "👗",
-    link: "https://meli.la/1c46Y2C",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-10-22T15:46:00-03:00"
   },
   {
     id: "shopee-oculos-de-sol-justin-quadrado-acetato",
