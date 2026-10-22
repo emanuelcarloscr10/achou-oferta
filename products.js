@@ -4303,20 +4303,6 @@ window.ACHOU_PRODUCTS = [
     checkedAt: "2026-10-20T19:06:00-03:00"
   },
   {
-    id: "mercadolivre-xiaomi-redmi-15c-256gb-8gb-ram-dual-sim",
-    name: "Xiaomi Redmi 15C 256GB 8GB RAM Dual Sim + Brindes",
-    category: "Celulares",
-    store: "Mercado Livre",
-    price: 1269.00,
-    oldPrice: 1700.00,
-    image: "https://http2.mlstatic.com/D_NQ_NP_773357-MLB99427610357_112025-O-xiaomi-redmi-15c-256gb-8gb-ram-dual-sim---brindes.webp",
-    emoji: "📱",
-    link: "https://meli.la/1XLgv5f",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-09-28T12:16:00-03:00"
-  },
-  {
     id: "mercadolivre-hot-wheels-monster-trucks-1-24-bone-shaker-mattel",
     name: "Hot Wheels Monster Trucks 1:24 Bone Shaker Mattel",
     category: "Brinquedos",
@@ -4733,7 +4719,8 @@ window.ACHOU_PRODUCTS = [
     link: "https://meli.la/2bQrATa",
     featured: false,
     isDemo: false,
-    createdAt: "2026-10-15T16:58:00-03:00"
+    createdAt: "2026-10-15T16:58:00-03:00",
+    checkedAt: "2026-10-21T21:46:00-03:00"
   },
   {
     id: "mercadolivre-calca-mom-jeans-feminina-marmorizada",
@@ -4747,7 +4734,8 @@ window.ACHOU_PRODUCTS = [
     link: "https://meli.la/2Zfvk2W",
     featured: false,
     isDemo: false,
-    createdAt: "2026-10-15T16:59:00-03:00"
+    createdAt: "2026-10-15T16:59:00-03:00",
+    checkedAt: "2026-10-21T21:46:00-03:00"
   },
   {
     id: "shopee-vestido-musa-suplex-premium",
@@ -4761,21 +4749,23 @@ window.ACHOU_PRODUCTS = [
     link: "https://s.shopee.com.br/6fi5SX8jRK",
     featured: false,
     isDemo: false,
-    createdAt: "2026-10-15T17:00:00-03:00"
+    createdAt: "2026-10-15T17:00:00-03:00",
+    checkedAt: "2026-10-21T21:46:00-03:00"
   },
   {
     id: "mercadolivre-relogio-mondiane-prata-32549g0mvne1",
     name: "Relógio Masculino Mondiane Prata 32549G0MVNE1 Fundo Preto",
     category: "Acessórios",
     store: "Mercado Livre",
-    price: 170.19,
-    oldPrice: 398.51,
+    price: 172.00,
+    oldPrice: 350.00,
     image: "https://http2.mlstatic.com/D_NQ_NP_863482-MLA119362122519_102026-O.webp",
     emoji: "👜",
     link: "https://meli.la/2Gtrk49",
     featured: false,
     isDemo: false,
-    createdAt: "2026-10-15T17:01:00-03:00"
+    createdAt: "2026-10-15T17:01:00-03:00",
+    checkedAt: "2026-10-21T21:46:00-03:00"
   },
   {
     id: "mercadolivre-kit-6-cuecas-lupo-boxer-sem-costura",
@@ -4789,35 +4779,23 @@ window.ACHOU_PRODUCTS = [
     link: "https://meli.la/1HXirMQ",
     featured: false,
     isDemo: false,
-    createdAt: "2026-10-15T17:02:00-03:00"
-  },
-  {
-    id: "mercadolivre-relogio-casio-digital-w-59-1vq",
-    name: "Relógio Casio Masculino Digital Preto de Resina W-59-1VQ",
-    category: "Acessórios",
-    store: "Mercado Livre",
-    price: 107.87,
-    oldPrice: 239.11,
-    image: "https://http2.mlstatic.com/D_NQ_NP_684326-MLA115755090874_092026-O.webp",
-    emoji: "👜",
-    link: "https://meli.la/2XzsGkb",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-10-15T17:03:00-03:00"
+    createdAt: "2026-10-15T17:02:00-03:00",
+    checkedAt: "2026-10-21T21:46:00-03:00"
   },
   {
     id: "mercadolivre-vestido-midi-tres-marias-viscose-linho",
     name: "Vestido Midi Três Marias Viscose Linho com Bolsos Laterais",
     category: "Moda",
     store: "Mercado Livre",
-    price: 61.22,
+    price: 63.00,
     oldPrice: 209.99,
     image: "https://http2.mlstatic.com/D_NQ_NP_636798-MLB112399337370_062026-O-vestido-midi-trs-marias-viscose-linho-com-bolsos-laterais.webp",
     emoji: "👗",
     link: "https://meli.la/1QaEA62",
     featured: false,
     isDemo: false,
-    createdAt: "2026-10-15T17:04:00-03:00"
+    createdAt: "2026-10-15T17:04:00-03:00",
+    checkedAt: "2026-10-21T21:46:00-03:00"
   },
   {
     id: "shopee-principia-kit-rotina-essencial-gh01-ps01-gl02",
@@ -4831,21 +4809,23 @@ window.ACHOU_PRODUCTS = [
     link: "https://s.shopee.com.br/8KqJTXoqPo",
     featured: false,
     isDemo: false,
-    createdAt: "2026-10-15T17:15:00-03:00"
+    createdAt: "2026-10-15T17:15:00-03:00",
+    checkedAt: "2026-10-21T21:46:00-03:00"
   },
   {
     id: "mercadolivre-secador-philco-psc3500-4-em-1-bldc",
     name: "Secador de Cabelos Philco PSC3500 4 em 1 Dobrável Motor BLDC Prateado",
     category: "Beleza",
     store: "Mercado Livre",
-    price: 397.54,
-    oldPrice: 549.00,
+    price: 393.13,
+    oldPrice: 599.00,
     image: "https://http2.mlstatic.com/D_NQ_NP_933795-MLA115633578810_092026-O.webp",
     emoji: "💄",
     link: "https://meli.la/2GK9FXE",
     featured: false,
     isDemo: false,
-    createdAt: "2026-10-15T17:16:00-03:00"
+    createdAt: "2026-10-15T17:16:00-03:00",
+    checkedAt: "2026-10-21T21:46:00-03:00"
   },
   {
     id: "mercadolivre-kit-3-conjunto-top-short-academia-plus-size-los-angeles",
@@ -4859,7 +4839,8 @@ window.ACHOU_PRODUCTS = [
     link: "https://meli.la/2Bw1g2V",
     featured: false,
     isDemo: false,
-    createdAt: "2026-10-15T17:17:00-03:00"
+    createdAt: "2026-10-15T17:17:00-03:00",
+    checkedAt: "2026-10-21T21:46:00-03:00"
   },
   {
     id: "shopee-conjunto-fitness-feminino-top-e-calca-sports-cintura-alta",
@@ -4873,21 +4854,23 @@ window.ACHOU_PRODUCTS = [
     link: "https://s.shopee.com.br/7pu2scqkQf",
     featured: false,
     isDemo: false,
-    createdAt: "2026-10-15T17:18:00-03:00"
+    createdAt: "2026-10-15T17:18:00-03:00",
+    checkedAt: "2026-10-21T21:46:00-03:00"
   },
   {
     id: "mercadolivre-isdin-foto-ultra-active-unify-color-fps99",
     name: "ISDIN Clareador Facial Foto Ultra Active Unify Color FPS 99 - 50ml",
     category: "Beleza",
     store: "Mercado Livre",
-    price: 99.90,
+    price: 79.92,
     oldPrice: 149.90,
     image: "https://http2.mlstatic.com/D_NQ_NP_600939-MLU75981809981_042024-O.webp",
     emoji: "💄",
     link: "https://meli.la/2nwUU8w",
     featured: false,
     isDemo: false,
-    createdAt: "2026-10-15T17:19:00-03:00"
+    createdAt: "2026-10-15T17:19:00-03:00",
+    checkedAt: "2026-10-21T21:46:00-03:00"
   },
   {
     id: "mercadolivre-conjunto-feminino-academia-shorts-e-top-alcinha",
@@ -4915,7 +4898,8 @@ window.ACHOU_PRODUCTS = [
     link: "https://s.shopee.com.br/7KxmHhseRa",
     featured: false,
     isDemo: false,
-    createdAt: "2026-10-15T17:21:00-03:00"
+    createdAt: "2026-10-15T17:21:00-03:00",
+    checkedAt: "2026-10-21T21:46:00-03:00"
   },
   {
     id: "mercadolivre-escova-rotativa-mondial-erb-01-rosa",
