@@ -77,5 +77,15 @@
     "validUntil": "2026-10-17",
     "publishedAt": "2026-10-17T13:20:00-03:00",
     "note": "Cupom categoria Tecnologia (min R$149, max R$200, ate 90% da categoria, valido so em 17.10), postado no canal Afiliados e Criadores Mercado Livre Brasil em 17/10 09:04. Link bit.ly/4s3uXF2 resolvido via curl para www.mercadolivre.com.br (home); publicado com o link oficial direto. Confirmado publicado no canal Achou Oferta - Promocoes as 13:20 (Telegram Web K)."
+  },
+  {
+    "code": "TOPOFERTA",
+    "store": "Mercado Livre",
+    "category": "Celulares e eletrônicos (Tecnologia)",
+    "type": "coupon",
+    "discountLabel": "R$300 OFF",
+    "validUntil": "2026-10-21",
+    "publishedAt": "2026-10-21T21:44:00-03:00",
+    "note": "Cupom categoria Tecnologia (R$300 OFF em compras a partir de R$1.999, em ate 90% da categoria, valido so em 21.10), postado no canal Afiliados e Criadores Mercado Livre Brasil em 21/10 16:00. Link bit.ly/4hTE9bR resolvido via curl para www.mercadolivre.com.br (home); publicado com o link oficial direto. Confirmado publicado no canal Achou Oferta - Promocoes as 21:44 (Telegram Web K, get_page_text)."
   }
 ]
