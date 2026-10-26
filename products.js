@@ -4865,14 +4865,15 @@ window.ACHOU_PRODUCTS = [
     name: "Conjunto Feminino Academia Shorts e Top Alcinha Fitness",
     category: "Fitness",
     store: "Mercado Livre",
-    price: 65.40,
+    price: 67.00,
     oldPrice: 96.60,
     image: "https://http2.mlstatic.com/D_NQ_NP_704252-MLB117527209655_092026-O-conjunto-feminino-academia-shorts-e-top-alcinha-fitness.webp",
     emoji: "🏋️",
     link: "https://meli.la/1Tzf9Bk",
     featured: false,
     isDemo: false,
-    createdAt: "2026-10-15T17:20:00-03:00"
+    createdAt: "2026-10-15T17:20:00-03:00",
+    checkedAt: "2026-10-26T19:57:00-03:00"
   },
   {
     id: "shopee-kit-2-conjuntos-academia-feminino-short-e-top-zero-transparencia",
@@ -5044,14 +5045,15 @@ window.ACHOU_PRODUCTS = [
     name: "Kit Wella Nutri Enrich Shampoo 1000ml + Máscara 500ml Invigo",
     category: "Beleza",
     store: "Mercado Livre",
-    price: 276.35,
-    oldPrice: 464.9,
+    price: 299.90,
+    oldPrice: 1000,
     image: "https://http2.mlstatic.com/D_NQ_NP_951620-MLA112570731103_062026-O.webp",
     emoji: "💄",
     link: "https://meli.la/1Q8Enqc",
     featured: false,
     isDemo: false,
-    createdAt: "2026-10-16T15:06:00-03:00"
+    createdAt: "2026-10-16T15:06:00-03:00",
+    checkedAt: "2026-10-26T19:57:00-03:00"
   },
   {
     id: "mercadolivre-perfume-jean-paul-gaultier-le-male-elixir-75ml",
@@ -5073,14 +5075,15 @@ window.ACHOU_PRODUCTS = [
     name: "Kit 3 Legging com Bolso Fitness Feminino Atletyca",
     category: "Fitness",
     store: "Mercado Livre",
-    price: 84.54,
+    price: 94.90,
     oldPrice: 215.71,
     image: "https://http2.mlstatic.com/D_NQ_NP_826099-MLB88443115013_072025-O-kit-3-legging-com-bolso-fitness-feminino-atletyca.webp",
     emoji: "🏋️",
     link: "https://meli.la/13tW25e",
     featured: false,
     isDemo: false,
-    createdAt: "2026-10-16T15:08:00-03:00"
+    createdAt: "2026-10-16T15:08:00-03:00",
+    checkedAt: "2026-10-26T19:57:00-03:00"
   },
   {
     id: "mercadolivre-perfume-arabe-sabah-al-ward-sugar-feminino-100ml",
@@ -5109,7 +5112,8 @@ window.ACHOU_PRODUCTS = [
     link: "https://meli.la/2iTD7SE",
     featured: false,
     isDemo: false,
-    createdAt: "2026-10-16T23:34:00-03:00"
+    createdAt: "2026-10-16T23:34:00-03:00",
+    checkedAt: "2026-10-26T19:57:00-03:00"
   },
   {
     id: "mercadolivre-lavadora-alta-pressao-karcher-compacta-1500psi",
@@ -5131,14 +5135,15 @@ window.ACHOU_PRODUCTS = [
     name: "Tênis Reserva Roma Masculino Casual Cano Baixo Elegante",
     category: "Tênis",
     store: "Mercado Livre",
-    price: 219.9,
+    price: 279.29,
     oldPrice: 399.99,
     image: "https://http2.mlstatic.com/D_NQ_NP_876206-MLB85157928606_052025-O-tnis-reserva-roma-masculino-casual-cano-baixo-elegante.webp",
     emoji: "👟",
     link: "https://meli.la/2fzFKY8",
     featured: false,
     isDemo: false,
-    createdAt: "2026-10-16T23:36:00-03:00"
+    createdAt: "2026-10-16T23:36:00-03:00",
+    checkedAt: "2026-10-26T19:57:00-03:00"
   },
   {
     id: "mercadolivre-tenis-puma-carina-street-bdp",
@@ -5152,7 +5157,8 @@ window.ACHOU_PRODUCTS = [
     link: "https://meli.la/29Y5Yh9",
     featured: false,
     isDemo: false,
-    createdAt: "2026-10-16T23:37:00-03:00"
+    createdAt: "2026-10-16T23:37:00-03:00",
+    checkedAt: "2026-10-26T19:57:00-03:00"
   },
   {
     id: "mercadolivre-jogo-brocas-buchas-bits-300-pecas-the-black-tools",
@@ -5196,21 +5202,23 @@ window.ACHOU_PRODUCTS = [
     link: "https://meli.la/1JXTbTe",
     featured: false,
     isDemo: false,
-    createdAt: "2026-10-16T23:40:00-03:00"
+    createdAt: "2026-10-16T23:40:00-03:00",
+    checkedAt: "2026-10-26T19:57:00-03:00"
   },
   {
     id: "mercadolivre-chave-de-impacto-700nm-brushless-2-baterias",
     name: "Chave De Impacto 1/2'' 700nm Brushless 2 Baterias Maleta",
     category: "Ferramentas",
     store: "Mercado Livre",
-    price: 276,
+    price: 302.55,
     oldPrice: 655,
     image: "https://http2.mlstatic.com/D_NQ_NP_866776-MLB117638495206_102026-O-chave-de-impacto-12-700nm-brushless-2-baterias-maleta.webp",
     emoji: "🔧",
     link: "https://meli.la/1VDKE4n",
     featured: false,
     isDemo: false,
-    createdAt: "2026-10-16T23:41:00-03:00"
+    createdAt: "2026-10-16T23:41:00-03:00",
+    checkedAt: "2026-10-26T19:57:00-03:00"
   },
   {
     id: "mercadolivre-lavadora-lava-jato-portatil-2-baterias-maleta",
@@ -5232,42 +5240,45 @@ window.ACHOU_PRODUCTS = [
     name: "Tênis adidas Feminino Corrida Caminhada Leve Confortável",
     category: "Tênis",
     store: "Mercado Livre",
-    price: 232.65,
+    price: 284.99,
     oldPrice: 499.99,
     image: "https://http2.mlstatic.com/D_NQ_NP_896122-MLB115527177797_082026-O-tnis-adidas-feminino-corrida-caminhada-leve-confortavel.webp",
     emoji: "👟",
     link: "https://meli.la/1NANbJ9",
     featured: false,
     isDemo: false,
-    createdAt: "2026-10-16T23:43:00-03:00"
+    createdAt: "2026-10-16T23:43:00-03:00",
+    checkedAt: "2026-10-26T19:57:00-03:00"
   },
   {
     id: "mercadolivre-tenis-red-nose-prescott-skatista",
     name: "Tênis Red Nose Prescott Skatista Masculino Original",
     category: "Tênis",
     store: "Mercado Livre",
-    price: 138.24,
+    price: 145.25,
     oldPrice: 200,
     image: "https://http2.mlstatic.com/D_NQ_NP_772364-MLB116023456103_082026-O-tnis-red-nose-prescott-skatista-masculino-original.webp",
     emoji: "👟",
     link: "https://meli.la/183uJoT",
     featured: false,
     isDemo: false,
-    createdAt: "2026-10-17T16:10:00-03:00"
+    createdAt: "2026-10-17T16:10:00-03:00",
+    checkedAt: "2026-10-26T19:57:00-03:00"
   },
   {
     id: "mercadolivre-nivel-laser-verde-16-linhas-war-shark",
     name: "Nível Laser Verde 16 Linhas War Shark 2 Bateria + 1.2m Tripé",
     category: "Ferramentas",
     store: "Mercado Livre",
-    price: 251.05,
+    price: 246.05,
     oldPrice: 500,
     image: "https://http2.mlstatic.com/D_NQ_NP_770451-MLA113890807023_062026-O.webp",
     emoji: "🔧",
     link: "https://meli.la/1gXCdFM",
     featured: false,
     isDemo: false,
-    createdAt: "2026-10-17T16:11:00-03:00"
+    createdAt: "2026-10-17T16:11:00-03:00",
+    checkedAt: "2026-10-26T19:57:00-03:00"
   },
   {
     id: "mercadolivre-tenis-olympikus-vertice-feminino",
@@ -5438,21 +5449,23 @@ window.ACHOU_PRODUCTS = [
     link: "https://s.shopee.com.br/4fx43a5J7T",
     featured: false,
     isDemo: false,
-    createdAt: "2026-10-17T13:38:00-03:00"
+    createdAt: "2026-10-17T13:38:00-03:00",
+    checkedAt: "2026-10-26T19:57:00-03:00"
   },
   {
     id: "shopee-parafusadeira-furadeira-wap-bpf-12k3-12v-maleta",
     name: "Parafusadeira Furadeira Sem Fio 12V WAP BPF 12K3 com Maleta, Brocas e Acessórios",
     category: "Ferramentas",
     store: "Shopee",
-    price: 127.3,
+    price: 188.42,
     oldPrice: 335.9,
     image: "https://down-br.img.susercontent.com/file/sg-11134201-7qvdh-lkbb0guky0lu75",
     emoji: "🔧",
     link: "https://s.shopee.com.br/4VddrH5wSS",
     featured: false,
     isDemo: false,
-    createdAt: "2026-10-17T13:39:00-03:00"
+    createdAt: "2026-10-17T13:39:00-03:00",
+    checkedAt: "2026-10-26T19:57:00-03:00"
   },
   {
     id: "shopee-headset-gamer-mancer-twilight-s-rainbow-mcr-tlt",
@@ -5466,49 +5479,23 @@ window.ACHOU_PRODUCTS = [
     link: "https://s.shopee.com.br/AUur1KjZqm",
     featured: false,
     isDemo: false,
-    createdAt: "2026-10-17T13:55:00-03:00"
-  },
-  {
-    id: "shopee-headset-gamer-pichau-vega-pch-vga-bl01",
-    name: "Headset Gamer Pichau Vega, Drivers 50mm, Preto, PCH-VGA-BL01",
-    category: "Games",
-    store: "Shopee",
-    price: 117.9,
-    oldPrice: 223.99,
-    image: "https://down-br.img.susercontent.com/file/sg-11134201-7rdvp-mcapznlrlndd39",
-    emoji: "🎮",
-    link: "https://s.shopee.com.br/9V2JpUnNsY",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-10-17T13:56:00-03:00"
-  },
-  {
-    id: "shopee-smart-tv-lg-43-4k-uhd-43au801",
-    name: "Smart TV LG 43\" 4K UHD Profissional 43AU801 Processador α7 AI Ger8",
-    category: "TVs",
-    store: "Shopee",
-    price: 1967.9,
-    oldPrice: 2787.54,
-    image: "https://down-br.img.susercontent.com/file/br-11134207-820lq-mo64oiv518uaad",
-    emoji: "📺",
-    link: "https://s.shopee.com.br/9fLk1nmkXZ",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-10-17T13:57:00-03:00"
+    createdAt: "2026-10-17T13:55:00-03:00",
+    checkedAt: "2026-10-26T19:57:00-03:00"
   },
   {
     id: "shopee-smart-tv-samsung-55-crystal-uhd-4k-tizen",
     name: "Smart TV Samsung 55\" Crystal UHD 4K Tizen LED Bivolt Wi-Fi",
     category: "TVs",
     store: "Shopee",
-    price: 2420.9,
+    price: 2653.9,
     oldPrice: 3711,
     image: "https://down-br.img.susercontent.com/file/br-11134201-820lf-mqyi7qx3ykn8f7",
     emoji: "📺",
     link: "https://s.shopee.com.br/9KitdBo1DX",
     featured: false,
     isDemo: false,
-    createdAt: "2026-10-17T13:58:00-03:00"
+    createdAt: "2026-10-17T13:58:00-03:00",
+    checkedAt: "2026-10-26T19:57:00-03:00"
   },
   {
     id: "shopee-controle-ps5-dualsense-midnight-black",
@@ -5522,7 +5509,8 @@ window.ACHOU_PRODUCTS = [
     link: "https://s.shopee.com.br/9pfAE6m7Ca",
     featured: false,
     isDemo: false,
-    createdAt: "2026-10-17T13:59:00-03:00"
+    createdAt: "2026-10-17T13:59:00-03:00",
+    checkedAt: "2026-10-26T19:57:00-03:00"
   },
   {
     id: "shopee-xiaomi-mi-band-9-active-original",
