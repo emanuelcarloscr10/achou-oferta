@@ -5058,14 +5058,15 @@ window.ACHOU_PRODUCTS = [
     name: "Perfume Jean Paul Gaultier Le Male Elixir Parfum 75ml Masculino",
     category: "Beleza",
     store: "Mercado Livre",
-    price: 429.6,
-    oldPrice: 739.89,
+    price: 455,
+    oldPrice: 738.85,
     image: "https://http2.mlstatic.com/D_NQ_NP_794567-MLA84558392742_052025-O.webp",
     emoji: "💄",
     link: "https://meli.la/2VrPsN3",
     featured: false,
     isDemo: false,
-    createdAt: "2026-10-16T15:07:00-03:00"
+    createdAt: "2026-10-16T15:07:00-03:00",
+    checkedAt: "2026-10-26T08:47:00-03:00"
   },
   {
     id: "mercadolivre-kit-3-legging-com-bolso-fitness-feminino-atletyca",
@@ -5086,14 +5087,15 @@ window.ACHOU_PRODUCTS = [
     name: "Perfume Árabe Sabah Al Ward Sugar Feminino 100ml",
     category: "Beleza",
     store: "Mercado Livre",
-    price: 111.22,
+    price: 123.16,
     oldPrice: 259.9,
     image: "https://http2.mlstatic.com/D_NQ_NP_633073-MLA117603494588_102026-O.webp",
     emoji: "💄",
     link: "https://meli.la/2TETSFC",
     featured: false,
     isDemo: false,
-    createdAt: "2026-10-16T15:09:00-03:00"
+    createdAt: "2026-10-16T15:09:00-03:00",
+    checkedAt: "2026-10-26T08:47:00-03:00"
   },
   {
     id: "mercadolivre-tenis-nike-revolution-8-masculino",
@@ -5114,14 +5116,15 @@ window.ACHOU_PRODUCTS = [
     name: "Lavadora de Alta Pressão Kärcher Compacta 1.500 PSI 1400W 300L/h com Aplicador de Detergente e Lança Regulável",
     category: "Ferramentas",
     store: "Mercado Livre",
-    price: 299.92,
-    oldPrice: 399.9,
+    price: 275.08,
+    oldPrice: 480.71,
     image: "https://http2.mlstatic.com/D_NQ_NP_746691-MLA118789821329_102026-O.webp",
     emoji: "🔧",
     link: "https://meli.la/2A1PjaU",
     featured: false,
     isDemo: false,
-    createdAt: "2026-10-16T23:35:00-03:00"
+    createdAt: "2026-10-16T23:35:00-03:00",
+    checkedAt: "2026-10-26T08:47:00-03:00"
   },
   {
     id: "mercadolivre-tenis-reserva-roma-masculino-casual",
@@ -5156,28 +5159,30 @@ window.ACHOU_PRODUCTS = [
     name: "Jogo De Brocas Buchas E Bits Com 300 Peças E Maleta + Kit Chaves Catraca Reversível 40 Peças The Black Tools",
     category: "Ferramentas",
     store: "Mercado Livre",
-    price: 74,
-    oldPrice: 120,
+    price: 78.9,
+    oldPrice: 129.9,
     image: "https://http2.mlstatic.com/D_NQ_NP_988778-MLA95741058902_102025-O.webp",
     emoji: "🔧",
     link: "https://meli.la/347jH5C",
     featured: false,
     isDemo: false,
-    createdAt: "2026-10-16T23:38:00-03:00"
+    createdAt: "2026-10-16T23:38:00-03:00",
+    checkedAt: "2026-10-26T08:47:00-03:00"
   },
   {
     id: "mercadolivre-rocadeira-lateral-gasolina-nakasaki-75cc",
     name: "Roçadeira Lateral Gasolina Nakasaki 2t Profissional 75cc 3hp",
     category: "Ferramentas",
     store: "Mercado Livre",
-    price: 474,
+    price: 488.38,
     oldPrice: 769,
     image: "https://http2.mlstatic.com/D_NQ_NP_700332-MLB117659956445_092026-O-rocadeira-lateral-gasolina-nakasaki-2t-profissional-75cc-3hp.webp",
     emoji: "🔧",
     link: "https://meli.la/1upLNjm",
     featured: false,
     isDemo: false,
-    createdAt: "2026-10-16T23:39:00-03:00"
+    createdAt: "2026-10-16T23:39:00-03:00",
+    checkedAt: "2026-10-26T08:47:00-03:00"
   },
   {
     id: "mercadolivre-tenis-puma-flyer-runner-mesh-bdp",
@@ -5212,14 +5217,15 @@ window.ACHOU_PRODUCTS = [
     name: "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta",
     category: "Ferramentas",
     store: "Mercado Livre",
-    price: 93.65,
-    oldPrice: 229.9,
+    price: 101.65,
+    oldPrice: 206.9,
     image: "https://http2.mlstatic.com/D_NQ_NP_710675-MLB89102120983_082025-O-lavadora-lava-jato-portatil-pressao-2-baterias--maleta.webp",
     emoji: "🔧",
     link: "https://meli.la/1FJDWqy",
     featured: false,
     isDemo: false,
-    createdAt: "2026-10-16T23:42:00-03:00"
+    createdAt: "2026-10-16T23:42:00-03:00",
+    checkedAt: "2026-10-26T08:47:00-03:00"
   },
   {
     id: "mercadolivre-tenis-adidas-feminino-corrida-caminhada",
@@ -5387,7 +5393,8 @@ window.ACHOU_PRODUCTS = [
     link: "https://s.shopee.com.br/5AtKeV3P6W",
     featured: false,
     isDemo: false,
-    createdAt: "2026-10-17T13:35:00-03:00"
+    createdAt: "2026-10-17T13:35:00-03:00",
+    checkedAt: "2026-10-26T08:47:00-03:00"
   },
   {
     id: "shopee-tenis-oversized-melburk-sneaker-chunky-masculino",
@@ -5401,7 +5408,8 @@ window.ACHOU_PRODUCTS = [
     link: "https://s.shopee.com.br/50ZuSC42RV",
     featured: false,
     isDemo: false,
-    createdAt: "2026-10-17T13:36:00-03:00"
+    createdAt: "2026-10-17T13:36:00-03:00",
+    checkedAt: "2026-10-26T08:47:00-03:00"
   },
   {
     id: "shopee-tenis-skatista-casual-rayon-masculino",
@@ -5415,7 +5423,8 @@ window.ACHOU_PRODUCTS = [
     link: "https://s.shopee.com.br/4qGUFt4fmU",
     featured: false,
     isDemo: false,
-    createdAt: "2026-10-17T13:37:00-03:00"
+    createdAt: "2026-10-17T13:37:00-03:00",
+    checkedAt: "2026-10-26T08:47:00-03:00"
   },
   {
     id: "shopee-tenis-feminino-academia-caminhada-o2x",
