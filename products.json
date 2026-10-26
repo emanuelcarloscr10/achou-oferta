@@ -5194,5 +5194,93 @@
     "image": "https://down-br.img.susercontent.com/file/br-11134207-820m8-mopq7wkr0nwgbb",
     "link": "https://s.shopee.com.br/3qOAaDh7xb",
     "createdAt": "2026-10-26T04:04:00-03:00"
+  },
+  {
+    "id": "shopee-xiaomi-mi-band-9-pro-original",
+    "name": "Relógio Smartwatch Xiaomi Mi Band 9 Pro Original",
+    "category": "Smartwatch",
+    "store": "Shopee",
+    "price": 539.89,
+    "oldPrice": 599.88,
+    "image": "https://down-br.img.susercontent.com/file/sg-11134201-7rauj-mavly9wg65wi00",
+    "link": "https://s.shopee.com.br/4Vdru2yITL",
+    "createdAt": "2026-10-26T08:50:00-03:00"
+  },
+  {
+    "id": "shopee-xiaomi-mi-band-10-pro-global",
+    "name": "Relógio Smartwatch Mi Band 10 PRO Global Smart-band Xiaomi Original",
+    "category": "Smartwatch",
+    "store": "Shopee",
+    "price": 559.78,
+    "oldPrice": 650.91,
+    "image": "https://down-br.img.susercontent.com/file/br-11134207-820mf-mqmb8tbr083n08",
+    "link": "https://s.shopee.com.br/4fxI6Lxf8O",
+    "createdAt": "2026-10-26T08:51:00-03:00"
+  },
+  {
+    "id": "shopee-amazfit-active-3-premium-gps-amoled",
+    "name": "Smartwatch Amazfit Active 3 Premium GPS AMOLED 170+ Esportes Zepp 5 ATM Bluetooth",
+    "category": "Smartwatch",
+    "store": "Shopee",
+    "price": 959,
+    "oldPrice": 1102.3,
+    "image": "https://down-br.img.susercontent.com/file/br-11134207-820l6-mr8exwp317nrf8",
+    "link": "https://s.shopee.com.br/4qGiIex1nR",
+    "createdAt": "2026-10-26T08:52:00-03:00"
+  },
+  {
+    "id": "shopee-samsung-galaxy-s25-edge-512gb-titanio-jetblack",
+    "name": "Smartphone Samsung Galaxy S25 Edge 512GB 5G - Titânio Jetblack, Galaxy AI, Câmera Dupla 200MP, RAM 12GB, Tela 6.7\"",
+    "category": "Celulares",
+    "store": "Shopee",
+    "price": 4429,
+    "oldPrice": 7506.78,
+    "image": "https://down-br.img.susercontent.com/file/sg-11134201-7rasi-maoq5lx9hr77db",
+    "link": "https://s.shopee.com.br/50a8UxwOSU",
+    "createdAt": "2026-10-26T08:53:00-03:00"
+  },
+  {
+    "id": "mercadolivre-mlbu4195690172",
+    "name": "Xiaomi Poco C85 256gb 8gb Ram 4g 6000mah 120hz Nfc Global",
+    "category": "Celulares",
+    "store": "Mercado Livre",
+    "price": 1199,
+    "oldPrice": 1799,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_978924-MLB117257403760_102026-O-xiaomi-poco-c85-256gb-8gb-ram-4g-6000mah-120hz-nfc-global.webp",
+    "link": "https://meli.la/2QzEyvq",
+    "createdAt": "2026-10-26T08:54:00-03:00"
+  },
+  {
+    "id": "mercadolivre-mlbu5343589218",
+    "name": "Smartphone Motorola Moto G77 5g 256gb 8gb Ram Dual Sim",
+    "category": "Celulares",
+    "store": "Mercado Livre",
+    "price": 1580.8,
+    "oldPrice": 2529,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_663178-MLA106043575046_022026-O-smartphone-motorola-moto-g77-5g-256gb-8gb-ram-dual-sim.webp",
+    "link": "https://meli.la/2qdmVo3",
+    "createdAt": "2026-10-26T08:55:00-03:00"
+  },
+  {
+    "id": "shopee-motorola-moto-g-max-5g-256gb-grafite",
+    "name": "Smartphone Motorola Moto G Max 5G 256GB 8GB RAM Câmera Principal 200MP + 8MP Câmera Frontal 32MP 6.8\" 5200mAh Grafite",
+    "category": "Celulares",
+    "store": "Shopee",
+    "price": 1769,
+    "oldPrice": 4211.9,
+    "image": "https://down-br.img.susercontent.com/file/sg-11134201-82594-msvh3lmj8a2sde",
+    "link": "https://s.shopee.com.br/5AtYhGvl7X",
+    "createdAt": "2026-10-26T08:56:00-03:00"
+  },
+  {
+    "id": "mercadolivre-mlb63335606",
+    "name": "Celular Samsung Galaxy A17 5G Com IA, 128gb, 4gb Ram, Câm De 50mp, Tela De 6.7\", Nfc, Ip54 - Preto",
+    "category": "Celulares",
+    "store": "Mercado Livre",
+    "price": 971.1,
+    "oldPrice": 1855.71,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_864503-MLA118251143201_092026-O.webp",
+    "link": "https://meli.la/2ruQ4EQ",
+    "createdAt": "2026-10-26T08:57:00-03:00"
   }
 ]
