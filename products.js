@@ -3187,14 +3187,15 @@ window.ACHOU_PRODUCTS = [
     name: "Mochila Bolsa Escolar Infantil Astronauta Resistente Reforçada Impermeável Bolsa Criança Menino Grande Tippi Cor Azul",
     category: "Acessórios",
     store: "Mercado Livre",
-    price: 78.90,
-    oldPrice: 149.00,
+    price: 59.85,
+    oldPrice: 130.00,
     image: "https://http2.mlstatic.com/D_NQ_NP_936347-MLA116984062655_082026-O.webp",
     emoji: "👜",
     link: "https://meli.la/2CBRw1h",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-23T09:08:00-03:00"
+    createdAt: "2026-09-23T09:08:00-03:00",
+    checkedAt: "2026-10-26T00:02:00-03:00"
   },
   {
     id: "shopee-fone-de-ouvido-bluetooth-5-1-sem-fio-case-com-display-digital",
@@ -3298,7 +3299,8 @@ window.ACHOU_PRODUCTS = [
     link: "https://meli.la/1WxNetc",
     featured: false,
     isDemo: false,
-    createdAt: "2026-09-23T14:30:00-03:00"
+    createdAt: "2026-09-23T14:30:00-03:00",
+    checkedAt: "2026-10-26T00:02:00-03:00"
   },
   {
     id: "mercadolivre-camiseta-gola-polo-masculina-minimalista-tecido-texturizado",
@@ -3314,20 +3316,6 @@ window.ACHOU_PRODUCTS = [
     isDemo: false,
     createdAt: "2026-09-23T14:31:00-03:00",
     checkedAt: "2026-10-19T15:48:00-03:00"
-  },
-  {
-    id: "mercadolivre-kit-48-carrinhos-friccao-pista-brinquedo-infantil-maleta",
-    name: "Kit 48 Carrinhos Fricção + Pista Brinquedo Infantil Maleta",
-    category: "Brinquedos",
-    store: "Mercado Livre",
-    price: 66.00,
-    oldPrice: 119.99,
-    image: "https://http2.mlstatic.com/D_NQ_NP_757715-MLB107385414377_022026-O-kit-48-carrinhos-friccao--pista-brinquedo-infantil-maleta.webp",
-    emoji: "🧸",
-    link: "https://meli.la/2eg5N5R",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-09-23T14:33:00-03:00"
   },
   {
     id: "mercadolivre-vestido-plus-size-longo-lastex-soltinho-alcinha-elegante",
@@ -4902,34 +4890,6 @@ window.ACHOU_PRODUCTS = [
     checkedAt: "2026-10-21T21:46:00-03:00"
   },
   {
-    id: "mercadolivre-escova-rotativa-mondial-erb-01-rosa",
-    name: "Escova Rotativa Mondial Cerâmica Tourmaline Ion 3x1 ERB-01 Rosa 127/220V",
-    category: "Beleza",
-    store: "Mercado Livre",
-    price: 127.64,
-    oldPrice: 258.00,
-    image: "https://http2.mlstatic.com/D_NQ_NP_842831-MLA99963285219_112025-O.webp",
-    emoji: "💄",
-    link: "https://meli.la/1EesWnm",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-10-15T17:22:00-03:00"
-  },
-  {
-    id: "mercadolivre-conjunto-fitness-treino-top-shorts-bolso-zero-transparencia",
-    name: "Conjunto Fitness Treino Top Shorts Bolso Zero Transparência",
-    category: "Fitness",
-    store: "Mercado Livre",
-    price: 62.70,
-    oldPrice: 109.90,
-    image: "https://http2.mlstatic.com/D_NQ_NP_785815-MLB116709659880_092026-O-conjunto-fitness-treino-top-shorts-bolso-zero-transparencia.webp",
-    emoji: "🏋️",
-    link: "https://meli.la/1C31E3C",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-10-15T17:23:00-03:00"
-  },
-  {
     id: "shopee-kit-skin-care-limpeza-de-pele-rosa-mosqueta",
     name: "Kit Skin Care Limpeza de Pele Rosa Mosqueta",
     category: "Beleza",
@@ -4941,7 +4901,8 @@ window.ACHOU_PRODUCTS = [
     link: "https://s.shopee.com.br/7VHCU0s16d",
     featured: false,
     isDemo: false,
-    createdAt: "2026-10-15T17:24:00-03:00"
+    createdAt: "2026-10-15T17:24:00-03:00",
+    checkedAt: "2026-10-26T00:02:00-03:00"
   },
   {
     id: "mercadolivre-kit-conjunto-cropped-legging-blusa-fitness",
@@ -4955,7 +4916,8 @@ window.ACHOU_PRODUCTS = [
     link: "https://meli.la/2zyjLP6",
     featured: false,
     isDemo: false,
-    createdAt: "2026-10-15T17:25:00-03:00"
+    createdAt: "2026-10-15T17:25:00-03:00",
+    checkedAt: "2026-10-26T00:02:00-03:00"
   },
   {
     id: "mercadolivre-perfume-asad-lattafa-100ml-edp",
@@ -4969,7 +4931,8 @@ window.ACHOU_PRODUCTS = [
     link: "https://meli.la/1BEu9CS",
     featured: false,
     isDemo: false,
-    createdAt: "2026-10-15T17:26:00-03:00"
+    createdAt: "2026-10-15T17:26:00-03:00",
+    checkedAt: "2026-10-26T00:02:00-03:00"
   },
   {
     id: "shopee-kit-2-bermudas-legging-feminina-cos-alto-suplex",
@@ -4983,49 +4946,23 @@ window.ACHOU_PRODUCTS = [
     link: "https://s.shopee.com.br/7facgJrNlc",
     featured: false,
     isDemo: false,
-    createdAt: "2026-10-15T17:27:00-03:00"
-  },
-  {
-    id: "mercadolivre-kit-2-top-nadador-fitness-bojo-costura-reforcada",
-    name: "Kit 2 Top Nadador Fitness com Bojo Costura Reforçada",
-    category: "Fitness",
-    store: "Mercado Livre",
-    price: 43.00,
-    oldPrice: 129.98,
-    image: "https://http2.mlstatic.com/D_NQ_NP_609657-MLB113692010789_062026-O-kit-2-top-nadador-fitness-com-bojo-costura-reforcada-fitness.webp",
-    emoji: "🏋️",
-    link: "https://meli.la/18qpp1L",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-10-15T17:28:00-03:00"
-  },
-  {
-    id: "mercadolivre-perfume-maison-alhambra-philos-pura-edp-100ml",
-    name: "Perfume Árabe Maison Alhambra Philos Pura Eau de Parfum 100ml",
-    category: "Beleza",
-    store: "Mercado Livre",
-    price: 136.99,
-    oldPrice: 321.64,
-    image: "https://http2.mlstatic.com/D_NQ_NP_655546-MLA83093568758_032025-O.webp",
-    emoji: "💄",
-    link: "https://meli.la/2AEPR2x",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-10-15T17:29:00-03:00"
+    createdAt: "2026-10-15T17:27:00-03:00",
+    checkedAt: "2026-10-26T00:02:00-03:00"
   },
   {
     id: "mercadolivre-kit-2-top-canelado-poliamida-academia-com-fecho",
     name: "Kit 2 Top Canelado Poliamida do P ao GG Academia com Fecho",
     category: "Fitness",
     store: "Mercado Livre",
-    price: 40,
+    price: 45.46,
     oldPrice: 64.9,
     image: "https://http2.mlstatic.com/D_NQ_NP_846757-MLB118072688921_092026-O-kit-2-top-canelado-poliamida-do-p-ao-gg-academia-com-fecho.webp",
     emoji: "🏋️",
     link: "https://meli.la/2syPWd5",
     featured: false,
     isDemo: false,
-    createdAt: "2026-10-16T15:00:00-03:00"
+    createdAt: "2026-10-16T15:00:00-03:00",
+    checkedAt: "2026-10-26T00:02:00-03:00"
   },
   {
     id: "mercadolivre-kit-2-camisetas-dry-fit-feminina-fitness-academia",
@@ -5039,35 +4976,38 @@ window.ACHOU_PRODUCTS = [
     link: "https://meli.la/2zrRT3T",
     featured: false,
     isDemo: false,
-    createdAt: "2026-10-16T15:01:00-03:00"
+    createdAt: "2026-10-16T15:01:00-03:00",
+    checkedAt: "2026-10-26T00:02:00-03:00"
   },
   {
     id: "mercadolivre-combo-siage-pro-cronology-shampoo-condicionador",
     name: "Combo Siàge Pro Cronology: Shampoo 250ml + Condicionador 200ml",
     category: "Beleza",
     store: "Mercado Livre",
-    price: 59.9,
-    oldPrice: 108.91,
+    price: 67.02,
+    oldPrice: 109.99,
     image: "https://http2.mlstatic.com/D_NQ_NP_746082-MLA99451551730_112025-O.webp",
     emoji: "💄",
     link: "https://meli.la/24vVNfj",
     featured: false,
     isDemo: false,
-    createdAt: "2026-10-16T15:02:00-03:00"
+    createdAt: "2026-10-16T15:02:00-03:00",
+    checkedAt: "2026-10-26T00:02:00-03:00"
   },
   {
     id: "mercadolivre-perfume-club-de-nuit-intense-armaf-edt-105ml",
     name: "Perfume Club De Nuit Intense Armaf EDT 105ml Masculino",
     category: "Beleza",
     store: "Mercado Livre",
-    price: 201.45,
+    price: 197.72,
     oldPrice: 319,
     image: "https://http2.mlstatic.com/D_NQ_NP_887864-MLB108264754941_032026-O-perfume-club-de-nuit-intense-da-armaf-edt-105ml-masculino.webp",
     emoji: "💄",
     link: "https://meli.la/1AYdoja",
     featured: false,
     isDemo: false,
-    createdAt: "2026-10-16T15:03:00-03:00"
+    createdAt: "2026-10-16T15:03:00-03:00",
+    checkedAt: "2026-10-26T00:02:00-03:00"
   },
   {
     id: "mercadolivre-kit-2-calca-legging-bailarina-zero-transparencia",
@@ -5081,21 +5021,23 @@ window.ACHOU_PRODUCTS = [
     link: "https://meli.la/1cQnf3Z",
     featured: false,
     isDemo: false,
-    createdAt: "2026-10-16T15:04:00-03:00"
+    createdAt: "2026-10-16T15:04:00-03:00",
+    checkedAt: "2026-10-26T00:02:00-03:00"
   },
   {
     id: "mercadolivre-conjunto-fitness-academia-anatomico-top-duplo-recorte",
     name: "Conjunto Fitness Academia Treino Anatômico Top Duplo Recorte",
     category: "Fitness",
     store: "Mercado Livre",
-    price: 70.59,
+    price: 67.74,
     oldPrice: 128.99,
     image: "https://http2.mlstatic.com/D_NQ_NP_949576-MLB118959506761_102026-O-conjunto-fitness-academia-treino-anatomico-top-duplo-recorte.webp",
     emoji: "🏋️",
     link: "https://meli.la/1dnJrr5",
     featured: false,
     isDemo: false,
-    createdAt: "2026-10-16T15:05:00-03:00"
+    createdAt: "2026-10-16T15:05:00-03:00",
+    checkedAt: "2026-10-26T00:02:00-03:00"
   },
   {
     id: "mercadolivre-kit-wella-nutri-enrich-shampoo-1000ml-mascara-500ml",
