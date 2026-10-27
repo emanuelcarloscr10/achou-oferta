@@ -5285,42 +5285,45 @@ window.ACHOU_PRODUCTS = [
     name: "Tênis Feminino Olympikus Vertice Esportivo Original",
     category: "Tênis",
     store: "Mercado Livre",
-    price: 151.81,
+    price: 164,
     oldPrice: 266.66,
     image: "https://http2.mlstatic.com/D_NQ_NP_710524-MLB116561436746_092026-O-tnis-feminino-olympikus-vertice-esportivo-original.webp",
     emoji: "👟",
     link: "https://meli.la/1eBAvrX",
     featured: false,
     isDemo: false,
-    createdAt: "2026-10-17T16:12:00-03:00"
+    createdAt: "2026-10-17T16:12:00-03:00",
+    checkedAt: "2026-10-27T16:16:00-03:00"
   },
   {
     id: "mercadolivre-lavadora-wap-ousada-plus-2200",
     name: "Lavadora de Alta Pressão WAP Ousada Plus 2200 1500W de Potência 1750 PSI",
     category: "Ferramentas",
     store: "Mercado Livre",
-    price: 426.21,
+    price: 449.91,
     oldPrice: 649,
     image: "https://http2.mlstatic.com/D_NQ_NP_694471-MLA96077668763_102025-O.webp",
     emoji: "🔧",
     link: "https://meli.la/1ZtpNah",
     featured: false,
     isDemo: false,
-    createdAt: "2026-10-17T16:13:00-03:00"
+    createdAt: "2026-10-17T16:13:00-03:00",
+    checkedAt: "2026-10-27T16:16:00-03:00"
   },
   {
     id: "mercadolivre-tenis-kappa-galaxy",
     name: "Tênis Kappa Galaxy Masculino Feminino Academia Caminhada",
     category: "Tênis",
     store: "Mercado Livre",
-    price: 104,
+    price: 109.59,
     oldPrice: 169.99,
     image: "https://http2.mlstatic.com/D_NQ_NP_639773-MLB118845731453_102026-O-tnis-kappa-galaxy-masculino-feminino-academia-caminhada.webp",
     emoji: "👟",
     link: "https://meli.la/14p4MWC",
     featured: false,
     isDemo: false,
-    createdAt: "2026-10-17T16:14:00-03:00"
+    createdAt: "2026-10-17T16:14:00-03:00",
+    checkedAt: "2026-10-27T16:16:00-03:00"
   },
   {
     id: "mercadolivre-furadeira-impacto-bosch-gsb-450-re",
@@ -5334,49 +5337,38 @@ window.ACHOU_PRODUCTS = [
     link: "https://meli.la/2FQRaB2",
     featured: false,
     isDemo: false,
-    createdAt: "2026-10-17T16:15:00-03:00"
+    createdAt: "2026-10-17T16:15:00-03:00",
+    checkedAt: "2026-10-27T16:16:00-03:00"
   },
   {
     id: "mercadolivre-tenis-fila-racer-speedzone-feminino",
     name: "Tênis Fila Racer Speedzone Feminino Original Corrida Treino",
     category: "Tênis",
     store: "Mercado Livre",
-    price: 315.94,
+    price: 298.8,
     oldPrice: 699.9,
     image: "https://http2.mlstatic.com/D_NQ_NP_637268-MLB115149668836_082026-O-tnis-fila-racer-speedzone-feminino-original-corrida-treino.webp",
     emoji: "👟",
     link: "https://meli.la/2q4atCZ",
     featured: false,
     isDemo: false,
-    createdAt: "2026-10-17T16:16:00-03:00"
-  },
-  {
-    id: "mercadolivre-kit-ferramentas-gedore-178-pecas",
-    name: "Kit Ferramentas C/ Maleta 178 Pçs Gedore Oficina Mecânica",
-    category: "Ferramentas",
-    store: "Mercado Livre",
-    price: 940,
-    oldPrice: 1399.9,
-    image: "https://http2.mlstatic.com/D_NQ_NP_699348-MLA95503716072_102025-O.webp",
-    emoji: "🔧",
-    link: "https://meli.la/2zgKVeY",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-10-17T16:17:00-03:00"
+    createdAt: "2026-10-17T16:16:00-03:00",
+    checkedAt: "2026-10-27T16:16:00-03:00"
   },
   {
     id: "mercadolivre-tenis-ramarim-chunky-feminino",
     name: "Tenis Feminino Chunky Ramarim Casual Conforto Original",
     category: "Tênis",
     store: "Mercado Livre",
-    price: 132.9,
+    price: 156.56,
     oldPrice: 399.9,
     image: "https://http2.mlstatic.com/D_NQ_NP_962227-MLB95622130362_102025-O-tenis-feminino-chunky-ramarim-casual-conforto-original.webp",
     emoji: "👟",
     link: "https://meli.la/2sxM6mK",
     featured: false,
     isDemo: false,
-    createdAt: "2026-10-17T16:18:00-03:00"
+    createdAt: "2026-10-17T16:18:00-03:00",
+    checkedAt: "2026-10-27T16:16:00-03:00"
   },
   {
     id: "mercadolivre-lavadora-bosch-ghp-200",
@@ -5390,7 +5382,8 @@ window.ACHOU_PRODUCTS = [
     link: "https://meli.la/2VEi8xn",
     featured: false,
     isDemo: false,
-    createdAt: "2026-10-17T16:19:00-03:00"
+    createdAt: "2026-10-17T16:19:00-03:00",
+    checkedAt: "2026-10-27T16:16:00-03:00"
   },
   {
     id: "shopee-kit-ferramentas-mecanica-108-pecas-jogo-chaves-soquete-maleta",
@@ -5569,74 +5562,34 @@ window.ACHOU_PRODUCTS = [
     createdAt: "2026-10-19T15:43:00-03:00"
   },
   {
-    id: "shopee-celular-samsung-galaxy-a07-128gb-4gb",
-    name: "Celular Samsung Galaxy A07 128GB, 4GB RAM, Câmera 50MP, Tela 6.7\" - Preto",
-    category: "Celulares",
-    store: "Shopee",
-    price: 879.9,
-    oldPrice: 1049.9,
-    image: "https://down-br.img.susercontent.com/file/br-11134207-820lm-msmwc6fzxqmc2c",
-    emoji: "📱",
-    link: "https://s.shopee.com.br/20wME3du48",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-10-19T15:44:00-03:00"
-  },
-  {
     id: "mercadolivre-xiaomi-smart-band-10-silver-amoled",
     name: "Xiaomi Smart Band 10 Silver - Amoled 1.72 1500 nits, bateria de 21 dias, mais de 150 esportes, natação de 5 atm",
     category: "Smartwatch",
     store: "Mercado Livre",
-    price: 265.05,
-    oldPrice: 479,
+    price: 284.05,
+    oldPrice: 370,
     image: "https://http2.mlstatic.com/D_NQ_NP_706032-MLA100013265379_122025-O.webp",
     emoji: "⌚",
     link: "https://meli.la/2g4ndCj",
     featured: false,
     isDemo: false,
-    createdAt: "2026-10-19T15:45:00-03:00"
-  },
-  {
-    id: "mercadolivre-celular-realme-c73-128gb-4gb-verde",
-    name: "Celular Smartphone Realme C73 128gb 4gb Ram Dual Sim 120hz 6000mAh Verde",
-    category: "Celulares",
-    store: "Mercado Livre",
-    price: 906.29,
-    oldPrice: 1599,
-    image: "https://http2.mlstatic.com/D_NQ_NP_929245-MLA102616317533_122025-O.webp",
-    emoji: "📱",
-    link: "https://meli.la/2Zpu2sk",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-10-19T15:46:00-03:00"
+    createdAt: "2026-10-19T15:45:00-03:00",
+    checkedAt: "2026-10-27T16:16:00-03:00"
   },
   {
     id: "mercadolivre-smartphone-motorola-moto-g15-256gb-verde",
     name: "Smartphone Motorola Moto G15 256gb 4GB RAM + 8GB RAM Boost Camera 50mp Verde",
     category: "Celulares",
     store: "Mercado Livre",
-    price: 946.78,
+    price: 1085.9,
     oldPrice: 1599,
     image: "https://http2.mlstatic.com/D_NQ_NP_675715-MLA99963700693_112025-O.webp",
     emoji: "📱",
     link: "https://meli.la/2VeCLMG",
     featured: false,
     isDemo: false,
-    createdAt: "2026-10-19T15:47:00-03:00"
-  },
-  {
-    id: "mercadolivre-smartwatch-xiaomi-redmi-watch-6-gps-amoled",
-    name: "Smartwatch Xiaomi Redmi Watch 6 GPS Tela AMOLED Monitor Cardíaco, Oxigênio e Sono, À Prova D'água",
-    category: "Smartwatch",
-    store: "Mercado Livre",
-    price: 551.12,
-    oldPrice: 1099.9,
-    image: "https://http2.mlstatic.com/D_NQ_NP_889860-MLA111349032472_052026-O.webp",
-    emoji: "⌚",
-    link: "https://meli.la/2hkHWMp",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-10-19T15:48:00-03:00"
+    createdAt: "2026-10-19T15:47:00-03:00",
+    checkedAt: "2026-10-27T16:16:00-03:00"
   },
   {
     id: "mercadolivre-smartphone-realme-c75-5g-256gb-8gb",
@@ -5650,7 +5603,8 @@ window.ACHOU_PRODUCTS = [
     link: "https://meli.la/312RoYK",
     featured: false,
     isDemo: false,
-    createdAt: "2026-10-19T15:49:00-03:00"
+    createdAt: "2026-10-19T15:49:00-03:00",
+    checkedAt: "2026-10-27T16:16:00-03:00"
   },
   {
     id: "mercadolivre-amazfit-bip-max-amoled-gps-azul-escuro",
