@@ -5572,5 +5572,82 @@
     "image": "https://http2.mlstatic.com/D_NQ_NP_917659-MLA112161611883_052026-O.webp",
     "link": "https://meli.la/2QBt3Ms",
     "createdAt": "2026-10-27T16:44:00-03:00"
+  },
+  {
+    "id": "mercadolivre-mlb25397325",
+    "name": "Smartwatch Samsung Galaxy Watch6 BT 40mm Tela Super AMOLED de 1.31\" Creme",
+    "category": "Smartwatch",
+    "store": "Mercado Livre",
+    "price": 1366,
+    "oldPrice": 1999,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_776120-MLA99990616867_112025-O.webp",
+    "link": "https://meli.la/1fad5ev",
+    "createdAt": "2026-10-27T19:33:00-03:00"
+  },
+  {
+    "id": "mercadolivre-mlb55034955",
+    "name": "Samsung Galaxy A07 128gb 4gb Ram Preto",
+    "category": "Celulares",
+    "store": "Mercado Livre",
+    "price": 741.6,
+    "oldPrice": 1049,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_678247-MLA99491753898_112025-O.webp",
+    "link": "https://meli.la/1jz514K",
+    "createdAt": "2026-10-27T19:34:00-03:00"
+  },
+  {
+    "id": "mercadolivre-mlb68895604",
+    "name": "Relógio inteligente Amazfit T-rex 3 Gps de titânio amolado preto",
+    "category": "Smartwatch",
+    "store": "Mercado Livre",
+    "price": 1199,
+    "oldPrice": 1399,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_809270-MLA110159071416_042026-O.webp",
+    "link": "https://meli.la/1y5n48b",
+    "createdAt": "2026-10-27T19:35:00-03:00"
+  },
+  {
+    "id": "mercadolivre-mlb75730256",
+    "name": "Samsung Galaxy Watch9 Smartwatch 44mm Bt, Galaxy Ai - Preto",
+    "category": "Smartwatch",
+    "store": "Mercado Livre",
+    "price": 2179,
+    "oldPrice": 3199,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_783863-MLA115662683113_082026-O.webp",
+    "link": "https://meli.la/2nGybNV",
+    "createdAt": "2026-10-27T19:36:00-03:00"
+  },
+  {
+    "id": "mercadolivre-mlb67444410",
+    "name": "Smartphone Motorola Edge 70 Fusion 5G 256GB 8GB RAM + 16GB RAM Boost, Câmera 50MP Sony Lytia 710, Tela 1.5K Extreme AMOLED - Grafite",
+    "category": "Celulares",
+    "store": "Mercado Livre",
+    "price": 2159.1,
+    "oldPrice": 3799,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_675745-MLA111332756891_052026-O.webp",
+    "link": "https://meli.la/2JBKvA7",
+    "createdAt": "2026-10-27T19:37:00-03:00"
+  },
+  {
+    "id": "mercadolivre-mlb68212479",
+    "name": "Celular Samsung Galaxy A57 5G 256GB, 8GB RAM, Recursos AI - Cinza",
+    "category": "Celulares",
+    "store": "Mercado Livre",
+    "price": 2262.73,
+    "oldPrice": 4299,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_800527-MLA114603389639_072026-O.webp",
+    "link": "https://meli.la/2gbeWcQ",
+    "createdAt": "2026-10-27T19:38:00-03:00"
+  },
+  {
+    "id": "mercadolivre-mlb75703283",
+    "name": "Smartwatch Samsung Galaxy Watch Ultra 2 47mm LTE - Titânio Preto",
+    "category": "Smartwatch",
+    "store": "Mercado Livre",
+    "price": 3199.99,
+    "oldPrice": 5999,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_876483-MLA113741239742_072026-O.webp",
+    "link": "https://meli.la/1jXfZBX",
+    "createdAt": "2026-10-27T19:39:00-03:00"
   }
 ]
