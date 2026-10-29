@@ -117,5 +117,15 @@
     "validUntil": "2026-12-25",
     "publishedAt": "2026-10-27T19:41:00-03:00",
     "note": "Cupom generico (30% OFF, compra min. R$1, desconto max. R$500, valido ate 25.12 em produtos elegiveis, enquanto durarem os estoques), postado no canal Afiliados e Criadores Mercado Livre Brasil em 27/10 10:03. Link bit.ly/3VW8X3c resolvido via curl para lista.mercadolivre.com.br/_Container_aff-list-3; publicado com esse link oficial sem parametros de rastreio. Confirmado publicado no canal Achou Oferta - Promocoes as 19:41 (Telegram Web K)."
+  },
+  {
+    "code": "OFERTAPRATECH",
+    "store": "Mercado Livre",
+    "category": "Celulares e eletrônicos",
+    "type": "coupon",
+    "discountLabel": "10% OFF",
+    "validUntil": "2026-10-29",
+    "publishedAt": "2026-10-29T15:45:00-03:00",
+    "note": "Cupom Tecnologia (10% OFF, compra min. R$149, desconto max. R$200, valido somente em 29.10, em ate 90% da categoria), postado no canal Afiliados e Criadores Mercado Livre Brasil em 29/10 10:06. Link bit.ly/3U0PJc9 resolvido via curl para www.mercadolivre.com.br; publicado com esse link oficial sem parametros de rastreio. Confirmado publicado no canal Achou Oferta - Promocoes as 15:45 (Telegram Web K, bubble + busca no canal)."
   }
 ]
