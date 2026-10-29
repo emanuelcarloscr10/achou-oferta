@@ -5805,98 +5805,75 @@ window.ACHOU_PRODUCTS = [
     name: "Jogo JoJo's Bizarre Adventure: All-Star Battle R Standard Edition Mídia Física",
     category: "Games",
     store: "Mercado Livre",
-    price: 92,
+    price: 98.09,
     oldPrice: 174.9,
     image: "https://http2.mlstatic.com/D_NQ_NP_930681-MLA99496128890_112025-O.webp",
     emoji: "🎮",
     link: "https://meli.la/1eQP25Q",
     featured: false,
     isDemo: false,
-    createdAt: "2026-10-19T17:49:00-03:00"
+    createdAt: "2026-10-19T17:49:00-03:00",
+    checkedAt: "2026-10-29T19:44:09-03:00"
   },
   {
     id: "mercadolivre-controle-easysmx-d05-base-carregamento",
     name: "Controle Sem Fio EasySMX D05 com Base de Carregamento para PC, Switch, Celular e Smart TV",
     category: "Games",
     store: "Mercado Livre",
-    price: 246,
+    price: 249,
     oldPrice: 349.99,
     image: "https://http2.mlstatic.com/D_NQ_NP_784848-MLA118032006987_092026-O.webp",
     emoji: "🎮",
     link: "https://meli.la/1ie4Hr9",
     featured: false,
     isDemo: false,
-    createdAt: "2026-10-19T17:50:00-03:00"
+    createdAt: "2026-10-19T17:50:00-03:00",
+    checkedAt: "2026-10-29T19:44:09-03:00"
   },
   {
     id: "mercadolivre-smart-tv-pro-lg-55-4k-55un85c",
     name: "Smart TV PRO LG 55\" 4K Ultra HD AI 55UN85C",
     category: "TVs",
     store: "Mercado Livre",
-    price: 2459.12,
+    price: 2454.32,
     oldPrice: 3879,
     image: "https://http2.mlstatic.com/D_NQ_NP_646395-MLA116823736237_082026-O.webp",
     emoji: "📺",
     link: "https://meli.la/2M1D6E7",
     featured: false,
     isDemo: false,
-    createdAt: "2026-10-19T17:51:00-03:00"
-  },
-  {
-    id: "mercadolivre-controle-dualsense-hyperpop-techno-red",
-    name: "Controle Sem Fio Sony DualSense Hyperpop para PS5 Vermelho Techno Red",
-    category: "Games",
-    store: "Mercado Livre",
-    price: 400.5,
-    oldPrice: 599.9,
-    image: "https://http2.mlstatic.com/D_NQ_NP_722164-MLA107465653880_032026-O.webp",
-    emoji: "🎮",
-    link: "https://meli.la/234mxva",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-10-19T17:52:00-03:00"
+    createdAt: "2026-10-19T17:51:00-03:00",
+    checkedAt: "2026-10-29T19:44:09-03:00"
   },
   {
     id: "mercadolivre-console-ps5-slim-digital-825gb",
     name: "Console PlayStation 5 Slim Edição Digital 825 GB Branco Sony",
     category: "Games",
     store: "Mercado Livre",
-    price: 4299,
-    oldPrice: 4899,
+    price: 4590,
+    oldPrice: 5950,
     image: "https://http2.mlstatic.com/D_NQ_NP_756435-MLA95500672926_102025-O.webp",
     emoji: "🎮",
     link: "https://meli.la/2rYmY7B",
     featured: false,
     isDemo: false,
-    createdAt: "2026-10-19T17:53:00-03:00"
+    createdAt: "2026-10-19T17:53:00-03:00",
+    checkedAt: "2026-10-29T19:44:09-03:00"
   },
   {
     id: "mercadolivre-console-nintendo-switch-2",
     name: "Console Nintendo Switch 2 Modelo Nacional de Tomada",
     category: "Games",
     store: "Mercado Livre",
-    price: 3985.15,
-    oldPrice: 5499.9,
+    price: 4277.91,
+    oldPrice: 4599.9,
     image: "https://http2.mlstatic.com/D_NQ_NP_785396-MLA99867558581_112025-O.webp",
     emoji: "🎮",
     link: "https://meli.la/1kaaaSa",
     featured: false,
     isDemo: false,
-    createdAt: "2026-10-19T17:54:00-03:00"
-  },
-  {
-    id: "shopee-kit-4-toalhas-olympia-flabom",
-    name: "Kit 4 Toalhas Olympia Flabom 2 Banho + 2 Rosto 100% Algodão (preço no Pix com cupom)",
-    category: "Enxoval",
-    store: "Shopee",
-    price: 82.08,
-    oldPrice: 95.44,
-    image: "https://down-br.img.susercontent.com/file/br-11134201-820m0-mt747q98kttxaf",
-    emoji: "🛏️",
-    link: "https://s.shopee.com.br/7fak4z4z38",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-10-20T09:00:00-03:00"
+    createdAt: "2026-10-19T17:54:00-03:00",
+    checkedAt: "2026-10-29T19:44:09-03:00"
   },
   {
     id: "shopee-jogo-panelas-teflon-munique-11-pecas",
@@ -5917,42 +5894,45 @@ window.ACHOU_PRODUCTS = [
     name: "Cooktop de Indução 2 Bocas Dako com Zona Flexível e 9 Níveis de Potência",
     category: "Casa e eletrodomésticos",
     store: "Mercado Livre",
-    price: 502.83,
+    price: 501.51,
     oldPrice: 989,
     image: "https://http2.mlstatic.com/D_NQ_NP_671674-MLA99739135242_122025-O.webp",
     emoji: "🏠",
     link: "https://meli.la/1hTgMCu",
     featured: false,
     isDemo: false,
-    createdAt: "2026-10-20T09:02:00-03:00"
+    createdAt: "2026-10-20T09:02:00-03:00",
+    checkedAt: "2026-10-29T19:44:09-03:00"
   },
   {
     id: "shopee-kit-4-toalhas-gigantes-bordadas",
     name: "Kit 4 Toalhas de Banho Gigantes 100% Algodão Bordadas 1,35x75cm (preço no Pix com cupom)",
     category: "Enxoval",
     store: "Shopee",
-    price: 94.89,
-    oldPrice: 160.83,
+    price: 79.99,
+    oldPrice: 160.99,
     image: "https://down-br.img.susercontent.com/file/br-11134207-820lm-mtsonta94qgybb",
     emoji: "🛏️",
     link: "https://s.shopee.com.br/7VHJsg5cO5",
     featured: false,
     isDemo: false,
-    createdAt: "2026-10-20T09:03:00-03:00"
+    createdAt: "2026-10-20T09:03:00-03:00",
+    checkedAt: "2026-10-29T19:44:09-03:00"
   },
   {
     id: "mercadolivre-jogo-toalhas-camesa-loft-4-pecas",
     name: "Jogo de Toalhas de Banho 4 Peças 100% Algodão 400 g/m² Loft Camesa",
     category: "Enxoval",
     store: "Mercado Livre",
-    price: 85.23,
+    price: 75.59,
     oldPrice: 149.9,
     image: "https://http2.mlstatic.com/D_NQ_NP_903430-MLA96200138256_102025-O.webp",
     emoji: "🛏️",
     link: "https://meli.la/1NMvbvM",
     featured: false,
     isDemo: false,
-    createdAt: "2026-10-20T09:04:00-03:00"
+    createdAt: "2026-10-20T09:04:00-03:00",
+    checkedAt: "2026-10-29T19:44:09-03:00"
   },
   {
     id: "mercadolivre-jogo-lencol-queen-600-fios-algodao-egipcio",
@@ -5966,7 +5946,8 @@ window.ACHOU_PRODUCTS = [
     link: "https://meli.la/1Hdv6Rt",
     featured: false,
     isDemo: false,
-    createdAt: "2026-10-20T09:05:00-03:00"
+    createdAt: "2026-10-20T09:05:00-03:00",
+    checkedAt: "2026-10-29T19:44:09-03:00"
   },
   {
     id: "shopee-jogo-lencol-400-fios-extra-macio-ponto-palito",
@@ -5980,7 +5961,8 @@ window.ACHOU_PRODUCTS = [
     link: "https://s.shopee.com.br/7KxtgN6Fj2",
     featured: false,
     isDemo: false,
-    createdAt: "2026-10-20T09:06:00-03:00"
+    createdAt: "2026-10-20T09:06:00-03:00",
+    checkedAt: "2026-10-29T19:44:09-03:00"
   },
   {
     id: "mercadolivre-jogo-banho-buettner-algodao-egipcio-5-pecas",
