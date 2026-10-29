@@ -5607,20 +5607,6 @@ window.ACHOU_PRODUCTS = [
     checkedAt: "2026-10-27T16:16:00-03:00"
   },
   {
-    id: "mercadolivre-amazfit-bip-max-amoled-gps-azul-escuro",
-    name: "Amazfit Bip Max Amoled 2,07 Gps Chamadas 20 Dias 5 Atm 4gb Azul-escuro Mesh Preto",
-    category: "Smartwatch",
-    store: "Mercado Livre",
-    price: 539.51,
-    oldPrice: 1129.9,
-    image: "https://http2.mlstatic.com/D_NQ_NP_655169-MLA118134760171_092026-O.webp",
-    emoji: "⌚",
-    link: "https://meli.la/2FRQQ8X",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-10-19T15:50:00-03:00"
-  },
-  {
     id: "mercadolivre-smartphone-motorola-edge-60-fusion-5g-256gb",
     name: "Smartphone Motorola Edge 60 Fusion 5G - 256GB 8GB RAM+16GB Ram Boost, Tela Quad-Curve moto AI 50MP Sony Camera IP68 + IP69 - Mocha Mousse",
     category: "Celulares",
@@ -5632,49 +5618,53 @@ window.ACHOU_PRODUCTS = [
     link: "https://meli.la/2oBjX1u",
     featured: false,
     isDemo: false,
-    createdAt: "2026-10-19T15:51:00-03:00"
+    createdAt: "2026-10-19T15:51:00-03:00",
+    checkedAt: "2026-10-29T14:43:00-03:00"
   },
   {
     id: "mercadolivre-samsung-galaxy-watch8-classic-46mm-lte-branco",
     name: "Samsung Galaxy Watch8 Classic Smartwatch 46mm LTE, Galaxy AI, Tela em Cristal de Safira Branco",
     category: "Smartwatch",
     store: "Mercado Livre",
-    price: 1987.87,
+    price: 2243,
     oldPrice: 4900,
     image: "https://http2.mlstatic.com/D_NQ_NP_638923-MLA99487013762_112025-O.webp",
     emoji: "⌚",
     link: "https://meli.la/1nP5nMZ",
     featured: false,
     isDemo: false,
-    createdAt: "2026-10-19T15:52:00-03:00"
+    createdAt: "2026-10-19T15:52:00-03:00",
+    checkedAt: "2026-10-29T14:43:00-03:00"
   },
   {
     id: "mercadolivre-amazfit-active-max-amoled-gps-cinza",
     name: "Relógio inteligente Amazfit Active Max Amoled 1,75 Gps 5atm cinza Silicone preto cinza",
     category: "Smartwatch",
     store: "Mercado Livre",
-    price: 859.4,
-    oldPrice: 1899,
+    price: 825.55,
+    oldPrice: 1199,
     image: "https://http2.mlstatic.com/D_NQ_NP_664393-MLA103275720855_122025-O.webp",
     emoji: "⌚",
     link: "https://meli.la/1C3sFWF",
     featured: false,
     isDemo: false,
-    createdAt: "2026-10-19T15:53:00-03:00"
+    createdAt: "2026-10-19T15:53:00-03:00",
+    checkedAt: "2026-10-29T14:43:00-03:00"
   },
   {
     id: "mercadolivre-samsung-galaxy-a27-5g-128gb-6gb-azul",
     name: "Smartphone Samsung Galaxy A27 5G 128GB 6GB, Super Amoled 6.7'', Câmera Tripla 50MP Selfie 12MP, 5000 mAh, Ip67, NFC, Dual Sim - Azul",
     category: "Celulares",
     store: "Mercado Livre",
-    price: 1375.06,
-    oldPrice: 2855.71,
+    price: 1299,
+    oldPrice: 2399,
     image: "https://http2.mlstatic.com/D_NQ_NP_713228-MLA113635732236_072026-O.webp",
     emoji: "📱",
     link: "https://meli.la/2i9EAcX",
     featured: false,
     isDemo: false,
-    createdAt: "2026-10-19T15:54:00-03:00"
+    createdAt: "2026-10-19T15:54:00-03:00",
+    checkedAt: "2026-10-29T14:43:00-03:00"
   },
   {
     id: "mercadolivre-mesa-didatica-educativa-infantil-play-time-cotiplas",
@@ -5688,7 +5678,8 @@ window.ACHOU_PRODUCTS = [
     link: "https://meli.la/1aiCdZV",
     featured: false,
     isDemo: false,
-    createdAt: "2026-10-19T17:32:00-03:00"
+    createdAt: "2026-10-19T17:32:00-03:00",
+    checkedAt: "2026-10-29T14:43:00-03:00"
   },
   {
     id: "mercadolivre-trena-laser-40m-digital",
@@ -5702,7 +5693,8 @@ window.ACHOU_PRODUCTS = [
     link: "https://meli.la/2Gj6xgg",
     featured: false,
     isDemo: false,
-    createdAt: "2026-10-19T17:33:00-03:00"
+    createdAt: "2026-10-19T17:33:00-03:00",
+    checkedAt: "2026-10-29T14:43:00-03:00"
   },
   {
     id: "mercadolivre-relogio-inteligente-gps-smartwatch-amoled-3atm-outdoor-strar",
@@ -5716,21 +5708,23 @@ window.ACHOU_PRODUCTS = [
     link: "https://meli.la/22A8LuK",
     featured: false,
     isDemo: false,
-    createdAt: "2026-10-19T17:34:00-03:00"
+    createdAt: "2026-10-19T17:34:00-03:00",
+    checkedAt: "2026-10-29T14:43:00-03:00"
   },
   {
     id: "mercadolivre-compressor-ar-compbrasil-8l",
     name: "Compressor De Ar Portátil 8l 1,1 Hp 1100 8 Litros Compbrasil",
     category: "Ferramentas",
     store: "Mercado Livre",
-    price: 1016.31,
+    price: 1039.2,
     oldPrice: 1319.89,
     image: "https://http2.mlstatic.com/D_NQ_NP_671259-MLA99935443545_112025-O.webp",
     emoji: "🔧",
     link: "https://meli.la/2L7DbAA",
     featured: false,
     isDemo: false,
-    createdAt: "2026-10-19T17:35:00-03:00"
+    createdAt: "2026-10-19T17:35:00-03:00",
+    checkedAt: "2026-10-29T14:43:00-03:00"
   },
   {
     id: "mercadolivre-power-bank-basike-20000mah",
@@ -5751,56 +5745,60 @@ window.ACHOU_PRODUCTS = [
     name: "Smart TV Hisense 40\" Full HD 40A4NV HDR10 DTS Virtual X Compatível com Alexa",
     category: "TVs",
     store: "Mercado Livre",
-    price: 1322.47,
+    price: 1301.07,
     oldPrice: 2599,
     image: "https://http2.mlstatic.com/D_NQ_NP_617971-MLA117937963418_102026-O.webp",
     emoji: "📺",
     link: "https://meli.la/1R4xcHm",
     featured: false,
     isDemo: false,
-    createdAt: "2026-10-19T17:45:00-03:00"
+    createdAt: "2026-10-19T17:45:00-03:00",
+    checkedAt: "2026-10-29T14:43:00-03:00"
   },
   {
     id: "mercadolivre-smart-tv-samsung-32-h5000f",
     name: "Smart TV Samsung 32\" HD LED LS32H5000FGXZD Wi-Fi HDMI Bivolt",
     category: "TVs",
     store: "Mercado Livre",
-    price: 1110.91,
+    price: 1099.91,
     oldPrice: 2000,
     image: "https://http2.mlstatic.com/D_NQ_NP_896538-MLA118637745827_102026-O.webp",
     emoji: "📺",
     link: "https://meli.la/2Bw8vpQ",
     featured: false,
     isDemo: false,
-    createdAt: "2026-10-19T17:46:00-03:00"
+    createdAt: "2026-10-19T17:46:00-03:00",
+    checkedAt: "2026-10-29T14:43:00-03:00"
   },
   {
     id: "mercadolivre-smart-tv-lg-43-nano-4k-43un85cbpsa",
     name: "Smart TV LG 43\" Nano 4K UHD ThinQ AI Alexa Apple AirPlay 43UN85CBPSA",
     category: "TVs",
     store: "Mercado Livre",
-    price: 1847.26,
-    oldPrice: 2499,
+    price: 1762,
+    oldPrice: 3800,
     image: "https://http2.mlstatic.com/D_NQ_NP_864210-MLA115964435829_082026-O.webp",
     emoji: "📺",
     link: "https://meli.la/2fHvsRj",
     featured: false,
     isDemo: false,
-    createdAt: "2026-10-19T17:47:00-03:00"
+    createdAt: "2026-10-19T17:47:00-03:00",
+    checkedAt: "2026-10-29T14:43:00-03:00"
   },
   {
     id: "mercadolivre-smart-tv-philips-65-ambilight-65pug8100",
     name: "Smart TV Philips 65\" Ambilight 4K UHD 65PUG8100/78",
     category: "TVs",
     store: "Mercado Livre",
-    price: 3179.99,
-    oldPrice: 4399,
+    price: 3195,
+    oldPrice: 4899,
     image: "https://http2.mlstatic.com/D_NQ_NP_630331-MLA104013642749_012026-O.webp",
     emoji: "📺",
     link: "https://meli.la/2nAASwA",
     featured: false,
     isDemo: false,
-    createdAt: "2026-10-19T17:48:00-03:00"
+    createdAt: "2026-10-19T17:48:00-03:00",
+    checkedAt: "2026-10-29T14:43:00-03:00"
   },
   {
     id: "mercadolivre-jogo-jojos-bizarre-adventure-all-star-battle-r",
