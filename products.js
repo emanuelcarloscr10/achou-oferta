@@ -5506,62 +5506,6 @@ window.ACHOU_PRODUCTS = [
     checkedAt: "2026-10-26T19:57:00-03:00"
   },
   {
-    id: "shopee-xiaomi-mi-band-9-active-original",
-    name: "Relógio Smartwatch Xiaomi Mi Band 9 Active Original (Verde)",
-    category: "Smartwatch",
-    store: "Shopee",
-    price: 229.89,
-    oldPrice: 289.89,
-    image: "https://down-br.img.susercontent.com/file/sg-11134201-7ratm-mavoga0knnfne8",
-    emoji: "⌚",
-    link: "https://s.shopee.com.br/2LZCcfcdOE",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-10-19T15:40:00-03:00"
-  },
-  {
-    id: "shopee-celular-realme-note-70-128gb-4gb",
-    name: "Realme Note 70 Smartphone Dual SIM 4G 128GB 4GB RAM Tela 6.74\" 90Hz Bateria 6300mAh",
-    category: "Celulares",
-    store: "Shopee",
-    price: 989.99,
-    oldPrice: 1299,
-    image: "https://down-br.img.susercontent.com/file/sg-11134201-8259v-mtnzljzwtiq2aa",
-    emoji: "📱",
-    link: "https://s.shopee.com.br/2Vscoyc03H",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-10-19T15:41:00-03:00"
-  },
-  {
-    id: "shopee-celular-realme-c71-nfc-128gb",
-    name: "Realme C71 NFC 4G 128GB 4GB RAM, Tela 6,67\" 120Hz, Câmera 50MP, Bateria 6300mAh, Versão Global",
-    category: "Celulares",
-    store: "Shopee",
-    price: 1095,
-    oldPrice: 1400,
-    image: "https://down-br.img.susercontent.com/file/br-11134207-81z1k-mgxnhu1z4jrb82",
-    emoji: "📱",
-    link: "https://s.shopee.com.br/1LgfQpgRQ4",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-10-19T15:42:00-03:00"
-  },
-  {
-    id: "shopee-smartwatch-amazfit-bip-6-amoled-gps",
-    name: "Smartwatch Amazfit Bip 6 Original Tela AMOLED 1,97\", 14 Dias, GPS, 140 Esportes, 5 ATM",
-    category: "Smartwatch",
-    store: "Shopee",
-    price: 609,
-    oldPrice: 689,
-    image: "https://down-br.img.susercontent.com/file/br-11134207-820lh-mlpwp871bg90b9",
-    emoji: "⌚",
-    link: "https://s.shopee.com.br/2BFmQMdGjB",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-10-19T15:43:00-03:00"
-  },
-  {
     id: "mercadolivre-xiaomi-smart-band-10-silver-amoled",
     name: "Xiaomi Smart Band 10 Silver - Amoled 1.72 1500 nits, bateria de 21 dias, mais de 150 esportes, natação de 5 atm",
     category: "Smartwatch",
@@ -5876,20 +5820,6 @@ window.ACHOU_PRODUCTS = [
     checkedAt: "2026-10-29T19:44:09-03:00"
   },
   {
-    id: "shopee-jogo-panelas-teflon-munique-11-pecas",
-    name: "Jogo de Panelas Teflon Munique 11 Peças com Panela de Pressão 2,5L (preço no Pix com cupom)",
-    category: "Casa e eletrodomésticos",
-    store: "Shopee",
-    price: 248.73,
-    oldPrice: 401.18,
-    image: "https://down-br.img.susercontent.com/file/sg-11134201-7ra2s-mbctgw13u7ps89",
-    emoji: "🏠",
-    link: "https://s.shopee.com.br/7puAHI4LiB",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-10-20T09:01:00-03:00"
-  },
-  {
     id: "mercadolivre-cooktop-inducao-dako-2-bocas",
     name: "Cooktop de Indução 2 Bocas Dako com Zona Flexível e 9 Níveis de Potência",
     category: "Casa e eletrodomésticos",
@@ -5976,119 +5906,83 @@ window.ACHOU_PRODUCTS = [
     link: "https://meli.la/2mJQjUb",
     featured: false,
     isDemo: false,
-    createdAt: "2026-10-20T09:07:00-03:00"
+    createdAt: "2026-10-20T09:07:00-03:00",
+    checkedAt: "2026-11-04T07:01:00-03:00"
   },
   {
     id: "mercadolivre-jogo-panelas-inducao-ceramica-10-pecas-baunilha",
     name: "Jogo de Panelas Indução Antiaderente Cerâmica 10 Peças Baunilha",
     category: "Casa e eletrodomésticos",
     store: "Mercado Livre",
-    price: 359.9,
+    price: 317.69,
     oldPrice: 683.96,
     image: "https://http2.mlstatic.com/D_NQ_NP_896529-MLA98735006295_112025-O.webp",
     emoji: "🏠",
     link: "https://meli.la/2uzSfAM",
     featured: false,
     isDemo: false,
-    createdAt: "2026-10-20T09:08:00-03:00"
-  },
-  {
-    id: "shopee-jogo-lencol-queen-400-fios-ponto-palito",
-    name: "Jogo de Lençol Queen 3 Peças 400 Fios Ponto Palito",
-    category: "Enxoval",
-    store: "Shopee",
-    price: 38.85,
-    oldPrice: 159.9,
-    image: "https://down-br.img.susercontent.com/file/br-11134207-7r98o-mc6jsn9m1dqd54",
-    emoji: "🛏️",
-    link: "https://s.shopee.com.br/7AeTU46t3z",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-10-20T09:09:00-03:00"
+    createdAt: "2026-10-20T09:08:00-03:00",
+    checkedAt: "2026-11-04T07:01:00-03:00"
   },
   {
     id: "mercadolivre-jogo-banho-karsten-softmax-unika-5-pecas",
     name: "Jogo de Banho 5 Peças 100% Algodão Fio Penteado Karsten Softmax Unika Azul Sereno",
     category: "Enxoval",
     store: "Mercado Livre",
-    price: 156.67,
-    oldPrice: 279.9,
+    price: 167.52,
+    oldPrice: 349,
     image: "https://http2.mlstatic.com/D_NQ_NP_929953-MLA95706157734_102025-O.webp",
     emoji: "🛏️",
     link: "https://meli.la/1VohREH",
     featured: false,
     isDemo: false,
-    createdAt: "2026-10-20T09:10:00-03:00"
+    createdAt: "2026-10-20T09:10:00-03:00",
+    checkedAt: "2026-11-04T07:01:00-03:00"
   },
   {
     id: "mercadolivre-jogo-lencol-queen-micropercal-400-fios-cinza",
     name: "Jogo de Lençol Queen Micropercal 400 Fios 3 Peças Cinza Liso",
     category: "Enxoval",
     store: "Mercado Livre",
-    price: 32.49,
+    price: 29.24,
     oldPrice: 56.9,
     image: "https://http2.mlstatic.com/D_NQ_NP_819903-MLA114199618444_082026-O.webp",
     emoji: "🛏️",
     link: "https://meli.la/1fGERUc",
     featured: false,
     isDemo: false,
-    createdAt: "2026-10-20T09:11:00-03:00"
+    createdAt: "2026-10-20T09:11:00-03:00",
+    checkedAt: "2026-11-04T07:01:00-03:00"
   },
   {
     id: "mercadolivre-cafeteira-dolce-gusto-genio-s-plus-preta",
     name: "Cafeteira Nescafé Dolce Gusto Arno Genio S Plus Preta 110V",
     category: "Casa e eletrodomésticos",
     store: "Mercado Livre",
-    price: 579,
-    oldPrice: 1099.99,
+    price: 408.03,
+    oldPrice: 550,
     image: "https://http2.mlstatic.com/D_NQ_NP_998097-MLA115435101684_082026-O.webp",
     emoji: "🏠",
     link: "https://meli.la/2YkWa2C",
     featured: false,
     isDemo: false,
-    createdAt: "2026-10-20T09:12:00-03:00"
-  },
-  {
-    id: "mercadolivre-sodastream-terra-preta",
-    name: "SodaStream Terra Máquina de Água com Gás Preta",
-    category: "Casa e eletrodomésticos",
-    store: "Mercado Livre",
-    price: 483,
-    oldPrice: 946.26,
-    image: "https://http2.mlstatic.com/D_NQ_NP_920067-MLA99590563368_122025-O.webp",
-    emoji: "🏠",
-    link: "https://meli.la/2rCADFd",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-10-20T09:13:00-03:00"
+    createdAt: "2026-10-20T09:12:00-03:00",
+    checkedAt: "2026-11-04T07:01:00-03:00"
   },
   {
     id: "mercadolivre-aspirador-po-agua-wap-gtw-inox-12",
     name: "Aspirador de Pó e Água WAP GTW Inox 12 1400W com Bocal de Sopro",
     category: "Casa e eletrodomésticos",
     store: "Mercado Livre",
-    price: 255.36,
-    oldPrice: 696,
+    price: 419.93,
+    oldPrice: 699,
     image: "https://http2.mlstatic.com/D_NQ_NP_608043-MLA99867297737_112025-O.webp",
     emoji: "🏠",
     link: "https://meli.la/2aMTWJu",
     featured: false,
     isDemo: false,
-    createdAt: "2026-10-20T09:14:00-03:00"
-  },
-  {
-    id: "shopee-qcy-t13-anc-fone-bluetooth",
-    name: "QCY T13 ANC Fone de Ouvido Sem Fio Bluetooth 5.3 com Cancelamento de Ruído e 4 Microfones",
-    category: "Eletrônicos",
-    store: "Shopee",
-    price: 114.99,
-    oldPrice: 249,
-    image: "https://down-br.img.susercontent.com/file/cn-11134207-7r98o-lyowsscqo6sz89",
-    emoji: "🎧",
-    link: "https://s.shopee.com.br/1BNIKNy8rL",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-10-21T14:40:00-03:00"
+    createdAt: "2026-10-20T09:14:00-03:00",
+    checkedAt: "2026-11-04T07:01:00-03:00"
   },
   {
     id: "shopee-mouse-sem-fio-logitech-m170",
@@ -6102,7 +5996,8 @@ window.ACHOU_PRODUCTS = [
     link: "https://s.shopee.com.br/LoBKr1JYE",
     featured: false,
     isDemo: false,
-    createdAt: "2026-10-21T14:41:00-03:00"
+    createdAt: "2026-10-21T14:41:00-03:00",
+    checkedAt: "2026-11-04T07:01:00-03:00"
   },
   {
     id: "mercadolivre-caixa-som-aiwa-aws-sp-01",
@@ -6116,21 +6011,23 @@ window.ACHOU_PRODUCTS = [
     link: "https://meli.la/2qgc3yi",
     featured: false,
     isDemo: false,
-    createdAt: "2026-10-21T14:42:00-03:00"
+    createdAt: "2026-10-21T14:42:00-03:00",
+    checkedAt: "2026-11-04T07:01:00-03:00"
   },
   {
     id: "mercadolivre-ssd-lexar-nq790-1tb-nvme",
     name: "SSD M.2 1TB Lexar NQ790 NVMe PCIe Gen4 7000MB/s",
     category: "Informática",
     store: "Mercado Livre",
-    price: 1454.99,
+    price: 1499.99,
     oldPrice: 1999,
     image: "https://http2.mlstatic.com/D_NQ_NP_909631-MLA100003276585_112025-O.webp",
     emoji: "🖥️",
     link: "https://meli.la/26Dpbea",
     featured: false,
     isDemo: false,
-    createdAt: "2026-10-21T14:43:00-03:00"
+    createdAt: "2026-10-21T14:43:00-03:00",
+    checkedAt: "2026-11-04T07:01:00-03:00"
   },
   {
     id: "shopee-baseus-bowie-mc2-fone-aberto",
