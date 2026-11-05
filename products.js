@@ -6215,28 +6215,15 @@ window.ACHOU_PRODUCTS = [
     name: "Relógio Casio Feminino Original Vintage Prata Tamanho Mini",
     category: "Acessórios",
     store: "Mercado Livre",
-    price: 164.35,
-    oldPrice: 379,
+    price: 198.46,
+    oldPrice: 399,
     image: "https://http2.mlstatic.com/D_NQ_NP_978198-MLA115305540982_082026-O-relogio-casio-feminino-original-vintage-prata-tamanho-mini.webp",
     emoji: "👜",
     link: "https://meli.la/1MDJKxA",
     featured: false,
     isDemo: false,
-    createdAt: "2026-10-22T15:48:00-03:00"
-  },
-  {
-    id: "shopee-vestido-longo-alcas-lastex-duna",
-    name: "Vestido Feminino Longo de Alças Ajustáveis Lastex Duna Premium",
-    category: "Moda",
-    store: "Shopee",
-    price: 48.99,
-    oldPrice: 108.87,
-    image: "https://down-br.img.susercontent.com/file/br-11134207-820l7-mqdwqrcnufb7cd",
-    emoji: "👗",
-    link: "https://s.shopee.com.br/1W0AOvpfZR",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-10-22T15:49:00-03:00"
+    createdAt: "2026-10-22T15:48:00-03:00",
+    checkedAt: "2026-11-05T20:40:00-03:00"
   },
   {
     id: "mercadolivre-mala-de-bordo-rigida-abs-sweet-studio",
@@ -6278,7 +6265,8 @@ window.ACHOU_PRODUCTS = [
     link: "https://s.shopee.com.br/1LgkCcqIuO",
     featured: false,
     isDemo: false,
-    createdAt: "2026-10-22T15:52:00-03:00"
+    createdAt: "2026-10-22T15:52:00-03:00",
+    checkedAt: "2026-11-05T20:40:00-03:00"
   },
   {
     id: "mercadolivre-relogio-casio-w-59-1vq-digital",
@@ -6379,20 +6367,6 @@ window.ACHOU_PRODUCTS = [
     createdAt: "2026-10-26T00:13:00-03:00"
   },
   {
-    id: "shopee-headset-gamer-mancer-aura-rainbow",
-    name: "Headset Gamer Mancer Aura Rainbow",
-    category: "Games",
-    store: "Shopee",
-    price: 135.9,
-    oldPrice: 230.57,
-    image: "https://down-br.img.susercontent.com/file/sg-11134201-82260-mhg61hiy3w937f",
-    emoji: "🎮",
-    link: "https://s.shopee.com.br/gR8kLbmWq",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-10-26T00:14:00-03:00"
-  },
-  {
     id: "mercadolivre-controle-gamesir-t4-nova-lite-hall-effect",
     name: "Controle Gamesir T4 Nova Lite Sem Fio Hall Effect para PC, Switch, Android e iOS",
     category: "Games",
@@ -6407,20 +6381,6 @@ window.ACHOU_PRODUCTS = [
     createdAt: "2026-10-26T00:15:00-03:00"
   },
   {
-    id: "shopee-headset-gamer-pichau-azuris",
-    name: "Headset Gamer Pichau Azuris Drivers 50mm",
-    category: "Games",
-    store: "Shopee",
-    price: 114.9,
-    oldPrice: 459.88,
-    image: "https://down-br.img.susercontent.com/file/sg-11134201-824j3-me8zd3r3isjpb2",
-    emoji: "🎮",
-    link: "https://s.shopee.com.br/qkYweb9Bt",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-10-26T00:16:00-03:00"
-  },
-  {
     id: "mercadolivre-smart-tv-lg-32-hd-lb650-webos-26",
     name: "Smart TV LG 32\" HD LB650 AI 2026 Processador α5 Ger9 HDR10 webOS 26",
     category: "TVs",
@@ -6433,20 +6393,6 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-10-26T00:17:00-03:00"
-  },
-  {
-    id: "shopee-headset-gamer-redragon-zeus-lite",
-    name: "Headset Gamer Redragon Zeus Lite com Fio",
-    category: "Games",
-    store: "Shopee",
-    price: 207.9,
-    oldPrice: 378.81,
-    image: "https://down-br.img.susercontent.com/file/sg-11134201-81zuj-mifyfx5pv9q894",
-    emoji: "🎮",
-    link: "https://s.shopee.com.br/W7iY2cPrn",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-10-26T00:18:00-03:00"
   },
   {
     id: "mercadolivre-smart-tv-aiwa-32-android-hd",
