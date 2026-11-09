@@ -6192,5 +6192,170 @@
     "image": "https://http2.mlstatic.com/D_NQ_NP_733418-MLA99504461002_112025-O.webp",
     "link": "https://meli.la/2TkHw7G",
     "createdAt": "2026-11-05T12:19:00-03:00"
+  },
+  {
+    "id": "mercadolivre-mlb39016247",
+    "name": "O Boticário Quasar Blue Desodorante Colônia 100ml",
+    "category": "Beleza",
+    "store": "Mercado Livre",
+    "price": 74.9,
+    "oldPrice": 189.9,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_645686-MLA82876911341_032025-O.webp",
+    "link": "https://meli.la/1rFSUP1",
+    "createdAt": "2026-11-09T17:20:00-03:00"
+  },
+  {
+    "id": "mercadolivre-mlb24804661",
+    "name": "Purificador de Água Gelada Fria e Natural Electrolux PE12G Painel Touch Bivolt Cinza",
+    "category": "Casa e eletrodomésticos",
+    "store": "Mercado Livre",
+    "price": 569.9,
+    "oldPrice": 769,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_619844-MLA99938311049_112025-O.webp",
+    "link": "https://meli.la/14L2vwu",
+    "createdAt": "2026-11-09T17:21:00-03:00"
+  },
+  {
+    "id": "shopee-jbl-tune-530bt-preto",
+    "name": "Fone de Ouvido Bluetooth JBL Tune 530BT, Over-Ear, Sem Fio, Até 76 Horas de Bateria - Preto",
+    "category": "Eletrônicos",
+    "store": "Shopee",
+    "price": 208.9,
+    "oldPrice": 399.9,
+    "image": "https://down-br.img.susercontent.com/file/br-11134207-820lr-mpdr84qevbwl9c",
+    "link": "https://s.shopee.com.br/20wtcNa1rs",
+    "createdAt": "2026-11-09T17:22:00-03:00"
+  },
+  {
+    "id": "mercadolivre-mlb67629858",
+    "name": "Celular Smartphone Realme Note 80s 128gb 4gb Ram Dual Sim Bateria 6000mah Ultrafino 7,94 Mm Resistência À Poeira E Água Ip54",
+    "category": "Celulares",
+    "store": "Mercado Livre",
+    "price": 829.99,
+    "oldPrice": 1099,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_806187-MLA109269718722_042026-O.webp",
+    "link": "https://meli.la/2hZrUs9",
+    "createdAt": "2026-11-09T17:23:00-03:00"
+  },
+  {
+    "id": "mercadolivre-mlb49085450",
+    "name": "Smartphone Motorola Edge 60 Pro 5G 256GB 12GB RAM Câmera Traseira 50 MP OIS + 50 MP + 10 MP Selfie 50 MP Tela 6.7\" - Azul",
+    "category": "Celulares",
+    "store": "Mercado Livre",
+    "price": 2564.05,
+    "oldPrice": 3629,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_969960-MLA116373017861_082026-O.webp",
+    "link": "https://meli.la/2M9qL7i",
+    "createdAt": "2026-11-09T17:24:00-03:00"
+  },
+  {
+    "id": "shopee-xiaomi-redmi-15c-128gb-4gb",
+    "name": "Celular Xiaomi Redmi 15C 4G 128GB 4GB RAM Tela LCD 6.9\" Versão Global",
+    "category": "Celulares",
+    "store": "Shopee",
+    "price": 1034.9,
+    "oldPrice": 1500,
+    "image": "https://down-br.img.susercontent.com/file/br-11134207-81z1k-milv7x1qv75u2b",
+    "link": "https://s.shopee.com.br/8AXWxiCYM1",
+    "createdAt": "2026-11-09T17:25:00-03:00"
+  },
+  {
+    "id": "mercadolivre-mlb62797467",
+    "name": "Floratta Flores Secretas 75ml O Boticário Feminino",
+    "category": "Beleza",
+    "store": "Mercado Livre",
+    "price": 86.9,
+    "oldPrice": 174.9,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_889465-MLA99767551238_122025-O.webp",
+    "link": "https://meli.la/14eeVLA",
+    "createdAt": "2026-11-09T17:26:00-03:00"
+  },
+  {
+    "id": "mercadolivre-mlb79391475",
+    "name": "LG UltraGear Monitor Gamer 27\" IPS, 144Hz Nativo, 1ms (MBR), Full HD (1920x1080), HDR10, NVIDIA G-SYNC, AMD FreeSync, Preto - 27G411B",
+    "category": "Informática",
+    "store": "Mercado Livre",
+    "price": 729,
+    "oldPrice": 1039,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_896633-MLA120723721883_112026-O.webp",
+    "link": "https://meli.la/1CzqCc5",
+    "createdAt": "2026-11-09T17:27:00-03:00"
+  },
+  {
+    "id": "shopee-xiaomi-poco-f9-ultra-256gb-12gb",
+    "name": "Xiaomi Poco F9 Ultra 5G 256GB 12GB RAM Tela AMOLED 6.9\" Câmera 200MP Versão Global - Preto",
+    "category": "Celulares",
+    "store": "Shopee",
+    "price": 5449,
+    "oldPrice": 7999,
+    "image": "https://down-br.img.susercontent.com/file/sg-11134201-825al-mswp6nnocyyp38",
+    "link": "https://s.shopee.com.br/8VANMKBHg7",
+    "createdAt": "2026-11-09T17:28:00-03:00"
+  },
+  {
+    "id": "mercadolivre-mlb51680793",
+    "name": "Smartphone OPPO A5 256GB 8GB RAM 5G IP65 Branco",
+    "category": "Celulares",
+    "store": "Mercado Livre",
+    "price": 1169.1,
+    "oldPrice": 2299,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_803971-MLA93840909222_102025-O.webp",
+    "link": "https://meli.la/2oM3UTk",
+    "createdAt": "2026-11-09T17:29:00-03:00"
+  },
+  {
+    "id": "shopee-xiaomi-17t-256gb-12gb",
+    "name": "Xiaomi 17T 5G 256GB 12GB RAM Dual Sim NFC Leica Versão Global",
+    "category": "Celulares",
+    "store": "Shopee",
+    "price": 3849,
+    "oldPrice": 4899,
+    "image": "https://down-br.img.susercontent.com/file/br-11134207-820lc-mprtxs5muvb44e",
+    "link": "https://s.shopee.com.br/8KqxA1Bv14",
+    "createdAt": "2026-11-09T17:30:00-03:00"
+  },
+  {
+    "id": "mercadolivre-mlb79484488",
+    "name": "Smartphone Motorola Moto G06 - 64GB 4GB RAM + 8GB Ram Boost, Camera 50MP com AI, Bateria de 5200 mAh e Tela 6.9\" - Bege",
+    "category": "Celulares",
+    "store": "Mercado Livre",
+    "price": 629.1,
+    "oldPrice": 1299,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_605303-MLA116320601976_092026-O.webp",
+    "link": "https://meli.la/1qUqCpz",
+    "createdAt": "2026-11-09T17:31:00-03:00"
+  },
+  {
+    "id": "mercadolivre-mlbu3117106937",
+    "name": "Aparador E Raspador Oneblade Intimate Qp1924/10 Philips",
+    "category": "Beleza",
+    "store": "Mercado Livre",
+    "price": 129.9,
+    "oldPrice": 237.38,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_712069-MLB89354888748_082025-O-aparador-e-raspador-oneblade-intimate-qp192410-philips.webp",
+    "link": "https://meli.la/1S5umwQ",
+    "createdAt": "2026-11-09T17:32:00-03:00"
+  },
+  {
+    "id": "shopee-xiaomi-redmi-note-14s-256gb-8gb",
+    "name": "Xiaomi Redmi Note 14S 4G 256GB 8GB RAM Câmera 200MP Versão Global - Preto",
+    "category": "Celulares",
+    "store": "Shopee",
+    "price": 1533.6,
+    "oldPrice": 2300,
+    "image": "https://down-br.img.susercontent.com/file/br-11134207-820le-mtqps8jymf42e1",
+    "link": "https://s.shopee.com.br/80E6lPDBgy",
+    "createdAt": "2026-11-09T17:33:00-03:00"
+  },
+  {
+    "id": "mercadolivre-mlb78889322",
+    "name": "Smartphone Motorola Moto G37 5G - 128GB 4GB RAM + 8GB RAM Boost, Camera 50MP com editor magico, Bateria de 5200 mAh e tela 6.7\" 120Hz, NFC - Rosa",
+    "category": "Celulares",
+    "store": "Mercado Livre",
+    "price": 989.1,
+    "oldPrice": 2099,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_731047-MLA117147159883_092026-O.webp",
+    "link": "https://meli.la/1DGfxzc",
+    "createdAt": "2026-11-09T17:34:00-03:00"
   }
 ]
