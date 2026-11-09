@@ -3071,17 +3071,6 @@
     "checkedAt": "2026-10-19T19:07:00-03:00"
   },
   {
-    "id": "mercadolivre-smart-tv-semp-43-4k-s62-google-tv",
-    "name": "Smart TV Semp 43\" 4K S62 Google TV Wi-Fi Bluetooth HDMI 2.1 HDR10",
-    "category": "TVs",
-    "store": "Mercado Livre",
-    "price": 1648.03,
-    "oldPrice": 2200.00,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_725609-MLB113975287300_072026-O-smart-tv-semp-4k-43-s62-google-tv-wifi-bt-hdmi-21-hdr10.webp",
-    "link": "https://meli.la/2pNfbww",
-    "createdAt": "2026-09-27T17:58:00-03:00"
-  },
-  {
     "id": "shopee-luva-lanca-teia-homem-aranha-com-cordinha",
     "name": "Luva Lança Teia Homem-Aranha com Cordinha - Brinquedo Infantil",
     "category": "Brinquedos",
@@ -4732,22 +4721,24 @@
     "name": "Mala de Bordo Rígida ABS Preta Sweet Studio com Rodas Duplas 360°",
     "category": "Acessórios",
     "store": "Mercado Livre",
-    "price": 160.25,
-    "oldPrice": 306,
+    "price": 166.5,
+    "oldPrice": 311,
     "image": "https://http2.mlstatic.com/D_NQ_NP_706320-MLA113820575963_062026-O.webp",
     "link": "https://meli.la/1MvSzpN",
-    "createdAt": "2026-10-22T15:50:00-03:00"
+    "createdAt": "2026-10-22T15:50:00-03:00",
+    "checkedAt": "2026-11-09T14:12:31-03:00"
   },
   {
     "id": "mercadolivre-kit-4-camiseta-dry-fit-sandrini",
     "name": "Kit 4 Camisetas Dry-Fit Sandrini Masculina Academia Caminhada",
     "category": "Moda",
     "store": "Mercado Livre",
-    "price": 59.99,
+    "price": 54.99,
     "oldPrice": 135.41,
     "image": "https://http2.mlstatic.com/D_NQ_NP_626928-MLB82004918446_022025-O-kit-4-camiseta-dry-fit-sandrini-masculina-academia-caminhada.webp",
     "link": "https://meli.la/1umbsdK",
-    "createdAt": "2026-10-22T15:51:00-03:00"
+    "createdAt": "2026-10-22T15:51:00-03:00",
+    "checkedAt": "2026-11-09T14:12:31-03:00"
   },
   {
     "id": "shopee-vestido-de-festa-longo-multiformas",
@@ -4766,165 +4757,120 @@
     "name": "Relógio Casio Masculino Digital Preto de Resina W-59-1VQ",
     "category": "Acessórios",
     "store": "Mercado Livre",
-    "price": 111.59,
-    "oldPrice": 239.11,
+    "price": 112.07,
+    "oldPrice": 299.9,
     "image": "https://http2.mlstatic.com/D_NQ_NP_684326-MLA115755090874_092026-O.webp",
     "link": "https://meli.la/2XzsGkb",
-    "createdAt": "2026-10-22T15:53:00-03:00"
+    "createdAt": "2026-10-22T15:53:00-03:00",
+    "checkedAt": "2026-11-09T14:12:31-03:00"
   },
   {
     "id": "mercadolivre-kit-10-cuecas-boxer-microfibra",
     "name": "Kit com 10 Cuecas Boxer Masculina Microfibra",
     "category": "Moda",
     "store": "Mercado Livre",
-    "price": 75.97,
+    "price": 78.99,
     "oldPrice": 138,
     "image": "https://http2.mlstatic.com/D_NQ_NP_882952-MLB106804965837_022026-O-kit-com-10-cuecas-boxer-masculina-microfibra-original.webp",
     "link": "https://meli.la/1gCbN9G",
-    "createdAt": "2026-10-22T15:54:00-03:00"
+    "createdAt": "2026-10-22T15:54:00-03:00",
+    "checkedAt": "2026-11-09T14:12:31-03:00"
   },
   {
     "id": "mercadolivre-relogio-casio-g-shock-dw-5600bb-1dr",
     "name": "Relógio Casio G-Shock Masculino Digital Preto DW-5600BB-1DR",
     "category": "Acessórios",
     "store": "Mercado Livre",
-    "price": 252.3,
+    "price": 290,
     "oldPrice": 599,
     "image": "https://http2.mlstatic.com/D_NQ_NP_613661-MLB79368247808_092024-O-relogio-casio-masculino-gshock-digital-preto-dw5600bb1dr.webp",
     "link": "https://meli.la/2M8eotk",
-    "createdAt": "2026-10-22T15:55:00-03:00"
+    "createdAt": "2026-10-22T15:55:00-03:00",
+    "checkedAt": "2026-11-09T14:12:31-03:00"
   },
   {
     "id": "mercadolivre-controle-redfin-bluetooth-ps4-pc",
     "name": "Controle Sem Fio Joystick REDFIN Bluetooth Compatível com PS4, PC, TV e Celular",
     "category": "Games",
     "store": "Mercado Livre",
-    "price": 52.76,
+    "price": 49.4,
     "oldPrice": 114.9,
     "image": "https://http2.mlstatic.com/D_NQ_NP_762912-MLA105696431793_012026-O.webp",
     "link": "https://meli.la/1xS2mJc",
-    "createdAt": "2026-10-26T00:10:00-03:00"
-  },
-  {
-    "id": "mercadolivre-smart-tv-semp-50-full-hd-s42-google-tv",
-    "name": "Smart TV Semp 50\" LED Full HD S42 Google TV Wi-Fi Bluetooth HDR10 Dolby Audio",
-    "category": "TVs",
-    "store": "Mercado Livre",
-    "price": 1999,
-    "oldPrice": 2547.79,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_993664-MLA111945341083_052026-O.webp",
-    "link": "https://meli.la/2pjBvgQ",
-    "createdAt": "2026-10-26T00:11:00-03:00"
+    "createdAt": "2026-10-26T00:10:00-03:00",
+    "checkedAt": "2026-11-09T14:12:31-03:00"
   },
   {
     "id": "mercadolivre-joy-con-easysmx-s15-nintendo-switch",
     "name": "Joy-Con Sem Fio EasySMX S15 para Nintendo Switch/OLED com Joysticks Hall e Botões Programáveis",
     "category": "Games",
     "store": "Mercado Livre",
-    "price": 279,
+    "price": 283.1,
     "oldPrice": 399,
     "image": "https://http2.mlstatic.com/D_NQ_NP_801656-MLA99930393989_112025-O.webp",
     "link": "https://meli.la/19gETyJ",
-    "createdAt": "2026-10-26T00:12:00-03:00"
+    "createdAt": "2026-10-26T00:12:00-03:00",
+    "checkedAt": "2026-11-09T14:12:31-03:00"
   },
   {
     "id": "mercadolivre-smart-tv-philips-50-4k-50pug7300",
     "name": "Smart TV Philips 50\" 4K 50PUG7300 Comando de Voz Bluetooth",
     "category": "TVs",
     "store": "Mercado Livre",
-    "price": 2149,
-    "oldPrice": 2529.45,
+    "price": 1978.46,
+    "oldPrice": 2499,
     "image": "https://http2.mlstatic.com/D_NQ_NP_603690-MLA93305557455_092025-O.webp",
     "link": "https://meli.la/1Qge3b2",
-    "createdAt": "2026-10-26T00:13:00-03:00"
+    "createdAt": "2026-10-26T00:13:00-03:00",
+    "checkedAt": "2026-11-09T14:12:31-03:00"
   },
   {
     "id": "mercadolivre-controle-gamesir-t4-nova-lite-hall-effect",
     "name": "Controle Gamesir T4 Nova Lite Sem Fio Hall Effect para PC, Switch, Android e iOS",
     "category": "Games",
     "store": "Mercado Livre",
-    "price": 179.9,
+    "price": 160.34,
     "oldPrice": 299,
     "image": "https://http2.mlstatic.com/D_NQ_NP_628100-MLA99480320238_112025-O.webp",
     "link": "https://meli.la/2PwqKhq",
-    "createdAt": "2026-10-26T00:15:00-03:00"
+    "createdAt": "2026-10-26T00:15:00-03:00",
+    "checkedAt": "2026-11-09T14:12:31-03:00"
   },
   {
     "id": "mercadolivre-smart-tv-lg-32-hd-lb650-webos-26",
     "name": "Smart TV LG 32\" HD LB650 AI 2026 Processador α5 Ger9 HDR10 webOS 26",
     "category": "TVs",
     "store": "Mercado Livre",
-    "price": 1049.99,
-    "oldPrice": 2667.99,
+    "price": 1098.9,
+    "oldPrice": 1549,
     "image": "https://http2.mlstatic.com/D_NQ_NP_626506-MLA116657908871_082026-O.webp",
     "link": "https://meli.la/2QCMXwH",
-    "createdAt": "2026-10-26T00:17:00-03:00"
+    "createdAt": "2026-10-26T00:17:00-03:00",
+    "checkedAt": "2026-11-09T14:12:31-03:00"
   },
   {
     "id": "mercadolivre-smart-tv-aiwa-32-android-hd",
     "name": "Smart TV AIWA 32\" Android HD Borda Ultrafina HDR10 Dolby Áudio AWS-TV-32-BL-02-A",
     "category": "TVs",
     "store": "Mercado Livre",
-    "price": 949.05,
-    "oldPrice": 2000,
+    "price": 949,
+    "oldPrice": 1399.9,
     "image": "https://http2.mlstatic.com/D_NQ_NP_690159-MLA99542831560_122025-O.webp",
     "link": "https://meli.la/2xXF4iS",
-    "createdAt": "2026-10-26T00:19:00-03:00"
-  },
-  {
-    "id": "shopee-smart-tv-semp-43-full-hd-roku-43s42r",
-    "name": "Smart TV Semp 43\" 43S42R Full HD Roku TV",
-    "category": "TVs",
-    "store": "Shopee",
-    "price": 1467.99,
-    "oldPrice": 3647.99,
-    "image": "https://down-br.img.susercontent.com/file/br-11134207-820mb-mt9lcuvgzf9cd3",
-    "link": "https://s.shopee.com.br/113z8xaVqw",
-    "createdAt": "2026-10-26T00:20:00-03:00"
-  },
-  {
-    "id": "mercadolivre-controle-ps5-dualsense-white",
-    "name": "Controle Sony DualSense Sem Fio PS5 Branco CFI-ZCT1W",
-    "category": "Games",
-    "store": "Mercado Livre",
-    "price": 408.03,
-    "oldPrice": 562.02,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_682801-MLA117393672127_092026-O.webp",
-    "link": "https://meli.la/1f6dD6D",
-    "createdAt": "2026-10-26T00:21:00-03:00"
+    "createdAt": "2026-10-26T00:19:00-03:00",
+    "checkedAt": "2026-11-09T14:12:31-03:00"
   },
   {
     "id": "mercadolivre-smart-tv-aoc-43-roku-full-hd-43s5155",
     "name": "Smart TV AOC 43\" LED Roku Full HD Wi-Fi 43S5155/78G",
     "category": "TVs",
     "store": "Mercado Livre",
-    "price": 1387.09,
-    "oldPrice": 2327.99,
+    "price": 1415.49,
+    "oldPrice": 1950,
     "image": "https://http2.mlstatic.com/D_NQ_NP_600093-MLA115184611400_082026-O.webp",
     "link": "https://meli.la/1kfzBb1",
-    "createdAt": "2026-10-26T00:22:00-03:00"
-  },
-  {
-    "id": "shopee-controle-ps5-dualsense-edge-midnight-black",
-    "name": "Controle Sem Fio PS5 DualSense Edge Midnight Black",
-    "category": "Games",
-    "store": "Shopee",
-    "price": 1201.9,
-    "oldPrice": 2530.65,
-    "image": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-m90bfhxyyomxc9",
-    "link": "https://s.shopee.com.br/LoILjd3Ck",
-    "createdAt": "2026-10-26T00:23:00-03:00"
-  },
-  {
-    "id": "mercadolivre-console-nintendo-switch-oled-64gb",
-    "name": "Console Nintendo Switch OLED 64GB",
-    "category": "Games",
-    "store": "Mercado Livre",
-    "price": 2023.08,
-    "oldPrice": 2999,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_928841-MLA93525033946_102025-O.webp",
-    "link": "https://meli.la/32EbEXY",
-    "createdAt": "2026-10-26T00:24:00-03:00"
+    "createdAt": "2026-10-26T00:22:00-03:00",
+    "checkedAt": "2026-11-09T14:12:31-03:00"
   },
   {
     "id": "shopee-conjunto-fitness-element-short-top-suplex-zero-transparencia",
@@ -4935,7 +4881,8 @@
     "oldPrice": 69.9,
     "image": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-m1r95fc5padtd4",
     "link": "https://s.shopee.com.br/3LRtzIj1yS",
-    "createdAt": "2026-10-26T04:00:00-03:00"
+    "createdAt": "2026-10-26T04:00:00-03:00",
+    "checkedAt": "2026-11-09T14:12:31-03:00"
   },
   {
     "id": "shopee-anasol-protetor-solar-facial-fps70-clareador-60g",
