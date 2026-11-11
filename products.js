@@ -1567,7 +1567,7 @@ window.ACHOU_PRODUCTS = [
     name: "365 Hábitos Simples e Poderosos",
     category: "Livros",
     store: "Shopee",
-    price: 19.90,
+    price: 20.60,
     oldPrice: 39.90,
     image: "https://down-bs-br.img.susercontent.com/sg-11134201-7rdw1-m16074d6ryce26.webp",
     emoji: "📚",
@@ -1575,7 +1575,7 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-16T11:42:00-03:00",
-    checkedAt: "2026-10-10T18:23:00-03:00"
+    checkedAt: "2026-11-11T13:34:00-03:00"
   },
   {
     id: "shopee-livro-mulheres-com-deus-devocional",
@@ -1590,7 +1590,7 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-16T11:45:00-03:00",
-    checkedAt: "2026-10-10T18:23:00-03:00"
+    checkedAt: "2026-11-11T13:34:00-03:00"
   },
   {
     id: "shopee-livro-colorir-cozy-time",
@@ -1605,14 +1605,14 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-16T11:46:00-03:00",
-    checkedAt: "2026-10-10T18:23:00-03:00"
+    checkedAt: "2026-11-11T13:34:00-03:00"
   },
   {
     id: "shopee-livro-poder-do-autocontrole",
     name: "O Poder do Autocontrole: A Chave para a Grandeza Pessoal",
     category: "Livros",
     store: "Shopee",
-    price: 14.48,
+    price: 19.90,
     oldPrice: 29.90,
     image: "https://down-bs-br.img.susercontent.com/sg-11134201-8224t-mhjcw6845n284a.webp",
     emoji: "📚",
@@ -1620,7 +1620,7 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-16T11:47:00-03:00",
-    checkedAt: "2026-10-10T18:23:00-03:00"
+    checkedAt: "2026-11-11T13:34:00-03:00"
   },
   {
     id: "shopee-livro-primeira-biblioteca-box10",
@@ -1635,14 +1635,14 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-16T11:48:00-03:00",
-    checkedAt: "2026-10-10T18:23:00-03:00"
+    checkedAt: "2026-11-11T13:34:00-03:00"
   },
   {
     id: "shopee-livro-365-dias-amor-com-deus",
     name: "365 Dias Amor com Deus - Devocional",
     category: "Livros",
     store: "Shopee",
-    price: 17.48,
+    price: 23.15,
     oldPrice: 39.90,
     image: "https://down-bs-br.img.susercontent.com/br-11134207-7r98o-m1ztnbj51scxa7.webp",
     emoji: "📚",
@@ -1650,37 +1650,7 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-16T11:49:00-03:00",
-    checkedAt: "2026-10-10T18:23:00-03:00"
-  },
-  {
-    id: "shopee-celular-moto-g86-5g-256gb",
-    name: "Smartphone Motorola Moto g86 5G - 256GB, 8GB RAM+16GB Ram Boost 50MP Sony camera OIS Moto AI",
-    category: "Celulares",
-    store: "Shopee",
-    price: 1951.43,
-    oldPrice: 2221.11,
-    image: "https://down-bs-br.img.susercontent.com/sg-11134201-821gc-mgp752kbcjdad3.webp",
-    emoji: "📱",
-    link: "https://s.shopee.com.br/6Al4FGOmNC",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-09-16T11:54:00-03:00",
-    checkedAt: "2026-10-10T18:23:00-03:00"
-  },
-  {
-    id: "shopee-celular-galaxy-a17-256gb-tripla",
-    name: "Smartphone A17 256GB 8GB RAM 4G Câmera Tripla Traseira 50 MP Samsung",
-    category: "Celulares",
-    store: "Shopee",
-    price: 1214.77,
-    oldPrice: 1389.90,
-    image: "https://down-bs-br.img.susercontent.com/sg-11134201-82274-mhkhgrof6brabd.webp",
-    emoji: "📱",
-    link: "https://s.shopee.com.br/60Re2xPPiB",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-09-16T11:55:00-03:00",
-    checkedAt: "2026-10-10T18:23:00-03:00"
+    checkedAt: "2026-11-11T13:34:00-03:00"
   },
   {
     id: "shopee-celular-moto-g47-5g-128gb-grafite",
