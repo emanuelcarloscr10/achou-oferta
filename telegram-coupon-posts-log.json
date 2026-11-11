@@ -167,5 +167,15 @@
     "validUntil": "2026-11-09",
     "publishedAt": "2026-11-09T14:09:00-03:00",
     "note": "Cupom Beleza (12% OFF, compra min. R$79, desconto max. R$50, valido somente em 09.11, em ate 90% da categoria), postado no canal Afiliados e Criadores Mercado Livre Brasil em 09/11 10:00. Link bit.ly/3X5fyso resolvido via curl para lista.mercadolivre.com.br/_Container_beauty-aff; publicado com esse link oficial sem parametros de rastreio. Confirmado publicado no canal Achou Oferta - Promocoes as 14:09 (Telegram Web A, message-40067, conferido apos reload)."
+  },
+  {
+    "code": "CUPOMEXCLUSIVO",
+    "store": "Mercado Livre",
+    "category": "Cupons gerais",
+    "type": "coupon",
+    "discountLabel": "20% OFF",
+    "validUntil": "2026-11-11",
+    "publishedAt": "2026-11-11T13:22:00-03:00",
+    "note": "Cupom geral (20% OFF, compra min. R$79, desconto max. R$100, valido somente em 11.11, em produtos elegiveis), postado no canal Afiliados e Criadores Mercado Livre Brasil em 11/11 12:00. Link bit.ly/4zdYzBL resolvido via curl para www.mercadolivre.com.br/black-friday; publicado com esse link oficial sem parametros de rastreio. Confirmado publicado no canal Achou Oferta - Promocoes as 13:22 (Telegram Web K, mid inteiro 4295008804, conferido apos reload)."
   }
 ]
