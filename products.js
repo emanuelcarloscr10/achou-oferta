@@ -6572,74 +6572,49 @@ window.ACHOU_PRODUCTS = [
     checkedAt: "2026-11-10T16:43:00-03:00"
   },
   {
-    id: "shopee-tenis-olympikus-beats-caminhada-unissex",
-    name: "Tênis de Caminhada Casual Unissex Confortável Beats - Olympikus (preço no Pix com cupom)",
-    category: "Tênis",
-    store: "Shopee",
-    price: 185.82,
-    oldPrice: 350.6,
-    image: "https://down-br.img.susercontent.com/file/br-11134207-820m9-mm9aluy1hj4756",
-    emoji: "👟",
-    link: "https://s.shopee.com.br/60SgVT8R4R",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-10-26T21:37:00-03:00"
-  },
-  {
     id: "mercadolivre-mlbu767898429",
     name: "Tênis Feminino Questar 3 adidas",
     category: "Tênis",
     store: "Mercado Livre",
-    price: 350.09,
+    price: 398.04,
     oldPrice: 599.99,
     image: "https://http2.mlstatic.com/D_NQ_NP_937716-MLB110264132150_052026-O-tenis-feminino-questar-3-adidas.webp",
     emoji: "👟",
     link: "https://meli.la/14eS8vi",
     featured: false,
     isDemo: false,
-    createdAt: "2026-10-26T21:38:00-03:00"
+    createdAt: "2026-10-26T21:38:00-03:00",
+    checkedAt: "2026-11-11T13:12:00-03:00"
   },
   {
     id: "mercadolivre-mlb29307476",
     name: "Máquina Inversora De Solda Portatil Mma Eletrodo MI150D 120A The Black Tools",
     category: "Ferramentas",
     store: "Mercado Livre",
-    price: 189.9,
-    oldPrice: 458.32,
+    price: 225.54,
+    oldPrice: 394.18,
     image: "https://http2.mlstatic.com/D_NQ_NP_845995-MLA104461209320_012026-O.webp",
     emoji: "🔧",
     link: "https://meli.la/12o2RC4",
     featured: false,
     isDemo: false,
-    createdAt: "2026-10-26T21:39:00-03:00"
-  },
-  {
-    id: "shopee-tenis-olympikus-atmos-feminino",
-    name: "Tênis Olympikus Atmos Feminino (preço no Pix com cupom)",
-    category: "Tênis",
-    store: "Shopee",
-    price: 122.81,
-    oldPrice: 188.94,
-    image: "https://down-br.img.susercontent.com/file/sg-11134201-825b3-mq6q0bqrj7k23f",
-    emoji: "👟",
-    link: "https://s.shopee.com.br/6Am6hm7njS",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-10-26T21:40:00-03:00"
+    createdAt: "2026-10-26T21:39:00-03:00",
+    checkedAt: "2026-11-11T13:12:00-03:00"
   },
   {
     id: "mercadolivre-mlbu3962037671",
     name: "Tênis Masculino Volta 2 Olympikus",
     category: "Tênis",
     store: "Mercado Livre",
-    price: 222.29,
+    price: 233.99,
     oldPrice: 379.99,
     image: "https://http2.mlstatic.com/D_NQ_NP_954967-MLB110635999200_052026-O-tenis-masculino-volta-2-olympikus.webp",
     emoji: "👟",
     link: "https://meli.la/2QPJHXS",
     featured: false,
     isDemo: false,
-    createdAt: "2026-10-26T21:41:00-03:00"
+    createdAt: "2026-10-26T21:41:00-03:00",
+    checkedAt: "2026-11-11T13:12:00-03:00"
   },
   {
     id: "mercadolivre-mlb36357048",
@@ -6653,21 +6628,8 @@ window.ACHOU_PRODUCTS = [
     link: "https://meli.la/2XciZUd",
     featured: false,
     isDemo: false,
-    createdAt: "2026-10-26T21:42:00-03:00"
-  },
-  {
-    id: "shopee-tenis-olympikus-acqua-feminino",
-    name: "Tênis Olympikus Acqua Leve Macio Flexível e Moderno - Feminino (preço no Pix com cupom)",
-    category: "Tênis",
-    store: "Shopee",
-    price: 145.82,
-    oldPrice: 227.84,
-    image: "https://down-br.img.susercontent.com/file/sg-11134201-81zw2-mmtb8oiz8d8oe6",
-    emoji: "👟",
-    link: "https://s.shopee.com.br/9pfP4VtqIC",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-10-26T21:43:00-03:00"
+    createdAt: "2026-10-26T21:42:00-03:00",
+    checkedAt: "2026-11-11T13:12:00-03:00"
   },
   {
     id: "mercadolivre-mlb19530953",
@@ -6688,14 +6650,15 @@ window.ACHOU_PRODUCTS = [
     name: "Manta Cobertor Casal Soft Premium Lisa Super Macia Microfibra Veludo Toque Suave Cinza",
     category: "Enxoval",
     store: "Mercado Livre",
-    price: 37.08,
+    price: 27.29,
     oldPrice: 69.98,
     image: "https://http2.mlstatic.com/D_NQ_NP_716149-MLA111826124498_062026-O.webp",
     emoji: "🛏️",
     link: "https://meli.la/1Q1bywM",
     featured: false,
     isDemo: false,
-    createdAt: "2026-10-27T16:30:00-03:00"
+    createdAt: "2026-10-27T16:30:00-03:00",
+    checkedAt: "2026-11-11T13:12:00-03:00"
   },
   {
     id: "mercadolivre-mlb43954645",
@@ -6709,7 +6672,8 @@ window.ACHOU_PRODUCTS = [
     link: "https://meli.la/2nyGB5A",
     featured: false,
     isDemo: false,
-    createdAt: "2026-10-27T16:31:00-03:00"
+    createdAt: "2026-10-27T16:31:00-03:00",
+    checkedAt: "2026-11-11T13:12:00-03:00"
   },
   {
     id: "shopee-kit-3-toalhas-banho-grande-felpuda-algodao",
@@ -6723,119 +6687,68 @@ window.ACHOU_PRODUCTS = [
     link: "https://s.shopee.com.br/7puLy3jnpo",
     featured: false,
     isDemo: false,
-    createdAt: "2026-10-27T16:32:00-03:00"
+    createdAt: "2026-10-27T16:32:00-03:00",
+    checkedAt: "2026-11-11T13:12:00-03:00"
   },
   {
     id: "mercadolivre-mlb48944260",
     name: "Edredom Casal Toque Acetinado Dupla Face Altenburg",
     category: "Enxoval",
     store: "Mercado Livre",
-    price: 178.05,
+    price: 164.25,
     oldPrice: 309.9,
     image: "https://http2.mlstatic.com/D_NQ_NP_908051-MLA117194915387_092026-O.webp",
     emoji: "🛏️",
     link: "https://meli.la/1Svgwu5",
     featured: false,
     isDemo: false,
-    createdAt: "2026-10-27T16:33:00-03:00"
-  },
-  {
-    id: "shopee-jogo-4-toalhas-banho-rosto-600g",
-    name: "Jogo de 4 Toalhas de Banho e Rosto Super Grossa Macia 100% Algodão 600g",
-    category: "Enxoval",
-    store: "Shopee",
-    price: 162.89,
-    oldPrice: 299.9,
-    image: "https://down-br.img.susercontent.com/file/sg-11134201-825a8-mr0disae6djba0",
-    emoji: "🛏️",
-    link: "https://s.shopee.com.br/5LD0zStJuJ",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-10-27T16:34:00-03:00"
+    createdAt: "2026-10-27T16:33:00-03:00",
+    checkedAt: "2026-11-11T13:12:00-03:00"
   },
   {
     id: "mercadolivre-mlb18725473",
     name: "Cooktop de Indução 4 Bocas EOS 60cm ECI04EP Preto",
     category: "Casa e eletrodomésticos",
     store: "Mercado Livre",
-    price: 839.7,
-    oldPrice: 1999,
+    price: 1122.42,
+    oldPrice: 1390,
     image: "https://http2.mlstatic.com/D_NQ_NP_605002-MLA99934432121_112025-O.webp",
     emoji: "🏠",
     link: "https://meli.la/1jMDUNs",
     featured: false,
     isDemo: false,
-    createdAt: "2026-10-27T16:35:00-03:00"
+    createdAt: "2026-10-27T16:35:00-03:00",
+    checkedAt: "2026-11-11T13:12:00-03:00"
   },
   {
     id: "mercadolivre-mlb35679627",
     name: "Camesa Ecopluma Edredom 220x240cm Casal Branco",
     category: "Enxoval",
     store: "Mercado Livre",
-    price: 187.46,
+    price: 166.99,
     oldPrice: 347,
     image: "https://http2.mlstatic.com/D_NQ_NP_602153-MLU75558796898_042024-O.webp",
     emoji: "🛏️",
     link: "https://meli.la/1ZmbnNr",
     featured: false,
     isDemo: false,
-    createdAt: "2026-10-27T16:36:00-03:00"
-  },
-  {
-    id: "shopee-kit-edredom-fronha-estampada-casal-queen",
-    name: "Kit 3 Peças Edredom com Fronha Estampada Casal e Queen",
-    category: "Enxoval",
-    store: "Shopee",
-    price: 79.88,
-    oldPrice: 144.83,
-    image: "https://down-br.img.susercontent.com/file/br-11134207-81ztc-mjabwf4obtvl01",
-    emoji: "🛏️",
-    link: "https://s.shopee.com.br/7favlkkRAn",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-10-27T16:37:00-03:00"
+    createdAt: "2026-10-27T16:36:00-03:00",
+    checkedAt: "2026-11-11T13:12:00-03:00"
   },
   {
     id: "mercadolivre-mlb51971235",
     name: "Fogão 4 Bocas Itatiaia Vidro Temperado Electra Glass Plus Preto",
     category: "Casa e eletrodomésticos",
     store: "Mercado Livre",
-    price: 654.55,
-    oldPrice: 1299,
+    price: 740.05,
+    oldPrice: 1089,
     image: "https://http2.mlstatic.com/D_NQ_NP_643776-MLA99995776173_112025-O.webp",
     emoji: "🏠",
     link: "https://meli.la/1A5Z19U",
     featured: false,
     isDemo: false,
-    createdAt: "2026-10-27T16:38:00-03:00"
-  },
-  {
-    id: "mercadolivre-mlb65075829",
-    name: "Edredom Sherpa Cobertor e Coberdrom Casal Queen Grosso Marinho",
-    category: "Enxoval",
-    store: "Mercado Livre",
-    price: 98.69,
-    oldPrice: 188.94,
-    image: "https://http2.mlstatic.com/D_NQ_NP_787776-MLA105537068548_012026-O.webp",
-    emoji: "🛏️",
-    link: "https://meli.la/1WFvJqk",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-10-27T16:39:00-03:00"
-  },
-  {
-    id: "shopee-toalha-banho-520g-super-macia-hotel",
-    name: "Toalha de Banho Super Macia 520g Grossa Alta Absorção Toque de Hotel 1,45x72",
-    category: "Enxoval",
-    store: "Shopee",
-    price: 39.9,
-    oldPrice: 99.9,
-    image: "https://down-br.img.susercontent.com/file/br-11134207-820ll-mnwn8khp8n41d9",
-    emoji: "🛏️",
-    link: "https://s.shopee.com.br/7Ky5N8lhql",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-10-27T16:40:00-03:00"
+    createdAt: "2026-10-27T16:38:00-03:00",
+    checkedAt: "2026-11-11T13:12:00-03:00"
   },
   {
     id: "mercadolivre-mlb26797988",
