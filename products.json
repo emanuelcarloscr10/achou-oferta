@@ -6488,5 +6488,115 @@
     "image": "https://http2.mlstatic.com/D_NQ_NP_733029-MLA96883295535_102025-O.webp",
     "link": "https://meli.la/14JHSMr",
     "createdAt": "2026-11-11T13:28:00-03:00"
+  },
+  {
+    "id": "mercadolivre-mlb2190377004",
+    "name": "Pijama Cirúrgico Feminino Scrub Hospitalar - Unissex Atacado",
+    "category": "Moda",
+    "store": "Mercado Livre",
+    "price": 39.9,
+    "oldPrice": 82.9,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_633154-MLB117152965200_102026-O-pijama-cirurgico-feminino-scrub-hospitalar-unissex-atacado.webp",
+    "link": "https://meli.la/2HsZhsq",
+    "createdAt": "2026-11-12T11:20:00-03:00"
+  },
+  {
+    "id": "mercadolivre-mlb4388911224",
+    "name": "Calça Masculina Sarja Premium Esporte Fino Bolso Faca Lycra",
+    "category": "Moda",
+    "store": "Mercado Livre",
+    "price": 74.99,
+    "oldPrice": 99.99,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_925439-MLB95522562902_102025-O-calca-masculina-sarja-premium-esporte-fino-bolso-faca-lycra.webp",
+    "link": "https://meli.la/1dTfjQi",
+    "createdAt": "2026-11-12T11:21:00-03:00"
+  },
+  {
+    "id": "mercadolivre-mlb5755197830",
+    "name": "Kit 3 Shorts Masculino Bermuda Linho Verão Envio Imediato",
+    "category": "Moda",
+    "store": "Mercado Livre",
+    "price": 65.9,
+    "oldPrice": 119.9,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_703852-MLB93401645900_092025-O-kit-3-shorts-masculino-bermuda-linho-vero-envio-imediato.webp",
+    "link": "https://meli.la/1bmKYmz",
+    "createdAt": "2026-11-12T11:22:00-03:00"
+  },
+  {
+    "id": "mercadolivre-mlb6807502842",
+    "name": "Kit 6 Cuecas Boxer Reebok Classic Microfibra Sem Costura",
+    "category": "Moda",
+    "store": "Mercado Livre",
+    "price": 53.9,
+    "oldPrice": 99.99,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_778486-MLB111945061757_052026-O-kit-6-cuecas-boxer-reebok-classic-microfibra-sem-costura.webp",
+    "link": "https://meli.la/22pD3He",
+    "createdAt": "2026-11-12T11:23:00-03:00"
+  },
+  {
+    "id": "mercadolivre-mlb3240424598",
+    "name": "Kit 9 Pares Meias Puma Algodão Sapatilha Invisível Original",
+    "category": "Moda",
+    "store": "Mercado Livre",
+    "price": 64,
+    "oldPrice": 199.98,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_872253-MLB96642336275_102025-O-kit-9-pares-meias-puma-algodo-sapatilha-invisivel-original.webp",
+    "link": "https://meli.la/1eS59qb",
+    "createdAt": "2026-11-12T11:24:00-03:00"
+  },
+  {
+    "id": "mercadolivre-mlb54076558",
+    "name": "Jogo De Toalhas 4 Pçs Fio Cardado 100% Algodão Bosco Karsten",
+    "category": "Enxoval",
+    "store": "Mercado Livre",
+    "price": 107.1,
+    "oldPrice": 149.9,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_733667-MLA95696781618_102025-O.webp",
+    "link": "https://meli.la/2WJgi52",
+    "createdAt": "2026-11-12T11:25:00-03:00"
+  },
+  {
+    "id": "mercadolivre-mlb66275098",
+    "name": "Air Fryer Oven Philco PAF15C 15L 220V Preta",
+    "category": "Casa e eletrodomésticos",
+    "store": "Mercado Livre",
+    "price": 498.9,
+    "oldPrice": 827.14,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_744614-MLA113587573149_062026-O.webp",
+    "link": "https://meli.la/1iYnMAd",
+    "createdAt": "2026-11-12T11:26:00-03:00"
+  },
+  {
+    "id": "mercadolivre-mlb46836439",
+    "name": "Kit 2 Câmeras Segurança Ip Interna Externa Wifi iCSee Infravermelho Prova D’Água - HW",
+    "category": "Eletrônicos",
+    "store": "Mercado Livre",
+    "price": 148.79,
+    "oldPrice": 349,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_694546-MLA117038112537_092026-O.webp",
+    "link": "https://meli.la/19urCxK",
+    "createdAt": "2026-11-12T11:27:00-03:00"
+  },
+  {
+    "id": "mercadolivre-mlb34733595",
+    "name": "Air Fryer Britânia 5,5L 1500W Antiaderente Redstone BFR50 127V",
+    "category": "Casa e eletrodomésticos",
+    "store": "Mercado Livre",
+    "price": 269.79,
+    "oldPrice": 399.9,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_812717-MLA119390632139_102026-O.webp",
+    "link": "https://meli.la/21MUttZ",
+    "createdAt": "2026-11-12T11:28:00-03:00"
+  },
+  {
+    "id": "mercadolivre-mlb69700673",
+    "name": "Smartphone Motorola Moto G Max 5g - 256gb 8gb Ram + 16gb Ram Boost, Câmera 200mp, Ois, Tela 1.5k Extreme Amoled 120hz, Ip68 E Ip69 - Azul Claro",
+    "category": "Celulares",
+    "store": "Mercado Livre",
+    "price": 1619,
+    "oldPrice": 2355.71,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_698621-MLA110748614648_052026-O.webp",
+    "link": "https://meli.la/1hRQQBG",
+    "createdAt": "2026-11-12T11:29:00-03:00"
   }
 ]
