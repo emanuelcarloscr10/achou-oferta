@@ -1236,8 +1236,8 @@ window.ACHOU_PRODUCTS = [
     name: "Fritadeira Elétrica AFON-12L-BG Forno Oven 12 Litros Preto Mondial",
     category: "Casa e eletrodomésticos",
     store: "Mercado Livre",
-    price: 633.66,
-    oldPrice: 899,
+    price: 533.40,
+    oldPrice: 899.00,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_900387-MLA109507200694_042026-AB.webp",
     emoji: "🍟",
     keywords: ["air fryer", "airfryer"],
@@ -1245,14 +1245,14 @@ window.ACHOU_PRODUCTS = [
     featured: true,
     isDemo: false,
     createdAt: "2026-09-15T19:10:00-03:00",
-    checkedAt: "2026-09-18T20:00:00-03:00"
+    checkedAt: "2026-11-12T10:50:00-03:00"
   },
   {
     id: "mercadolivre-cafeteira-electrolux-ecm10",
     name: "Cafeteira elétrica Electrolux inox filtro permanente removivel corta pingos capacidade 600ml 15 xicaras função manter aquecido sistema ECM10",
     category: "Casa e eletrodomésticos",
     store: "Mercado Livre",
-    price: 113.25,
+    price: 106.11,
     oldPrice: 223.84,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_923263-MLA99474168604_112025-AB.webp",
     emoji: "☕",
@@ -1260,29 +1260,29 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-15T19:11:00-03:00",
-    checkedAt: "2026-09-18T20:00:00-03:00"
+    checkedAt: "2026-11-12T10:50:00-03:00"
   },
   {
     id: "mercadolivre-microondas-britania-bmo23",
     name: "Micro-ondas Britânia Bmo23 De Preto 20l Branco",
     category: "Casa e eletrodomésticos",
     store: "Mercado Livre",
-    price: 509.90,
-    oldPrice: 574.90,
+    price: 507.97,
+    oldPrice: 579.00,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_612754-MLA99995329987_112025-AB.webp",
     emoji: "🍲",
     link: "https://meli.la/2WL9EbR",
     featured: false,
     isDemo: false,
     createdAt: "2026-09-15T19:12:00-03:00",
-    checkedAt: "2026-09-18T20:00:00-03:00"
+    checkedAt: "2026-11-12T10:50:00-03:00"
   },
   {
     id: "mercadolivre-escova-britania-bec07r",
     name: "Escova Secadora E Modeladora Britânia 4 EM 1 ANTI FRIZZ BRILHO E MACIEZ BEC07R 1300W 127V/220V",
     category: "Casa e eletrodomésticos",
     store: "Mercado Livre",
-    price: 109.47,
+    price: 106.32,
     oldPrice: 139.90,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_734805-MLA114128393951_072026-AB.webp",
     emoji: "💇",
@@ -1290,14 +1290,14 @@ window.ACHOU_PRODUCTS = [
     featured: true,
     isDemo: false,
     createdAt: "2026-09-15T20:00:00-03:00",
-    checkedAt: "2026-09-18T20:00:00-03:00"
+    checkedAt: "2026-11-12T10:50:00-03:00"
   },
   {
     id: "mercadolivre-batedeira-mondial-b44b",
     name: "Batedeira Prática Mondial 400W - B-44-B",
     category: "Casa e eletrodomésticos",
     store: "Mercado Livre",
-    price: 102.56,
+    price: 78.13,
     oldPrice: 154.90,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_877834-MLA99469550350_112025-AB.webp",
     emoji: "🥣",
@@ -1305,14 +1305,14 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-15T20:01:00-03:00",
-    checkedAt: "2026-09-18T20:00:00-03:00"
+    checkedAt: "2026-11-12T10:50:00-03:00"
   },
   {
     id: "mercadolivre-espremedor-mondial-e02",
     name: "Espremedor Premium Mondial 30W E-02",
     category: "Casa e eletrodomésticos",
     store: "Mercado Livre",
-    price: 75.92,
+    price: 58.04,
     oldPrice: 104.90,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_852738-MLA99700511468_122025-AB.webp",
     emoji: "🍹",
@@ -1320,14 +1320,14 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-15T20:02:00-03:00",
-    checkedAt: "2026-09-18T20:00:00-03:00"
+    checkedAt: "2026-11-12T10:50:00-03:00"
   },
   {
     id: "mercadolivre-galaxy-a17",
     name: "Celular Samsung Galaxy A17 Com Ia, 256gb, 8gb Ram, Câm De 50mp, Tela De 6.7 , Nfc, Ip54 - Preto 4G",
     category: "Celulares",
     store: "Mercado Livre",
-    price: 1254.66,
+    price: 1034.10,
     oldPrice: 1699.00,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_781103-MLA99983064831_112025-AB.webp",
     emoji: "📱",
@@ -1335,14 +1335,14 @@ window.ACHOU_PRODUCTS = [
     featured: true,
     isDemo: false,
     createdAt: "2026-09-15T20:05:00-03:00",
-    checkedAt: "2026-10-10T18:23:00-03:00"
+    checkedAt: "2026-11-12T10:50:00-03:00"
   },
   {
     id: "mercadolivre-galaxy-s25-fe",
     name: "Celular Samsung Galaxy S25 Fe 5g, 128gb, 8gb Ram, Câmera Tripla De 50+12+8, Tela Grande De 6.7 Azul Marinho",
     category: "Celulares",
     store: "Mercado Livre",
-    price: 2789.00,
+    price: 2699.10,
     oldPrice: 4499.00,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_993303-MLA96666133268_112025-AB.webp",
     emoji: "📱",
@@ -1350,19 +1350,19 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-15T20:06:00-03:00",
-    checkedAt: "2026-10-10T18:23:00-03:00"
+    checkedAt: "2026-11-12T10:50:00-03:00"
   },
   {
     id: "mercadolivre-iphone-15-128gb",
     name: "Apple iPhone 15 (128 GB) - Azul - Distribuidor Autorizado",
     category: "Celulares",
     store: "Mercado Livre",
-    price: 4009.80,
+    price: 3989.05,
     oldPrice: 7209.00,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_831434-MLA96401363339_102025-AB.webp",
     emoji: "📱",
     link: "https://meli.la/2pkKBdh",
-    checkedAt: "2026-10-10T18:23:00-03:00",
+    checkedAt: "2026-11-12T10:50:00-03:00",
     featured: false,
     isDemo: false,
     createdAt: "2026-09-15T20:07:00-03:00"
@@ -1372,12 +1372,12 @@ window.ACHOU_PRODUCTS = [
     name: "iPhone 17 256 GB 8 GB Preto - Distribuidor Autorizado",
     category: "Celulares",
     store: "Mercado Livre",
-    price: 5594.31,
+    price: 5566.05,
     oldPrice: 7999.00,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_724430-MLA97899894923_112025-AB.webp",
     emoji: "📱",
     link: "https://meli.la/1RC19nX",
-    checkedAt: "2026-10-10T18:23:00-03:00",
+    checkedAt: "2026-11-12T10:50:00-03:00",
     featured: false,
     isDemo: false,
     createdAt: "2026-09-15T20:08:00-03:00"
@@ -1387,57 +1387,27 @@ window.ACHOU_PRODUCTS = [
     name: "iPhone 17 Pro Max 256GB - Laranja-cósmico - Distribuidor Autorizado",
     category: "Celulares",
     store: "Mercado Livre",
-    price: 8813.00,
+    price: 9674.05,
     oldPrice: 12499.00,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_739019-MLA95656293708_102025-AB.webp",
     emoji: "📱",
     link: "https://meli.la/2pw7zXM",
-    checkedAt: "2026-09-20T09:41:49-03:00",
+    checkedAt: "2026-11-12T10:50:00-03:00",
     featured: false,
     isDemo: false,
     createdAt: "2026-09-15T20:09:00-03:00"
-  },
-  {
-    id: "mercadolivre-tv-philco-32-p32vik",
-    name: "Smart Tv 32 Philco P32vik Roku Led Dolby Audio Hdr Wi-fi 110/220v",
-    category: "TVs",
-    store: "Mercado Livre",
-    price: 949.00,
-    oldPrice: 1499.00,
-    image: "https://http2.mlstatic.com/D_Q_NP_2X_691057-MLA100479527690_122025-AB.webp",
-    emoji: "📺",
-    link: "https://meli.la/32ZuhZ8",
-    checkedAt: "2026-09-20T09:41:49-03:00",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-09-15T20:11:00-03:00"
-  },
-  {
-    id: "mercadolivre-tv-tcl-55-qled-p8k",
-    name: "Smart TV TCL 55 Polegadas QLED 4K P8K WiFi Bluetooth Google TV 144Hz HDR10+ Dolby Atmos Vision 55P8K",
-    category: "TVs",
-    store: "Mercado Livre",
-    price: 2526.05,
-    oldPrice: 3099.00,
-    image: "https://http2.mlstatic.com/D_Q_NP_2X_665053-MLA115948927163_082026-AB.webp",
-    emoji: "📺",
-    link: "https://meli.la/1pCtXF3",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-09-15T20:14:00-03:00",
-    checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
     id: "mercadolivre-tenis-kappa-park-20",
     name: "Tênis Masculino Feminino Kappa Park 2.0 Original",
     category: "Tênis",
     store: "Mercado Livre",
-    price: 93.95,
+    price: 82.99,
     oldPrice: 169.99,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_677665-MLB115936957238_092026-AB-tnis-masculino-feminino-kappa-park-20-original.webp",
     emoji: "👟",
     link: "https://meli.la/2SSrKnj",
-    checkedAt: "2026-09-20T09:41:49-03:00",
+    checkedAt: "2026-11-12T10:50:00-03:00",
     featured: true,
     isDemo: false,
     createdAt: "2026-09-15T20:15:00-03:00"
@@ -1447,7 +1417,7 @@ window.ACHOU_PRODUCTS = [
     name: "Tênis Kappa Pulse Rx Unissex Corrida Conforto",
     category: "Tênis",
     store: "Mercado Livre",
-    price: 146.90,
+    price: 124.99,
     oldPrice: 289.99,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_747746-MLB114087021168_072026-AB-tnis-kappa-pulse-rx-unissex-corrida-conforto.webp",
     emoji: "👟",
@@ -1455,7 +1425,7 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-15T20:16:00-03:00",
-    checkedAt: "2026-09-20T18:45:00-03:00"
+    checkedAt: "2026-11-12T10:50:00-03:00"
   },
   {
     id: "mercadolivre-tenis-kappa-zenit",
@@ -1470,14 +1440,14 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-15T20:17:00-03:00",
-    checkedAt: "2026-09-20T18:45:00-03:00"
+    checkedAt: "2026-11-12T10:50:00-03:00"
   },
   {
     id: "mercadolivre-tenis-olympikus-delta-122",
     name: "Tênis Feminino Delta 122 Olympikus Marinho/purple Liso 36 Br",
     category: "Tênis",
     store: "Mercado Livre",
-    price: 125.39,
+    price: 141.84,
     oldPrice: 229.99,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_836066-MLA98895341533_112025-AB.webp",
     emoji: "👟",
@@ -1485,14 +1455,14 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-15T20:18:00-03:00",
-    checkedAt: "2026-10-10T18:23:00-03:00"
+    checkedAt: "2026-11-12T10:50:00-03:00"
   },
   {
     id: "mercadolivre-tenis-sandrini-aero-run",
     name: "Tênis Sandrini Aero Run Academia Caminhada Treino",
     category: "Tênis",
     store: "Mercado Livre",
-    price: 59.99,
+    price: 52.99,
     oldPrice: 149.99,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_800756-MLB114124488109_072026-AB-tnis-sandrini-aero-run-academia-caminhada-treino.webp",
     emoji: "👟",
@@ -1500,14 +1470,14 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-15T20:19:00-03:00",
-    checkedAt: "2026-09-20T18:45:00-03:00"
+    checkedAt: "2026-11-12T10:50:00-03:00"
   },
   {
     id: "mercadolivre-kit-bermuda-dryfit-academia",
     name: "Kit 3 Bermudas Dry Fit De Alto Padrão Para Academia",
     category: "Moda",
     store: "Mercado Livre",
-    price: 91.18,
+    price: 89.02,
     oldPrice: 134.99,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_641455-MLB79849381851_102024-AB-kit-3-bermudas-dry-fit-de-alto-padro-para-academia.webp",
     emoji: "🩳",
@@ -1515,7 +1485,7 @@ window.ACHOU_PRODUCTS = [
     featured: true,
     isDemo: false,
     createdAt: "2026-09-15T20:20:00-03:00",
-    checkedAt: "2026-09-20T18:45:00-03:00"
+    checkedAt: "2026-11-12T10:50:00-03:00"
   },
   {
     id: "mercadolivre-kit-bermuda-tactel-academia",
@@ -1530,7 +1500,7 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-15T20:21:00-03:00",
-    checkedAt: "2026-10-10T18:23:00-03:00"
+    checkedAt: "2026-11-12T10:50:00-03:00"
   },
   {
     id: "mercadolivre-conjunto-legging-cropped",
