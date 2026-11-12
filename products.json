@@ -882,33 +882,11 @@
     "name": "Tênis New Balance Fresh Foam 1080 V14 M",
     "category": "Tênis",
     "store": "Mercado Livre",
-    "price": 833.93,
+    "price": 844.93,
     "oldPrice": 1299.90,
     "image": "https://http2.mlstatic.com/D_NQ_NP_946260-MLB100264645961_122025-O.webp",
     "link": "https://meli.la/2cxibSk",
-    "checkedAt": "2026-09-24T19:05:00-03:00"
-  },
-  {
-    "id": "mercadolivre-video-porteiro-hikvision-dskis603p",
-    "name": "Video Porteiro Ip Hikvision Ds-kis603-p Kit Interfone Cor Preto",
-    "category": "Casa e eletrodomésticos",
-    "store": "Mercado Livre",
-    "price": 1519.90,
-    "oldPrice": 1599.90,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_755841-MLA100001899229_112025-O.webp",
-    "link": "https://meli.la/1bCRpTo",
-    "checkedAt": "2026-09-24T19:05:00-03:00"
-  },
-  {
-    "id": "mercadolivre-oculos-armani-exchange-4041sl",
-    "name": "Óculos De Sol Armani Exchange 4041sl 80789a Tam 58 XL Preto",
-    "category": "Moda",
-    "store": "Mercado Livre",
-    "price": 389.86,
-    "oldPrice": 449,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_881015-MLU75602377290_042024-O.webp",
-    "link": "https://meli.la/1f3tRGv",
-    "checkedAt": "2026-09-24T19:05:00-03:00"
+    "checkedAt": "2026-11-12T16:30:00-03:00"
   },
   {
     "id": "mercadolivre-fritadeira-mondial-afon12l-bg",
@@ -1113,11 +1091,11 @@
     "name": "Conjunto Fitness Legging E Cropped Feminino Roupa Ginástica",
     "category": "Moda",
     "store": "Mercado Livre",
-    "price": 61.00,
+    "price": 59,
     "oldPrice": 77.99,
     "image": "https://http2.mlstatic.com/D_Q_NP_2X_600711-MLB113214278116_072026-AB-conjunto-fitness-legging-e-cropped-feminino-roupa-ginastica.webp",
     "link": "https://meli.la/2f2cd84",
-    "checkedAt": "2026-09-20T18:45:00-03:00"
+    "checkedAt": "2026-11-12T16:30:00-03:00"
   },
   {
     "id": "mercadolivre-kit-calca-moletom-academia",
@@ -1197,70 +1175,26 @@
     "checkedAt": "2026-11-11T13:34:00-03:00"
   },
   {
-    "id": "shopee-celular-moto-g47-5g-128gb-grafite",
-    "name": "Smartphone Moto G47 5G 128GB Motorola - Grafite",
-    "category": "Celulares",
-    "store": "Shopee",
-    "price": 1179.93,
-    "oldPrice": 1421.10,
-    "image": "https://down-bs-br.img.susercontent.com/sg-11134201-825al-mq7zpd51ph4xe5.webp",
-    "link": "https://s.shopee.com.br/40gZfHX1lq",
-    "checkedAt": "2026-10-10T18:23:00-03:00"
-  },
-  {
-    "id": "shopee-celular-moto-g17-256gb",
-    "name": "Smartphone G17 Tela 6,7 Polegadas 256GB 4G Câmera 50MP Motorola",
-    "category": "Celulares",
-    "store": "Shopee",
-    "price": 967.75,
-    "oldPrice": 1309.99,
-    "image": "https://down-bs-br.img.susercontent.com/sg-11134201-82603-mlged3it5bt43e.webp",
-    "link": "https://s.shopee.com.br/4AzzraWOQt",
-    "checkedAt": "2026-10-10T18:23:00-03:00"
-  },
-  {
-    "id": "shopee-tv-philco-43-qled-roku",
-    "name": "Smart TV 43\" Philco QLED HDR10 Roku TV P43KRB",
-    "category": "TVs",
-    "store": "Shopee",
-    "price": 1301.30,
-    "oldPrice": 2209.90,
-    "image": "https://down-bs-br.img.susercontent.com/sg-11134201-82594-mt5ouyoyymfc3e.webp",
-    "link": "https://s.shopee.com.br/8KpYpjZHPG",
-    "checkedAt": "2026-10-10T18:23:00-03:00"
-  },
-  {
-    "id": "shopee-tv-hq-qled-50",
-    "name": "Smart TV HQ QLED 50 Polegadas HQ-QLED50SM 4K Wi-Fi Bluetooth, Dolby Audio, Apps, Netflix, YouTube e Prime Video, 3 HDMI",
-    "category": "TVs",
-    "store": "Shopee",
-    "price": 1887.01,
-    "oldPrice": 2151.09,
-    "image": "https://down-bs-br.img.susercontent.com/sg-11134201-823ps-moobpaxang995c.webp",
-    "link": "https://s.shopee.com.br/AKadDPRfLa",
-    "checkedAt": "2026-10-10T18:23:00-03:00"
-  },
-  {
     "id": "shopee-chaleira-eletrica-inox",
     "name": "Chaleira Elétrica Jarra Café Chá Inox 110v",
     "category": "Casa e eletrodomésticos",
     "store": "Shopee",
-    "price": 43.90,
+    "price": 44.9,
     "oldPrice": 71.25,
     "image": "https://down-bs-br.img.susercontent.com/br-11134207-820m9-mr7oweocldl204.webp",
     "link": "https://s.shopee.com.br/3B7SgkoXxU",
-    "checkedAt": "2026-10-10T18:23:00-03:00"
+    "checkedAt": "2026-11-12T16:30:00-03:00"
   },
   {
     "id": "mercadolivre-sofa-retratil-quantum-cinza",
     "name": "Sofá Retrátil Reclinável 2 Lugares 1,80m Quantum Cinza",
     "category": "Casa e eletrodomésticos",
     "store": "Mercado Livre",
-    "price": 1324.47,
+    "price": 1290.1,
     "oldPrice": 1715.89,
     "image": "https://http2.mlstatic.com/D_NQ_NP_818284-MLB114601550062_082026-O.webp",
     "link": "https://meli.la/2SjwSbi",
-    "checkedAt": "2026-10-10T18:23:00-03:00"
+    "checkedAt": "2026-11-12T16:30:00-03:00"
   },
   {
     "id": "mercadolivre-sofa-2-lugares-reclinavel-madeira-140cm",
@@ -1278,11 +1212,11 @@
     "name": "Estante Livreiro De Chão 6 Prateleiras",
     "category": "Casa e eletrodomésticos",
     "store": "Mercado Livre",
-    "price": 144.48,
-    "oldPrice": 254.31,
+    "price": 168.54,
+    "oldPrice": 286.23,
     "image": "https://http2.mlstatic.com/D_Q_NP_2X_610403-CBT116152351145_082026-E--estante-livreiro-de-chao-6-prateleiras.webp",
     "link": "https://meli.la/25hFQb8",
-    "checkedAt": "2026-10-10T18:23:00-03:00"
+    "checkedAt": "2026-11-12T16:30:00-03:00"
   },
   {
     "id": "mercadolivre-lixeira-automatica-sensor-13l",
@@ -1296,48 +1230,37 @@
     "checkedAt": "2026-09-24T19:05:00-03:00"
   },
   {
-    "id": "mercadolivre-kit-15-potes-hermeticos-cozinha",
-    "name": "Kit 15 Potes Herméticos Retangulares Mantimentos Organizador Cozinha",
-    "category": "Casa e eletrodomésticos",
-    "store": "Mercado Livre",
-    "price": 113.94,
-    "oldPrice": 199.90,
-    "image": "https://http2.mlstatic.com/D_Q_NP_2X_960945-MLA112825434084_072026-E.webp",
-    "link": "https://meli.la/1W2sRAQ",
-    "checkedAt": "2026-10-10T18:23:00-03:00"
-  },
-  {
     "id": "mercadolivre-escorredor-inox-2-andares",
     "name": "Escorredor Inox Organizador Louças 2 Andares Para Pia Cozinha",
     "category": "Casa e eletrodomésticos",
     "store": "Mercado Livre",
-    "price": 116.40,
+    "price": 98.52,
     "oldPrice": 189.00,
     "image": "https://http2.mlstatic.com/D_Q_NP_2X_868675-MLB116214079508_092026-E--escorredor-inox-organizador-loucas-2andares-para-pia-cozinha.webp",
     "link": "https://meli.la/2ELGnU4",
-    "checkedAt": "2026-10-10T18:23:00-03:00"
+    "checkedAt": "2026-11-12T16:30:00-03:00"
   },
   {
     "id": "mercadolivre-parafusadeira-furadeira-wap-k21",
     "name": "Parafusadeira e Furadeira de Impacto 3/8\" WAP K21 ID02 2000 mAh",
     "category": "Ferramentas",
     "store": "Mercado Livre",
-    "price": 199,
+    "price": 170.1,
     "oldPrice": 260,
     "image": "https://http2.mlstatic.com/D_Q_NP_2X_621555-MLA114663974288_082026-E.webp",
     "link": "https://meli.la/1Nniqk4",
-    "checkedAt": "2026-10-10T18:23:00-03:00"
+    "checkedAt": "2026-11-12T16:30:00-03:00"
   },
   {
     "id": "mercadolivre-parafusadeira-furadeira-blacktools-tb21px",
     "name": "Parafusadeira Furadeira De Impacto The Black Tools TB-21PX 2 Baterias Com Maleta",
     "category": "Ferramentas",
     "store": "Mercado Livre",
-    "price": 159.90,
-    "oldPrice": 319.90,
+    "price": 132.9,
+    "oldPrice": 259.9,
     "image": "https://http2.mlstatic.com/D_Q_NP_2X_981459-MLA117136184907_092026-E.webp",
     "link": "https://meli.la/1J5v5hB",
-    "checkedAt": "2026-10-10T18:23:00-03:00"
+    "checkedAt": "2026-11-12T16:30:00-03:00"
   },
   {
     "id": "mercadolivre-esmerilhadeira-blackdecker-g650",
@@ -1348,18 +1271,7 @@
     "oldPrice": 219.90,
     "image": "https://http2.mlstatic.com/D_Q_NP_2X_633757-MLA99556934146_122025-E.webp",
     "link": "https://meli.la/1Lo9N8s",
-    "checkedAt": "2026-10-10T18:23:00-03:00"
-  },
-  {
-    "id": "mercadolivre-frigobar-mondial-120l",
-    "name": "Frigobar 120L Mondial FGB-01-W120",
-    "category": "Casa e eletrodomésticos",
-    "store": "Mercado Livre",
-    "price": 1128,
-    "oldPrice": 1499.90,
-    "image": "https://http2.mlstatic.com/D_Q_NP_2X_729976-MLA99990946013_112025-E.webp",
-    "link": "https://meli.la/2NT8zmY",
-    "checkedAt": "2026-09-25T21:46:00-03:00"
+    "checkedAt": "2026-11-12T16:30:00-03:00"
   },
   {
     "id": "mercadolivre-tanquinho-colormaq-10kg",
