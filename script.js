@@ -18,6 +18,7 @@
   const productGrid = $('productGrid');
   const categoryGrid = $('categoryGrid');
   const filterChips = $('filterChips');
+  const categoryNav = $('categoryNav');
   const resultsCount = $('resultsCount');
   const emptyState = $('emptyState');
   const searchInput = $('searchInput');
@@ -46,6 +47,19 @@
 
   const categories = ['Todos', ...new Set(products.map(p => p.category).filter(Boolean))];
 
+  // Menu do topo: categorias principais primeiro (na ordem de sempre), depois
+  // as demais do catálogo por quantidade de produtos. Gerado a partir dos
+  // produtos para nenhuma categoria nova ficar de fora do menu.
+  const NAV_ORDER = ['Celulares', 'Tênis', 'TVs', 'Livros', 'Notebooks', 'Moda', 'Eletrônicos', 'Casa e eletrodomésticos', 'Ferramentas', 'Enxoval'];
+  const categoryCounts = products.reduce((acc, p) => {
+    if (p.category) acc[p.category] = (acc[p.category] || 0) + 1;
+    return acc;
+  }, {});
+  const navCategories = [
+    ...NAV_ORDER.filter(c => categoryCounts[c]),
+    ...Object.keys(categoryCounts).filter(c => !NAV_ORDER.includes(c)).sort((a, b) => categoryCounts[b] - categoryCounts[a]),
+  ];
+
   function renderCategories() {
     if (!categoryGrid || !filterChips) return;
     const icons = {
@@ -68,6 +82,11 @@
         ${category}
       </button>
     `).join('');
+
+    if (categoryNav && products.length) {
+      categoryNav.innerHTML = `<button class="quick-filter cat-all" data-category="Todos">☰ Todas as categorias</button>` +
+        navCategories.map(category => `<button class="quick-filter" data-category="${escapeHtml(category)}">${escapeHtml(category)}</button>`).join('');
+    }
 
     document.querySelectorAll('#categoryNav [data-category]').forEach(btn => {
       btn.classList.toggle('active', btn.dataset.category === activeCategory);
@@ -174,10 +193,6 @@
   sortSelect?.addEventListener('change', (e) => {
     sort = e.target.value;
     renderProducts();
-  });
-
-  document.querySelectorAll('.quick-filter').forEach(btn => {
-    btn.addEventListener('click', () => setCategory(btn.dataset.category));
   });
 
   if ($('year')) $('year').textContent = new Date().getFullYear();
