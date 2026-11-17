@@ -8,15 +8,21 @@ on:
 permissions:
   contents: write
 
+# Uma execucao por vez: duas rodando juntas postavam o mesmo lote e a
+# segunda falhava no push, perdendo o estado (e repetindo posts depois).
+concurrency:
+  group: telegram-post
+  cancel-in-progress: false
+
 jobs:
   post:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
-      - uses: actions/setup-node@v4
+      - uses: actions/setup-node@v5
         with:
-          node-version: '20'
+          node-version: '24'
 
       - name: Post next product to Telegram
         env:
@@ -24,10 +30,27 @@ jobs:
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: node scripts/telegram-post.js
 
+      # Roda mesmo se o post falhar no meio do lote: o script grava o estado
+      # depois de cada post, entao o que ja saiu fica registrado e nao repete.
       - name: Commit updated state
+        if: always()
         run: |
           git config user.name "achou-oferta-bot"
           git config user.email "actions@github.com"
           git add telegram-state.json
-          git diff --cached --quiet || git commit -m "chore: update telegram post state [skip ci]"
-          git push
+          if git diff --cached --quiet; then
+            echo "Estado sem mudancas."
+            exit 0
+          fi
+          git commit -m "chore: update telegram post state [skip ci]"
+          # Se alguem fez push no meio (ex.: revalidacao do catalogo), traz as
+          # mudancas e tenta de novo. Em conflito no estado, vale o do bot.
+          for attempt in 1 2 3; do
+            if git pull --rebase -X theirs origin main && git push origin HEAD:main; then
+              exit 0
+            fi
+            git rebase --abort 2>/dev/null || true
+            echo "Push falhou (tentativa $attempt), tentando de novo..."
+            sleep $((attempt * 5))
+          done
+          exit 1
