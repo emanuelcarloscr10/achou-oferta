@@ -212,26 +212,11 @@ window.ACHOU_PRODUCTS = [
     checkedAt: "2026-11-16T18:59:00-03:00"
   },
   {
-    id: "mercadolivre-tv-tcl-43s5k-qled",
-    name: "Smart TV TCL 43 Polegadas QLED Full HD S5K Wi-Fi Bluetooth Google TV HDR10 Dolby Audio",
-    category: "TVs",
-    store: "Mercado Livre",
-    price: 1570.06,
-    oldPrice: 1849.00,
-    image: "https://http2.mlstatic.com/D_Q_NP_2X_957852-MLA114585921650_082026-E.webp",
-    emoji: "📺",
-    link: "https://meli.la/1PjZkx4",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-09-18T18:13:00-03:00",
-    checkedAt: "2026-10-10T18:23:00-03:00"
-  },
-  {
     id: "mercadolivre-livro-habitos-atomicos",
     name: "Hábitos Atômicos - James Clear - Editora Alta Life - Capa Mole",
     category: "Livros",
     store: "Mercado Livre",
-    price: 37.13,
+    price: 36.15,
     oldPrice: 60.90,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_653257-MLU50462500949_062022-E.webp",
     emoji: "📚",
@@ -239,14 +224,14 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-18T18:14:00-03:00",
-    checkedAt: "2026-10-10T18:23:00-03:00"
+    checkedAt: "2026-11-17T14:45:00-03:00"
   },
   {
     id: "mercadolivre-livro-diario-de-um-banana-1",
     name: "Diário de um Banana 1 - Jeff Kinney - VR Editora - Capa Dura",
     category: "Livros",
     store: "Mercado Livre",
-    price: 52.65,
+    price: 43.07,
     oldPrice: 74.90,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_655974-MLU50516803001_062022-E.webp",
     emoji: "📚",
@@ -254,14 +239,14 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-18T18:16:00-03:00",
-    checkedAt: "2026-10-10T18:23:00-03:00"
+    checkedAt: "2026-11-17T14:45:00-03:00"
   },
   {
     id: "mercadolivre-livro-princesa-desastrada-4",
     name: "O Diário de uma Princesa Desastrada 4 - Maidy Lacerda - Outro Planeta",
     category: "Livros",
     store: "Mercado Livre",
-    price: 41.54,
+    price: 47.21,
     oldPrice: 84.90,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_813121-MLA110797564301_042026-E.webp",
     emoji: "📚",
@@ -269,14 +254,14 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-18T18:17:00-03:00",
-    checkedAt: "2026-10-10T18:23:00-03:00"
+    checkedAt: "2026-11-17T14:45:00-03:00"
   },
   {
     id: "mercadolivre-livro-patinando-no-amor",
     name: "Patinando no Amor - Lynn Painter - Intrínseca - Capa Mole",
     category: "Livros",
     store: "Mercado Livre",
-    price: 44.80,
+    price: 40.61,
     oldPrice: 69.90,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_812454-MLA94687199899_102025-E.webp",
     emoji: "📚",
@@ -284,7 +269,7 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-18T18:18:00-03:00",
-    checkedAt: "2026-10-10T18:23:00-03:00"
+    checkedAt: "2026-11-17T14:45:00-03:00"
   },
   {
     id: "mercadolivre-livro-anatomia-fisiologia-humana",
@@ -302,26 +287,11 @@ window.ACHOU_PRODUCTS = [
     checkedAt: "2026-10-10T18:23:00-03:00"
   },
   {
-    id: "mercadolivre-livro-prospeccao-fanatica",
-    name: "Prospecção Fanática - Guia Definitivo de Conversas para Iniciar Vendas - Editora Alta Books",
-    category: "Livros",
-    store: "Mercado Livre",
-    price: 65.82,
-    oldPrice: 93.50,
-    image: "https://http2.mlstatic.com/D_Q_NP_2X_809626-MLU50420431875_062022-E.webp",
-    emoji: "📚",
-    link: "https://meli.la/2RQpByq",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-09-18T18:20:00-03:00",
-    checkedAt: "2026-10-10T18:23:00-03:00"
-  },
-  {
     id: "mercadolivre-notebook-acer-aspire-go-15-i5",
     name: "Notebook Acer Aspire Go 15 Intel Core i5 1334U 8GB RAM 256GB SSD Windows 11 Cinza",
     category: "Notebooks",
     store: "Mercado Livre",
-    price: 3712.72,
+    price: 3924.71,
     oldPrice: 7000.00,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_621941-MLA106863964483_022026-E.webp",
     emoji: "💻",
@@ -329,14 +299,14 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-18T18:21:00-03:00",
-    checkedAt: "2026-10-10T18:23:00-03:00"
+    checkedAt: "2026-11-17T14:45:00-03:00"
   },
   {
     id: "mercadolivre-notebook-dell-i5-8gb-512gb",
     name: "Notebook Dell DC15-i51334U-A50 15.6 FHD i5 8GB 512GB Windows 11",
     category: "Notebooks",
     store: "Mercado Livre",
-    price: 4349.33,
+    price: 3877.00,
     oldPrice: 5524.00,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_602930-MLA111944189869_052026-E.webp",
     emoji: "💻",
@@ -344,14 +314,14 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-18T18:22:00-03:00",
-    checkedAt: "2026-10-10T18:23:00-03:00"
+    checkedAt: "2026-11-17T14:45:00-03:00"
   },
   {
     id: "mercadolivre-notebook-samsung-galaxy-book4",
     name: "Notebook Samsung Galaxy Book4 Intel Core i5-1335U 8GB 512GB SSD Iris Xe 15.6'' Full HD",
     category: "Notebooks",
     store: "Mercado Livre",
-    price: 3869.10,
+    price: 3878.06,
     oldPrice: 5799.00,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_902725-MLA113038325332_072026-E.webp",
     emoji: "💻",
@@ -359,14 +329,14 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-18T18:23:00-03:00",
-    checkedAt: "2026-10-10T18:23:00-03:00"
+    checkedAt: "2026-11-17T14:45:00-03:00"
   },
   {
     id: "mercadolivre-notebook-asus-vivobook-15-i5",
     name: "Notebook ASUS Vivobook 15 X1504VA Intel Core i5 1334U 8GB RAM 512GB SSD Windows 11 Silver",
     category: "Notebooks",
     store: "Mercado Livre",
-    price: 3899.90,
+    price: 3586.88,
     oldPrice: 4999.00,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_704459-MLA99979883783_112025-E.webp",
     emoji: "💻",
@@ -374,14 +344,14 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-18T18:24:00-03:00",
-    checkedAt: "2026-10-10T18:23:00-03:00"
+    checkedAt: "2026-11-17T14:45:00-03:00"
   },
   {
     id: "mercadolivre-notebook-positivo-vision-i15m",
     name: "Notebook Positivo Vision i15M com Minitela Intel Core i3 N300 8GB RAM SSD 512GB Windows 11",
     category: "Notebooks",
     store: "Mercado Livre",
-    price: 3221.00,
+    price: 3299.99,
     oldPrice: 4637.99,
     image: "https://http2.mlstatic.com/D_NQ_NP_746655-MLA99724220345_112025-O.webp",
     emoji: "💻",
@@ -389,7 +359,7 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-18T18:25:00-03:00",
-    checkedAt: "2026-10-10T18:23:00-03:00"
+    checkedAt: "2026-11-17T14:45:00-03:00"
   },
   {
     id: "mercadolivre-notebook-vaio-fe16-i5",
@@ -411,7 +381,7 @@ window.ACHOU_PRODUCTS = [
     name: "Notebook Lenovo IdeaPad Slim 3 15IRH10 Intel Core i5-13420H 8GB 256GB SSD Windows 11 Luna Grey",
     category: "Notebooks",
     store: "Mercado Livre",
-    price: 3509.10,
+    price: 3710.97,
     oldPrice: 4699.00,
     image: "https://http2.mlstatic.com/D_NQ_NP_986125-MLA100031539491_122025-O.webp",
     emoji: "💻",
@@ -419,29 +389,29 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-18T18:27:00-03:00",
-    checkedAt: "2026-10-10T18:23:00-03:00"
+    checkedAt: "2026-11-17T14:45:00-03:00"
   },
   {
     id: "mercadolivre-parafusadeira-black-tools-tb21pw",
     name: "Parafusadeira e Furadeira de Impacto The Black Tools TB-21PW 3/8 Amarelo",
     category: "Ferramentas",
     store: "Mercado Livre",
-    price: 151.05,
-    oldPrice: 299.90,
+    price: 141.45,
+    oldPrice: 249.90,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_629064-MLA114933297788_082026-E.webp",
     emoji: "🧰",
     link: "https://meli.la/26KRhTi",
     featured: false,
     isDemo: false,
     createdAt: "2026-09-18T18:28:00-03:00",
-    checkedAt: "2026-10-10T18:23:00-03:00"
+    checkedAt: "2026-11-17T14:45:00-03:00"
   },
   {
     id: "mercadolivre-parafusadeira-wap-k21-id01",
     name: "Parafusadeira e Furadeira de Impacto WAP 3/8 K21 ID01",
     category: "Ferramentas",
     store: "Mercado Livre",
-    price: 287.13,
+    price: 232.34,
     oldPrice: 522.00,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_881860-MLA114663641920_082026-E.webp",
     emoji: "🧰",
@@ -449,14 +419,14 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-18T18:29:00-03:00",
-    checkedAt: "2026-10-10T18:23:00-03:00"
+    checkedAt: "2026-11-17T14:45:00-03:00"
   },
   {
     id: "mercadolivre-parafusadeira-bosch-gsb183li",
     name: "Parafusadeira e Furadeira de Impacto a Bateria 18V Bosch GSB 183-LI Maleta com Kit 103 Peças",
     category: "Ferramentas",
     store: "Mercado Livre",
-    price: 949.99,
+    price: 854.91,
     oldPrice: 1799.00,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_626334-MLA99457573836_112025-E.webp",
     emoji: "🧰",
@@ -464,7 +434,7 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-18T18:30:00-03:00",
-    checkedAt: "2026-10-10T18:23:00-03:00"
+    checkedAt: "2026-11-17T14:45:00-03:00"
   },
   {
     id: "mercadolivre-parafusadeira-dewalt-dcd7781d2",
