@@ -377,41 +377,11 @@ window.ACHOU_PRODUCTS = [
     checkedAt: "2026-11-17T14:45:00-03:00"
   },
   {
-    id: "mercadolivre-parafusadeira-dewalt-dcd7781d2",
-    name: "Parafusadeira Furadeira de Impacto Dewalt DCD7781D2 20V Brushless 13mm com 2 Baterias e Maleta",
-    category: "Ferramentas",
-    store: "Mercado Livre",
-    price: 999.90,
-    oldPrice: 1399.90,
-    image: "https://http2.mlstatic.com/D_Q_NP_2X_941338-MLA113249466298_072026-E.webp",
-    emoji: "🧰",
-    link: "https://meli.la/2cXNymt",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-09-18T18:31:00-03:00",
-    checkedAt: "2026-10-10T18:23:00-03:00"
-  },
-  {
-    id: "mercadolivre-parafusadeira-blackdecker-ld12s",
-    name: "Parafusadeira e Furadeira de Impacto 10mm 12V Black+Decker LD12S-BR com 13 Acessórios",
-    category: "Ferramentas",
-    store: "Mercado Livre",
-    price: 217.55,
-    oldPrice: 251.90,
-    image: "https://http2.mlstatic.com/D_Q_NP_2X_915234-MLA113306675820_072026-E.webp",
-    emoji: "🧰",
-    link: "https://meli.la/1dwchJP",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-09-18T18:32:00-03:00",
-    checkedAt: "2026-10-10T18:23:00-03:00"
-  },
-  {
     id: "mercadolivre-parafusadeira-black-tools-tb21pzw",
     name: "Parafusadeira Furadeira de Impacto a Bateria 21V 3/8 The Black Tools TB-21PZW com Maleta",
     category: "Ferramentas",
     store: "Mercado Livre",
-    price: 124.90,
+    price: 113.90,
     oldPrice: 259.90,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_660718-MLA99503122958_112025-E.webp",
     emoji: "🧰",
@@ -419,14 +389,14 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-18T18:33:00-03:00",
-    checkedAt: "2026-10-10T18:23:00-03:00"
+    checkedAt: "2026-11-23T14:25:00-03:00"
   },
   {
     id: "mercadolivre-lencol-texfine-400-fios",
     name: "Jogo de Lençol 400 Fios Ponto Palito Cama Queen 3 Peças Saldão - TEXFINE",
     category: "Enxoval",
     store: "Mercado Livre",
-    price: 28.90,
+    price: 31.89,
     oldPrice: 49.90,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_833331-MLB91182119648_092025-E-jogo-de-lencol-400-fios-ponto-palito-cama-queen-3-pcs-saldo.webp",
     emoji: "🛏️",
@@ -434,14 +404,14 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-18T18:35:00-03:00",
-    checkedAt: "2026-10-15T19:04:00-03:00"
+    checkedAt: "2026-11-23T14:25:00-03:00"
   },
   {
     id: "mercadolivre-lencol-gu-casa-conforto",
     name: "Jogo de Lençol Queen 3 Peças 400 Fios com Elástico Hotel - GU Casa Conforto",
     category: "Enxoval",
     store: "Mercado Livre",
-    price: 29.50,
+    price: 32.50,
     oldPrice: 41.99,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_714533-MLB79667122021_092024-E-jogo-de-lencol-queen-3-pecas-400-fios-c-elastico-hotel.webp",
     emoji: "🛏️",
@@ -449,29 +419,14 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-18T18:36:00-03:00",
-    checkedAt: "2026-10-15T19:04:00-03:00"
-  },
-  {
-    id: "mercadolivre-lencol-vilma-elastico",
-    name: "Jogo de Lençol Elástico Casal Padrão Box 3 Peças 400 Fios - Vilma Enxovais",
-    category: "Enxoval",
-    store: "Mercado Livre",
-    price: 37.18,
-    oldPrice: 59.90,
-    image: "https://http2.mlstatic.com/D_Q_NP_2X_931416-MLB85541687919_062025-E-jogo-de-lencol-elastico-casal-padro-box-3-pecas-400-fios.webp",
-    emoji: "🛏️",
-    link: "https://meli.la/2TWv26T",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-09-18T18:37:00-03:00",
-    checkedAt: "2026-10-15T19:04:00-03:00"
+    checkedAt: "2026-11-23T14:25:00-03:00"
   },
   {
     id: "mercadolivre-lencol-raraluz-200-fios",
     name: "Jogo de Lençol Casal 3 Peças 200 Fios Fronhas com Ponto Palito - Raraluz Casa",
     category: "Enxoval",
     store: "Mercado Livre",
-    price: 57.80,
+    price: 60.84,
     oldPrice: 78.00,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_938575-MLB52559527320_112022-E-jogo-lencol-casal-3-pecas-200-fios-fronhas-com-ponto-palito.webp",
     emoji: "🛏️",
@@ -479,14 +434,14 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-18T18:38:00-03:00",
-    checkedAt: "2026-10-15T19:04:00-03:00"
+    checkedAt: "2026-11-23T14:25:00-03:00"
   },
   {
     id: "mercadolivre-coberdrom-fv-enxovais",
     name: "Kit Coberdrom Casal Queen Jogo de Cama Dupla Face 400 Fios - F V Enxovais",
     category: "Enxoval",
     store: "Mercado Livre",
-    price: 267.89,
+    price: 253.00,
     oldPrice: 399.90,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_957094-MLB95110810455_102025-E-kit-coberdrom-casal-queen-jogo-cama-dupla-face-400-fios.webp",
     emoji: "🛏️",
@@ -494,14 +449,14 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-18T18:39:00-03:00",
-    checkedAt: "2026-10-15T19:04:00-03:00"
+    checkedAt: "2026-11-23T14:25:00-03:00"
   },
   {
     id: "mercadolivre-tenis-via-marte-branco",
     name: "Tênis Feminino Via Marte Branco Confortável Leve Original",
     category: "Tênis",
     store: "Mercado Livre",
-    price: 149.31,
+    price: 162.99,
     oldPrice: 274.20,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_877386-MLB91996259516_092025-E-tnis-feminino-via-marte-branco-confortavel-leve-original.webp",
     emoji: "👟",
@@ -509,14 +464,14 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-18T18:42:00-03:00",
-    checkedAt: "2026-10-15T19:04:00-03:00"
+    checkedAt: "2026-11-23T14:25:00-03:00"
   },
   {
     id: "mercadolivre-tenis-vizzano-branco",
     name: "Tênis Feminino Casual Vizzano Branco Confortável Original",
     category: "Tênis",
     store: "Mercado Livre",
-    price: 144.90,
+    price: 119.62,
     oldPrice: 167.79,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_622791-MLB82471437819_022025-E-tenis-feminino-casual-vizzano-branco-confortavel-original.webp",
     emoji: "👟",
@@ -524,14 +479,14 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-18T18:43:00-03:00",
-    checkedAt: "2026-10-15T19:04:00-03:00"
+    checkedAt: "2026-11-23T14:25:00-03:00"
   },
   {
     id: "mercadolivre-tenis-modare-conforto",
     name: "Tênis Feminino Modare Conforto Casual Dia a Dia Trabalho",
     category: "Tênis",
     store: "Mercado Livre",
-    price: 138.69,
+    price: 159.99,
     oldPrice: 283.99,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_697975-MLB95460087547_102025-E-tnis-feminino-modare-conforto-casual-dia-a-dia-trabalho.webp",
     emoji: "👟",
@@ -539,14 +494,14 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-18T18:44:00-03:00",
-    checkedAt: "2026-10-15T19:04:00-03:00"
+    checkedAt: "2026-11-23T14:25:00-03:00"
   },
   {
     id: "mercadolivre-tenis-vizzano-samba-flataform",
     name: "Tênis Feminino Casual Vizzano Samba Flataform Conforto Leve",
     category: "Tênis",
     store: "Mercado Livre",
-    price: 138.33,
+    price: 147.81,
     oldPrice: 189.50,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_911608-MLB109559157534_042026-E-tenis-feminino-casual-vizzano-samba-flataform-conforto-leve.webp",
     emoji: "👟",
@@ -554,14 +509,14 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-18T18:46:00-03:00",
-    checkedAt: "2026-10-15T19:04:00-03:00"
+    checkedAt: "2026-11-23T14:25:00-03:00"
   },
   {
     id: "mercadolivre-tenis-ramarim-fly-high",
     name: "Tênis Feminino Ramarim Fly High Branco Original",
     category: "Tênis",
     store: "Mercado Livre",
-    price: 169.99,
+    price: 133.98,
     oldPrice: 249.99,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_976842-MLB82086036027_012025-E-tnis-feminino-ramarim-fly-high-branco-original.webp",
     emoji: "👟",
@@ -569,14 +524,14 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-18T18:47:00-03:00",
-    checkedAt: "2026-10-15T19:04:00-03:00"
+    checkedAt: "2026-11-23T14:25:00-03:00"
   },
   {
     id: "mercadolivre-tenis-mormaii-urban-free",
     name: "Tênis Mormaii Urban Free Original Skate Casual",
     category: "Tênis",
     store: "Mercado Livre",
-    price: 137.00,
+    price: 139.67,
     oldPrice: 179.90,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_623765-MLB97192177608_112025-E--tenis-mormaii-urban-free-original-skate-casual-masculino.webp",
     emoji: "👟",
@@ -584,14 +539,14 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-18T18:48:00-03:00",
-    checkedAt: "2026-10-10T18:23:00-03:00"
+    checkedAt: "2026-11-23T14:25:00-03:00"
   },
   {
     id: "mercadolivre-bermuda-bolldor-kit3",
     name: "Kit 3 Shorts Academia Masculina Dry Fit com Bolsos - Bolldor",
     category: "Moda",
     store: "Mercado Livre",
-    price: 86.64,
+    price: 95.22,
     oldPrice: 170.00,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_744440-MLB115143838976_082026-E-kit-3-shorts-academia-masculina-dry-fit-com-bolsos.webp",
     emoji: "🩳",
@@ -599,14 +554,14 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-18T18:49:00-03:00",
-    checkedAt: "2026-10-15T19:04:00-03:00"
+    checkedAt: "2026-11-23T14:25:00-03:00"
   },
   {
     id: "mercadolivre-bermuda-mm-compressao",
     name: "Bermuda Masculina 2 em 1 Compressão Short Dry Fit Academia",
     category: "Moda",
     store: "Mercado Livre",
-    price: 38.90,
+    price: 33.90,
     oldPrice: 54.90,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_911963-MLB117718616671_092026-E-bermuda-masculina-2-em-1-compresso-short-dry-fit-academia.webp",
     emoji: "🩳",
@@ -614,14 +569,14 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-18T18:50:00-03:00",
-    checkedAt: "2026-10-15T19:04:00-03:00"
+    checkedAt: "2026-11-23T14:25:00-03:00"
   },
   {
     id: "mercadolivre-bermuda-sandrini-kit4",
     name: "Kit 4 Bermuda Shorts Tactel Sandrini Elastano Academia Praia",
     category: "Moda",
     store: "Mercado Livre",
-    price: 55.19,
+    price: 78.99,
     oldPrice: 124.99,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_740026-MLB86614660221_062025-E.webp",
     emoji: "🩳",
@@ -629,14 +584,14 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-18T18:51:00-03:00",
-    checkedAt: "2026-10-10T18:23:00-03:00"
+    checkedAt: "2026-11-23T14:25:00-03:00"
   },
   {
     id: "mercadolivre-bermuda-puma-media",
     name: "Bermuda Masculina Média Puma com Bolso Praia Academia Tactel",
     category: "Moda",
     store: "Mercado Livre",
-    price: 129.99,
+    price: 169.99,
     oldPrice: 399.99,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_938676-MLB113067129944_072026-E-bermuda-masculina-media-puma-com-bolso-praia-academia-tactel.webp",
     emoji: "🩳",
@@ -644,14 +599,14 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-18T18:52:00-03:00",
-    checkedAt: "2026-10-15T19:04:00-03:00"
+    checkedAt: "2026-11-23T14:25:00-03:00"
   },
   {
     id: "mercadolivre-shorts-duplo-dryfit-termica",
     name: "Kit 4 Shorts 2 em 1 Duplo Dryfit Masculino Compressão Térmica",
     category: "Moda",
     store: "Mercado Livre",
-    price: 85.49,
+    price: 89.99,
     oldPrice: 142.00,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_878492-MLB108664426620_032026-E-kit-4-shorts-2-em-1-duplo-dryfit-masculino-compresso-termic.webp",
     emoji: "🩳",
@@ -659,7 +614,7 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-18T18:53:00-03:00",
-    checkedAt: "2026-10-15T19:04:00-03:00"
+    checkedAt: "2026-11-23T14:25:00-03:00"
   },
   {
     id: "mercadolivre-shorts-duplo-bolso-kit3",
