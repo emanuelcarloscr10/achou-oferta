@@ -18,7 +18,15 @@ jobs:
   post:
     runs-on: ubuntu-latest
     steps:
+      # Catalogo (products.json) vem do main.
       - uses: actions/checkout@v5
+
+      # Estado do bot fica no branch telegram-state, que nao gera deploy na
+      # Vercel. Assim os commits a cada 10 min nao gastam o limite de deploys.
+      - uses: actions/checkout@v5
+        with:
+          ref: telegram-state
+          path: state
 
       - uses: actions/setup-node@v5
         with:
@@ -28,12 +36,14 @@ jobs:
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          STATE_PATH: state/telegram-state.json
         run: node scripts/telegram-post.js
 
       # Roda mesmo se o post falhar no meio do lote: o script grava o estado
       # depois de cada post, entao o que ja saiu fica registrado e nao repete.
       - name: Commit updated state
         if: always()
+        working-directory: state
         run: |
           git config user.name "achou-oferta-bot"
           git config user.email "actions@github.com"
@@ -43,10 +53,8 @@ jobs:
             exit 0
           fi
           git commit -m "chore: update telegram post state [skip ci]"
-          # Se alguem fez push no meio (ex.: revalidacao do catalogo), traz as
-          # mudancas e tenta de novo. Em conflito no estado, vale o do bot.
           for attempt in 1 2 3; do
-            if git pull --rebase -X theirs origin main && git push origin HEAD:main; then
+            if git pull --rebase -X theirs origin telegram-state && git push origin HEAD:telegram-state; then
               exit 0
             fi
             git rebase --abort 2>/dev/null || true

@@ -6,13 +6,25 @@ const DELAY_BETWEEN_POSTS_MS = 2000;
 
 const root = path.join(__dirname, '..');
 const productsPath = path.join(root, 'products.json');
-const statePath = path.join(root, 'telegram-state.json');
+// O estado fica no branch "telegram-state" (sem deploy na Vercel); o workflow
+// faz checkout dele numa pasta separada e passa o caminho em STATE_PATH.
+const statePath = process.env.STATE_PATH
+  ? path.resolve(process.env.STATE_PATH)
+  : path.join(root, 'telegram-state.json');
 
 const products = JSON.parse(fs.readFileSync(productsPath, 'utf8'));
 
 let state = { lastIndex: -1 };
 if (fs.existsSync(statePath)) {
   state = JSON.parse(fs.readFileSync(statePath, 'utf8'));
+}
+
+// Se produtos foram removidos/inseridos antes da posicao atual, o lastIndex
+// salvo deixa de apontar para o ultimo produto postado. Realinha pelo id, para
+// as tarefas que mexem no catalogo nao precisarem ajustar o estado.
+if (state.lastProductId) {
+  const current = products.findIndex((p) => p.id === state.lastProductId);
+  if (current >= 0) state.lastIndex = current;
 }
 
 function brl(n) {
