@@ -1612,7 +1612,7 @@ window.ACHOU_PRODUCTS = [
     name: "Fone De Ouvido Bluetooth Sem Fio Headset Gamer Olafvi Captain 780 Com Fio USB 5.3 PS5 PC 7.1 LED RGB",
     category: "Eletrônicos",
     store: "Mercado Livre",
-    price: 328.26,
+    price: 306.78,
     oldPrice: 1312.93,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_723362-MLA100493402087_122025-E.webp",
     emoji: "🎧",
@@ -1620,14 +1620,14 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-19T01:55:00-03:00",
-    checkedAt: "2026-10-16T14:50:00-03:00"
+    checkedAt: "2026-11-24T19:05:00-03:00"
   },
   {
     id: "mercadolivre-fone-prophonesee-bluetooth54",
     name: "Fone Ouvido Bluetooth 5.4 Sem Fio Estojo De Carregamento Anti Ruído À Prova D'Água Pro Phone See",
     category: "Eletrônicos",
     store: "Mercado Livre",
-    price: 49.70,
+    price: 47.34,
     oldPrice: 78.90,
     image: "https://http2.mlstatic.com/S_Q_NP_2X_646535-MLA113987983224_072026-V.webp",
     emoji: "🎧",
@@ -1635,7 +1635,7 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-19T01:56:00-03:00",
-    checkedAt: "2026-10-16T14:50:00-03:00"
+    checkedAt: "2026-11-24T19:05:00-03:00"
   },
   {
     id: "mercadolivre-fone-inova-tws-54",
@@ -1650,7 +1650,7 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-19T01:57:00-03:00",
-    checkedAt: "2026-10-16T14:50:00-03:00"
+    checkedAt: "2026-11-24T19:05:00-03:00"
   },
   {
     id: "mercadolivre-fone-jbl-wavebuds2",
@@ -1665,29 +1665,29 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-19T01:58:00-03:00",
-    checkedAt: "2026-10-16T14:50:00-03:00"
+    checkedAt: "2026-11-24T19:05:00-03:00"
   },
   {
     id: "mercadolivre-redmi-watch-5-active-lite",
     name: "Relógio Smartwatch Redmi Watch 5 Active Lite Xiaomi",
     category: "Smartwatch",
     store: "Mercado Livre",
-    price: 320.24,
-    oldPrice: 376.76,
+    price: 369.00,
+    oldPrice: 499.00,
     image: "https://http2.mlstatic.com/S_Q_NP_2X_761997-MLA111392533251_052026-V.webp",
     emoji: "⌚",
     link: "https://meli.la/1Tqpiu8",
     featured: false,
     isDemo: false,
     createdAt: "2026-09-19T02:00:00-03:00",
-    checkedAt: "2026-10-16T14:50:00-03:00"
+    checkedAt: "2026-11-24T19:05:00-03:00"
   },
   {
     id: "mercadolivre-smartwatch-novante-gps",
     name: "Relógio Inteligente Smartwatch GPS Autônomo IP68 3ATM Novante",
     category: "Smartwatch",
     store: "Mercado Livre",
-    price: 227.10,
+    price: 191.00,
     oldPrice: 599.00,
     image: "https://http2.mlstatic.com/D_NQ_NP_692805-MLA115517949733_082026-O.webp",
     emoji: "⌚",
@@ -1695,14 +1695,14 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-19T02:01:00-03:00",
-    checkedAt: "2026-10-16T14:50:00-03:00"
+    checkedAt: "2026-11-24T19:05:00-03:00"
   },
   {
     id: "mercadolivre-mochila-jiesipote-executiva",
     name: "Mochila Executiva Impermeável Com Saída USB Para Notebook",
     category: "Acessórios",
     store: "Mercado Livre",
-    price: 85.49,
+    price: 78.56,
     oldPrice: 269.00,
     image: "https://http2.mlstatic.com/D_NQ_NP_685557-MLB113830432573_062026-O-mochila-executiva-impermeavel-com-saida-usb-para-notebook.webp",
     emoji: "🎒",
@@ -1710,7 +1710,7 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-19T02:02:00-03:00",
-    checkedAt: "2026-10-16T14:50:00-03:00"
+    checkedAt: "2026-11-24T19:05:00-03:00"
   },
   {
     id: "mercadolivre-mochila-yorepek-50l",
@@ -1728,26 +1728,11 @@ window.ACHOU_PRODUCTS = [
     checkedAt: "2026-10-16T14:50:00-03:00"
   },
   {
-    id: "mercadolivre-perfume-donna-la-rive",
-    name: "Perfume Feminino Donna La Rive Eau de Parfum 90ml",
-    category: "Beleza",
-    store: "Mercado Livre",
-    price: 59.31,
-    oldPrice: 65.90,
-    image: "https://http2.mlstatic.com/D_NQ_NP_991704-MLU75980804637_042024-O.webp",
-    emoji: "🌸",
-    link: "https://meli.la/2HLHvZB",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-09-19T02:05:00-03:00",
-    checkedAt: "2026-10-16T20:16:00-03:00"
-  },
-  {
     id: "mercadolivre-perfume-kuf-moneygold",
     name: "Perfume Masculino Kuf Moneygold 100ml Importado",
     category: "Beleza",
     store: "Mercado Livre",
-    price: 126.00,
+    price: 145.49,
     oldPrice: 349.90,
     image: "https://http2.mlstatic.com/D_NQ_NP_975809-MLA115306688206_082026-O.webp",
     emoji: "🌸",
@@ -1755,14 +1740,14 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-19T02:06:00-03:00",
-    checkedAt: "2026-10-16T20:16:00-03:00"
+    checkedAt: "2026-11-24T19:05:00-03:00"
   },
   {
     id: "mercadolivre-aspirador-wap-highspeed-plus",
     name: "Aspirador De Pó Vertical e Portátil WAP High Speed Plus 1350W 3 Em 1",
     category: "Casa e eletrodomésticos",
     store: "Mercado Livre",
-    price: 149.00,
+    price: 122.32,
     oldPrice: 326.00,
     image: "https://http2.mlstatic.com/D_NQ_NP_841093-MLA116669740751_082026-O.webp",
     emoji: "🏠",
@@ -1770,29 +1755,29 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-19T02:07:00-03:00",
-    checkedAt: "2026-10-16T20:16:00-03:00"
+    checkedAt: "2026-11-24T19:05:00-03:00"
   },
   {
     id: "mercadolivre-impressora-hp-smart-tank-584",
     name: "Impressora Multifuncional HP Smart Tank 584 - Preta",
     category: "Eletrônicos",
     store: "Mercado Livre",
-    price: 751.06,
-    oldPrice: 1099.00,
+    price: 699.00,
+    oldPrice: 1363.49,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_797897-MLA116198687211_082026-AB.webp",
     emoji: "🖨️",
     link: "https://meli.la/2pu8Syf",
     featured: false,
     isDemo: false,
     createdAt: "2026-09-19T12:00:00-03:00",
-    checkedAt: "2026-10-16T20:16:00-03:00"
+    checkedAt: "2026-11-24T19:05:00-03:00"
   },
   {
     id: "mercadolivre-toalhas-buddemeyer-bella-4pc",
     name: "Jogo De Toalhas Buddemeyer Bella Extra Soft Banho 4 Grafite/cinza Lisa",
     category: "Enxoval",
     store: "Mercado Livre",
-    price: 119.92,
+    price: 159.90,
     oldPrice: 229.90,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_992849-MLA100187157773_122025-AB.webp",
     emoji: "🛁",
@@ -1800,29 +1785,29 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-19T12:01:00-03:00",
-    checkedAt: "2026-10-16T20:16:00-03:00"
+    checkedAt: "2026-11-24T19:05:00-03:00"
   },
   {
     id: "mercadolivre-smartwatch-samsung-galaxy-watch-8-44mm-com-gps-e-nfc-em-alum",
     name: "Smartwatch Samsung Galaxy Watch 8 44mm com GPS e NFC em Alumínio Cinza-escuro",
     category: "Smartwatch",
     store: "Mercado Livre",
-    price: 1529.10,
-    oldPrice: 3199.00,
+    price: 1078.33,
+    oldPrice: 2499.00,
     image: "https://http2.mlstatic.com/D_NQ_NP_697172-MLA86961558500_072025-O.webp",
     emoji: "⌚",
     link: "https://meli.la/2Li5hBn",
     featured: false,
     isDemo: false,
     createdAt: "2026-09-19T15:01:00-03:00",
-    checkedAt: "2026-10-16T20:16:00-03:00"
+    checkedAt: "2026-11-24T19:05:00-03:00"
   },
   {
     id: "mercadolivre-relogio-smartwatch-redmi-watch-6-active-global-gps-bluetooth",
     name: "Relógio Smartwatch Redmi Watch 6 Active Global GPS Bluetooth",
     category: "Smartwatch",
     store: "Mercado Livre",
-    price: 345.22,
+    price: 335.00,
     oldPrice: 589.90,
     image: "https://http2.mlstatic.com/D_NQ_NP_668528-MLB116486200861_082026-O-relogio-smartwatch-redmi-watch-6-active-global-gps-bluetooth.webp",
     emoji: "⌚",
@@ -1830,29 +1815,14 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-19T15:03:00-03:00",
-    checkedAt: "2026-10-16T20:16:00-03:00"
-  },
-  {
-    id: "mercadolivre-smartwatch-huawei-watch-fit-5-amoled-1-82-design-leve-mini-t",
-    name: "Smartwatch HUAWEI WATCH FIT 5 AMOLED 1.82\" Design Leve Mini Treino Bateria até 10 Dias 64GB GPS Branco",
-    category: "Smartwatch",
-    store: "Mercado Livre",
-    price: 749.00,
-    oldPrice: 969.99,
-    image: "https://http2.mlstatic.com/D_NQ_NP_888241-MLA110593054037_042026-O.webp",
-    emoji: "⌚",
-    link: "https://meli.la/15eCr3m",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-09-19T15:04:00-03:00",
-    checkedAt: "2026-10-16T20:16:00-03:00"
+    checkedAt: "2026-11-24T19:05:00-03:00"
   },
   {
     id: "mercadolivre-relogio-inteligente-smartwatch-redondo-peje-pro-amoled-nfc",
     name: "Relógio Inteligente Smartwatch Redondo Peje Pro AMOLED NFC",
     category: "Smartwatch",
     store: "Mercado Livre",
-    price: 159.99,
+    price: 151.00,
     oldPrice: 499.00,
     image: "https://http2.mlstatic.com/D_NQ_NP_874071-MLB109386995843_032026-O-relogio-inteligente-smartwatch-redondo-peje-pro-amoled-nfc.webp",
     emoji: "⌚",
@@ -1860,14 +1830,14 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-19T15:07:00-03:00",
-    checkedAt: "2026-10-16T20:16:00-03:00"
+    checkedAt: "2026-11-24T19:05:00-03:00"
   },
   {
     id: "mercadolivre-relogios-inteligentes-feminino-smartwatch-esportivo-original",
     name: "Relógios Inteligentes Feminino Smartwatch Esportivo Original",
     category: "Smartwatch",
     store: "Mercado Livre",
-    price: 160.69,
+    price: 163.46,
     oldPrice: 354.00,
     image: "https://http2.mlstatic.com/D_NQ_NP_885252-MLB89539079211_082025-O-relogios-inteligentes-feminino-smartwatch-esportivo-original.webp",
     emoji: "⌚",
@@ -1875,22 +1845,22 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-19T15:09:00-03:00",
-    checkedAt: "2026-10-10T18:23:00-03:00"
+    checkedAt: "2026-11-24T19:05:00-03:00"
   },
   {
     id: "mercadolivre-caixa-de-som-lg-xboom-go-xg9s-bluetooth-5-3-50w-ipx7",
     name: "Caixa de Som LG XBOOM GO XG9S Bluetooth 5.3 50W IPX7",
     category: "Eletrônicos",
     store: "Mercado Livre",
-    price: 692.31,
-    oldPrice: 1494.41,
+    price: 899.00,
+    oldPrice: 1749.00,
     image: "https://http2.mlstatic.com/D_NQ_NP_922049-MLA107760535162_032026-O.webp",
     emoji: "🎧",
     link: "https://meli.la/2Qyr6bo",
     featured: false,
     isDemo: false,
     createdAt: "2026-09-19T15:10:00-03:00",
-    checkedAt: "2026-10-10T18:23:00-03:00"
+    checkedAt: "2026-11-24T19:05:00-03:00"
   },
   {
     id: "mercadolivre-tv-lg-43lr6700-full-hd",
