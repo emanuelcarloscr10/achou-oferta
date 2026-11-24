@@ -617,26 +617,11 @@ window.ACHOU_PRODUCTS = [
     checkedAt: "2026-11-23T14:25:00-03:00"
   },
   {
-    id: "mercadolivre-shorts-duplo-bolso-kit3",
-    name: "Kit 3 Shorts 2 em 1 Duplo Bolso para Academia Treino Corrida",
-    category: "Moda",
-    store: "Mercado Livre",
-    price: 73.53,
-    oldPrice: 129.00,
-    image: "https://http2.mlstatic.com/D_Q_NP_2X_719092-MLB109643097642_042026-E--kit-3-shorts-2-em-1-duplo-bolso-para-academia-treino-corrida.webp",
-    emoji: "🩳",
-    link: "https://meli.la/24VZCqK",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-09-18T18:54:00-03:00",
-    checkedAt: "2026-10-10T18:23:00-03:00"
-  },
-  {
     id: "mercadolivre-bermuda-compressao-duplo-mm",
     name: "Bermuda Compressão Duplo Masculina 2 em 1 Short Academia",
     category: "Moda",
     store: "Mercado Livre",
-    price: 39.70,
+    price: 38.95,
     oldPrice: 59.90,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_770296-MLB111762232788_062026-E--bermuda-compressao-duplo-masculina-2-em-1-short-academia.webp",
     emoji: "🩳",
@@ -644,14 +629,14 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-18T18:55:00-03:00",
-    checkedAt: "2026-10-10T18:23:00-03:00"
+    checkedAt: "2026-11-24T17:08:00-03:00"
   },
   {
     id: "mercadolivre-airfryer-wap-wafg2s-5l",
     name: "Fritadeira Elétrica Air Fryer WAP WAFG2S 5 Litros com Revestimento Antiaderente 1500W",
     category: "Casa e eletrodomésticos",
     store: "Mercado Livre",
-    price: 219.00,
+    price: 209.00,
     oldPrice: 598.00,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_646462-MLA89509974686_082025-E.webp",
     emoji: "🍟",
@@ -659,29 +644,14 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-18T18:56:00-03:00",
-    checkedAt: "2026-10-10T18:23:00-03:00"
-  },
-  {
-    id: "mercadolivre-airfryer-mondial-afn40ri-4l",
-    name: "Fritadeira Sem Óleo Air Fryer 4L Mondial 1500W AFN-40-RI Vermelho/Inox",
-    category: "Casa e eletrodomésticos",
-    store: "Mercado Livre",
-    price: 580.00,
-    oldPrice: 913.12,
-    image: "https://http2.mlstatic.com/D_Q_NP_2X_900291-MLA100001205819_112025-E.webp",
-    emoji: "🍟",
-    link: "https://meli.la/1dBanRv",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-09-18T18:57:00-03:00",
-    checkedAt: "2026-10-10T18:23:00-03:00"
+    checkedAt: "2026-11-24T17:08:00-03:00"
   },
   {
     id: "mercadolivre-airfryer-electrolux-ritalobo-eaf45",
     name: "Air Fryer Fritadeira Elétrica sem Óleo Rita Lobo 5,6L Electrolux EAF45",
     category: "Casa e eletrodomésticos",
     store: "Mercado Livre",
-    price: 349.20,
+    price: 354.90,
     oldPrice: 719.90,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_870458-MLA116583927377_082026-E.webp",
     emoji: "🍟",
@@ -689,14 +659,14 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-18T18:58:00-03:00",
-    checkedAt: "2026-10-10T18:23:00-03:00"
+    checkedAt: "2026-11-24T17:08:00-03:00"
   },
   {
     id: "mercadolivre-airfryer-britania-bfr2100p-12l",
     name: "Fritadeira Air Fry Oven Britânia BFR2100P 12 Litros 1800W Preto",
     category: "Casa e eletrodomésticos",
     store: "Mercado Livre",
-    price: 526.55,
+    price: 507.93,
     oldPrice: 829.90,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_768323-MLA99461508192_112025-E.webp",
     emoji: "🍟",
@@ -704,14 +674,14 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-18T18:59:00-03:00",
-    checkedAt: "2026-10-10T18:23:00-03:00"
+    checkedAt: "2026-11-24T17:08:00-03:00"
   },
   {
     id: "mercadolivre-airfryer-elgin-quadfry-42l",
     name: "Fritadeira Elétrica Air Fryer Quad Fry Elgin 4,2L 1400W Preto",
     category: "Casa e eletrodomésticos",
     store: "Mercado Livre",
-    price: 145.00,
+    price: 179.90,
     oldPrice: 299.00,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_813389-MLA99520090726_112025-E.webp",
     emoji: "🍟",
@@ -719,14 +689,14 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-18T19:00:00-03:00",
-    checkedAt: "2026-10-10T18:23:00-03:00"
+    checkedAt: "2026-11-24T17:08:00-03:00"
   },
   {
     id: "mercadolivre-airfryer-mondial-afn50bi-5l",
     name: "Fritadeira Sem Óleo Air Fryer 5L Mondial 1900W AFN-50-BI",
     category: "Casa e eletrodomésticos",
     store: "Mercado Livre",
-    price: 331.63,
+    price: 299.00,
     oldPrice: 592.90,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_708441-MLA99523951400_122025-E.webp",
     emoji: "🍟",
@@ -734,22 +704,22 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-18T19:01:00-03:00",
-    checkedAt: "2026-10-10T18:23:00-03:00"
+    checkedAt: "2026-11-24T17:08:00-03:00"
   },
   {
     id: "mercadolivre-airfryer-electrolux-eaf71-7l",
     name: "Air Fryer Forno Electrolux 7L 1700W Digital EAF71 Cinza",
     category: "Casa e eletrodomésticos",
     store: "Mercado Livre",
-    price: 389.90,
-    oldPrice: 599.00,
+    price: 378.95,
+    oldPrice: 499.00,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_736907-MLA108656792797_032026-E.webp",
     emoji: "🍟",
     link: "https://meli.la/2xbvLG5",
     featured: false,
     isDemo: false,
     createdAt: "2026-09-18T19:02:00-03:00",
-    checkedAt: "2026-10-10T18:23:00-03:00"
+    checkedAt: "2026-11-24T17:08:00-03:00"
   },
   {
     id: "mercadolivre-fone-soundcore-p30i-anker",
@@ -1492,37 +1462,37 @@ window.ACHOU_PRODUCTS = [
     name: "Câmera Segurança Ip Externa Wifi A28 App Icsee À Prova D'Água",
     category: "Casa e eletrodomésticos",
     store: "Mercado Livre",
-    price: 126.99,
-    oldPrice: 350.00,
+    price: 105.30,
+    oldPrice: 300.00,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_927792-MLB91185357960_092025-AB--camera-seguranca-ip-externa-wifi-a28-app-icsee-a-prova-dagua.webp",
     emoji: "🏠",
     link: "https://meli.la/1qXi6Pe",
     featured: false,
     isDemo: false,
     createdAt: "2026-09-19T01:40:00-03:00",
-    checkedAt: "2026-10-15T19:04:00-03:00"
+    checkedAt: "2026-11-24T17:08:00-03:00"
   },
   {
     id: "mercadolivre-kit-10-potes-hermeticos-starhouse",
     name: "Kit 10 Potes Herméticos Vidro 640ml Starhouse Marmita Forno Micro-ondas Airfryer com 4 travas de super vedação",
     category: "Casa e eletrodomésticos",
     store: "Mercado Livre",
-    price: 87.90,
-    oldPrice: 189.99,
+    price: 96.02,
+    oldPrice: 129.90,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_942823-MLA113526261849_062026-AB.webp",
     emoji: "🏠",
     link: "https://meli.la/242HkYG",
     featured: false,
     isDemo: false,
     createdAt: "2026-09-19T01:43:00-03:00",
-    checkedAt: "2026-10-15T19:04:00-03:00"
+    checkedAt: "2026-11-24T17:08:00-03:00"
   },
   {
     id: "mercadolivre-jogo-toalhas-habitat-4pc",
     name: "Jogo Toalhas Banho Grossas Macias Algodão 4pç Absorventes",
     category: "Enxoval",
     store: "Mercado Livre",
-    price: 89.70,
+    price: 74.79,
     oldPrice: 139.90,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_785463-MLB89373964059_082025-AB-jogo-toalhas-banho-grossas-macias-algodo-4pc-absorventes.webp",
     emoji: "🛏️",
@@ -1530,14 +1500,14 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-19T01:44:00-03:00",
-    checkedAt: "2026-10-16T14:50:00-03:00"
+    checkedAt: "2026-11-24T17:08:00-03:00"
   },
   {
     id: "mercadolivre-cadeira-genebra-luvinco",
     name: "Cadeira Escritório Ergonômica Genebra B500 Luvinco Com Suporte Lombar Estofado Mesh",
     category: "Casa e eletrodomésticos",
     store: "Mercado Livre",
-    price: 497.90,
+    price: 549.90,
     oldPrice: 906.53,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_764756-MLA96570589252_112025-AB.webp",
     emoji: "🏠",
@@ -1545,29 +1515,29 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-19T01:45:00-03:00",
-    checkedAt: "2026-10-16T14:50:00-03:00"
+    checkedAt: "2026-11-24T17:08:00-03:00"
   },
   {
     id: "mercadolivre-parafusadeira-blacktools-tbkit23",
     name: "Parafusadeira Furadeira De Impacto The Black Tools Profissional Bateria 21V C/ Maleta + Kit Acessórios 145 Peças TBKIT23",
     category: "Ferramentas",
     store: "Mercado Livre",
-    price: 292.35,
-    oldPrice: 539.90,
+    price: 283.99,
+    oldPrice: 469.90,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_703129-MLA115339980826_082026-AB.webp",
     emoji: "🧰",
     link: "https://meli.la/11JSmSB",
     featured: false,
     isDemo: false,
     createdAt: "2026-09-19T01:48:00-03:00",
-    checkedAt: "2026-10-16T14:50:00-03:00"
+    checkedAt: "2026-11-24T17:08:00-03:00"
   },
   {
     id: "mercadolivre-bicicleta-ergometrica-sevenfit",
     name: "Bicicleta Ergométrica Bike Spinning 6kg Sensação Inércia Fitness Sevenfit Para Cardio E Musculação",
     category: "Fitness",
     store: "Mercado Livre",
-    price: 460.74,
+    price: 424.99,
     oldPrice: 1094.99,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_745785-MLA114987927277_072026-AB.webp",
     emoji: "🏋️",
@@ -1575,37 +1545,37 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-19T01:49:00-03:00",
-    checkedAt: "2026-10-16T14:50:00-03:00"
+    checkedAt: "2026-11-24T17:08:00-03:00"
   },
   {
     id: "mercadolivre-impressora-epson-ecotank-l3250",
     name: "Impressora Multifuncional Cor Epson EcoTank L3250",
     category: "Informática",
     store: "Mercado Livre",
-    price: 1075.62,
-    oldPrice: 1565.00,
+    price: 956.71,
+    oldPrice: 1817.84,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_827740-MLA99943629541_112025-AB.webp",
     emoji: "🖨️",
     link: "https://meli.la/1fWjT39",
     featured: false,
     isDemo: false,
     createdAt: "2026-09-19T01:50:00-03:00",
-    checkedAt: "2026-10-16T14:50:00-03:00"
+    checkedAt: "2026-11-24T17:08:00-03:00"
   },
   {
     id: "mercadolivre-notebook-acer-aspire-go-15-13420h",
     name: "Notebook Acer Aspire Go 15 i5-13420H, RAM 8GB, SSD 256GB, 15,6\" Full HD, Linux",
     category: "Notebooks",
     store: "Mercado Livre",
-    price: 3577.00,
-    oldPrice: 5299.00,
+    price: 3399.90,
+    oldPrice: 5551.46,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_846715-MLA109375570233_032026-AB.webp",
     emoji: "💻",
     link: "https://meli.la/1QK2qPC",
     featured: false,
     isDemo: false,
     createdAt: "2026-09-19T01:51:00-03:00",
-    checkedAt: "2026-10-16T14:50:00-03:00"
+    checkedAt: "2026-11-24T17:08:00-03:00"
   },
   {
     id: "mercadolivre-camiseta-insider-light",
@@ -1620,22 +1590,22 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-19T01:52:00-03:00",
-    checkedAt: "2026-10-16T14:50:00-03:00"
+    checkedAt: "2026-11-24T17:08:00-03:00"
   },
   {
     id: "mercadolivre-moto-g86-5g-256gb",
     name: "Celular Smartphone Motorola G86 5G 256GB 8GB+16GB RAM Boost Grafite",
     category: "Celulares",
     store: "Mercado Livre",
-    price: 1692.90,
-    oldPrice: 1881.00,
+    price: 1889.10,
+    oldPrice: 2999.00,
     image: "https://http2.mlstatic.com/D_Q_NP_2X_634166-MLA99936645603_112025-AB.webp",
     emoji: "📱",
     link: "https://meli.la/17tX7C8",
     featured: false,
     isDemo: false,
     createdAt: "2026-09-19T01:53:00-03:00",
-    checkedAt: "2026-10-16T14:50:00-03:00"
+    checkedAt: "2026-11-24T17:08:00-03:00"
   },
   {
     id: "mercadolivre-headset-olafvi-captain-780",
