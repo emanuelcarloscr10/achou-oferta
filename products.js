@@ -51,7 +51,7 @@ window.ACHOU_PRODUCTS = [
     name: "Smart TV TCL 50\" QLED 4K P7L Wi-Fi Bluetooth Google TV HDR10+ 60Hz 50P7L",
     category: "TVs",
     store: "Mercado Livre",
-    price: 2349.00,
+    price: 2099.99,
     oldPrice: 2999.00,
     image: "https://http2.mlstatic.com/D_NQ_NP_978669-MLA114751005026_082026-O.webp",
     emoji: "📺",
@@ -59,14 +59,14 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-20T14:31:00-03:00",
-    checkedAt: "2026-10-10T18:23:00-03:00"
+    checkedAt: "2026-11-25T19:00:00-03:00"
   },
   {
     id: "mercadolivre-notebook-acer-aspire-go-15-ag15-71p-54j6",
     name: "Notebook Acer Aspire Go 15 Core i5 8GB 256GB 15,6\" AG15-71P-54J6",
     category: "Notebooks",
     store: "Mercado Livre",
-    price: 3147.76,
+    price: 3167.91,
     oldPrice: 5299.00,
     image: "https://http2.mlstatic.com/D_NQ_NP_730219-MLB109376576427_032026-O-notebook-acer-aspire-go-15-i5-8gb-256gb-156---ag1571p54j6.webp",
     emoji: "💻",
@@ -74,44 +74,44 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-20T14:34:00-03:00",
-    checkedAt: "2026-10-10T18:23:00-03:00"
+    checkedAt: "2026-11-25T19:00:00-03:00"
   },
   {
     id: "mercadolivre-smart-tv-lg-qned73-50-4k-webos-25",
     name: "Smart TV 4K 50\" LG QNED73 Portal de Games Processador AI α7 Ger8 Google Cast Controle AI Magic WebOS 25",
     category: "TVs",
     store: "Mercado Livre",
-    price: 2200.93,
-    oldPrice: 3399.00,
+    price: 2798.99,
+    oldPrice: 3999.00,
     image: "https://http2.mlstatic.com/D_NQ_NP_736986-MLA110508533913_042026-O.webp",
     emoji: "📺",
     link: "https://meli.la/1j3QztJ",
     featured: false,
     isDemo: false,
     createdAt: "2026-09-20T14:35:00-03:00",
-    checkedAt: "2026-10-10T18:23:00-03:00"
+    checkedAt: "2026-11-25T19:00:00-03:00"
   },
   {
     id: "mercadolivre-notebook-lenovo-v15-g4-i7-13620h-16gb",
     name: "Notebook Lenovo V15 G4 Intel Core i7-13620H 16GB",
     category: "Notebooks",
     store: "Mercado Livre",
-    price: 6715.15,
-    oldPrice: 8721.55,
+    price: 7417.05,
+    oldPrice: 10163.63,
     image: "https://http2.mlstatic.com/D_NQ_NP_656109-CBT116316710236_092026-O-notebook-lenovo-v15-g4-intel-core-i713620h-16gb.webp",
     emoji: "💻",
     link: "https://meli.la/1ax8RDD",
     featured: false,
     isDemo: false,
     createdAt: "2026-09-20T14:36:00-03:00",
-    checkedAt: "2026-10-15T19:04:00-03:00"
+    checkedAt: "2026-11-25T19:00:00-03:00"
   },
   {
     id: "mercadolivre-smart-tv-aoc-50-roku-4k-50u7066",
     name: "Smart TV AOC 50\" Roku 4K UHD DLED Wi-Fi Dolby Audio 50U7066",
     category: "TVs",
     store: "Mercado Livre",
-    price: 2119.99,
+    price: 2499.00,
     oldPrice: 3899.00,
     image: "https://http2.mlstatic.com/D_NQ_NP_817676-MLA115644044060_092026-O-smart-tv-aoc-50-roku-4k-uhd-dled-wifi-dolby-audio-50u7066.webp",
     emoji: "📺",
@@ -119,7 +119,7 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-20T14:37:00-03:00",
-    checkedAt: "2026-10-10T18:23:00-03:00"
+    checkedAt: "2026-11-25T19:00:00-03:00"
   },
   {
     id: "mercadolivre-notebook-acer-aspire-5-i7-12650h-512gb",
@@ -1867,22 +1867,22 @@ window.ACHOU_PRODUCTS = [
     name: "Smart TV LG 43\" Full HD, Processador A5 Ger6, AI, Alexa e webOS 23 - 43LR6700PSA",
     category: "TVs",
     store: "Mercado Livre",
-    price: 1412.99,
-    oldPrice: 2409.99,
+    price: 1841.27,
+    oldPrice: 2299.00,
     image: "https://http2.mlstatic.com/D_NQ_NP_741946-MLA107875422514_032026-O.webp",
     emoji: "📺",
     link: "https://meli.la/17LUj4q",
     featured: false,
     isDemo: false,
     createdAt: "2026-09-20T12:40:00-03:00",
-    checkedAt: "2026-10-10T18:23:00-03:00"
+    checkedAt: "2026-11-25T19:00:00-03:00"
   },
   {
     id: "mercadolivre-notebook-acer-aspire-go-15-ag15-71p-5939",
     name: "Notebook Acer Aspire Go 15 AG15-71P-5939 - Intel Core i5-13420H 13ª Geração • 8GB DDR5 • 256GB SSD NVMe • Tela 15,6\u0027 • Windows 11 Home",
     category: "Notebooks",
     store: "Mercado Livre",
-    price: 3621.90,
+    price: 3720.61,
     oldPrice: 5717.80,
     image: "https://http2.mlstatic.com/D_NQ_NP_815916-MLA95648094482_102025-O.webp",
     emoji: "💻",
@@ -1890,29 +1890,14 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-20T12:41:00-03:00",
-    checkedAt: "2026-10-10T18:23:00-03:00"
-  },
-  {
-    id: "mercadolivre-tv-lg-pro-50un85c-4k",
-    name: "Smart TV PRO LG 50\u0027\u0027 4K Ultra HD AI 50UN85C",
-    category: "TVs",
-    store: "Mercado Livre",
-    price: 2274.00,
-    oldPrice: 4750.00,
-    image: "https://http2.mlstatic.com/D_NQ_NP_837435-MLA116824598567_082026-O.webp",
-    emoji: "📺",
-    link: "https://meli.la/1Sa3asS",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-09-20T12:42:00-03:00",
-    checkedAt: "2026-10-10T18:23:00-03:00"
+    checkedAt: "2026-11-25T19:00:00-03:00"
   },
   {
     id: "mercadolivre-notebook-asus-vivobook-go-15-e1504fa-nj825w",
     name: "Notebook ASUS Vivobook Go 15 E1504, AMD RYZEN 5 7520U 2,8 GHz, 8GB Ram, 256GB SSD, Windows 11 Home, Tela 15,6\" FHD, Black - E1504FA-NJ825W",
     category: "Notebooks",
     store: "Mercado Livre",
-    price: 3299.08,
+    price: 3159.00,
     oldPrice: 4699.00,
     image: "https://http2.mlstatic.com/D_NQ_NP_874571-MLA99984971829_112025-O.webp",
     emoji: "💻",
@@ -1920,29 +1905,29 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-20T12:43:00-03:00",
-    checkedAt: "2026-09-27T17:54:00-03:00"
+    checkedAt: "2026-11-25T19:00:00-03:00"
   },
   {
     id: "mercadolivre-notebook-acer-aspire-go-ag15-51p-39mu-i3",
     name: "Notebook Acer Aspire Go AG15-51P-39MU Intel Core i3-1305U 8GB 256ssd Windows 11 Home 15,3\u0027\u0027",
     category: "Notebooks",
     store: "Mercado Livre",
-    price: 3067.69,
-    oldPrice: 4299.00,
+    price: 3032.10,
+    oldPrice: 4427.14,
     image: "https://http2.mlstatic.com/D_NQ_NP_692920-MLA100061644521_122025-O.webp",
     emoji: "💻",
     link: "https://meli.la/2xjgCeT",
     featured: false,
     isDemo: false,
     createdAt: "2026-09-20T12:45:00-03:00",
-    checkedAt: "2026-09-27T17:54:00-03:00"
+    checkedAt: "2026-11-25T19:00:00-03:00"
   },
   {
     id: "mercadolivre-notebook-positivo-vision-c15m-celeron",
     name: "Notebook Positivo Vision C15M Intel Celeron N4500 Windows 11 Home 4GB RAM 128GB eMMC Tela 15\" Full HD IPS Antirreflexo - Minitela e Tecla Copilot - Cinza",
     category: "Notebooks",
     store: "Mercado Livre",
-    price: 1887.28,
+    price: 1899.05,
     oldPrice: 2699.00,
     image: "https://http2.mlstatic.com/D_NQ_NP_670150-MLA109213899052_042026-O.webp",
     emoji: "💻",
@@ -1950,14 +1935,14 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-20T12:47:00-03:00",
-    checkedAt: "2026-10-10T18:23:00-03:00"
+    checkedAt: "2026-11-25T19:00:00-03:00"
   },
   {
     id: "mercadolivre-notebook-lenovo-slim3-r7-linux",
     name: "Notebook Lenovo Slim3 R7 8gb 256GB Ssd 15.3 Fhd Linux",
     category: "Notebooks",
     store: "Mercado Livre",
-    price: 3257.10,
+    price: 3555.09,
     oldPrice: 4699.00,
     image: "https://http2.mlstatic.com/D_NQ_NP_967344-MLA98386191356_112025-O.webp",
     emoji: "💻",
@@ -1965,7 +1950,7 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-20T12:49:00-03:00",
-    checkedAt: "2026-10-10T18:23:00-03:00"
+    checkedAt: "2026-11-25T19:00:00-03:00"
   },
   {
     id: "mercadolivre-projetor-wanbo-x5-pro-com-decodificacao-4k-netflix-google-tv",
@@ -2227,7 +2212,7 @@ window.ACHOU_PRODUCTS = [
     name: "Conjunto Feminino Academia Top e Shorts Poliamida Demillus",
     category: "Fitness",
     store: "Mercado Livre",
-    price: 44.99,
+    price: 54.96,
     oldPrice: 149.99,
     image: "https://http2.mlstatic.com/D_NQ_NP_938071-MLB114435487146_082026-O-conjunto-feminino-academia-top-e-shorts-poliamida-demillus.webp",
     emoji: "🏋️",
@@ -2235,14 +2220,14 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-19T15:35:00-03:00",
-    checkedAt: "2026-10-10T18:23:00-03:00"
+    checkedAt: "2026-11-25T19:00:00-03:00"
   },
   {
     id: "mercadolivre-tapete-de-pilates-xpe-tapete-de-yoga-com-reducao-de-ruido",
     name: "Tapete de Pilates XPE Tapete de Yoga com Redução de Ruído",
     category: "Fitness",
     store: "Mercado Livre",
-    price: 93.12,
+    price: 109.85,
     oldPrice: 169.00,
     image: "https://http2.mlstatic.com/D_NQ_NP_991875-MLB110295107165_042026-O-tapete-de-pilates-xpe-tapete-de-yoga-com-reduco-de-ruido.webp",
     emoji: "🏋️",
@@ -2250,29 +2235,14 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-19T15:37:00-03:00",
-    checkedAt: "2026-10-17T13:05:00-03:00"
-  },
-  {
-    id: "mercadolivre-tapete-para-exercicios-resistente-confort-180cm-roxo-acte-sp",
-    name: "Tapete para Exercícios Resistente Confort 180cm Roxo Acte Sports Antiderrapante",
-    category: "Fitness",
-    store: "Mercado Livre",
-    price: 105.00,
-    oldPrice: 189.90,
-    image: "https://http2.mlstatic.com/D_NQ_NP_997435-MLU75305581222_032024-O.webp",
-    emoji: "🏋️",
-    link: "https://meli.la/2LKZnHD",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-09-19T15:38:00-03:00",
-    checkedAt: "2026-10-10T18:23:00-03:00"
+    checkedAt: "2026-11-25T19:00:00-03:00"
   },
   {
     id: "mercadolivre-calca-legging-poliamida-sem-costura-benevola-leg-confortavel",
     name: "Calça Legging Poliamida Sem Costura Benévola Leg Confortável",
     category: "Fitness",
     store: "Mercado Livre",
-    price: 71.09,
+    price: 78.99,
     oldPrice: 259.99,
     image: "https://http2.mlstatic.com/D_NQ_NP_813874-MLB112499025488_062026-O-calca-legging-poliamida-sem-costura-benevola-leg-confortavel.webp",
     emoji: "🏋️",
@@ -2280,22 +2250,7 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-19T15:39:00-03:00",
-    checkedAt: "2026-10-17T13:05:00-03:00"
-  },
-  {
-    id: "mercadolivre-webcam-wci1080p-full-hd-60-fps-intelbras",
-    name: "Webcam WCI1080P Full HD 60 FPS Intelbras",
-    category: "Informática",
-    store: "Mercado Livre",
-    price: 226.10,
-    oldPrice: 420.00,
-    image: "https://http2.mlstatic.com/D_NQ_NP_890587-MLA99850901199_112025-O.webp",
-    emoji: "🖥️",
-    link: "https://meli.la/19Sm2Fd",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-09-19T15:40:00-03:00",
-    checkedAt: "2026-10-10T18:23:00-03:00"
+    checkedAt: "2026-11-25T19:00:00-03:00"
   },
   {
     id: "mercadolivre-webcam-camera-full-hd-1080p-zoom-360-videoconferencia-usb-co",
@@ -2303,14 +2258,14 @@ window.ACHOU_PRODUCTS = [
     category: "Informática",
     store: "Mercado Livre",
     price: 36.98,
-    oldPrice: 78.00,
+    oldPrice: 78.98,
     image: "https://http2.mlstatic.com/D_NQ_NP_807092-MLA100966388363_122025-O.webp",
     emoji: "🖥️",
     link: "https://meli.la/1yYhWXX",
     featured: false,
     isDemo: false,
     createdAt: "2026-09-19T15:41:00-03:00",
-    checkedAt: "2026-10-10T18:23:00-03:00"
+    checkedAt: "2026-11-25T19:00:00-03:00"
   },
   {
     id: "mercadolivre-smartwatch-haylou-solar-ultra-ls23-16-bluetooth",
