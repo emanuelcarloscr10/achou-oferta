@@ -1717,7 +1717,7 @@ window.ACHOU_PRODUCTS = [
     name: "Mochila Para Notebook 17 Polegadas Masculina 50L Yorepek",
     category: "Acessórios",
     store: "Mercado Livre",
-    price: 129.00,
+    price: 124.00,
     oldPrice: 300.00,
     image: "https://http2.mlstatic.com/D_NQ_NP_960903-MLA81617885100_012025-O.webp",
     emoji: "🎒",
@@ -1725,7 +1725,7 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-19T02:03:00-03:00",
-    checkedAt: "2026-10-16T14:50:00-03:00"
+    checkedAt: "2026-11-25T07:02:00-03:00"
   },
   {
     id: "mercadolivre-perfume-kuf-moneygold",
@@ -1972,7 +1972,7 @@ window.ACHOU_PRODUCTS = [
     name: "Projetor Wanbo X5 Pro com Decodificação 4K Netflix Google TV",
     category: "Eletrônicos",
     store: "Mercado Livre",
-    price: 2699.00,
+    price: 2474.67,
     oldPrice: 4759.00,
     image: "https://http2.mlstatic.com/D_NQ_NP_711557-MLB113941903841_062026-O-projetor-wanbo-x5-pro-c-decodificacao-4k-netflix-google-tv.webp",
     emoji: "🎧",
@@ -1980,14 +1980,14 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-19T15:13:00-03:00",
-    checkedAt: "2026-10-10T18:23:00-03:00"
+    checkedAt: "2026-11-25T07:02:00-03:00"
   },
   {
     id: "mercadolivre-projetor-portatil-4k-hd-android-11-0-smart-wifi-5g-bluetooth",
     name: "Projetor Portátil 4K HD Android 11.0 Smart Wifi 5G Bluetooth",
     category: "Eletrônicos",
     store: "Mercado Livre",
-    price: 181.00,
+    price: 165.51,
     oldPrice: 349.90,
     image: "https://http2.mlstatic.com/D_NQ_NP_828936-MLB88748640584_082025-O-projetor-portatil-4k-hd-android-110-smart-wifi-5g-bluetooth.webp",
     emoji: "🎧",
@@ -1995,14 +1995,14 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-19T15:14:00-03:00",
-    checkedAt: "2026-10-10T18:23:00-03:00"
+    checkedAt: "2026-11-25T07:02:00-03:00"
   },
   {
     id: "mercadolivre-fone-de-ouvido-bluetooth-soundcore-q20i-da-anker-anc-hibrido",
     name: "Fone de Ouvido Bluetooth Soundcore Q20i da Anker ANC Híbrido 60H Preto",
     category: "Eletrônicos",
     store: "Mercado Livre",
-    price: 283.10,
+    price: 265.05,
     oldPrice: 519.00,
     image: "https://http2.mlstatic.com/D_NQ_NP_964301-MLA99525728742_122025-O.webp",
     emoji: "🎧",
@@ -2010,14 +2010,14 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-19T15:15:00-03:00",
-    checkedAt: "2026-10-10T18:23:00-03:00"
+    checkedAt: "2026-11-25T07:02:00-03:00"
   },
   {
     id: "mercadolivre-monitor-gamer-aoc-21-5-led-full-hd-va-hdmi-vga-vesa-120hz",
     name: "Monitor Gamer AOC 21,5\" LED Full HD VA HDMI VGA VESA 120Hz",
     category: "Informática",
     store: "Mercado Livre",
-    price: 444.90,
+    price: 469.00,
     oldPrice: 849.90,
     image: "https://http2.mlstatic.com/D_NQ_NP_973025-MLA84683838064_052025-O-monitor-gamer-aoc-215-led-full-hd-va-hdmi--vga-vesa--120hz.webp",
     emoji: "🖥️",
@@ -2025,37 +2025,22 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-19T15:18:00-03:00",
-    checkedAt: "2026-10-10T18:23:00-03:00"
+    checkedAt: "2026-11-25T07:02:00-03:00"
   },
   {
     id: "mercadolivre-tablet-lenovo-tab-10-1-wifi-5-64gb-4gb-ram-android-14-cinza",
     name: "Tablet Lenovo Tab 10.1\" Wifi 5 64GB 4GB RAM Android 14 Cinza",
     category: "Informática",
     store: "Mercado Livre",
-    price: 995.78,
-    oldPrice: 1249.00,
+    price: 886.41,
+    oldPrice: 1784.28,
     image: "https://http2.mlstatic.com/D_NQ_NP_684905-MLA106055190360_022026-O.webp",
     emoji: "🖥️",
     link: "https://meli.la/2sraPEL",
     featured: false,
     isDemo: false,
     createdAt: "2026-09-19T15:19:00-03:00",
-    checkedAt: "2026-10-10T18:23:00-03:00"
-  },
-  {
-    id: "mercadolivre-teclado-gamer-mecanico-hyperx-alloy-origins-core-rgb-switch",
-    name: "Teclado Gamer Mecânico HyperX Alloy Origins Core RGB Switch Blue ABNT2",
-    category: "Informática",
-    store: "Mercado Livre",
-    price: 492.00,
-    oldPrice: 893.87,
-    image: "https://http2.mlstatic.com/D_NQ_NP_662998-MLA99590652326_122025-O.webp",
-    emoji: "🖥️",
-    link: "https://meli.la/16r4vUr",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-09-19T15:20:00-03:00",
-    checkedAt: "2026-10-10T18:23:00-03:00"
+    checkedAt: "2026-11-25T07:02:00-03:00"
   },
   {
     id: "mercadolivre-bolsa-feminina-baguete-espacosa-de-ombro-estilosa-casual",
@@ -2070,7 +2055,7 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-19T15:22:00-03:00",
-    checkedAt: "2026-10-16T20:16:00-03:00"
+    checkedAt: "2026-11-25T07:02:00-03:00"
   },
   {
     id: "mercadolivre-bolsa-tote-feminina-acolchoada-preta-leve-dia-a-dia-casual",
@@ -2085,7 +2070,7 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-19T15:23:00-03:00",
-    checkedAt: "2026-10-16T20:16:00-03:00"
+    checkedAt: "2026-11-25T07:02:00-03:00"
   },
   {
     id: "mercadolivre-bolsa-samariana-de-ombro-baguete-sintetica-feminina",
@@ -2100,14 +2085,14 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-19T15:24:00-03:00",
-    checkedAt: "2026-10-16T20:16:00-03:00"
+    checkedAt: "2026-11-25T07:02:00-03:00"
   },
   {
     id: "mercadolivre-bolsa-sacola-grande-transversal-media-kit-com-2-pecas",
     name: "Bolsa Sacola Grande + Transversal Média Kit com 2 Peças",
     category: "Acessórios",
     store: "Mercado Livre",
-    price: 77.59,
+    price: 74.69,
     oldPrice: 149.99,
     image: "https://http2.mlstatic.com/D_NQ_NP_612486-MLB106402986935_022026-O-bolsa-sacola-grande--transversal-media-kit-com-2-pecas.webp",
     emoji: "👜",
@@ -2115,7 +2100,7 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-19T15:25:00-03:00",
-    checkedAt: "2026-10-10T18:23:00-03:00"
+    checkedAt: "2026-11-25T07:02:00-03:00"
   },
   {
     id: "mercadolivre-romantic-crown-bolsa-de-mao-feminina-de-alta-qualidade",
@@ -2130,7 +2115,7 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-19T15:26:00-03:00",
-    checkedAt: "2026-10-10T18:23:00-03:00"
+    checkedAt: "2026-11-25T07:02:00-03:00"
   },
   {
     id: "mercadolivre-oculos-de-sol-uv400-oval-feminino-verona-tortoise-giorno",
@@ -2152,7 +2137,7 @@ window.ACHOU_PRODUCTS = [
     name: "Óculos de Sol Retangular Ibiza Moderno Elegante Acetato UV400",
     category: "Acessórios",
     store: "Mercado Livre",
-    price: 73.90,
+    price: 72.00,
     oldPrice: 183.42,
     image: "https://http2.mlstatic.com/D_NQ_NP_892930-MLB89964340678_082025-O-oculos-de-sol-retangular-ibiza-moderno-elegante-acetat-uv400.webp",
     emoji: "🕶️",
@@ -2160,7 +2145,7 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-19T15:28:00-03:00",
-    checkedAt: "2026-10-16T20:16:00-03:00"
+    checkedAt: "2026-11-25T07:02:00-03:00"
   },
   {
     id: "mercadolivre-oculos-de-sol-feminino-viale-original-quadrado-luxo",
@@ -2175,7 +2160,7 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-19T15:29:00-03:00",
-    checkedAt: "2026-10-16T20:16:00-03:00"
+    checkedAt: "2026-11-25T07:02:00-03:00"
   },
   {
     id: "mercadolivre-conjunto-fitness-academia-feminino-zero-transparencia-treino",
@@ -2190,14 +2175,14 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-19T15:31:00-03:00",
-    checkedAt: "2026-10-17T13:05:00-03:00"
+    checkedAt: "2026-11-25T07:02:00-03:00"
   },
   {
     id: "mercadolivre-conjunto-academia-feminino-calca-legging-cropped-sem-bojo",
     name: "Conjunto Academia Feminino Calça Legging Cropped Sem Bojo",
     category: "Fitness",
     store: "Mercado Livre",
-    price: 57.95,
+    price: 61.00,
     oldPrice: 129.90,
     image: "https://http2.mlstatic.com/D_NQ_NP_715241-MLB97541476373_112025-O-conjunto-academia-feminino-calca-legging-cropped-sem-bojo.webp",
     emoji: "🏋️",
@@ -2205,14 +2190,14 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-19T15:32:00-03:00",
-    checkedAt: "2026-10-17T13:05:00-03:00"
+    checkedAt: "2026-11-25T07:02:00-03:00"
   },
   {
     id: "mercadolivre-conjunto-legging-e-top-fitness-cintura-alta-roupa-academia",
     name: "Conjunto Legging e Top Fitness Cintura Alta Roupa Academia",
     category: "Fitness",
     store: "Mercado Livre",
-    price: 69.99,
+    price: 64.00,
     oldPrice: 139.99,
     image: "https://http2.mlstatic.com/D_NQ_NP_805786-MLB102827535889_122025-O-conjunto-legging-e-top-fitness-cintura-alta-roupa-academia.webp",
     emoji: "🏋️",
@@ -2220,14 +2205,14 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-19T15:33:00-03:00",
-    checkedAt: "2026-10-10T18:23:00-03:00"
+    checkedAt: "2026-11-25T07:02:00-03:00"
   },
   {
     id: "mercadolivre-kit-2-conjunto-cropped-legging-fitness-academia-biop",
     name: "Kit 2 Conjunto Cropped Legging Fitness Academia Biop",
     category: "Fitness",
     store: "Mercado Livre",
-    price: 174.42,
+    price: 179.99,
     oldPrice: 399.90,
     image: "https://http2.mlstatic.com/D_NQ_NP_665236-MLB89216804337_082025-O-kit-2-conjunto-cropped-legging-fitness-academia-biop.webp",
     emoji: "🏋️",
@@ -2235,7 +2220,7 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-19T15:34:00-03:00",
-    checkedAt: "2026-10-17T13:05:00-03:00"
+    checkedAt: "2026-11-25T07:02:00-03:00"
   },
   {
     id: "mercadolivre-conjunto-feminino-academia-top-e-shorts-poliamida-demillus",
