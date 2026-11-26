@@ -227,5 +227,15 @@
     "validUntil": "2026-11-25",
     "publishedAt": "2026-11-25T17:14:00-03:00",
     "note": "Cupom de categoria Tecnologia (R$300 OFF, compra min. R$2.699, valido somente em 25.11, enquanto durarem os estoques, em ate 90% da categoria), postado no canal Afiliados e Criadores Mercado Livre Brasil em 25/11 13:00. Link bit.ly/4tiuQ9m resolvido via curl para www.mercadolivre.com.br/black-friday; publicado com esse link oficial sem parametros de rastreio. Confirmado publicado no canal Achou Oferta - Promocoes as 17:14 (Telegram Web K, mid inteiro 4295019172, conferido apos reload)."
+  },
+  {
+      "code": "SUPERPROMO35",
+      "store": "Mercado Livre",
+      "category": "Cupons gerais",
+      "type": "coupon",
+      "discountLabel": "35% OFF",
+      "validUntil": "2026-12-23",
+      "publishedAt": "2026-11-26T11:45:00-03:00",
+      "note": "Cupom generico (35% OFF, compra min. R$1, desconto max. R$500, valido ate 23.12, enquanto durarem os estoques, em produtos elegiveis), postado no canal Afiliados e Criadores Mercado Livre Brasil em 26/11 10:15. Link bit.ly/4APacjA resolvido via curl para lista.mercadolivre.com.br/_Container_aff-list-7; publicado com esse link oficial sem parametros de rastreio. Confirmado no canal Achou Oferta - Promocoes pela lista de chats sincronizada apos reload (Telegram Web A, ultima mensagem 11:45 \"CUPOM ATIVO Cupons gerais 35% OFF (desconto max. ...\"); a bolha completa nao pode ser relida porque a sessao do Telegram Web foi deslogada logo em seguida."
   }
 ]
