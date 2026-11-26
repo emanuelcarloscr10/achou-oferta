@@ -126,7 +126,7 @@ window.ACHOU_PRODUCTS = [
     name: "Notebook Acer Aspire 5 15.6\" Full HD Core i7-12650H 8GB 512GB NVMe",
     category: "Notebooks",
     store: "Mercado Livre",
-    price: 5411.73,
+    price: 5289.35,
     oldPrice: 6199.00,
     image: "https://http2.mlstatic.com/D_NQ_NP_701945-MLB89220401072_082025-O-notebook-acer-aspire-5-156-fhd-i712650h-512gb-nvme-8gb.webp",
     emoji: "💻",
@@ -134,7 +134,7 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-20T14:38:00-03:00",
-    checkedAt: "2026-10-10T18:23:00-03:00"
+    checkedAt: "2026-11-26T11:52:51-03:00"
   },
   {
     id: "mercadolivre-moto-g67-5g-128gb",
@@ -756,7 +756,7 @@ window.ACHOU_PRODUCTS = [
     name: "Smart TV LG UHD AI UA75 50\" HDR10 Pro Processador α7 AI Ger8 webOS 25",
     category: "TVs",
     store: "Mercado Livre",
-    price: 2613.52,
+    price: 2399.90,
     oldPrice: 3500.00,
     image: "https://http2.mlstatic.com/D_NQ_NP_986921-MLA106908213424_022026-O-smart-tv-lg-uhd-ai-ua75-50-hdr10-pro-7-ai-ger8-webos-25.webp",
     emoji: "📺",
@@ -764,29 +764,14 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-20T16:26:24-03:00",
-    checkedAt: "2026-10-10T18:23:00-03:00"
-  },
-  {
-    id: "mercadolivre-smart-tv-55-4k-crystal-lh55bethvggxzd",
-    name: "Smart TV 55\" 4K Crystal LH55BETHVGGXZD",
-    category: "TVs",
-    store: "Mercado Livre",
-    price: 2649.00,
-    oldPrice: 3999.00,
-    image: "https://http2.mlstatic.com/D_NQ_NP_951305-MLB109618750599_032026-O-smart-tv-55--4k-crystal-lh55bethvggxzd.webp",
-    emoji: "📺",
-    link: "https://meli.la/1z1czNh",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-09-20T16:30:24-03:00",
-    checkedAt: "2026-10-10T18:23:00-03:00"
+    checkedAt: "2026-11-26T11:52:51-03:00"
   },
   {
     id: "mercadolivre-notebook-lenovo-ideapad-slim-3-83ns0002br",
     name: "Notebook Lenovo Intel i5 IdeaPad Slim 3 Tela 15.3 83NS0002BR",
     category: "Notebooks",
     store: "Mercado Livre",
-    price: 4374.59,
+    price: 4599.90,
     oldPrice: 6299.00,
     image: "https://http2.mlstatic.com/D_NQ_NP_721945-MLA85788494302_062025-O-notebook-lenovo-intel-i5-ideapad-slim-3-tela-153-83ns0002br.webp",
     emoji: "💻",
@@ -794,29 +779,29 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-20T16:33:24-03:00",
-    checkedAt: "2026-10-10T18:23:00-03:00"
+    checkedAt: "2026-11-26T11:52:51-03:00"
   },
   {
     id: "mercadolivre-notebook-gamer-acer-nitro-i5-rtx4050",
     name: "Notebook Gamer Acer Nitro Core i5 RTX 4050 512GB 8GB Windows 11 15.6\"",
     category: "Notebooks",
     store: "Mercado Livre",
-    price: 5699.00,
-    oldPrice: 7511.95,
+    price: 5559.00,
+    oldPrice: 7799.00,
     image: "https://http2.mlstatic.com/D_NQ_NP_709911-MLB110299005238_052026-O-notebook-gamer-acer-nitro-ci5-rtx4050-512gb-8gb-w11-156.webp",
     emoji: "💻",
     link: "https://meli.la/2FycJuT",
     featured: false,
     isDemo: false,
     createdAt: "2026-09-20T16:34:24-03:00",
-    checkedAt: "2026-10-10T18:23:00-03:00"
+    checkedAt: "2026-11-26T11:52:51-03:00"
   },
   {
     id: "mercadolivre-notebook-gamer-acer-v15-i5-rtx4050",
     name: "Notebook Gamer Acer V15 Core i5 RTX 4050 512GB 8GB Windows 11",
     category: "Notebooks",
     store: "Mercado Livre",
-    price: 5879.00,
+    price: 5499.00,
     oldPrice: 7999.00,
     image: "https://http2.mlstatic.com/D_NQ_NP_671991-MLB109933142377_042026-O-notebook-gamer-acer-v15-ci5-rtx4050-512gb-8gb-w-11ubook.webp",
     emoji: "💻",
@@ -824,22 +809,7 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-20T16:35:24-03:00",
-    checkedAt: "2026-10-10T18:23:00-03:00"
-  },
-  {
-    id: "mercadolivre-notebook-lenovo-ideapad-slim-3i-i7-13620h",
-    name: "Notebook Lenovo IdeaPad Slim 3i i7-13620H 8GB 512GB SSD Windows 11",
-    category: "Notebooks",
-    store: "Mercado Livre",
-    price: 4699.00,
-    oldPrice: 5999.00,
-    image: "https://http2.mlstatic.com/D_NQ_NP_608427-MLA99938104121_112025-O-notebook-lenovo-ideapad-slim-3i-i713620h-8gb-512gb-ssd-w11.webp",
-    emoji: "💻",
-    link: "https://meli.la/19FQsuq",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-09-20T16:36:24-03:00",
-    checkedAt: "2026-10-10T18:23:00-03:00"
+    checkedAt: "2026-11-26T11:52:51-03:00"
   },
   {
     id: "mercadolivre-suporte-tv-elg-articulado-26-65",
@@ -2268,56 +2238,41 @@ window.ACHOU_PRODUCTS = [
     checkedAt: "2026-11-25T19:00:00-03:00"
   },
   {
-    id: "mercadolivre-smartwatch-haylou-solar-ultra-ls23-16-bluetooth",
-    name: "Smartwatch Haylou Solar Ultra LS23 Solar Ultra 1.6 chamadas bluetooth cor preto",
-    category: "Smartwatch",
-    store: "Mercado Livre",
-    price: 324.90,
-    oldPrice: 361.00,
-    image: "https://http2.mlstatic.com/D_NQ_NP_983980-MLA99937063901_112025-O.webp",
-    emoji: "⌚",
-    link: "https://meli.la/14h9S1m",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-09-21T18:50:00-03:00",
-    checkedAt: "2026-10-10T18:23:00-03:00"
-  },
-  {
     id: "mercadolivre-smartwatch-samsung-galaxy-watch8-lte-44mm-grafite",
     name: "Smartwatch Samsung Galaxy Watch8 LTE de 44mm com Galaxy AI, Grafite",
     category: "Smartwatch",
     store: "Mercado Livre",
-    price: 1709.10,
-    oldPrice: 3099.00,
+    price: 1692.00,
+    oldPrice: 4900.00,
     image: "https://http2.mlstatic.com/D_NQ_NP_787900-MLA111483722208_052026-O.webp",
     emoji: "⌚",
     link: "https://meli.la/1ZkMuXb",
     featured: false,
     isDemo: false,
     createdAt: "2026-09-21T18:51:00-03:00",
-    checkedAt: "2026-10-17T13:05:00-03:00"
+    checkedAt: "2026-11-26T11:52:51-03:00"
   },
   {
     id: "mercadolivre-samsung-galaxy-watch8-lte-40mm-prata",
     name: "Samsung Galaxy Watch8 Smartwatch 40mm Lte, Galaxy Ai Caixa Prata Pulseira Prata Bisel Prata",
     category: "Smartwatch",
     store: "Mercado Livre",
-    price: 1330.00,
-    oldPrice: 1900.00,
+    price: 1499.00,
+    oldPrice: 2499.00,
     image: "https://http2.mlstatic.com/D_NQ_NP_979475-MLA93401239999_092025-O.webp",
     emoji: "⌚",
     link: "https://meli.la/1bZiFXf",
     featured: false,
     isDemo: false,
     createdAt: "2026-09-21T18:52:00-03:00",
-    checkedAt: "2026-10-17T13:05:00-03:00"
+    checkedAt: "2026-11-26T11:52:51-03:00"
   },
   {
     id: "mercadolivre-smartphone-oppo-a6t-128gb-12gb-ram-violeta",
     name: "Smartphone OPPO A6t 128GB 12GB RAM (4GB + 8GB RAM Virtual) Bateria Gigante 6500 mAh Câmera AI Violeta",
     category: "Celulares",
     store: "Mercado Livre",
-    price: 858.10,
+    price: 719.10,
     oldPrice: 1299.00,
     image: "https://http2.mlstatic.com/D_NQ_NP_606528-MLA113734671240_072026-O.webp",
     emoji: "📱",
@@ -2325,44 +2280,29 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-21T18:53:00-03:00",
-    checkedAt: "2026-10-17T13:05:00-03:00"
+    checkedAt: "2026-11-26T11:52:51-03:00"
   },
   {
     id: "mercadolivre-smartphone-motorola-moto-g06-256gb-12gb-bege",
     name: "Smartphone Motorola Moto G06 - 256gb 12gb (4gb Ram + 8gb Ram Boost), e Camera 50mp Com Ai Bateria De 5200 Mah Tela 6.9 - Bege",
     category: "Celulares",
     store: "Mercado Livre",
-    price: 922.68,
-    oldPrice: 1349.00,
+    price: 1079.00,
+    oldPrice: 1999.00,
     image: "https://http2.mlstatic.com/D_NQ_NP_793349-MLA91806774304_092025-O.webp",
     emoji: "📱",
     link: "https://meli.la/2t9z4Kg",
     featured: false,
     isDemo: false,
     createdAt: "2026-09-21T18:54:00-03:00",
-    checkedAt: "2026-10-17T13:05:00-03:00"
-  },
-  {
-    id: "mercadolivre-smartphone-motorola-moto-g56-5g-256gb-cinza",
-    name: "Smartphone Motorola Moto G56 5g - 256gb 8gb Ram+8gb Ram Boost, Camera 50mp Sony Lytia 600 Ultrarresistencia Militar e Ip68 + Ip69 - Cinza",
-    category: "Celulares",
-    store: "Mercado Livre",
-    price: 1403.98,
-    oldPrice: 2369.00,
-    image: "https://http2.mlstatic.com/D_NQ_NP_748002-MLA104773303805_012026-O.webp",
-    emoji: "📱",
-    link: "https://meli.la/1TB8jNF",
-    featured: false,
-    isDemo: false,
-    createdAt: "2026-09-21T18:55:00-03:00",
-    checkedAt: "2026-10-17T13:05:00-03:00"
+    checkedAt: "2026-11-26T11:52:51-03:00"
   },
   {
     id: "mercadolivre-samsung-galaxy-watch-ultra-47mm-lte-titanio",
     name: "Samsung Galaxy Watch Ultra 47mm LTE Titanio cinza.",
     category: "Smartwatch",
     store: "Mercado Livre",
-    price: 2010.71,
+    price: 2264.00,
     oldPrice: 4999.00,
     image: "https://http2.mlstatic.com/D_NQ_NP_864096-MLA100014841609_122025-O.webp",
     emoji: "⌚",
@@ -2370,14 +2310,14 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-21T18:57:00-03:00",
-    checkedAt: "2026-10-17T13:05:00-03:00"
+    checkedAt: "2026-11-26T11:52:51-03:00"
   },
   {
     id: "mercadolivre-celular-samsung-galaxy-s26-5g-256gb",
     name: "Celular Samsung Galaxy S26 5G, 256GB, 12GB RAM, Galaxy AI, Câmera Tripla de 50+12+10, Tela de 6.3\" Preto",
     category: "Celulares",
     store: "Mercado Livre",
-    price: 4318.92,
+    price: 3998.70,
     oldPrice: 7799.00,
     image: "https://http2.mlstatic.com/D_NQ_NP_615210-MLA109050269404_032026-O.webp",
     emoji: "📱",
@@ -2385,14 +2325,14 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-21T18:58:00-03:00",
-    checkedAt: "2026-10-17T13:05:00-03:00"
+    checkedAt: "2026-11-26T11:52:51-03:00"
   },
   {
     id: "mercadolivre-celular-samsung-galaxy-s26-ultra-5g-256gb",
     name: "Celular Samsung Galaxy S26 Ultra 5G, 256GB, 12GB RAM, Câmera Quádrupla, Tela Grande de 6.9\" Preto",
     category: "Celulares",
     store: "Mercado Livre",
-    price: 6749.00,
+    price: 6299.10,
     oldPrice: 11999.00,
     image: "https://http2.mlstatic.com/D_NQ_NP_982767-MLA109132246068_042026-O.webp",
     emoji: "📱",
@@ -2400,14 +2340,14 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-21T18:59:00-03:00",
-    checkedAt: "2026-10-17T13:05:00-03:00"
+    checkedAt: "2026-11-26T11:52:51-03:00"
   },
   {
     id: "mercadolivre-brinquedo-interativo-bebe-teclado-apertar-estimulo-sensorial",
     name: "Brinquedo Interativo Bebê Teclado Apertar Estímulo Sensorial",
     category: "Brinquedos",
     store: "Mercado Livre",
-    price: 69.99,
+    price: 55.99,
     oldPrice: 119.99,
     image: "https://http2.mlstatic.com/D_NQ_NP_704204-MLB103356734219_012026-O-brinquedo-interativo-bebe-teclado-apertar-estimulo-sensorial.webp",
     emoji: "🧸",
@@ -2415,22 +2355,22 @@ window.ACHOU_PRODUCTS = [
     featured: false,
     isDemo: false,
     createdAt: "2026-09-23T09:01:00-03:00",
-    checkedAt: "2026-10-17T13:05:00-03:00"
+    checkedAt: "2026-11-26T11:52:51-03:00"
   },
   {
     id: "mercadolivre-fone-de-ouvido-bluetooth-jbl-tune-730bt-headphones-over-ear-preto",
     name: "Fone de Ouvido Bluetooth JBL Tune 730BT Headphones Over-ear Preto",
     category: "Eletrônicos",
     store: "Mercado Livre",
-    price: 257.38,
-    oldPrice: 285.98,
+    price: 252.00,
+    oldPrice: 359.00,
     image: "https://http2.mlstatic.com/D_NQ_NP_943163-MLA107461023513_022026-O.webp",
     emoji: "🎧",
     link: "https://meli.la/2f54Lka",
     featured: false,
     isDemo: false,
     createdAt: "2026-09-23T09:03:00-03:00",
-    checkedAt: "2026-10-17T13:05:00-03:00"
+    checkedAt: "2026-11-26T11:52:51-03:00"
   },
   {
     id: "shopee-blocos-de-montar-coloridos-infantil-48-pecas-maletinha-infantil",
